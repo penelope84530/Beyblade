@@ -1,0 +1,16 @@
+{
+  "name": "beyblade",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "annotate:bootstrap": "node scripts/bootstrap-community-annotations.mjs",
+    "scrape": "node scripts/scrape-catalog.mjs && node scripts/scrape-cx-forum.mjs && node scripts/scrape-tier-1117.mjs && node scripts/scrape-forum-board.mjs && node scripts/scrape-input-data.mjs",
+    "build": "npm run scrape && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^8.0.10"
+  }
+}

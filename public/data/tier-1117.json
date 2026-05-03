@@ -1,0 +1,480 @@
+{
+  "generatedAt": "2026-05-03T07:24:51.587Z",
+  "source": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1117",
+  "title": "【心得】【戰鬥陀螺X 新手入坑指南 2026版】(04/22新增梯度部分名稱) @戰鬥陀螺 系列 哈啦板 - 巴哈姆特",
+  "tiers": {
+    "T0": [
+      {
+        "tier": "T0",
+        "code": "",
+        "normalizedCode": "",
+        "name": "戰鬥盤-",
+        "raw": "戰鬥盤-   (這不用我說吧? 除非你要用鍋碗瓢盆來打)"
+      },
+      {
+        "tier": "T0",
+        "code": "CX-16",
+        "normalizedCode": "CX16",
+        "name": "入門戰鬥盤組",
+        "raw": "CX-16入門戰鬥盤組 (  戰鬥盤,  龍王閃擊異色,發射握把)"
+      },
+      {
+        "tier": "T0",
+        "code": "UX-04",
+        "normalizedCode": "UX04",
+        "name": "衝擊對戰組",
+        "raw": "UX-04衝擊對戰組   (  戰鬥盤    ,魔導神杖,蒼龍爆刃)   但太稀有了,不容易買僅供參考"
+      },
+      {
+        "tier": "T0",
+        "code": "UX-15",
+        "normalizedCode": "UX15",
+        "name": "鮫鯊狂麟",
+        "raw": "UX-15鮫鯊狂麟 (鯊魚上蓋,暴龍上蓋,1-70,3-60,L軸)"
+      },
+      {
+        "tier": "T0",
+        "code": "UX-03",
+        "normalizedCode": "UX03",
+        "name": "魔導神杖",
+        "raw": "UX-03魔導神杖 (神杖上蓋)"
+      },
+      {
+        "tier": "T0",
+        "code": "BX-23",
+        "normalizedCode": "BX23",
+        "name": "鳳凰飛翼",
+        "raw": "BX-23鳳凰飛翼 (鳳凰上蓋,9-60,右旋旋風發射器)"
+      },
+      {
+        "tier": "T0",
+        "code": "UX-17",
+        "normalizedCode": "UX17",
+        "name": "殞星龍騎士",
+        "raw": "UX-17殞星龍騎士 (隕星上蓋,3-70,J軸,左旋拉條發射器)"
+      },
+      {
+        "tier": "T0",
+        "code": "CX-13",
+        "normalizedCode": "CX13",
+        "name": "龍王閃擊",
+        "raw": "CX-13龍王閃擊 (龍王上蓋,1-50,I軸)"
+      },
+      {
+        "tier": "T0",
+        "code": "UX-11",
+        "normalizedCode": "UX11",
+        "name": "衝擊龍神",
+        "raw": "UX-11衝擊龍神 (9-60,LR軸,右旋旋風發射器)"
+      }
+    ],
+    "T1": [
+      {
+        "tier": "T1",
+        "code": "UX-08",
+        "normalizedCode": "UX08",
+        "name": "霜輝銀狼",
+        "raw": "UX-08霜輝銀狼 (銀狼上蓋,FB軸)"
+      },
+      {
+        "tier": "T1",
+        "code": "UX-10",
+        "normalizedCode": "UX10",
+        "name": "騎士圓甲改造套組",
+        "raw": "UX-10騎士圓甲改造套組 (騎士上蓋,暴龍上蓋, 7-70,1-60,P軸,B軸,R軸)"
+      },
+      {
+        "tier": "T1",
+        "code": "CX-11",
+        "normalizedCode": "CX11",
+        "name": "帝王威能組",
+        "raw": "CX-11帝王威能組 (帝王紋章,H環, 石頭人上蓋, 5-60, FB軸)"
+      },
+      {
+        "tier": "T1",
+        "code": "UX-02",
+        "normalizedCode": "UX02",
+        "name": "惡魔戰錘",
+        "raw": "UX-02惡魔戰錘 (H軸)"
+      },
+      {
+        "tier": "T1",
+        "code": "CX-07",
+        "normalizedCode": "CX07",
+        "name": "天馬爆擊",
+        "raw": "CX-07天馬爆擊 (爆擊上蓋)"
+      },
+      {
+        "tier": "T1",
+        "code": "UX-01",
+        "normalizedCode": "UX01",
+        "name": "蒼龍爆刃",
+        "raw": "UX-01蒼龍爆刃 (爆刃上蓋, 1-60)"
+      },
+      {
+        "tier": "T1",
+        "code": "UX-16",
+        "normalizedCode": "UX16",
+        "name": "時鐘幻象",
+        "raw": "UX-16時鐘幻象 (時鐘上蓋)"
+      },
+      {
+        "tier": "T1",
+        "code": "CX-14",
+        "normalizedCode": "CX14",
+        "name": "騎士堡壘",
+        "raw": "CX-14騎士堡壘 (騎士上蓋,8-70,UN軸)"
+      },
+      {
+        "tier": "T1",
+        "code": "CX-15",
+        "normalizedCode": "CX15",
+        "name": "邪神狂怒",
+        "raw": "CX-15邪神狂怒 (邪神上蓋,4-55,Y軸)"
+      }
+    ],
+    "T2": [
+      {
+        "tier": "T2",
+        "code": "UX-06",
+        "normalizedCode": "UX06",
+        "name": "雄獅巔峰",
+        "raw": "UX-06雄獅巔峰 (7-60)"
+      },
+      {
+        "tier": "T2",
+        "code": "UX-09",
+        "normalizedCode": "UX09",
+        "name": "武士星劍",
+        "raw": "UX-09武士星劍 (武士上蓋,L軸,  劍型發射器  )"
+      },
+      {
+        "tier": "T2",
+        "code": "CX-02",
+        "normalizedCode": "CX02",
+        "name": "魔導至尊",
+        "raw": "CX-02魔導至尊 (4-55,   LO軸  )  這包要搭配時鐘服用"
+      },
+      {
+        "tier": "T2",
+        "code": "UX-19",
+        "normalizedCode": "UX19",
+        "name": "子彈獅鷲",
+        "raw": "UX-19子彈獅鷲（  H軸  ）陀螺好玩有一定強度"
+      },
+      {
+        "tier": "T2",
+        "code": "BX-46",
+        "normalizedCode": "BX46",
+        "name": "無限盤對戰組",
+        "raw": "BX-46無限盤對戰組 (  無限盤,   9-60,7-70,R軸,T軸)"
+      },
+      {
+        "tier": "T2",
+        "code": "BX-35",
+        "normalizedCode": "BX35",
+        "name": "抽包組",
+        "raw": "BX-35抽包組 (  唯一神包! 綠魔導神杖上蓋,藍鳳凰上蓋,1-60,H軸,R軸,D軸  )"
+      },
+      {
+        "tier": "T2",
+        "code": "BX-31",
+        "normalizedCode": "BX31",
+        "name": "抽包組",
+        "raw": "BX-31抽包組 (  最緊黑1-60  )"
+      },
+      {
+        "tier": "T2",
+        "code": "UX-18",
+        "normalizedCode": "UX18",
+        "name": "抽包組",
+        "raw": "UX-18抽包組 (大小籤王木乃伊上蓋, 9-70,   LR軸  ,W軸)"
+      },
+      {
+        "tier": "T2",
+        "code": "CX-05",
+        "normalizedCode": "CX05",
+        "name": "抽包組",
+        "raw": "CX-05抽包組 (  K軸唯一指定  ,7-60)"
+      },
+      {
+        "tier": "T2",
+        "code": "CX-08",
+        "normalizedCode": "CX08",
+        "name": "抽包組",
+        "raw": "CX-08抽包組 (  W環  重點零件,  1-60  ,爆刃上蓋)"
+      },
+      {
+        "tier": "T2",
+        "code": "BX-48",
+        "normalizedCode": "BX48",
+        "name": "抽包組",
+        "raw": "BX-48抽包組 (黑蒼穹上蓋, 紅爆刃上蓋. 7-60,   最緊E軸  )"
+      },
+      {
+        "tier": "T2",
+        "code": "BX-00",
+        "normalizedCode": "BX00",
+        "name": "聯名組 \"終極蜘蛛人+綠惡魔\"",
+        "raw": "BX-00聯名組 \"終極蜘蛛人+綠惡魔\" (  1-60  )"
+      },
+      {
+        "tier": "T2",
+        "code": "BX-00",
+        "normalizedCode": "BX00",
+        "name": "聯名組 \"美國隊長+紅浩克\"",
+        "raw": "BX-00聯名組 \"美國隊長+紅浩克\" (  R軸  )"
+      }
+    ]
+  },
+  "entries": [
+    {
+      "tier": "T0",
+      "code": "",
+      "normalizedCode": "",
+      "name": "戰鬥盤-",
+      "raw": "戰鬥盤-   (這不用我說吧? 除非你要用鍋碗瓢盆來打)"
+    },
+    {
+      "tier": "T0",
+      "code": "CX-16",
+      "normalizedCode": "CX16",
+      "name": "入門戰鬥盤組",
+      "raw": "CX-16入門戰鬥盤組 (  戰鬥盤,  龍王閃擊異色,發射握把)"
+    },
+    {
+      "tier": "T0",
+      "code": "UX-04",
+      "normalizedCode": "UX04",
+      "name": "衝擊對戰組",
+      "raw": "UX-04衝擊對戰組   (  戰鬥盤    ,魔導神杖,蒼龍爆刃)   但太稀有了,不容易買僅供參考"
+    },
+    {
+      "tier": "T0",
+      "code": "UX-15",
+      "normalizedCode": "UX15",
+      "name": "鮫鯊狂麟",
+      "raw": "UX-15鮫鯊狂麟 (鯊魚上蓋,暴龍上蓋,1-70,3-60,L軸)"
+    },
+    {
+      "tier": "T0",
+      "code": "UX-03",
+      "normalizedCode": "UX03",
+      "name": "魔導神杖",
+      "raw": "UX-03魔導神杖 (神杖上蓋)"
+    },
+    {
+      "tier": "T0",
+      "code": "BX-23",
+      "normalizedCode": "BX23",
+      "name": "鳳凰飛翼",
+      "raw": "BX-23鳳凰飛翼 (鳳凰上蓋,9-60,右旋旋風發射器)"
+    },
+    {
+      "tier": "T0",
+      "code": "UX-17",
+      "normalizedCode": "UX17",
+      "name": "殞星龍騎士",
+      "raw": "UX-17殞星龍騎士 (隕星上蓋,3-70,J軸,左旋拉條發射器)"
+    },
+    {
+      "tier": "T0",
+      "code": "CX-13",
+      "normalizedCode": "CX13",
+      "name": "龍王閃擊",
+      "raw": "CX-13龍王閃擊 (龍王上蓋,1-50,I軸)"
+    },
+    {
+      "tier": "T0",
+      "code": "UX-11",
+      "normalizedCode": "UX11",
+      "name": "衝擊龍神",
+      "raw": "UX-11衝擊龍神 (9-60,LR軸,右旋旋風發射器)"
+    },
+    {
+      "tier": "T1",
+      "code": "UX-08",
+      "normalizedCode": "UX08",
+      "name": "霜輝銀狼",
+      "raw": "UX-08霜輝銀狼 (銀狼上蓋,FB軸)"
+    },
+    {
+      "tier": "T1",
+      "code": "UX-10",
+      "normalizedCode": "UX10",
+      "name": "騎士圓甲改造套組",
+      "raw": "UX-10騎士圓甲改造套組 (騎士上蓋,暴龍上蓋, 7-70,1-60,P軸,B軸,R軸)"
+    },
+    {
+      "tier": "T1",
+      "code": "CX-11",
+      "normalizedCode": "CX11",
+      "name": "帝王威能組",
+      "raw": "CX-11帝王威能組 (帝王紋章,H環, 石頭人上蓋, 5-60, FB軸)"
+    },
+    {
+      "tier": "T1",
+      "code": "UX-02",
+      "normalizedCode": "UX02",
+      "name": "惡魔戰錘",
+      "raw": "UX-02惡魔戰錘 (H軸)"
+    },
+    {
+      "tier": "T1",
+      "code": "CX-07",
+      "normalizedCode": "CX07",
+      "name": "天馬爆擊",
+      "raw": "CX-07天馬爆擊 (爆擊上蓋)"
+    },
+    {
+      "tier": "T1",
+      "code": "UX-01",
+      "normalizedCode": "UX01",
+      "name": "蒼龍爆刃",
+      "raw": "UX-01蒼龍爆刃 (爆刃上蓋, 1-60)"
+    },
+    {
+      "tier": "T1",
+      "code": "UX-16",
+      "normalizedCode": "UX16",
+      "name": "時鐘幻象",
+      "raw": "UX-16時鐘幻象 (時鐘上蓋)"
+    },
+    {
+      "tier": "T1",
+      "code": "CX-14",
+      "normalizedCode": "CX14",
+      "name": "騎士堡壘",
+      "raw": "CX-14騎士堡壘 (騎士上蓋,8-70,UN軸)"
+    },
+    {
+      "tier": "T1",
+      "code": "CX-15",
+      "normalizedCode": "CX15",
+      "name": "邪神狂怒",
+      "raw": "CX-15邪神狂怒 (邪神上蓋,4-55,Y軸)"
+    },
+    {
+      "tier": "T2",
+      "code": "UX-06",
+      "normalizedCode": "UX06",
+      "name": "雄獅巔峰",
+      "raw": "UX-06雄獅巔峰 (7-60)"
+    },
+    {
+      "tier": "T2",
+      "code": "UX-09",
+      "normalizedCode": "UX09",
+      "name": "武士星劍",
+      "raw": "UX-09武士星劍 (武士上蓋,L軸,  劍型發射器  )"
+    },
+    {
+      "tier": "T2",
+      "code": "CX-02",
+      "normalizedCode": "CX02",
+      "name": "魔導至尊",
+      "raw": "CX-02魔導至尊 (4-55,   LO軸  )  這包要搭配時鐘服用"
+    },
+    {
+      "tier": "T2",
+      "code": "UX-19",
+      "normalizedCode": "UX19",
+      "name": "子彈獅鷲",
+      "raw": "UX-19子彈獅鷲（  H軸  ）陀螺好玩有一定強度"
+    },
+    {
+      "tier": "T2",
+      "code": "BX-46",
+      "normalizedCode": "BX46",
+      "name": "無限盤對戰組",
+      "raw": "BX-46無限盤對戰組 (  無限盤,   9-60,7-70,R軸,T軸)"
+    },
+    {
+      "tier": "T2",
+      "code": "BX-35",
+      "normalizedCode": "BX35",
+      "name": "抽包組",
+      "raw": "BX-35抽包組 (  唯一神包! 綠魔導神杖上蓋,藍鳳凰上蓋,1-60,H軸,R軸,D軸  )"
+    },
+    {
+      "tier": "T2",
+      "code": "BX-31",
+      "normalizedCode": "BX31",
+      "name": "抽包組",
+      "raw": "BX-31抽包組 (  最緊黑1-60  )"
+    },
+    {
+      "tier": "T2",
+      "code": "UX-18",
+      "normalizedCode": "UX18",
+      "name": "抽包組",
+      "raw": "UX-18抽包組 (大小籤王木乃伊上蓋, 9-70,   LR軸  ,W軸)"
+    },
+    {
+      "tier": "T2",
+      "code": "CX-05",
+      "normalizedCode": "CX05",
+      "name": "抽包組",
+      "raw": "CX-05抽包組 (  K軸唯一指定  ,7-60)"
+    },
+    {
+      "tier": "T2",
+      "code": "CX-08",
+      "normalizedCode": "CX08",
+      "name": "抽包組",
+      "raw": "CX-08抽包組 (  W環  重點零件,  1-60  ,爆刃上蓋)"
+    },
+    {
+      "tier": "T2",
+      "code": "BX-48",
+      "normalizedCode": "BX48",
+      "name": "抽包組",
+      "raw": "BX-48抽包組 (黑蒼穹上蓋, 紅爆刃上蓋. 7-60,   最緊E軸  )"
+    },
+    {
+      "tier": "T2",
+      "code": "BX-00",
+      "normalizedCode": "BX00",
+      "name": "聯名組 \"終極蜘蛛人+綠惡魔\"",
+      "raw": "BX-00聯名組 \"終極蜘蛛人+綠惡魔\" (  1-60  )"
+    },
+    {
+      "tier": "T2",
+      "code": "BX-00",
+      "normalizedCode": "BX00",
+      "name": "聯名組 \"美國隊長+紅浩克\"",
+      "raw": "BX-00聯名組 \"美國隊長+紅浩克\" (  R軸  )"
+    }
+  ],
+  "tierMapByCode": {
+    "CX16": "T0",
+    "UX04": "T0",
+    "UX15": "T0",
+    "UX03": "T0",
+    "BX23": "T0",
+    "UX17": "T0",
+    "CX13": "T0",
+    "UX11": "T0",
+    "UX08": "T1",
+    "UX10": "T1",
+    "CX11": "T1",
+    "UX02": "T1",
+    "CX07": "T1",
+    "UX01": "T1",
+    "UX16": "T1",
+    "CX14": "T1",
+    "CX15": "T1",
+    "UX06": "T2",
+    "UX09": "T2",
+    "CX02": "T2",
+    "UX19": "T2",
+    "BX46": "T2",
+    "BX35": "T2",
+    "BX31": "T2",
+    "UX18": "T2",
+    "CX05": "T2",
+    "CX08": "T2",
+    "BX48": "T2",
+    "BX00": "T2"
+  }
+}

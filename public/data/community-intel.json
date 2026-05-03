@@ -1,0 +1,17 @@
+{
+  "generatedAt": "2026-05-03T00:00:00.000Z",
+  "sourceSummary": "使用者指定圖片：TierMaker T度圖",
+  "boards": [
+    {
+      "id": "bey-tier-tiermaker",
+      "title": "整體機體 T 度圖",
+      "source": "TierMaker 圖表",
+      "tierScale": ["T0", "T0.5", "T1", "T1.5", "T2", "T3", "T4"],
+      "image": "./community/beys-tier-tiermaker.jpg",
+      "highlights": [
+        "圖片顯示整體機體強度分布到 T4。",
+        "T0.5、T1.5 為介於整數階層的過渡段。"
+      ]
+    }
+  ]
+}
