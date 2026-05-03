@@ -299,6 +299,21 @@ const boot = async () => {
     bit: Object.fromEntries(asArray(data.parts?.bit).map((p) => [p.code, p])),
   }
 
+  const allPartIndex = new Map()
+  const indexPart = (part) => {
+    if (!part) return
+    const keys = [part.code, part.names?.eng, part.names?.chi, part.names?.jap]
+      .filter(Boolean)
+      .map((x) => normalized(x))
+      .filter(Boolean)
+    keys.forEach((key) => {
+      if (!allPartIndex.has(key)) allPartIndex.set(key, part)
+    })
+  }
+  ;['blade', 'bladeMainCX', 'ratchet', 'bit'].forEach((group) => {
+    Object.values(parts[group] || {}).forEach(indexPart)
+  })
+
   const catalog = asArray(data.catalog)
   const byVariantCode = new Map()
   const byBaseCode = new Map()
@@ -654,6 +669,7 @@ const boot = async () => {
     const communityBoards = asArray(communityData.boards)
     const communityGuides = asArray(communityData.recommendationGuides)
     const recommendedLoadouts = asArray(communityData.recommendedLoadouts)
+    const eliteSetups = asArray(communityData.eliteSetups)
     const tierByCode = tierData.tierMapByCode || {}
     const tierClassName = (tier) => (tier === 'T0' ? 'tier-t0' : tier === 'T1' ? 'tier-t1' : tier === 'T2' ? 'tier-t2' : 'tier-na')
     const resolveTier = (item) => {
@@ -693,6 +709,35 @@ const boot = async () => {
         bit,
         missing,
         owned: missing.length === 0,
+      }
+    })
+
+    const ownedCodeSet = new Set([...partLookup.blade.keys(), ...partLookup.ratchet.keys(), ...partLookup.bit.keys()])
+    const eliteCards = eliteSetups.map((setup) => {
+      const entries = asArray(setup.entries).map((entry) => {
+        const previews = asArray(entry.displayParts)
+          .map((partCode) => {
+            const code = String(partCode || '').trim()
+            const part = allPartIndex.get(normalized(code)) || null
+            return {
+              code,
+              image: part?.image || null,
+              part,
+            }
+          })
+          .filter((x) => x.code)
+          .slice(0, 6)
+        const missing = asArray(entry.coreParts).filter((code) => !ownedCodeSet.has(normalized(code)))
+        return {
+          ...entry,
+          previews,
+          missing,
+          owned: missing.length === 0,
+        }
+      })
+      return {
+        ...setup,
+        entries,
       }
     })
 
@@ -1017,6 +1062,58 @@ const boot = async () => {
                       })}
                     </ul>
                     ${entry.owned ? '<p class="collection-msg ok">可直接組裝這套核心配置。</p>' : `<p class="collection-msg warn">尚未擁有：${entry.missing.join('、')}</p>`}
+                  </article>
+                `,
+              )
+              .join('')}
+          </div>
+        </section>`
+            : ''
+        }
+
+        ${
+          eliteCards.length
+            ? `<section class="panel">
+          <h2>比賽大佬配置</h2>
+          <p class="formal">圖片 + 組成速查版。以你目前收藏比對，未湊齊的會標示為「尚未擁有」。</p>
+          <div class="elite-grid">
+            ${eliteCards
+              .map(
+                (setup, setupIdx) => `
+                  <article class="elite-card" style="--i:${setupIdx};">
+                    <h3>${setup.title || '-'}</h3>
+                    <p class="formal">來源：${setup.source || '-'}</p>
+                    <div class="elite-entry-grid">
+                      ${setup.entries
+                        .map(
+                          (entry, idx) => `
+                            <section class="elite-entry" style="--i:${idx};">
+                              <div class="row elite-entry-head">
+                                <h4>${entry.name || '-'}</h4>
+                                <span class="collection-status ${entry.owned ? 'owned' : 'missing'}">${entry.owned ? '已擁有' : '尚未擁有'}</span>
+                              </div>
+                              <p class="formal">${entry.composition || '-'}</p>
+                              <div class="elite-strip">
+                                ${entry.previews
+                                  .map(
+                                    (preview, pIdx) => `
+                                      <figure class="elite-token" style="--i:${pIdx};">
+                                        ${
+                                          preview.image
+                                            ? `<img src="${preview.image}" alt="${preview.code}" loading="lazy" onerror="this.replaceWith(Object.assign(document.createElement('span'),{className:'elite-fallback',textContent:'${preview.code}'}))" />`
+                                            : `<span class="elite-fallback">${preview.code}</span>`
+                                        }
+                                      </figure>
+                                    `,
+                                  )
+                                  .join('')}
+                              </div>
+                              ${entry.owned ? '<p class="collection-msg ok">你目前可直接嘗試這套比賽配置。</p>' : `<p class="collection-msg warn">尚未擁有：${entry.missing.join('、')}</p>`}
+                            </section>
+                          `,
+                        )
+                        .join('')}
+                    </div>
                   </article>
                 `,
               )
