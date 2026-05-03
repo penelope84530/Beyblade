@@ -632,6 +632,106 @@ button:hover,
   padding-left: 16px;
   color: #9bc0ef;
   font-size: 0.86rem;
+
+.guide-grid {
+  margin-top: 12px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 12px;
+}
+
+.guide-card {
+  border: 1px solid rgba(111, 168, 255, 0.3);
+  border-radius: 14px;
+  background: rgba(6, 20, 46, 0.78);
+  padding: 12px;
+  opacity: 0;
+  transform: translateY(10px);
+  animation: cardEnter 0.52s cubic-bezier(0.19, 1, 0.22, 1) forwards;
+  animation-delay: calc(var(--i, 0) * 58ms);
+}
+
+.guide-notes,
+.guide-group ul {
+  margin: 10px 0 0;
+  padding-left: 18px;
+  color: #c5ddff;
+}
+
+.guide-groups {
+  margin-top: 10px;
+  display: grid;
+  gap: 8px;
+}
+
+.guide-group {
+  border: 1px solid rgba(109, 172, 255, 0.22);
+  border-radius: 12px;
+  background: rgba(8, 23, 50, 0.68);
+  padding: 10px;
+}
+
+.guide-group h4 {
+  margin: 0;
+  font-size: 0.93rem;
+  color: #9fcbff;
+}
+
+.collection-grid {
+  margin-top: 12px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 12px;
+}
+
+.collection-card {
+  border: 1px solid rgba(111, 168, 255, 0.3);
+  border-radius: 14px;
+  background: rgba(6, 20, 46, 0.78);
+  padding: 12px;
+  opacity: 0;
+  transform: translateY(10px);
+  animation: cardEnter 0.52s cubic-bezier(0.19, 1, 0.22, 1) forwards;
+  animation-delay: calc(var(--i, 0) * 58ms);
+}
+
+.collection-head {
+  margin-top: 0;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.collection-status {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  padding: 2px 10px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  border: 1px solid transparent;
+}
+
+.collection-status.owned {
+  color: #ddfff6;
+  background: rgba(57, 214, 182, 0.22);
+  border-color: rgba(78, 227, 197, 0.55);
+}
+
+.collection-status.missing {
+  color: #ffe3ea;
+  background: rgba(255, 95, 130, 0.22);
+  border-color: rgba(255, 130, 160, 0.55);
+}
+
+.collection-msg {
+  margin: 10px 0 0;
+  font-size: 0.86rem;
+}
+
+.collection-msg.ok {
+  color: #8ff1df;
+}
 }
 
 .community-progress-grid {

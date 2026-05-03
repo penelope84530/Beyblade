@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-05-03T00:00:00.000Z",
-  "sourceSummary": "使用者指定圖片：TierMaker T度圖",
+  "sourceSummary": "使用者指定圖片：TierMaker T度圖 + 戰鬥陀螺 常見軸心 & Ratchet 整理表",
   "boards": [
     {
       "id": "bey-tier-tiermaker",
@@ -12,6 +12,153 @@
         "圖片顯示整體機體強度分布到 T4。",
         "T0.5、T1.5 為介於整數階層的過渡段。"
       ]
+    }
+  ],
+  "recommendationGuides": [
+    {
+      "id": "driver-ratchet-reference-20260503",
+      "title": "戰鬥陀螺 常見軸心 & Ratchet 整理表",
+      "source": "使用者提供圖片（2026-05-03）",
+      "notes": [
+        "以下內容為圖片重點整理，定位為實戰速查，不取代正式賽規。",
+        "同一零件在不同盤面、對手與發射習慣下仍會有體感差異。"
+      ],
+      "groups": [
+        {
+          "title": "常見軸心（高頻）",
+          "items": [
+            "LR（Low Rush）：低衝刺，泛用神軸，攻守兼備。",
+            "R（Rush）：攻擊主力，高擊飛能力。",
+            "L（Low）：低重心，平衡與持久常見。",
+            "LO（Low Orbit）：防禦與持久熱門。",
+            "FB（Flat Ball）：穩定，防禦與持久強勢。",
+            "H（High）：高重心持久向，防禦常見。"
+          ]
+        },
+        {
+          "title": "常見 Ratchet（最常用）",
+          "items": [
+            "1-60：使用最多，泛用性最強。",
+            "3-60：攻守兼備，穩定強勢。",
+            "9-60：持久熱門配置。",
+            "7-60：高度優勢，整體強度高。"
+          ]
+        },
+        {
+          "title": "常見 Ratchet（次常用 / 特定配置）",
+          "items": [
+            "次常用：1-70、7-70、3-70、5-70、9-70。",
+            "特定配置：4-55（時鐘幻象常見）、7-55、5-60、4-50。"
+          ]
+        },
+        {
+          "title": "實戰最常見組合",
+          "items": [
+            "攻擊主流：1-60 R、3-60 R、7-60 R、7-60 LR。",
+            "泛用神組：1-60 LR、3-60 LR、9-60 LR。",
+            "防禦 / 持久：1-60 LO、3-60 FB、9-60 FB、7-60 H。",
+            "版本熱門：4-55 LO、7-60 LR、1-70 LR。"
+          ]
+        },
+        {
+          "title": "收件優先順序建議",
+          "items": [
+            "第一優先（核心必收）：軸心 LR / R / LO / FB / H；Ratchet 1-60 / 3-60 / 9-60。",
+            "第二優先（強度補強）：軸心 UN / UF / K / E；Ratchet 7-60 / 1-70 / 7-70。",
+            "第三優先（版本特化）：軸心 W / J / T；Ratchet 4-55 / 7-55。"
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendedLoadouts": [
+    {
+      "id": "atk-1-60-r",
+      "name": "攻擊主流 A",
+      "category": "攻擊主流",
+      "ratchetCode": "1-60",
+      "bitCode": "R",
+      "note": "高泛用攻擊核心。"
+    },
+    {
+      "id": "atk-3-60-r",
+      "name": "攻擊主流 B",
+      "category": "攻擊主流",
+      "ratchetCode": "3-60",
+      "bitCode": "R",
+      "note": "攻守平衡的進攻配置。"
+    },
+    {
+      "id": "atk-7-60-r",
+      "name": "攻擊主流 C",
+      "category": "攻擊主流",
+      "ratchetCode": "7-60",
+      "bitCode": "R",
+      "note": "高度優勢搭配 Rush。"
+    },
+    {
+      "id": "atk-7-60-lr",
+      "name": "攻擊主流 D",
+      "category": "攻擊主流",
+      "ratchetCode": "7-60",
+      "bitCode": "LR",
+      "note": "高強度泛用攻擊版本。"
+    },
+    {
+      "id": "all-1-60-lr",
+      "name": "泛用神組 A",
+      "category": "泛用神組",
+      "ratchetCode": "1-60",
+      "bitCode": "LR",
+      "note": "比賽常見，泛用核心。"
+    },
+    {
+      "id": "all-3-60-lr",
+      "name": "泛用神組 B",
+      "category": "泛用神組",
+      "ratchetCode": "3-60",
+      "bitCode": "LR",
+      "note": "穩定泛用，對局面廣。"
+    },
+    {
+      "id": "all-9-60-lr",
+      "name": "泛用神組 C",
+      "category": "泛用神組",
+      "ratchetCode": "9-60",
+      "bitCode": "LR",
+      "note": "持久向泛用組合。"
+    },
+    {
+      "id": "def-3-60-fb",
+      "name": "防禦持久 A",
+      "category": "防禦/持久",
+      "ratchetCode": "3-60",
+      "bitCode": "FB",
+      "note": "防禦與續航表現穩定。"
+    },
+    {
+      "id": "def-9-60-fb",
+      "name": "防禦持久 B",
+      "category": "防禦/持久",
+      "ratchetCode": "9-60",
+      "bitCode": "FB",
+      "note": "偏持久的熱門配置。"
+    },
+    {
+      "id": "ver-4-55-lo",
+      "name": "版本熱門 A",
+      "category": "版本熱門",
+      "ratchetCode": "4-55",
+      "bitCode": "LO",
+      "note": "時鐘幻象常見配置。"
+    },
+    {
+      "id": "ver-1-70-lr",
+      "name": "版本熱門 B",
+      "category": "版本熱門",
+      "ratchetCode": "1-70",
+      "bitCode": "LR",
+      "note": "高應用率版本配置。"
     }
   ]
 }

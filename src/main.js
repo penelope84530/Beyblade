@@ -243,7 +243,9 @@ const boot = async () => {
   const data = await dataResp.json()
   const tierData = tierResp?.ok ? await tierResp.json() : { entries: [], tierMapByCode: {}, source: '' }
   const inputData = inputResp?.ok ? await inputResp.json() : { inputs: [] }
-  const communityData = communityResp?.ok ? await communityResp.json() : { boards: [], sourceSummary: '' }
+  const communityData = communityResp?.ok
+    ? await communityResp.json()
+    : { boards: [], sourceSummary: '', recommendationGuides: [], recommendedLoadouts: [] }
   const annotationData = annotationResp?.ok ? await annotationResp.json() : { boards: [], entries: [], summary: {} }
 
   const partTierOrder = new Map()
@@ -650,6 +652,8 @@ const boot = async () => {
 
     const tierEntries = asArray(tierData.entries)
     const communityBoards = asArray(communityData.boards)
+    const communityGuides = asArray(communityData.recommendationGuides)
+    const recommendedLoadouts = asArray(communityData.recommendedLoadouts)
     const tierByCode = tierData.tierMapByCode || {}
     const tierClassName = (tier) => (tier === 'T0' ? 'tier-t0' : tier === 'T1' ? 'tier-t1' : tier === 'T2' ? 'tier-t2' : 'tier-na')
     const resolveTier = (item) => {
@@ -674,6 +678,22 @@ const boot = async () => {
         .filter(Boolean)
         .map((x) => String(x).toLowerCase())
       return pool.some((x) => x.includes(tierQuery))
+    })
+
+    const collectionLoadouts = recommendedLoadouts.map((entry) => {
+      const ratchet = partLookup.ratchet.get(normalized(entry.ratchetCode || '')) || null
+      const bit = partLookup.bit.get(normalized(entry.bitCode || '')) || null
+      const missing = []
+      if (!ratchet) missing.push(`Ratchet ${entry.ratchetCode || '-'}`)
+      if (!bit) missing.push(`Bit ${entry.bitCode || '-'}`)
+
+      return {
+        ...entry,
+        ratchet,
+        bit,
+        missing,
+        owned: missing.length === 0,
+      }
     })
 
     app.innerHTML = `
@@ -928,6 +948,83 @@ const boot = async () => {
             }
           </div>
         </section>
+
+        ${
+          communityGuides.length
+            ? `<section class="panel">
+          <h2>社群實戰推薦（文字整理）</h2>
+          <div class="guide-grid">
+            ${communityGuides
+              .map(
+                (guide, idx) => `
+                  <article class="guide-card" style="--i:${idx};">
+                    <h3>${guide.title || '-'}</h3>
+                    <p class="formal">來源：${guide.source || '-'}</p>
+                    ${
+                      asArray(guide.notes).length
+                        ? `<ul class="guide-notes">${asArray(guide.notes)
+                            .map((note) => `<li>${note}</li>`)
+                            .join('')}</ul>`
+                        : ''
+                    }
+                    <div class="guide-groups">
+                      ${asArray(guide.groups)
+                        .map(
+                          (group) => `
+                            <section class="guide-group">
+                              <h4>${group.title || '-'}</h4>
+                              <ul>
+                                ${asArray(group.items)
+                                  .map((item) => `<li>${item}</li>`)
+                                  .join('')}
+                              </ul>
+                            </section>
+                          `,
+                        )
+                        .join('')}
+                    </div>
+                  </article>
+                `,
+              )
+              .join('')}
+          </div>
+        </section>`
+            : ''
+        }
+
+        ${
+          collectionLoadouts.length
+            ? `<section class="panel">
+          <h2>推薦組合收集表</h2>
+          <p class="formal">依你目前已登錄零件自動判斷：有齊顯示「已擁有」，缺件顯示「尚未擁有」。</p>
+          <div class="collection-grid">
+            ${collectionLoadouts
+              .map(
+                (entry, idx) => `
+                  <article class="collection-card" style="--i:${idx};">
+                    <div class="row collection-head">
+                      <h3>${entry.name || '-'}</h3>
+                      <span class="collection-status ${entry.owned ? 'owned' : 'missing'}">${entry.owned ? '已擁有' : '尚未擁有'}</span>
+                    </div>
+                    <p class="formal">分類：${entry.category || '-'}</p>
+                    ${entry.note ? `<p class="formal">說明：${entry.note}</p>` : ''}
+                    <ul class="parts">
+                      ${formatPartRow('Ratchet', entry.ratchetCode || '-', entry.ratchet?.image || null, {
+                        tier: resolvePartTier('ratchet', entry.ratchetCode || ''),
+                      })}
+                      ${formatPartRow('Bit', entry.bitCode || '-', entry.bit?.image || null, {
+                        tier: resolvePartTier('bit', entry.bitCode || ''),
+                      })}
+                    </ul>
+                    ${entry.owned ? '<p class="collection-msg ok">可直接組裝這套核心配置。</p>' : `<p class="collection-msg warn">尚未擁有：${entry.missing.join('、')}</p>`}
+                  </article>
+                `,
+              )
+              .join('')}
+          </div>
+        </section>`
+            : ''
+        }
 
         <section class="panel">
           <h2>智能配裝推薦</h2>
