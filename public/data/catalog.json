@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T07:24:50.690Z",
+  "generatedAt": "2026-05-04T05:48:37.795Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 271,
@@ -31088,26 +31088,6 @@
         "image": "https://go-shoot.github.io/x/img/blade/Grog.png"
       },
       {
-        "code": "Snow",
-        "names": {
-          "jap": "スノートルーパー",
-          "eng": "Snowtrooper",
-          "chi": ""
-        },
-        "attr": [
-          "def",
-          "right",
-          "BX",
-          "star-wars"
-        ],
-        "stat": 33.5,
-        "rawStat": [
-          33.5
-        ],
-        "desc": "",
-        "image": "https://go-shoot.github.io/x/img/blade/Snow.png"
-      },
-      {
         "code": "Opme",
         "names": {
           "jap": "オプティマスプライム",
@@ -32252,7 +32232,7 @@
         "rawStat": [
           null
         ],
-        "desc": "少許變幼的平坦軸端既減輕持久損失也確保衝刺的速度。",
+        "desc": "少許變幼的平坦軸端既減輕持久損失也確保衝刺的速度。軸端亦稍幼。",
         "group": "",
         "mobility": null,
         "image": "https://go-shoot.github.io/x/img/bit/FF.png"
