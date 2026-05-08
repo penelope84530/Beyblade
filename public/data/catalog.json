@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T05:46:08.809Z",
+  "generatedAt": "2026-05-08T05:15:59.714Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 271,
@@ -157,7 +157,7 @@
       }
     },
     {
-      "id": "bey-11",
+      "id": "bey-6",
       "code": "BXC-13",
       "variantCode": "BXC-13",
       "variantNo": "01",
@@ -1250,145 +1250,6 @@
     },
     {
       "id": "bey-5",
-      "code": "BXG-51",
-      "variantCode": "BXG-51",
-      "variantNo": "01",
-      "hasVariants": false,
-      "displayCode": "BXG-51",
-      "normalizedVariantCode": "BXG51",
-      "normalizedCode": "BXG51",
-      "line": "BX",
-      "productType": "B H",
-      "comboRaw": "Dr.Br.S 6-60 V",
-      "bladeCode": "Dr.Br.S",
-      "ratchetCode": "6-60",
-      "bitCode": "V",
-      "cxChipCode": "Dr",
-      "cxMainCode": "Br",
-      "cxSuffixCode": "S",
-      "cxComponents": {
-        "chip": "Dr",
-        "main": "Br",
-        "assist": "S",
-        "over": "",
-        "metal": "",
-        "hasbro": ""
-      },
-      "cxComponentsAll": {
-        "chip": [
-          "Dr"
-        ],
-        "main": [
-          "Br"
-        ],
-        "assist": [
-          "S"
-        ],
-        "over": [],
-        "metal": [],
-        "hasbro": []
-      },
-      "cxDisplayComponents": [
-        {
-          "category": "chip",
-          "label": "紋章",
-          "code": "Dr",
-          "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Dr.png"
-        },
-        {
-          "category": "main",
-          "label": "主要戰刃",
-          "code": "Br",
-          "image": "https://go-shoot.github.io/x/img/blade/CX/main/Br.png"
-        },
-        {
-          "category": "assist",
-          "label": "輔助戰刃",
-          "code": "S",
-          "image": "https://go-shoot.github.io/x/img/blade/CX/assist/S.png"
-        }
-      ],
-      "cxUnknownTokens": [],
-      "isCx": true,
-      "isCxExpansion": false,
-      "videoId": "[object Object]",
-      "meta": {},
-      "names": {
-        "eng": "Dr.Br.S 6-60 Vortex",
-        "chi": "勇者 勇氣 6-60 V",
-        "jap": "ブレイブ"
-      },
-      "formalName": "Dr.Br.S 6-60 Vortex",
-      "formalAlias": "勇者 勇氣 6-60 V",
-      "searchTokens": [
-        "BXG-51",
-        "Dr.Br.S 6-60 V",
-        "Dr.Br.S",
-        "Dr.Br.S 6-60 Vortex",
-        "ブレイブ",
-        "勇者 勇氣 6-60 V"
-      ],
-      "images": {
-        "blade": "https://go-shoot.github.io/x/img/blade/Dr.Br.S.png",
-        "bladeMain": "https://go-shoot.github.io/x/img/blade/CX/main/Br.png",
-        "ratchet": "https://go-shoot.github.io/x/img/ratchet/6-60.png",
-        "bit": "https://go-shoot.github.io/x/img/bit/V.png",
-        "cx": [
-          {
-            "category": "chip",
-            "label": "紋章",
-            "code": "Dr",
-            "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Dr.png"
-          },
-          {
-            "category": "main",
-            "label": "主要戰刃",
-            "code": "Br",
-            "image": "https://go-shoot.github.io/x/img/blade/CX/main/Br.png"
-          },
-          {
-            "category": "assist",
-            "label": "輔助戰刃",
-            "code": "S",
-            "image": "https://go-shoot.github.io/x/img/blade/CX/assist/S.png"
-          }
-        ]
-      },
-      "isArMain": false,
-      "attributes": {
-        "blade": [],
-        "bladeMain": [
-          "att",
-          "right"
-        ],
-        "ratchet": [],
-        "bit": [
-          "att"
-        ]
-      },
-      "stats": {
-        "blade": null,
-        "bladeRaw": [],
-        "bladeMain": 31.5,
-        "bladeMainRaw": [
-          31.5
-        ],
-        "ratchet": 6.5,
-        "ratchetRaw": [
-          6.5
-        ],
-        "bit": 2.5,
-        "bitRaw": [
-          2.5,
-          12,
-          95,
-          123
-        ],
-        "bitMobility": 12
-      }
-    },
-    {
-      "id": "bey-6",
       "code": "BXH-?2",
       "variantCode": "BXH-?2",
       "variantNo": "01",
@@ -1535,391 +1396,7 @@
       }
     },
     {
-      "id": "bey-7",
-      "code": "BX-49",
-      "variantCode": "BX-49",
-      "variantNo": "01",
-      "hasVariants": false,
-      "displayCode": "BX-49",
-      "normalizedVariantCode": "BX49",
-      "normalizedCode": "BX49",
-      "line": "BX",
-      "productType": "S",
-      "comboRaw": "DrSt 4-50 FF",
-      "bladeCode": "DrSt",
-      "ratchetCode": "4-50",
-      "bitCode": "FF",
-      "cxChipCode": "",
-      "cxMainCode": "",
-      "cxSuffixCode": "",
-      "cxComponents": {
-        "chip": "",
-        "main": "",
-        "assist": "",
-        "over": "",
-        "metal": "",
-        "hasbro": ""
-      },
-      "cxComponentsAll": {
-        "chip": [],
-        "main": [],
-        "assist": [],
-        "over": [],
-        "metal": [],
-        "hasbro": []
-      },
-      "cxDisplayComponents": [],
-      "cxUnknownTokens": [
-        "DrSt"
-      ],
-      "isCx": false,
-      "isCxExpansion": false,
-      "videoId": null,
-      "meta": {},
-      "names": {
-        "eng": "DranStrike 4-50 FF",
-        "chi": "蒼龍突擊 4-50 FF",
-        "jap": "ドランストライク"
-      },
-      "formalName": "DranStrike 4-50 FF",
-      "formalAlias": "蒼龍突擊 4-50 FF",
-      "searchTokens": [
-        "BX-49",
-        "DrSt 4-50 FF",
-        "DrSt",
-        "DranStrike 4-50 FF",
-        "ドランストライク",
-        "蒼龍突擊 4-50 FF"
-      ],
-      "images": {
-        "blade": "https://go-shoot.github.io/x/img/blade/DrSt.png",
-        "bladeMain": null,
-        "ratchet": "https://go-shoot.github.io/x/img/ratchet/4-50.png",
-        "bit": "https://go-shoot.github.io/x/img/bit/FF.png",
-        "cx": []
-      },
-      "isArMain": false,
-      "attributes": {
-        "blade": [
-          "att",
-          "right",
-          "expand"
-        ],
-        "bladeMain": [],
-        "ratchet": [],
-        "bit": []
-      },
-      "stats": {
-        "blade": 41.5,
-        "bladeRaw": [
-          41.5
-        ],
-        "bladeMain": null,
-        "bladeMainRaw": [],
-        "ratchet": 6,
-        "ratchetRaw": [
-          6
-        ],
-        "bit": null,
-        "bitRaw": [
-          null
-        ],
-        "bitMobility": null
-      }
-    },
-    {
-      "id": "bey-8",
-      "code": "BXH-?1",
-      "variantCode": "BXH-?1-01",
-      "variantNo": "01",
-      "hasVariants": true,
-      "displayCode": "BXH-?1-01",
-      "normalizedVariantCode": "BXH101",
-      "normalizedCode": "BXH1",
-      "line": "BX",
-      "productType": "Lm H",
-      "comboRaw": "DrSt 4-50 FF",
-      "bladeCode": "DrSt",
-      "ratchetCode": "4-50",
-      "bitCode": "FF",
-      "cxChipCode": "",
-      "cxMainCode": "",
-      "cxSuffixCode": "",
-      "cxComponents": {
-        "chip": "",
-        "main": "",
-        "assist": "",
-        "over": "",
-        "metal": "",
-        "hasbro": ""
-      },
-      "cxComponentsAll": {
-        "chip": [],
-        "main": [],
-        "assist": [],
-        "over": [],
-        "metal": [],
-        "hasbro": []
-      },
-      "cxDisplayComponents": [],
-      "cxUnknownTokens": [
-        "DrSt"
-      ],
-      "isCx": false,
-      "isCxExpansion": false,
-      "videoId": "[object Object]",
-      "meta": {},
-      "names": {
-        "eng": "DranStrike 4-50 FF",
-        "chi": "蒼龍突擊 4-50 FF",
-        "jap": "ドランストライク"
-      },
-      "formalName": "DranStrike 4-50 FF",
-      "formalAlias": "蒼龍突擊 4-50 FF",
-      "searchTokens": [
-        "BXH-?1",
-        "DrSt 4-50 FF",
-        "DrSt",
-        "DranStrike 4-50 FF",
-        "ドランストライク",
-        "蒼龍突擊 4-50 FF",
-        "BXH-?1-01",
-        "BXH101",
-        "BXH1-01",
-        "BXH1 01"
-      ],
-      "images": {
-        "blade": "https://go-shoot.github.io/x/img/blade/DrSt.png",
-        "bladeMain": null,
-        "ratchet": "https://go-shoot.github.io/x/img/ratchet/4-50.png",
-        "bit": "https://go-shoot.github.io/x/img/bit/FF.png",
-        "cx": []
-      },
-      "isArMain": false,
-      "attributes": {
-        "blade": [
-          "att",
-          "right",
-          "expand"
-        ],
-        "bladeMain": [],
-        "ratchet": [],
-        "bit": []
-      },
-      "stats": {
-        "blade": 41.5,
-        "bladeRaw": [
-          41.5
-        ],
-        "bladeMain": null,
-        "bladeMainRaw": [],
-        "ratchet": 6,
-        "ratchetRaw": [
-          6
-        ],
-        "bit": null,
-        "bitRaw": [
-          null
-        ],
-        "bitMobility": null
-      }
-    },
-    {
-      "id": "bey-9",
-      "code": "BXH-?1",
-      "variantCode": "BXH-?1-02",
-      "variantNo": "02",
-      "hasVariants": true,
-      "displayCode": "BXH-?1-02",
-      "normalizedVariantCode": "BXH102",
-      "normalizedCode": "BXH1",
-      "line": "BX",
-      "productType": "Lm H",
-      "comboRaw": "DrSt 4-50 FF",
-      "bladeCode": "DrSt",
-      "ratchetCode": "4-50",
-      "bitCode": "FF",
-      "cxChipCode": "",
-      "cxMainCode": "",
-      "cxSuffixCode": "",
-      "cxComponents": {
-        "chip": "",
-        "main": "",
-        "assist": "",
-        "over": "",
-        "metal": "",
-        "hasbro": ""
-      },
-      "cxComponentsAll": {
-        "chip": [],
-        "main": [],
-        "assist": [],
-        "over": [],
-        "metal": [],
-        "hasbro": []
-      },
-      "cxDisplayComponents": [],
-      "cxUnknownTokens": [
-        "DrSt"
-      ],
-      "isCx": false,
-      "isCxExpansion": false,
-      "videoId": null,
-      "meta": {},
-      "names": {
-        "eng": "DranStrike 4-50 FF",
-        "chi": "蒼龍突擊 4-50 FF",
-        "jap": "ドランストライク"
-      },
-      "formalName": "DranStrike 4-50 FF",
-      "formalAlias": "蒼龍突擊 4-50 FF",
-      "searchTokens": [
-        "BXH-?1",
-        "DrSt 4-50 FF",
-        "DrSt",
-        "DranStrike 4-50 FF",
-        "ドランストライク",
-        "蒼龍突擊 4-50 FF",
-        "BXH-?1-02",
-        "BXH102",
-        "BXH1-02",
-        "BXH1 02"
-      ],
-      "images": {
-        "blade": "https://go-shoot.github.io/x/img/blade/DrSt.png",
-        "bladeMain": null,
-        "ratchet": "https://go-shoot.github.io/x/img/ratchet/4-50.png",
-        "bit": "https://go-shoot.github.io/x/img/bit/FF.png",
-        "cx": []
-      },
-      "isArMain": false,
-      "attributes": {
-        "blade": [
-          "att",
-          "right",
-          "expand"
-        ],
-        "bladeMain": [],
-        "ratchet": [],
-        "bit": []
-      },
-      "stats": {
-        "blade": 41.5,
-        "bladeRaw": [
-          41.5
-        ],
-        "bladeMain": null,
-        "bladeMainRaw": [],
-        "ratchet": 6,
-        "ratchetRaw": [
-          6
-        ],
-        "bit": null,
-        "bitRaw": [
-          null
-        ],
-        "bitMobility": null
-      }
-    },
-    {
-      "id": "bey-10",
-      "code": "BXH-?1",
-      "variantCode": "BXH-?1-03",
-      "variantNo": "03",
-      "hasVariants": true,
-      "displayCode": "BXH-?1-03",
-      "normalizedVariantCode": "BXH103",
-      "normalizedCode": "BXH1",
-      "line": "BX",
-      "productType": "Lm H",
-      "comboRaw": "DrSt 4-50 FF",
-      "bladeCode": "DrSt",
-      "ratchetCode": "4-50",
-      "bitCode": "FF",
-      "cxChipCode": "",
-      "cxMainCode": "",
-      "cxSuffixCode": "",
-      "cxComponents": {
-        "chip": "",
-        "main": "",
-        "assist": "",
-        "over": "",
-        "metal": "",
-        "hasbro": ""
-      },
-      "cxComponentsAll": {
-        "chip": [],
-        "main": [],
-        "assist": [],
-        "over": [],
-        "metal": [],
-        "hasbro": []
-      },
-      "cxDisplayComponents": [],
-      "cxUnknownTokens": [
-        "DrSt"
-      ],
-      "isCx": false,
-      "isCxExpansion": false,
-      "videoId": "[object Object]",
-      "meta": {},
-      "names": {
-        "eng": "DranStrike 4-50 FF",
-        "chi": "蒼龍突擊 4-50 FF",
-        "jap": "ドランストライク"
-      },
-      "formalName": "DranStrike 4-50 FF",
-      "formalAlias": "蒼龍突擊 4-50 FF",
-      "searchTokens": [
-        "BXH-?1",
-        "DrSt 4-50 FF",
-        "DrSt",
-        "DranStrike 4-50 FF",
-        "ドランストライク",
-        "蒼龍突擊 4-50 FF",
-        "BXH-?1-03",
-        "BXH103",
-        "BXH1-03",
-        "BXH1 03"
-      ],
-      "images": {
-        "blade": "https://go-shoot.github.io/x/img/blade/DrSt.png",
-        "bladeMain": null,
-        "ratchet": "https://go-shoot.github.io/x/img/ratchet/4-50.png",
-        "bit": "https://go-shoot.github.io/x/img/bit/FF.png",
-        "cx": []
-      },
-      "isArMain": false,
-      "attributes": {
-        "blade": [
-          "att",
-          "right",
-          "expand"
-        ],
-        "bladeMain": [],
-        "ratchet": [],
-        "bit": []
-      },
-      "stats": {
-        "blade": 41.5,
-        "bladeRaw": [
-          41.5
-        ],
-        "bladeMain": null,
-        "bladeMainRaw": [],
-        "ratchet": 6,
-        "ratchetRaw": [
-          6
-        ],
-        "bit": null,
-        "bitRaw": [
-          null
-        ],
-        "bitMobility": null
-      }
-    },
-    {
-      "id": "bey-11",
+      "id": "bey-6",
       "code": "BXC-13",
       "variantCode": "BXC-13",
       "variantNo": "01",
@@ -2055,6 +1532,529 @@
           125
         ],
         "bitMobility": 12
+      }
+    },
+    {
+      "id": "bey-7",
+      "code": "BXG-51",
+      "variantCode": "BXG-51",
+      "variantNo": "01",
+      "hasVariants": false,
+      "displayCode": "BXG-51",
+      "normalizedVariantCode": "BXG51",
+      "normalizedCode": "BXG51",
+      "line": "BX",
+      "productType": "B H",
+      "comboRaw": "Dr.Br.S 6-60 V",
+      "bladeCode": "Dr.Br.S",
+      "ratchetCode": "6-60",
+      "bitCode": "V",
+      "cxChipCode": "Dr",
+      "cxMainCode": "Br",
+      "cxSuffixCode": "S",
+      "cxComponents": {
+        "chip": "Dr",
+        "main": "Br",
+        "assist": "S",
+        "over": "",
+        "metal": "",
+        "hasbro": ""
+      },
+      "cxComponentsAll": {
+        "chip": [
+          "Dr"
+        ],
+        "main": [
+          "Br"
+        ],
+        "assist": [
+          "S"
+        ],
+        "over": [],
+        "metal": [],
+        "hasbro": []
+      },
+      "cxDisplayComponents": [
+        {
+          "category": "chip",
+          "label": "紋章",
+          "code": "Dr",
+          "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Dr.png"
+        },
+        {
+          "category": "main",
+          "label": "主要戰刃",
+          "code": "Br",
+          "image": "https://go-shoot.github.io/x/img/blade/CX/main/Br.png"
+        },
+        {
+          "category": "assist",
+          "label": "輔助戰刃",
+          "code": "S",
+          "image": "https://go-shoot.github.io/x/img/blade/CX/assist/S.png"
+        }
+      ],
+      "cxUnknownTokens": [],
+      "isCx": true,
+      "isCxExpansion": false,
+      "videoId": "[object Object]",
+      "meta": {},
+      "names": {
+        "eng": "Dr.Br.S 6-60 Vortex",
+        "chi": "勇者 勇氣 6-60 V",
+        "jap": "ブレイブ"
+      },
+      "formalName": "Dr.Br.S 6-60 Vortex",
+      "formalAlias": "勇者 勇氣 6-60 V",
+      "searchTokens": [
+        "BXG-51",
+        "Dr.Br.S 6-60 V",
+        "Dr.Br.S",
+        "Dr.Br.S 6-60 Vortex",
+        "ブレイブ",
+        "勇者 勇氣 6-60 V"
+      ],
+      "images": {
+        "blade": "https://go-shoot.github.io/x/img/blade/Dr.Br.S.png",
+        "bladeMain": "https://go-shoot.github.io/x/img/blade/CX/main/Br.png",
+        "ratchet": "https://go-shoot.github.io/x/img/ratchet/6-60.png",
+        "bit": "https://go-shoot.github.io/x/img/bit/V.png",
+        "cx": [
+          {
+            "category": "chip",
+            "label": "紋章",
+            "code": "Dr",
+            "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Dr.png"
+          },
+          {
+            "category": "main",
+            "label": "主要戰刃",
+            "code": "Br",
+            "image": "https://go-shoot.github.io/x/img/blade/CX/main/Br.png"
+          },
+          {
+            "category": "assist",
+            "label": "輔助戰刃",
+            "code": "S",
+            "image": "https://go-shoot.github.io/x/img/blade/CX/assist/S.png"
+          }
+        ]
+      },
+      "isArMain": false,
+      "attributes": {
+        "blade": [],
+        "bladeMain": [
+          "att",
+          "right"
+        ],
+        "ratchet": [],
+        "bit": [
+          "att"
+        ]
+      },
+      "stats": {
+        "blade": null,
+        "bladeRaw": [],
+        "bladeMain": 31.5,
+        "bladeMainRaw": [
+          31.5
+        ],
+        "ratchet": 6.5,
+        "ratchetRaw": [
+          6.5
+        ],
+        "bit": 2.5,
+        "bitRaw": [
+          2.5,
+          12,
+          95,
+          123
+        ],
+        "bitMobility": 12
+      }
+    },
+    {
+      "id": "bey-8",
+      "code": "BX-49",
+      "variantCode": "BX-49",
+      "variantNo": "01",
+      "hasVariants": false,
+      "displayCode": "BX-49",
+      "normalizedVariantCode": "BX49",
+      "normalizedCode": "BX49",
+      "line": "BX",
+      "productType": "S",
+      "comboRaw": "DrSt 4-50 FF",
+      "bladeCode": "DrSt",
+      "ratchetCode": "4-50",
+      "bitCode": "FF",
+      "cxChipCode": "",
+      "cxMainCode": "",
+      "cxSuffixCode": "",
+      "cxComponents": {
+        "chip": "",
+        "main": "",
+        "assist": "",
+        "over": "",
+        "metal": "",
+        "hasbro": ""
+      },
+      "cxComponentsAll": {
+        "chip": [],
+        "main": [],
+        "assist": [],
+        "over": [],
+        "metal": [],
+        "hasbro": []
+      },
+      "cxDisplayComponents": [],
+      "cxUnknownTokens": [
+        "DrSt"
+      ],
+      "isCx": false,
+      "isCxExpansion": false,
+      "videoId": null,
+      "meta": {},
+      "names": {
+        "eng": "DranStrike 4-50 FF",
+        "chi": "翔龍突擊 蒼龍突擊 4-50 FF",
+        "jap": "ドランストライク"
+      },
+      "formalName": "DranStrike 4-50 FF",
+      "formalAlias": "翔龍突擊 蒼龍突擊 4-50 FF",
+      "searchTokens": [
+        "BX-49",
+        "DrSt 4-50 FF",
+        "DrSt",
+        "DranStrike 4-50 FF",
+        "ドランストライク",
+        "翔龍突擊 蒼龍突擊 4-50 FF"
+      ],
+      "images": {
+        "blade": "https://go-shoot.github.io/x/img/blade/DrSt.png",
+        "bladeMain": null,
+        "ratchet": "https://go-shoot.github.io/x/img/ratchet/4-50.png",
+        "bit": "https://go-shoot.github.io/x/img/bit/FF.png",
+        "cx": []
+      },
+      "isArMain": false,
+      "attributes": {
+        "blade": [
+          "att",
+          "right",
+          "expand"
+        ],
+        "bladeMain": [],
+        "ratchet": [],
+        "bit": []
+      },
+      "stats": {
+        "blade": 41.5,
+        "bladeRaw": [
+          41.5
+        ],
+        "bladeMain": null,
+        "bladeMainRaw": [],
+        "ratchet": 6,
+        "ratchetRaw": [
+          6
+        ],
+        "bit": null,
+        "bitRaw": [
+          null
+        ],
+        "bitMobility": null
+      }
+    },
+    {
+      "id": "bey-9",
+      "code": "BXH-25",
+      "variantCode": "BXH-25-01",
+      "variantNo": "01",
+      "hasVariants": true,
+      "displayCode": "BXH-25-01",
+      "normalizedVariantCode": "BXH2501",
+      "normalizedCode": "BXH25",
+      "line": "BX",
+      "productType": "Lm H",
+      "comboRaw": "DrSt 4-50 FF",
+      "bladeCode": "DrSt",
+      "ratchetCode": "4-50",
+      "bitCode": "FF",
+      "cxChipCode": "",
+      "cxMainCode": "",
+      "cxSuffixCode": "",
+      "cxComponents": {
+        "chip": "",
+        "main": "",
+        "assist": "",
+        "over": "",
+        "metal": "",
+        "hasbro": ""
+      },
+      "cxComponentsAll": {
+        "chip": [],
+        "main": [],
+        "assist": [],
+        "over": [],
+        "metal": [],
+        "hasbro": []
+      },
+      "cxDisplayComponents": [],
+      "cxUnknownTokens": [
+        "DrSt"
+      ],
+      "isCx": false,
+      "isCxExpansion": false,
+      "videoId": "[object Object]",
+      "meta": {},
+      "names": {
+        "eng": "DranStrike 4-50 FF",
+        "chi": "翔龍突擊 蒼龍突擊 4-50 FF",
+        "jap": "ドランストライク"
+      },
+      "formalName": "DranStrike 4-50 FF",
+      "formalAlias": "翔龍突擊 蒼龍突擊 4-50 FF",
+      "searchTokens": [
+        "BXH-25",
+        "DrSt 4-50 FF",
+        "DrSt",
+        "DranStrike 4-50 FF",
+        "ドランストライク",
+        "翔龍突擊 蒼龍突擊 4-50 FF",
+        "BXH-25-01",
+        "BXH2501",
+        "BXH25-01",
+        "BXH25 01"
+      ],
+      "images": {
+        "blade": "https://go-shoot.github.io/x/img/blade/DrSt.png",
+        "bladeMain": null,
+        "ratchet": "https://go-shoot.github.io/x/img/ratchet/4-50.png",
+        "bit": "https://go-shoot.github.io/x/img/bit/FF.png",
+        "cx": []
+      },
+      "isArMain": false,
+      "attributes": {
+        "blade": [
+          "att",
+          "right",
+          "expand"
+        ],
+        "bladeMain": [],
+        "ratchet": [],
+        "bit": []
+      },
+      "stats": {
+        "blade": 41.5,
+        "bladeRaw": [
+          41.5
+        ],
+        "bladeMain": null,
+        "bladeMainRaw": [],
+        "ratchet": 6,
+        "ratchetRaw": [
+          6
+        ],
+        "bit": null,
+        "bitRaw": [
+          null
+        ],
+        "bitMobility": null
+      }
+    },
+    {
+      "id": "bey-10",
+      "code": "BXH-25",
+      "variantCode": "BXH-25-02",
+      "variantNo": "02",
+      "hasVariants": true,
+      "displayCode": "BXH-25-02",
+      "normalizedVariantCode": "BXH2502",
+      "normalizedCode": "BXH25",
+      "line": "BX",
+      "productType": "Lm H",
+      "comboRaw": "DrSt 4-50 FF",
+      "bladeCode": "DrSt",
+      "ratchetCode": "4-50",
+      "bitCode": "FF",
+      "cxChipCode": "",
+      "cxMainCode": "",
+      "cxSuffixCode": "",
+      "cxComponents": {
+        "chip": "",
+        "main": "",
+        "assist": "",
+        "over": "",
+        "metal": "",
+        "hasbro": ""
+      },
+      "cxComponentsAll": {
+        "chip": [],
+        "main": [],
+        "assist": [],
+        "over": [],
+        "metal": [],
+        "hasbro": []
+      },
+      "cxDisplayComponents": [],
+      "cxUnknownTokens": [
+        "DrSt"
+      ],
+      "isCx": false,
+      "isCxExpansion": false,
+      "videoId": null,
+      "meta": {},
+      "names": {
+        "eng": "DranStrike 4-50 FF",
+        "chi": "翔龍突擊 蒼龍突擊 4-50 FF",
+        "jap": "ドランストライク"
+      },
+      "formalName": "DranStrike 4-50 FF",
+      "formalAlias": "翔龍突擊 蒼龍突擊 4-50 FF",
+      "searchTokens": [
+        "BXH-25",
+        "DrSt 4-50 FF",
+        "DrSt",
+        "DranStrike 4-50 FF",
+        "ドランストライク",
+        "翔龍突擊 蒼龍突擊 4-50 FF",
+        "BXH-25-02",
+        "BXH2502",
+        "BXH25-02",
+        "BXH25 02"
+      ],
+      "images": {
+        "blade": "https://go-shoot.github.io/x/img/blade/DrSt.png",
+        "bladeMain": null,
+        "ratchet": "https://go-shoot.github.io/x/img/ratchet/4-50.png",
+        "bit": "https://go-shoot.github.io/x/img/bit/FF.png",
+        "cx": []
+      },
+      "isArMain": false,
+      "attributes": {
+        "blade": [
+          "att",
+          "right",
+          "expand"
+        ],
+        "bladeMain": [],
+        "ratchet": [],
+        "bit": []
+      },
+      "stats": {
+        "blade": 41.5,
+        "bladeRaw": [
+          41.5
+        ],
+        "bladeMain": null,
+        "bladeMainRaw": [],
+        "ratchet": 6,
+        "ratchetRaw": [
+          6
+        ],
+        "bit": null,
+        "bitRaw": [
+          null
+        ],
+        "bitMobility": null
+      }
+    },
+    {
+      "id": "bey-11",
+      "code": "BXH-25",
+      "variantCode": "BXH-25-03",
+      "variantNo": "03",
+      "hasVariants": true,
+      "displayCode": "BXH-25-03",
+      "normalizedVariantCode": "BXH2503",
+      "normalizedCode": "BXH25",
+      "line": "BX",
+      "productType": "Lm H",
+      "comboRaw": "DrSt 4-50 FF",
+      "bladeCode": "DrSt",
+      "ratchetCode": "4-50",
+      "bitCode": "FF",
+      "cxChipCode": "",
+      "cxMainCode": "",
+      "cxSuffixCode": "",
+      "cxComponents": {
+        "chip": "",
+        "main": "",
+        "assist": "",
+        "over": "",
+        "metal": "",
+        "hasbro": ""
+      },
+      "cxComponentsAll": {
+        "chip": [],
+        "main": [],
+        "assist": [],
+        "over": [],
+        "metal": [],
+        "hasbro": []
+      },
+      "cxDisplayComponents": [],
+      "cxUnknownTokens": [
+        "DrSt"
+      ],
+      "isCx": false,
+      "isCxExpansion": false,
+      "videoId": "[object Object]",
+      "meta": {},
+      "names": {
+        "eng": "DranStrike 4-50 FF",
+        "chi": "翔龍突擊 蒼龍突擊 4-50 FF",
+        "jap": "ドランストライク"
+      },
+      "formalName": "DranStrike 4-50 FF",
+      "formalAlias": "翔龍突擊 蒼龍突擊 4-50 FF",
+      "searchTokens": [
+        "BXH-25",
+        "DrSt 4-50 FF",
+        "DrSt",
+        "DranStrike 4-50 FF",
+        "ドランストライク",
+        "翔龍突擊 蒼龍突擊 4-50 FF",
+        "BXH-25-03",
+        "BXH2503",
+        "BXH25-03",
+        "BXH25 03"
+      ],
+      "images": {
+        "blade": "https://go-shoot.github.io/x/img/blade/DrSt.png",
+        "bladeMain": null,
+        "ratchet": "https://go-shoot.github.io/x/img/ratchet/4-50.png",
+        "bit": "https://go-shoot.github.io/x/img/bit/FF.png",
+        "cx": []
+      },
+      "isArMain": false,
+      "attributes": {
+        "blade": [
+          "att",
+          "right",
+          "expand"
+        ],
+        "bladeMain": [],
+        "ratchet": [],
+        "bit": []
+      },
+      "stats": {
+        "blade": 41.5,
+        "bladeRaw": [
+          41.5
+        ],
+        "bladeMain": null,
+        "bladeMainRaw": [],
+        "ratchet": 6,
+        "ratchetRaw": [
+          6
+        ],
+        "bit": null,
+        "bitRaw": [
+          null
+        ],
+        "bitMobility": null
       }
     },
     {
@@ -3681,7 +3681,7 @@
       "names": {
         "eng": "Red Hulk 1-80 Rush",
         "chi": "紅浩克 1-80 R",
-        "jap": "レッド・ハルク"
+        "jap": "レッドハルク"
       },
       "formalName": "Red Hulk 1-80 Rush",
       "formalAlias": "紅浩克 1-80 R",
@@ -3690,7 +3690,7 @@
         "Redh 1-80 R",
         "Redh",
         "Red Hulk 1-80 Rush",
-        "レッド・ハルク",
+        "レッドハルク",
         "紅浩克 1-80 R",
         "BXA-03-02",
         "BXA0302",
@@ -29329,7 +29329,7 @@
         "names": {
           "jap": "ドランストライク",
           "eng": "DranStrike",
-          "chi": "蒼龍突擊"
+          "chi": "翔龍突擊 蒼龍突擊"
         },
         "attr": [
           "att",
@@ -30790,7 +30790,7 @@
       {
         "code": "Redh",
         "names": {
-          "jap": "レッド・ハルク",
+          "jap": "レッドハルク",
           "eng": "Red Hulk",
           "chi": "紅浩克"
         },
