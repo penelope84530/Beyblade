@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T06:02:18.915Z",
+  "generatedAt": "2026-05-14T06:02:04.402Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 274,
@@ -1252,153 +1252,6 @@
     },
     {
       "id": "bey-5",
-      "code": "BXH-?2",
-      "variantCode": "BXH-?2",
-      "variantNo": "01",
-      "hasVariants": false,
-      "displayCode": "BXH-?2",
-      "normalizedVariantCode": "BXH2",
-      "normalizedCode": "BXH2",
-      "line": "BX",
-      "productType": "Lm H",
-      "comboRaw": "Rg.Rg.F.E 4-55 Y",
-      "bladeCode": "Rg.Rg.F.E",
-      "ratchetCode": "4-55",
-      "bitCode": "Y",
-      "cxChipCode": "Rg",
-      "cxMainCode": "Rg",
-      "cxSuffixCode": "F",
-      "cxComponents": {
-        "chip": "Rg",
-        "main": "",
-        "assist": "F",
-        "over": "",
-        "metal": "",
-        "hasbro": ""
-      },
-      "cxComponentsAll": {
-        "chip": [
-          "Rg",
-          "Rg"
-        ],
-        "main": [],
-        "assist": [
-          "F",
-          "E"
-        ],
-        "over": [],
-        "metal": [],
-        "hasbro": []
-      },
-      "cxDisplayComponents": [
-        {
-          "category": "chip",
-          "label": "紋章 1",
-          "code": "Rg",
-          "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Rg.png"
-        },
-        {
-          "category": "chip",
-          "label": "紋章 2",
-          "code": "Rg",
-          "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Rg.png"
-        },
-        {
-          "category": "assist",
-          "label": "輔助戰刃 1",
-          "code": "F",
-          "image": "https://go-shoot.github.io/x/img/blade/CX/assist/F.png"
-        },
-        {
-          "category": "assist",
-          "label": "輔助戰刃 2",
-          "code": "E",
-          "image": "https://go-shoot.github.io/x/img/blade/CX/assist/E.png"
-        }
-      ],
-      "cxUnknownTokens": [],
-      "isCx": true,
-      "isCxExpansion": false,
-      "videoId": "[object Object]",
-      "meta": {},
-      "names": {
-        "eng": "Rg.Rg.F.E 4-55 Yielding",
-        "chi": "Rg.Rg.F.E 4-55 Y",
-        "jap": ""
-      },
-      "formalName": "Rg.Rg.F.E 4-55 Yielding",
-      "formalAlias": "Rg.Rg.F.E 4-55 Y",
-      "searchTokens": [
-        "BXH-?2",
-        "Rg.Rg.F.E 4-55 Y",
-        "Rg.Rg.F.E",
-        "Rg.Rg.F.E 4-55 Yielding",
-        "Rg.Rg.F.E 4-55 Y"
-      ],
-      "images": {
-        "blade": "https://go-shoot.github.io/x/img/blade/Rg.Rg.F.E.png",
-        "bladeMain": "https://go-shoot.github.io/x/img/blade/CX/main/Rg.png",
-        "ratchet": "https://go-shoot.github.io/x/img/ratchet/4-55.png",
-        "bit": "https://go-shoot.github.io/x/img/bit/Y.png",
-        "cx": [
-          {
-            "category": "chip",
-            "label": "紋章 1",
-            "code": "Rg",
-            "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Rg.png"
-          },
-          {
-            "category": "chip",
-            "label": "紋章 2",
-            "code": "Rg",
-            "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Rg.png"
-          },
-          {
-            "category": "assist",
-            "label": "輔助戰刃 1",
-            "code": "F",
-            "image": "https://go-shoot.github.io/x/img/blade/CX/assist/F.png"
-          },
-          {
-            "category": "assist",
-            "label": "輔助戰刃 2",
-            "code": "E",
-            "image": "https://go-shoot.github.io/x/img/blade/CX/assist/E.png"
-          }
-        ]
-      },
-      "isArMain": false,
-      "attributes": {
-        "blade": [],
-        "bladeMain": [],
-        "ratchet": [
-          "simple"
-        ],
-        "bit": [
-          "sta"
-        ]
-      },
-      "stats": {
-        "blade": null,
-        "bladeRaw": [],
-        "bladeMain": null,
-        "bladeMainRaw": [],
-        "ratchet": 4.5,
-        "ratchetRaw": [
-          4.5
-        ],
-        "bit": 4.5,
-        "bitRaw": [
-          4.5,
-          20,
-          78,
-          150
-        ],
-        "bitMobility": 20
-      }
-    },
-    {
-      "id": "bey-6",
       "code": "CX-18",
       "variantCode": "CX-18-01",
       "variantNo": "01",
@@ -1545,7 +1398,7 @@
       }
     },
     {
-      "id": "bey-7",
+      "id": "bey-6",
       "code": "CX-18",
       "variantCode": "CX-18-02",
       "variantNo": "02",
@@ -1692,7 +1545,7 @@
       }
     },
     {
-      "id": "bey-8",
+      "id": "bey-7",
       "code": "CX-18",
       "variantCode": "CX-18-03",
       "variantNo": "03",
@@ -1836,6 +1689,153 @@
           10
         ],
         "bitMobility": 10
+      }
+    },
+    {
+      "id": "bey-8",
+      "code": "BXH-?2",
+      "variantCode": "BXH-?2",
+      "variantNo": "01",
+      "hasVariants": false,
+      "displayCode": "BXH-?2",
+      "normalizedVariantCode": "BXH2",
+      "normalizedCode": "BXH2",
+      "line": "BX",
+      "productType": "Lm H",
+      "comboRaw": "Rg.Rg.F.E 4-55 Y",
+      "bladeCode": "Rg.Rg.F.E",
+      "ratchetCode": "4-55",
+      "bitCode": "Y",
+      "cxChipCode": "Rg",
+      "cxMainCode": "Rg",
+      "cxSuffixCode": "F",
+      "cxComponents": {
+        "chip": "Rg",
+        "main": "",
+        "assist": "F",
+        "over": "",
+        "metal": "",
+        "hasbro": ""
+      },
+      "cxComponentsAll": {
+        "chip": [
+          "Rg",
+          "Rg"
+        ],
+        "main": [],
+        "assist": [
+          "F",
+          "E"
+        ],
+        "over": [],
+        "metal": [],
+        "hasbro": []
+      },
+      "cxDisplayComponents": [
+        {
+          "category": "chip",
+          "label": "紋章 1",
+          "code": "Rg",
+          "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Rg.png"
+        },
+        {
+          "category": "chip",
+          "label": "紋章 2",
+          "code": "Rg",
+          "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Rg.png"
+        },
+        {
+          "category": "assist",
+          "label": "輔助戰刃 1",
+          "code": "F",
+          "image": "https://go-shoot.github.io/x/img/blade/CX/assist/F.png"
+        },
+        {
+          "category": "assist",
+          "label": "輔助戰刃 2",
+          "code": "E",
+          "image": "https://go-shoot.github.io/x/img/blade/CX/assist/E.png"
+        }
+      ],
+      "cxUnknownTokens": [],
+      "isCx": true,
+      "isCxExpansion": false,
+      "videoId": "[object Object]",
+      "meta": {},
+      "names": {
+        "eng": "Rg.Rg.F.E 4-55 Yielding",
+        "chi": "Rg.Rg.F.E 4-55 Y",
+        "jap": ""
+      },
+      "formalName": "Rg.Rg.F.E 4-55 Yielding",
+      "formalAlias": "Rg.Rg.F.E 4-55 Y",
+      "searchTokens": [
+        "BXH-?2",
+        "Rg.Rg.F.E 4-55 Y",
+        "Rg.Rg.F.E",
+        "Rg.Rg.F.E 4-55 Yielding",
+        "Rg.Rg.F.E 4-55 Y"
+      ],
+      "images": {
+        "blade": "https://go-shoot.github.io/x/img/blade/Rg.Rg.F.E.png",
+        "bladeMain": "https://go-shoot.github.io/x/img/blade/CX/main/Rg.png",
+        "ratchet": "https://go-shoot.github.io/x/img/ratchet/4-55.png",
+        "bit": "https://go-shoot.github.io/x/img/bit/Y.png",
+        "cx": [
+          {
+            "category": "chip",
+            "label": "紋章 1",
+            "code": "Rg",
+            "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Rg.png"
+          },
+          {
+            "category": "chip",
+            "label": "紋章 2",
+            "code": "Rg",
+            "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Rg.png"
+          },
+          {
+            "category": "assist",
+            "label": "輔助戰刃 1",
+            "code": "F",
+            "image": "https://go-shoot.github.io/x/img/blade/CX/assist/F.png"
+          },
+          {
+            "category": "assist",
+            "label": "輔助戰刃 2",
+            "code": "E",
+            "image": "https://go-shoot.github.io/x/img/blade/CX/assist/E.png"
+          }
+        ]
+      },
+      "isArMain": false,
+      "attributes": {
+        "blade": [],
+        "bladeMain": [],
+        "ratchet": [
+          "simple"
+        ],
+        "bit": [
+          "sta"
+        ]
+      },
+      "stats": {
+        "blade": null,
+        "bladeRaw": [],
+        "bladeMain": null,
+        "bladeMainRaw": [],
+        "ratchet": 4.5,
+        "ratchetRaw": [
+          4.5
+        ],
+        "bit": 4.5,
+        "bitRaw": [
+          4.5,
+          20,
+          78,
+          150
+        ],
+        "bitMobility": 20
       }
     },
     {
