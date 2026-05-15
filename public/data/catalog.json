@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T06:02:04.402Z",
+  "generatedAt": "2026-05-15T06:08:51.930Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 274,
@@ -29779,6 +29779,26 @@
         "image": "https://go-shoot.github.io/x/img/blade/DrSt.png"
       },
       {
+        "code": "BsBr",
+        "names": {
+          "jap": "バイソンバロー",
+          "eng": "BisonBurrow",
+          "chi": ""
+        },
+        "attr": [
+          "sta",
+          "right",
+          "UX",
+          "fused"
+        ],
+        "stat": 41,
+        "rawStat": [
+          41
+        ],
+        "desc": "（此乃AI臨時圖・異色版會在2026/10 DMMくじ中推出）",
+        "image": "https://go-shoot.github.io/x/img/blade/BsBr.png"
+      },
+      {
         "code": "BlGr",
         "names": {
           "jap": "バレットグリフォン",
@@ -30830,11 +30850,11 @@
           "bal",
           "right"
         ],
-        "stat": 39,
+        "stat": 36.5,
         "rawStat": [
-          39
+          36.5
         ],
-        "desc": "",
+        "desc": "（此乃AI臨時圖）",
         "image": "https://go-shoot.github.io/x/img/blade/BtGs.png"
       },
       {
@@ -30887,34 +30907,15 @@
         "attr": [
           "def",
           "right",
-          "BX"
+          "BX",
+          "expand"
         ],
-        "stat": null,
+        "stat": 37.5,
         "rawStat": [
-          null
+          37.5
         ],
-        "desc": "",
+        "desc": "（此乃AI臨時圖）",
         "image": "https://go-shoot.github.io/x/img/blade/HvRn.png"
-      },
-      {
-        "code": "BsBr",
-        "names": {
-          "jap": "バイソンバロー",
-          "eng": "BisonBurrow",
-          "chi": ""
-        },
-        "attr": [
-          "sta",
-          "right",
-          "UX",
-          "fused"
-        ],
-        "stat": null,
-        "rawStat": [
-          null
-        ],
-        "desc": "（2026/10 DMMくじ中會推出）",
-        "image": "https://go-shoot.github.io/x/img/blade/BsBr.png"
       },
       {
         "code": "VkHc",
@@ -33011,7 +33012,7 @@
           null,
           10
         ],
-        "desc": "",
+        "desc": "細球狀軸端長久地迴轉；十枚齒Gear於X Dash時減輕持久損失。",
         "group": "round",
         "mobility": 10,
         "image": "https://go-shoot.github.io/x/img/bit/Nr.png"
@@ -33377,7 +33378,7 @@
           78,
           127
         ],
-        "desc": "鈍角的尖銳軸端難以傾斜；十枚齒X Dash時減輕持久損失。",
+        "desc": "鈍角的尖銳軸端難以傾斜；十枚齒Gear於X Dash時減輕持久損失。",
         "group": "sharp",
         "mobility": 10,
         "image": "https://go-shoot.github.io/x/img/bit/W.png"
