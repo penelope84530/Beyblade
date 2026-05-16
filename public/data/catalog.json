@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T06:08:51.930Z",
+  "generatedAt": "2026-05-16T05:40:05.916Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 274,
@@ -2201,9 +2201,9 @@
         "ratchetRaw": [
           6
         ],
-        "bit": null,
+        "bit": 2.5,
         "bitRaw": [
-          null
+          2.5
         ],
         "bitMobility": null
       }
@@ -2298,9 +2298,9 @@
         "ratchetRaw": [
           6
         ],
-        "bit": null,
+        "bit": 2.5,
         "bitRaw": [
-          null
+          2.5
         ],
         "bitMobility": null
       }
@@ -2395,9 +2395,9 @@
         "ratchetRaw": [
           6
         ],
-        "bit": null,
+        "bit": 2.5,
         "bitRaw": [
-          null
+          2.5
         ],
         "bitMobility": null
       }
@@ -2492,9 +2492,9 @@
         "ratchetRaw": [
           6
         ],
-        "bit": null,
+        "bit": 2.5,
         "bitRaw": [
-          null
+          2.5
         ],
         "bitMobility": null
       }
@@ -32664,9 +32664,9 @@
           "chi": ""
         },
         "attr": [],
-        "stat": null,
+        "stat": 2.5,
         "rawStat": [
-          null
+          2.5
         ],
         "desc": "少許變幼的平坦軸端既減輕持久損失也確保衝刺的速度。軸端亦稍幼。",
         "group": "",
