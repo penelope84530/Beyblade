@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T06:37:28.085Z",
+  "generatedAt": "2026-05-19T06:32:36.049Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 274,
@@ -76,7 +76,7 @@
       "isCxExpansion": false,
       "videoId": "UpB6BMBKq2w",
       "meta": {
-        "coat": "darkorange"
+        "coat": "DarkOrange"
       },
       "names": {
         "eng": "Ev.Ar.B 0-70 Elevate",
@@ -150,14 +150,14 @@
         "bitRaw": [
           3.5,
           12,
-          76,
+          30,
           118
         ],
         "bitMobility": 12
       }
     },
     {
-      "id": "bey-9",
+      "id": "bey-8",
       "code": "BXC-13",
       "variantCode": "BXC-13",
       "variantNo": "01",
@@ -289,7 +289,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           125
         ],
         "bitMobility": 12
@@ -427,11 +427,9 @@
         "bit": 2,
         "bitRaw": [
           2,
-          12,
-          77,
           112
         ],
-        "bitMobility": 12
+        "bitMobility": 112
       }
     },
     {
@@ -573,7 +571,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           123
         ],
         "bitMobility": 12
@@ -711,11 +709,9 @@
         "bit": 2,
         "bitRaw": [
           2,
-          12,
-          77,
           112
         ],
-        "bitMobility": 12
+        "bitMobility": 112
       }
     }
   ],
@@ -785,7 +781,7 @@
       "isCxExpansion": false,
       "videoId": "UpB6BMBKq2w",
       "meta": {
-        "coat": "darkorange"
+        "coat": "DarkOrange"
       },
       "names": {
         "eng": "Ev.Ar.B 0-70 Elevate",
@@ -859,7 +855,7 @@
         "bitRaw": [
           3.5,
           12,
-          76,
+          30,
           118
         ],
         "bitMobility": 12
@@ -1001,7 +997,7 @@
         "bitRaw": [
           2.5,
           12,
-          95,
+          80,
           123
         ],
         "bitMobility": 12
@@ -1144,7 +1140,7 @@
         "bitRaw": [
           2.5,
           16,
-          94,
+          80,
           122
         ],
         "bitMobility": 16
@@ -1192,7 +1188,7 @@
       "isCxExpansion": false,
       "videoId": "wVYcf4eMtmo",
       "meta": {
-        "coat": "royalblue",
+        "coat": "RoyalBlue",
         "get": "J"
       },
       "names": {
@@ -1244,7 +1240,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           125
         ],
         "bitMobility": 12
@@ -1693,6 +1689,145 @@
     },
     {
       "id": "bey-8",
+      "code": "BXC-13",
+      "variantCode": "BXC-13",
+      "variantNo": "01",
+      "hasVariants": false,
+      "displayCode": "BXC-13",
+      "normalizedVariantCode": "BXC13",
+      "normalizedCode": "BXC13",
+      "line": "BX",
+      "productType": "Lm H",
+      "comboRaw": "Dr.Ar.S 2-70 K",
+      "bladeCode": "Dr.Ar.S",
+      "ratchetCode": "2-70",
+      "bitCode": "K",
+      "cxChipCode": "Dr",
+      "cxMainCode": "Ar",
+      "cxSuffixCode": "S",
+      "cxComponents": {
+        "chip": "Dr",
+        "main": "Ar",
+        "assist": "S",
+        "over": "",
+        "metal": "",
+        "hasbro": ""
+      },
+      "cxComponentsAll": {
+        "chip": [
+          "Dr"
+        ],
+        "main": [
+          "Ar"
+        ],
+        "assist": [
+          "S"
+        ],
+        "over": [],
+        "metal": [],
+        "hasbro": []
+      },
+      "cxDisplayComponents": [
+        {
+          "category": "chip",
+          "label": "紋章",
+          "code": "Dr",
+          "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Dr.png"
+        },
+        {
+          "category": "main",
+          "label": "主要戰刃",
+          "code": "Ar",
+          "image": "https://go-shoot.github.io/x/img/blade/CX/main/Ar.png"
+        },
+        {
+          "category": "assist",
+          "label": "輔助戰刃",
+          "code": "S",
+          "image": "https://go-shoot.github.io/x/img/blade/CX/assist/S.png"
+        }
+      ],
+      "cxUnknownTokens": [],
+      "isCx": true,
+      "isCxExpansion": false,
+      "videoId": "[object Object]",
+      "meta": {},
+      "names": {
+        "eng": "Dr.Ar.S 2-70 Kick",
+        "chi": "弧光 至尊 2-70 K",
+        "jap": "アーク"
+      },
+      "formalName": "Dr.Ar.S 2-70 Kick",
+      "formalAlias": "弧光 至尊 2-70 K",
+      "searchTokens": [
+        "BXC-13",
+        "Dr.Ar.S 2-70 K",
+        "Dr.Ar.S",
+        "Dr.Ar.S 2-70 Kick",
+        "アーク",
+        "弧光 至尊 2-70 K"
+      ],
+      "images": {
+        "blade": "https://go-shoot.github.io/x/img/blade/Dr.Ar.S.png",
+        "bladeMain": "https://go-shoot.github.io/x/img/blade/CX/main/Ar.png",
+        "ratchet": "https://go-shoot.github.io/x/img/ratchet/2-70.png",
+        "bit": "https://go-shoot.github.io/x/img/bit/K.png",
+        "cx": [
+          {
+            "category": "chip",
+            "label": "紋章",
+            "code": "Dr",
+            "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Dr.png"
+          },
+          {
+            "category": "main",
+            "label": "主要戰刃",
+            "code": "Ar",
+            "image": "https://go-shoot.github.io/x/img/blade/CX/main/Ar.png"
+          },
+          {
+            "category": "assist",
+            "label": "輔助戰刃",
+            "code": "S",
+            "image": "https://go-shoot.github.io/x/img/blade/CX/assist/S.png"
+          }
+        ]
+      },
+      "isArMain": true,
+      "attributes": {
+        "blade": [],
+        "bladeMain": [
+          "sta",
+          "right"
+        ],
+        "ratchet": [],
+        "bit": [
+          "bal"
+        ]
+      },
+      "stats": {
+        "blade": null,
+        "bladeRaw": [],
+        "bladeMain": 29.5,
+        "bladeMainRaw": [
+          29.5
+        ],
+        "ratchet": 6.5,
+        "ratchetRaw": [
+          6.5
+        ],
+        "bit": 2.5,
+        "bitRaw": [
+          2.5,
+          12,
+          80,
+          125
+        ],
+        "bitMobility": 12
+      }
+    },
+    {
+      "id": "bey-9",
       "code": "BXH-?2",
       "variantCode": "BXH-?2",
       "variantNo": "01",
@@ -1832,149 +1967,10 @@
         "bitRaw": [
           4.5,
           20,
-          78,
+          30,
           150
         ],
         "bitMobility": 20
-      }
-    },
-    {
-      "id": "bey-9",
-      "code": "BXC-13",
-      "variantCode": "BXC-13",
-      "variantNo": "01",
-      "hasVariants": false,
-      "displayCode": "BXC-13",
-      "normalizedVariantCode": "BXC13",
-      "normalizedCode": "BXC13",
-      "line": "BX",
-      "productType": "Lm H",
-      "comboRaw": "Dr.Ar.S 2-70 K",
-      "bladeCode": "Dr.Ar.S",
-      "ratchetCode": "2-70",
-      "bitCode": "K",
-      "cxChipCode": "Dr",
-      "cxMainCode": "Ar",
-      "cxSuffixCode": "S",
-      "cxComponents": {
-        "chip": "Dr",
-        "main": "Ar",
-        "assist": "S",
-        "over": "",
-        "metal": "",
-        "hasbro": ""
-      },
-      "cxComponentsAll": {
-        "chip": [
-          "Dr"
-        ],
-        "main": [
-          "Ar"
-        ],
-        "assist": [
-          "S"
-        ],
-        "over": [],
-        "metal": [],
-        "hasbro": []
-      },
-      "cxDisplayComponents": [
-        {
-          "category": "chip",
-          "label": "紋章",
-          "code": "Dr",
-          "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Dr.png"
-        },
-        {
-          "category": "main",
-          "label": "主要戰刃",
-          "code": "Ar",
-          "image": "https://go-shoot.github.io/x/img/blade/CX/main/Ar.png"
-        },
-        {
-          "category": "assist",
-          "label": "輔助戰刃",
-          "code": "S",
-          "image": "https://go-shoot.github.io/x/img/blade/CX/assist/S.png"
-        }
-      ],
-      "cxUnknownTokens": [],
-      "isCx": true,
-      "isCxExpansion": false,
-      "videoId": "[object Object]",
-      "meta": {},
-      "names": {
-        "eng": "Dr.Ar.S 2-70 Kick",
-        "chi": "弧光 至尊 2-70 K",
-        "jap": "アーク"
-      },
-      "formalName": "Dr.Ar.S 2-70 Kick",
-      "formalAlias": "弧光 至尊 2-70 K",
-      "searchTokens": [
-        "BXC-13",
-        "Dr.Ar.S 2-70 K",
-        "Dr.Ar.S",
-        "Dr.Ar.S 2-70 Kick",
-        "アーク",
-        "弧光 至尊 2-70 K"
-      ],
-      "images": {
-        "blade": "https://go-shoot.github.io/x/img/blade/Dr.Ar.S.png",
-        "bladeMain": "https://go-shoot.github.io/x/img/blade/CX/main/Ar.png",
-        "ratchet": "https://go-shoot.github.io/x/img/ratchet/2-70.png",
-        "bit": "https://go-shoot.github.io/x/img/bit/K.png",
-        "cx": [
-          {
-            "category": "chip",
-            "label": "紋章",
-            "code": "Dr",
-            "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Dr.png"
-          },
-          {
-            "category": "main",
-            "label": "主要戰刃",
-            "code": "Ar",
-            "image": "https://go-shoot.github.io/x/img/blade/CX/main/Ar.png"
-          },
-          {
-            "category": "assist",
-            "label": "輔助戰刃",
-            "code": "S",
-            "image": "https://go-shoot.github.io/x/img/blade/CX/assist/S.png"
-          }
-        ]
-      },
-      "isArMain": true,
-      "attributes": {
-        "blade": [],
-        "bladeMain": [
-          "sta",
-          "right"
-        ],
-        "ratchet": [],
-        "bit": [
-          "bal"
-        ]
-      },
-      "stats": {
-        "blade": null,
-        "bladeRaw": [],
-        "bladeMain": 29.5,
-        "bladeMainRaw": [
-          29.5
-        ],
-        "ratchet": 6.5,
-        "ratchetRaw": [
-          6.5
-        ],
-        "bit": 2.5,
-        "bitRaw": [
-          2.5,
-          12,
-          94,
-          125
-        ],
-        "bitMobility": 12
       }
     },
     {
@@ -2109,7 +2105,7 @@
         "bitRaw": [
           2.5,
           12,
-          95,
+          80,
           123
         ],
         "bitMobility": 12
@@ -2642,9 +2638,10 @@
         ],
         "bit": 2.5,
         "bitRaw": [
-          2.5
+          2.5,
+          121
         ],
-        "bitMobility": null
+        "bitMobility": 121
       }
     },
     {
@@ -2888,11 +2885,9 @@
         "bit": 2,
         "bitRaw": [
           2,
-          12,
-          77,
           112
         ],
-        "bitMobility": 12
+        "bitMobility": 112
       }
     },
     {
@@ -2988,9 +2983,10 @@
         ],
         "bit": 2.5,
         "bitRaw": [
-          2.5
+          2.5,
+          121
         ],
-        "bitMobility": null
+        "bitMobility": 121
       }
     },
     {
@@ -3088,7 +3084,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           123
         ],
         "bitMobility": 12
@@ -3186,9 +3182,10 @@
         ],
         "bit": 2.5,
         "bitRaw": [
-          2.5
+          2.5,
+          121
         ],
-        "bitMobility": null
+        "bitMobility": 121
       }
     },
     {
@@ -3282,7 +3279,7 @@
         "bitRaw": [
           2.5,
           16,
-          94,
+          80,
           115
         ],
         "bitMobility": 16
@@ -3573,7 +3570,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           124
         ],
         "bitMobility": 12
@@ -3676,7 +3673,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           124
         ],
         "bitMobility": 12
@@ -4175,7 +4172,7 @@
         "bitRaw": [
           2,
           10,
-          94,
+          80,
           123
         ],
         "bitMobility": 10
@@ -4328,7 +4325,7 @@
         "bitRaw": [
           2.5,
           16,
-          94,
+          80,
           100
         ],
         "bitMobility": 16
@@ -4426,7 +4423,7 @@
         "bitRaw": [
           3.5,
           18,
-          94,
+          80,
           154
         ],
         "bitMobility": 18
@@ -4579,7 +4576,7 @@
         "bitRaw": [
           2.5,
           16,
-          94,
+          80,
           100
         ],
         "bitMobility": 16
@@ -4726,7 +4723,7 @@
         "bitRaw": [
           4.5,
           20,
-          78,
+          30,
           150
         ],
         "bitMobility": 20
@@ -5028,7 +5025,7 @@
         "bitRaw": [
           2.5,
           16,
-          94,
+          80,
           100
         ],
         "bitMobility": 16
@@ -5076,7 +5073,7 @@
       "isCxExpansion": false,
       "videoId": "QWlZPteZQ2o",
       "meta": {
-        "coat": "white",
+        "coat": "White",
         "get": "J"
       },
       "names": {
@@ -5129,7 +5126,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -5177,7 +5174,7 @@
       "isCxExpansion": false,
       "videoId": "QWlZPteZQ2o",
       "meta": {
-        "coat": "black",
+        "coat": "Black",
         "get": "J"
       },
       "names": {
@@ -5229,7 +5226,7 @@
         "bitRaw": [
           2.5,
           12,
-          95,
+          80,
           123
         ],
         "bitMobility": 12
@@ -5420,7 +5417,7 @@
         "bitRaw": [
           2.5,
           16,
-          94,
+          80,
           122
         ],
         "bitMobility": 16
@@ -5556,7 +5553,7 @@
       "isCxExpansion": false,
       "videoId": "hoXiPCdBNf4",
       "meta": {
-        "coat": "black",
+        "coat": "Black",
         "get": 5
       },
       "names": {
@@ -5613,7 +5610,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -5714,7 +5711,7 @@
         "bitRaw": [
           3.5,
           12,
-          76,
+          30,
           118
         ],
         "bitMobility": 12
@@ -5815,7 +5812,7 @@
         "bitRaw": [
           2,
           12,
-          77,
+          30,
           123
         ],
         "bitMobility": 12
@@ -6015,7 +6012,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -6112,7 +6109,7 @@
         "bitRaw": [
           2.5,
           16,
-          94,
+          80,
           125
         ],
         "bitMobility": 16
@@ -6183,7 +6180,7 @@
       "isCxExpansion": false,
       "videoId": "UX1qng-Ncag",
       "meta": {
-        "coat": "crimson"
+        "coat": "Crimson"
       },
       "names": {
         "eng": "Ph.Fr.Z 9-80 WW",
@@ -6251,7 +6248,7 @@
         "bitRaw": [
           2.5,
           16,
-          78,
+          30,
           132
         ],
         "bitMobility": 16
@@ -6344,7 +6341,7 @@
         "bitRaw": [
           2.5,
           12,
-          95,
+          80,
           123
         ],
         "bitMobility": 12
@@ -6437,7 +6434,7 @@
         "bitRaw": [
           2,
           12,
-          76,
+          30,
           123
         ],
         "bitMobility": 12
@@ -6530,7 +6527,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           123
         ],
         "bitMobility": 12
@@ -6625,11 +6622,9 @@
         "bit": 3,
         "bitRaw": [
           3,
-          16,
-          95,
           123
         ],
-        "bitMobility": 16
+        "bitMobility": 123
       }
     },
     {
@@ -6731,7 +6726,7 @@
         "bitRaw": [
           2,
           10,
-          78,
+          30,
           127
         ],
         "bitMobility": 10
@@ -6832,7 +6827,7 @@
         "bitRaw": [
           2,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -6977,7 +6972,7 @@
         "bitRaw": [
           2,
           10,
-          78,
+          30,
           127
         ],
         "bitMobility": 10
@@ -7116,11 +7111,9 @@
         "bit": 2.5,
         "bitRaw": [
           2.5,
-          12,
-          94,
           115
         ],
-        "bitMobility": 12
+        "bitMobility": null
       }
     },
     {
@@ -7220,7 +7213,7 @@
         "bitRaw": [
           2.5,
           16,
-          76,
+          30,
           124
         ],
         "bitMobility": 16
@@ -7319,11 +7312,9 @@
         "bit": 2,
         "bitRaw": [
           2,
-          10,
-          95,
           113
         ],
-        "bitMobility": 10
+        "bitMobility": 113
       }
     },
     {
@@ -7368,7 +7359,7 @@
       "isCxExpansion": false,
       "videoId": "ZHqDUZD9dhE",
       "meta": {
-        "coat": "white"
+        "coat": "White"
       },
       "names": {
         "eng": "Meteor\\Dragoon 3-70 Jolt",
@@ -7421,7 +7412,7 @@
         "bitRaw": [
           2.5,
           16,
-          94,
+          80,
           122
         ],
         "bitMobility": 16
@@ -7607,7 +7598,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -7700,7 +7691,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -7793,7 +7784,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           124
         ],
         "bitMobility": 12
@@ -7886,7 +7877,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           123
         ],
         "bitMobility": 12
@@ -8118,7 +8109,7 @@
         "bitRaw": [
           2.5,
           16,
-          94,
+          80,
           122
         ],
         "bitMobility": 16
@@ -8207,7 +8198,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           124
         ],
         "bitMobility": 12
@@ -8278,7 +8269,7 @@
       "isCxExpansion": false,
       "videoId": "QLM-ZRsHABE",
       "meta": {
-        "coat": "black"
+        "coat": "Black"
       },
       "names": {
         "eng": "Em.Mg.H Op",
@@ -8542,11 +8533,9 @@
         "bit": 2,
         "bitRaw": [
           2,
-          12,
-          76,
           123
         ],
-        "bitMobility": 12
+        "bitMobility": 123
       }
     },
     {
@@ -8680,11 +8669,9 @@
         "bit": 3.5,
         "bitRaw": [
           3.5,
-          12,
-          77,
           146
         ],
-        "bitMobility": 12
+        "bitMobility": 146
       }
     },
     {
@@ -8982,7 +8969,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           124
         ],
         "bitMobility": 12
@@ -9087,7 +9074,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           124
         ],
         "bitMobility": 12
@@ -9192,7 +9179,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           124
         ],
         "bitMobility": 12
@@ -9240,7 +9227,7 @@
       "isCxExpansion": false,
       "videoId": "Ux1CECkawLU",
       "meta": {
-        "coat": "crimson"
+        "coat": "Crimson"
       },
       "names": {
         "eng": "Cobalt\\Drake 9-60 Rush",
@@ -9296,7 +9283,7 @@
         "bitRaw": [
           2,
           10,
-          94,
+          80,
           123
         ],
         "bitMobility": 10
@@ -9397,7 +9384,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -9731,7 +9718,7 @@
         "bitRaw": [
           2.5,
           16,
-          94,
+          80,
           125
         ],
         "bitMobility": 16
@@ -9966,7 +9953,7 @@
         "bitRaw": [
           3.5,
           18,
-          94,
+          80,
           154
         ],
         "bitMobility": 18
@@ -10104,11 +10091,9 @@
         "bit": 2,
         "bitRaw": [
           2,
-          12,
-          77,
           112
         ],
-        "bitMobility": 12
+        "bitMobility": 112
       }
     },
     {
@@ -10439,7 +10424,7 @@
         "bitRaw": [
           2.5,
           16,
-          94,
+          80,
           122
         ],
         "bitMobility": 16
@@ -10542,7 +10527,7 @@
         "bitRaw": [
           2,
           12,
-          76,
+          30,
           123
         ],
         "bitMobility": 12
@@ -10746,7 +10731,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -10890,7 +10875,7 @@
         "bitRaw": [
           2.5,
           16,
-          76,
+          30,
           130
         ],
         "bitMobility": 16
@@ -11175,7 +11160,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -11273,11 +11258,9 @@
         "bit": 2.5,
         "bitRaw": [
           2.5,
-          12,
-          77,
           124
         ],
-        "bitMobility": 12
+        "bitMobility": 124
       }
     },
     {
@@ -11374,7 +11357,7 @@
         "bitRaw": [
           2.5,
           16,
-          76,
+          30,
           130
         ],
         "bitMobility": 16
@@ -11476,7 +11459,7 @@
         "bitRaw": [
           2.5,
           16,
-          76,
+          30,
           130
         ],
         "bitMobility": 16
@@ -11547,7 +11530,7 @@
       "isCxExpansion": false,
       "videoId": "XGPIM38wqyg",
       "meta": {
-        "coat": "lightseagreen"
+        "coat": "LightSeaGreen"
       },
       "names": {
         "eng": "Pg.Bl.A Tr",
@@ -11705,11 +11688,9 @@
         "bit": 2,
         "bitRaw": [
           2,
-          12,
-          76,
           123
         ],
-        "bitMobility": 12
+        "bitMobility": null
       }
     },
     {
@@ -11845,7 +11826,7 @@
         "bitRaw": [
           2.5,
           12,
-          95,
+          80,
           123
         ],
         "bitMobility": 12
@@ -12042,11 +12023,9 @@
         "bit": 2,
         "bitRaw": [
           2,
-          12,
-          76,
           123
         ],
-        "bitMobility": 12
+        "bitMobility": null
       }
     },
     {
@@ -12324,11 +12303,9 @@
         "bit": 3.5,
         "bitRaw": [
           3.5,
-          12,
-          77,
           146
         ],
-        "bitMobility": 12
+        "bitMobility": 146
       }
     },
     {
@@ -12468,7 +12445,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -12664,7 +12641,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -12767,7 +12744,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           123
         ],
         "bitMobility": 12
@@ -12870,7 +12847,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           124
         ],
         "bitMobility": 12
@@ -12973,7 +12950,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           124
         ],
         "bitMobility": 12
@@ -13115,7 +13092,7 @@
         "bitRaw": [
           2.5,
           12,
-          95,
+          80,
           123
         ],
         "bitMobility": 12
@@ -13257,7 +13234,7 @@
         "bitRaw": [
           2.5,
           12,
-          95,
+          80,
           123
         ],
         "bitMobility": 12
@@ -13399,7 +13376,7 @@
         "bitRaw": [
           2.5,
           12,
-          95,
+          80,
           123
         ],
         "bitMobility": 12
@@ -13496,7 +13473,7 @@
         "bitRaw": [
           2.5,
           16,
-          94,
+          80,
           115
         ],
         "bitMobility": 16
@@ -13599,7 +13576,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -13702,7 +13679,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           123
         ],
         "bitMobility": 12
@@ -13805,7 +13782,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           124
         ],
         "bitMobility": 12
@@ -13908,7 +13885,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           124
         ],
         "bitMobility": 12
@@ -14011,7 +13988,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -14114,7 +14091,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           123
         ],
         "bitMobility": 12
@@ -14217,7 +14194,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           124
         ],
         "bitMobility": 12
@@ -14320,7 +14297,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           124
         ],
         "bitMobility": 12
@@ -14465,7 +14442,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           125
         ],
         "bitMobility": 12
@@ -14610,7 +14587,7 @@
         "bitRaw": [
           2,
           12,
-          76,
+          30,
           123
         ],
         "bitMobility": 12
@@ -14755,7 +14732,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           123
         ],
         "bitMobility": 12
@@ -14856,7 +14833,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           125
         ],
         "bitMobility": 12
@@ -15054,7 +15031,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           125
         ],
         "bitMobility": 12
@@ -15193,7 +15170,7 @@
         "bitRaw": [
           2,
           10,
-          78,
+          30,
           127
         ],
         "bitMobility": 10
@@ -15430,7 +15407,7 @@
         "bitRaw": [
           2,
           10,
-          78,
+          30,
           127
         ],
         "bitMobility": 10
@@ -15572,7 +15549,7 @@
         "bitRaw": [
           2.5,
           12,
-          95,
+          80,
           123
         ],
         "bitMobility": 12
@@ -15711,7 +15688,7 @@
         "bitRaw": [
           2,
           10,
-          78,
+          30,
           127
         ],
         "bitMobility": 10
@@ -15849,11 +15826,9 @@
         "bit": 2,
         "bitRaw": [
           2,
-          12,
-          77,
           112
         ],
-        "bitMobility": 12
+        "bitMobility": 112
       }
     },
     {
@@ -15988,7 +15963,7 @@
         "bitRaw": [
           2.5,
           12,
-          95,
+          80,
           123
         ],
         "bitMobility": 12
@@ -16186,11 +16161,9 @@
         "bit": 3,
         "bitRaw": [
           3,
-          16,
-          95,
           123
         ],
-        "bitMobility": 16
+        "bitMobility": 123
       }
     },
     {
@@ -16286,11 +16259,9 @@
         "bit": 3,
         "bitRaw": [
           3,
-          16,
-          95,
           123
         ],
-        "bitMobility": 16
+        "bitMobility": 123
       }
     },
     {
@@ -16386,11 +16357,9 @@
         "bit": 3,
         "bitRaw": [
           3,
-          16,
-          95,
           123
         ],
-        "bitMobility": 16
+        "bitMobility": 123
       }
     },
     {
@@ -16488,7 +16457,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -16536,7 +16505,7 @@
       "isCxExpansion": false,
       "videoId": "zcDJ4KjxusA",
       "meta": {
-        "coat": "black",
+        "coat": "Black",
         "get": "J"
       },
       "names": {
@@ -16874,7 +16843,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           123
         ],
         "bitMobility": 12
@@ -16976,7 +16945,7 @@
         "bitRaw": [
           2,
           12,
-          76,
+          30,
           123
         ],
         "bitMobility": 12
@@ -17070,11 +17039,9 @@
         "bit": 2,
         "bitRaw": [
           2,
-          12,
-          77,
           102
         ],
-        "bitMobility": 12
+        "bitMobility": 102
       }
     },
     {
@@ -17119,7 +17086,7 @@
       "isCxExpansion": false,
       "videoId": "EV4RZm7r7ik",
       "meta": {
-        "coat": "crimson"
+        "coat": "Crimson"
       },
       "names": {
         "eng": "HellsHammer 3-70 Hexa",
@@ -17170,7 +17137,7 @@
         "bitRaw": [
           2.5,
           16,
-          94,
+          80,
           122
         ],
         "bitMobility": 16
@@ -17218,7 +17185,7 @@
       "isCxExpansion": false,
       "videoId": "EV4RZm7r7ik",
       "meta": {
-        "coat": "blue"
+        "coat": "Blue"
       },
       "names": {
         "eng": "DranBuster 1-60 Accel",
@@ -17269,7 +17236,7 @@
         "bitRaw": [
           2.5,
           16,
-          94,
+          80,
           122
         ],
         "bitMobility": 16
@@ -17366,7 +17333,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -17463,7 +17430,7 @@
         "bitRaw": [
           2.5,
           16,
-          94,
+          80,
           122
         ],
         "bitMobility": 16
@@ -17561,7 +17528,7 @@
         "bitRaw": [
           2,
           12,
-          76,
+          30,
           123
         ],
         "bitMobility": 12
@@ -17761,7 +17728,7 @@
         "bitRaw": [
           2.5,
           16,
-          94,
+          80,
           122
         ],
         "bitMobility": 16
@@ -17862,7 +17829,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -17963,7 +17930,7 @@
         "bitRaw": [
           3.5,
           12,
-          76,
+          30,
           118
         ],
         "bitMobility": 12
@@ -18064,7 +18031,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           123
         ],
         "bitMobility": 12
@@ -18165,7 +18132,7 @@
         "bitRaw": [
           2,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -18260,11 +18227,9 @@
         "bit": 2,
         "bitRaw": [
           2,
-          10,
-          95,
           113
         ],
-        "bitMobility": 10
+        "bitMobility": 113
       }
     },
     {
@@ -18358,7 +18323,7 @@
         "bitRaw": [
           3.5,
           12,
-          76,
+          30,
           118
         ],
         "bitMobility": 12
@@ -18459,7 +18424,7 @@
         "bitRaw": [
           2.5,
           16,
-          94,
+          80,
           122
         ],
         "bitMobility": 16
@@ -18560,7 +18525,7 @@
         "bitRaw": [
           2.5,
           16,
-          94,
+          80,
           122
         ],
         "bitMobility": 16
@@ -18661,7 +18626,7 @@
         "bitRaw": [
           2.5,
           16,
-          94,
+          80,
           122
         ],
         "bitMobility": 16
@@ -18759,7 +18724,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -18860,7 +18825,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           123
         ],
         "bitMobility": 12
@@ -19055,11 +19020,9 @@
         "bit": 3.5,
         "bitRaw": [
           3.5,
-          12,
-          77,
           146
         ],
-        "bitMobility": 12
+        "bitMobility": 146
       }
     },
     {
@@ -19249,11 +19212,9 @@
         "bit": 2,
         "bitRaw": [
           2,
-          12,
-          76,
           123
         ],
-        "bitMobility": 12
+        "bitMobility": null
       }
     },
     {
@@ -19351,7 +19312,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           124
         ],
         "bitMobility": 12
@@ -19449,11 +19410,9 @@
         "bit": 3,
         "bitRaw": [
           3,
-          16,
-          95,
           123
         ],
-        "bitMobility": 16
+        "bitMobility": 123
       }
     },
     {
@@ -19549,7 +19508,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           124
         ],
         "bitMobility": 12
@@ -19639,11 +19598,9 @@
         "bit": 2.5,
         "bitRaw": [
           2.5,
-          12,
-          77,
           124
         ],
-        "bitMobility": 12
+        "bitMobility": 124
       }
     },
     {
@@ -19733,7 +19690,7 @@
         "bitRaw": [
           2,
           10,
-          94,
+          80,
           123
         ],
         "bitMobility": 10
@@ -19830,7 +19787,7 @@
         "bitRaw": [
           2.5,
           16,
-          94,
+          80,
           125
         ],
         "bitMobility": 16
@@ -19925,11 +19882,9 @@
         "bit": 2.5,
         "bitRaw": [
           2.5,
-          12,
-          94,
           115
         ],
-        "bitMobility": 12
+        "bitMobility": null
       }
     },
     {
@@ -20021,11 +19976,9 @@
         "bit": 2,
         "bitRaw": [
           2,
-          12,
-          76,
           123
         ],
-        "bitMobility": 12
+        "bitMobility": 123
       }
     },
     {
@@ -20119,7 +20072,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -20222,7 +20175,7 @@
         "bitRaw": [
           3.5,
           12,
-          76,
+          30,
           118
         ],
         "bitMobility": 12
@@ -20520,7 +20473,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -20622,7 +20575,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -20716,11 +20669,9 @@
         "bit": 3.5,
         "bitRaw": [
           3.5,
-          12,
-          77,
           146
         ],
-        "bitMobility": 12
+        "bitMobility": 146
       }
     },
     {
@@ -20815,7 +20766,7 @@
         "bitRaw": [
           2,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -20863,7 +20814,7 @@
       "isCxExpansion": false,
       "videoId": "Q3Ber7yVGwM",
       "meta": {
-        "coat": "crimson"
+        "coat": "Crimson"
       },
       "names": {
         "eng": "PhoenixRudder 9-70 Glide",
@@ -20918,7 +20869,7 @@
         "bitRaw": [
           2.5,
           16,
-          76,
+          30,
           124
         ],
         "bitMobility": 16
@@ -21019,7 +20970,7 @@
         "bitRaw": [
           2,
           12,
-          77,
+          30,
           123
         ],
         "bitMobility": 12
@@ -21307,7 +21258,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -21355,7 +21306,7 @@
       "isCxExpansion": false,
       "videoId": "ie2_Gkjzj64",
       "meta": {
-        "coat": "black",
+        "coat": "Black",
         "get": "J"
       },
       "names": {
@@ -21496,7 +21447,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -21589,7 +21540,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -21682,7 +21633,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           124
         ],
         "bitMobility": 12
@@ -21775,7 +21726,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           123
         ],
         "bitMobility": 12
@@ -21873,7 +21824,7 @@
         "bitRaw": [
           2.5,
           16,
-          94,
+          80,
           122
         ],
         "bitMobility": 16
@@ -21977,7 +21928,7 @@
         "bitRaw": [
           2,
           12,
-          76,
+          30,
           123
         ],
         "bitMobility": 12
@@ -22079,7 +22030,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           124
         ],
         "bitMobility": 12
@@ -22180,7 +22131,7 @@
         "bitRaw": [
           2,
           12,
-          76,
+          30,
           123
         ],
         "bitMobility": 12
@@ -22281,7 +22232,7 @@
         "bitRaw": [
           2,
           10,
-          94,
+          80,
           123
         ],
         "bitMobility": 10
@@ -22382,7 +22333,7 @@
         "bitRaw": [
           2.5,
           16,
-          94,
+          80,
           122
         ],
         "bitMobility": 16
@@ -22483,7 +22434,7 @@
         "bitRaw": [
           2,
           12,
-          76,
+          30,
           123
         ],
         "bitMobility": 12
@@ -22581,7 +22532,7 @@
         "bitRaw": [
           2,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -22679,7 +22630,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -22861,11 +22812,9 @@
         "bit": 3.5,
         "bitRaw": [
           3.5,
-          12,
-          77,
           146
         ],
-        "bitMobility": 12
+        "bitMobility": 146
       }
     },
     {
@@ -22962,11 +22911,9 @@
         "bit": 2.5,
         "bitRaw": [
           2.5,
-          12,
-          77,
           124
         ],
-        "bitMobility": 12
+        "bitMobility": 124
       }
     },
     {
@@ -23353,7 +23300,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -23454,7 +23401,7 @@
         "bitRaw": [
           2,
           12,
-          77,
+          30,
           123
         ],
         "bitMobility": 12
@@ -23555,7 +23502,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           123
         ],
         "bitMobility": 12
@@ -23656,7 +23603,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           124
         ],
         "bitMobility": 12
@@ -23757,7 +23704,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -23858,7 +23805,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -23956,7 +23903,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           124
         ],
         "bitMobility": 12
@@ -24057,7 +24004,7 @@
         "bitRaw": [
           2.5,
           16,
-          94,
+          80,
           122
         ],
         "bitMobility": 16
@@ -24155,11 +24102,9 @@
         "bit": 3.5,
         "bitRaw": [
           3.5,
-          12,
-          77,
           146
         ],
-        "bitMobility": 12
+        "bitMobility": 146
       }
     },
     {
@@ -24250,11 +24195,9 @@
         "bit": 3.5,
         "bitRaw": [
           3.5,
-          12,
-          77,
           146
         ],
-        "bitMobility": 12
+        "bitMobility": 146
       }
     },
     {
@@ -24348,7 +24291,7 @@
         "bitRaw": [
           2.5,
           16,
-          94,
+          80,
           122
         ],
         "bitMobility": 16
@@ -24445,7 +24388,7 @@
         "bitRaw": [
           2.5,
           16,
-          94,
+          80,
           122
         ],
         "bitMobility": 16
@@ -24635,7 +24578,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           124
         ],
         "bitMobility": 12
@@ -24932,7 +24875,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           123
         ],
         "bitMobility": 12
@@ -25029,7 +24972,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -25219,7 +25162,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -25419,7 +25362,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -25617,7 +25560,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -25859,7 +25802,7 @@
       "isCxExpansion": false,
       "videoId": "AJ0IfMWiTm0",
       "meta": {
-        "coat": "crimson"
+        "coat": "Crimson"
       },
       "names": {
         "eng": "PhoenixWing 9-60 GF",
@@ -26095,7 +26038,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -26196,7 +26139,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -26297,7 +26240,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -26394,7 +26337,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -26689,7 +26632,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           123
         ],
         "bitMobility": 12
@@ -26790,7 +26733,7 @@
         "bitRaw": [
           2,
           10,
-          94,
+          80,
           123
         ],
         "bitMobility": 10
@@ -26891,7 +26834,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -26992,7 +26935,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -27089,7 +27032,7 @@
         "bitRaw": [
           2,
           12,
-          77,
+          30,
           123
         ],
         "bitMobility": 12
@@ -27190,7 +27133,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -27291,7 +27234,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           124
         ],
         "bitMobility": 12
@@ -27394,7 +27337,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           123
         ],
         "bitMobility": 12
@@ -27495,7 +27438,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -27689,7 +27632,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           124
         ],
         "bitMobility": 12
@@ -27786,7 +27729,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -27884,7 +27827,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -28084,7 +28027,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           123
         ],
         "bitMobility": 12
@@ -28185,7 +28128,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           124
         ],
         "bitMobility": 12
@@ -28480,7 +28423,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -28670,7 +28613,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           123
         ],
         "bitMobility": 12
@@ -28768,7 +28711,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -28869,7 +28812,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -28970,7 +28913,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           123
         ],
         "bitMobility": 12
@@ -29071,7 +29014,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           124
         ],
         "bitMobility": 12
@@ -29168,7 +29111,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -29265,7 +29208,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           123
         ],
         "bitMobility": 12
@@ -29362,7 +29305,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           124
         ],
         "bitMobility": 12
@@ -29459,7 +29402,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           123
         ],
         "bitMobility": 12
@@ -29556,7 +29499,7 @@
         "bitRaw": [
           2,
           12,
-          78,
+          30,
           124
         ],
         "bitMobility": 12
@@ -29653,7 +29596,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -29750,7 +29693,7 @@
         "bitRaw": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "bitMobility": 12
@@ -32440,7 +32383,7 @@
         "rawStat": [
           2.5,
           16,
-          94,
+          80,
           122
         ],
         "desc": "由平坦軸端加上大型Gear組成，提高X Dash性能。",
@@ -32459,13 +32402,11 @@
         "stat": 3,
         "rawStat": [
           3,
-          16,
-          95,
           123
         ],
         "desc": "提高接地摩擦，在對戰盤内高速跑動。",
         "group": "",
-        "mobility": 16,
+        "mobility": 123,
         "image": "https://go-shoot.github.io/x/img/bit/RA.png"
       },
       {
@@ -32482,7 +32423,7 @@
         "rawStat": [
           2,
           12,
-          78,
+          30,
           124
         ],
         "desc": "球狀軸端以適度移動來躱避攻擊及實現高持久力。",
@@ -32501,13 +32442,11 @@
         "stat": 3.5,
         "rawStat": [
           3.5,
-          12,
-          77,
           146
         ],
         "desc": "産生離心力及堅韌的迴轉。",
         "group": "",
-        "mobility": 12,
+        "mobility": 146,
         "image": "https://go-shoot.github.io/x/img/bit/DB.png"
       },
       {
@@ -32521,13 +32460,11 @@
         "stat": 2,
         "rawStat": [
           2,
-          12,
-          76,
           123
         ],
         "desc": "收細的球狀軸端減少迴轉力的損失。",
         "group": "",
-        "mobility": 12,
+        "mobility": 123,
         "image": "https://go-shoot.github.io/x/img/bit/FB.png"
       },
       {
@@ -32560,7 +32497,7 @@
         "rawStat": [
           2.5,
           16,
-          76,
+          30,
           130
         ],
         "desc": "減低陀螺傾斜。球軸較小。",
@@ -32582,7 +32519,7 @@
         "rawStat": [
           2,
           12,
-          94,
+          80,
           123
         ],
         "desc": "渦形的平坦軸端在左迴轉時提高與對戰盤的緊咬度，能高速攻擊；右迴轉時則減輕與對戰盤的摩擦，能作高持久力的攻擊。",
@@ -32604,7 +32541,7 @@
         "rawStat": [
           2,
           12,
-          76,
+          30,
           123
         ],
         "desc": "在軸端的多數突起提高與對戰盤的摩擦，受攻擊時也難以被推走。",
@@ -32626,7 +32563,7 @@
         "rawStat": [
           3.5,
           12,
-          76,
+          30,
           118
         ],
         "desc": "附有大型Guide（移動引導物）的設計容易保持姿勢；X Dash時軸端浮上，可作Smash攻擊。",
@@ -32648,7 +32585,7 @@
         "rawStat": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "desc": "平坦軸端令陀螺跑動，提高以X Dash決勝的容易度。",
@@ -32741,7 +32678,7 @@
         "rawStat": [
           2.5,
           16,
-          76,
+          30,
           124
         ],
         "desc": "以低摩擦素材製的半球形軸端及其周圍容易使姿勢維持的形狀，實現高持久性能。",
@@ -32763,7 +32700,7 @@
         "rawStat": [
           2.5,
           16,
-          94,
+          80,
           122
         ],
         "desc": "軸端側面六個平面形狀抑制陀螺的傾斜，持續保持安定姿勢。",
@@ -32785,7 +32722,7 @@
         "rawStat": [
           2.5,
           16,
-          94,
+          80,
           100
         ],
         "desc": "設有多個突起的大型圓筒形軸端強力抓向對戰盤，實現高速機動的攻擊。",
@@ -32807,7 +32744,7 @@
         "rawStat": [
           2.5,
           16,
-          94,
+          80,
           122
         ],
         "desc": "一併展現以幼細平坦軸端來壓抑持久損失的攻擊、及大型Gear的高速X Dash。",
@@ -32829,7 +32766,7 @@
         "rawStat": [
           2.5,
           12,
-          94,
+          80,
           125
         ],
         "desc": "有角的軸端側面於對戰盤内踢蹴，實現連續攻擊或反擊防禦的動態。",
@@ -32869,7 +32806,7 @@
         "rawStat": [
           2.5,
           16,
-          94,
+          80,
           125
         ],
         "desc": "軸端有三級的高度，實現低速、中速、高速三種攻擊速度。",
@@ -32891,7 +32828,7 @@
         "rawStat": [
           3.5,
           18,
-          94,
+          80,
           154
         ],
         "desc": "高摩擦的橡膠素材圍繞鈍角的尖軸端，抓力及持久力兼備。",
@@ -32913,7 +32850,7 @@
         "rawStat": [
           2,
           12,
-          78,
+          30,
           123
         ],
         "desc": "尖鋭軸端令陀螺傾斜，提高反擊性能。",
@@ -32968,13 +32905,11 @@
         "stat": 2.5,
         "rawStat": [
           2.5,
-          12,
-          77,
           124
         ],
         "desc": "以重量及減低的摩擦提高安定性。",
         "group": "",
-        "mobility": 12,
+        "mobility": 124,
         "image": "https://go-shoot.github.io/x/img/bit/MN.png"
       },
       {
@@ -32988,13 +32923,11 @@
         "stat": 2,
         "rawStat": [
           2,
-          12,
-          77,
           102
         ],
         "desc": "降低陀螺重心，以支援在低位置的反擊。",
         "group": "",
-        "mobility": 12,
+        "mobility": 102,
         "image": "https://go-shoot.github.io/x/img/bit/UN.png"
       },
       {
@@ -33031,7 +32964,7 @@
         "rawStat": [
           2,
           12,
-          78,
+          30,
           123
         ],
         "desc": "小型半球狀的軸端減低摩擦，提高持久性能。",
@@ -33050,13 +32983,11 @@
         "stat": 2,
         "rawStat": [
           2,
-          12,
-          77,
           112
         ],
         "desc": "低重心化令持久性能向上。",
         "group": "",
-        "mobility": 12,
+        "mobility": 112,
         "image": "https://go-shoot.github.io/x/img/bit/LO.png"
       },
       {
@@ -33073,7 +33004,7 @@
         "rawStat": [
           2.5,
           12,
-          94,
+          80,
           124
         ],
         "desc": "在中心設有突起的平坦軸端，令動態由活躍變化為平靜的機動。",
@@ -33110,13 +33041,11 @@
         "stat": 2.5,
         "rawStat": [
           2.5,
-          12,
-          94,
           115
         ],
         "desc": "",
         "group": "",
-        "mobility": 12,
+        "mobility": null,
         "image": "https://go-shoot.github.io/x/img/bit/TP.png"
       },
       {
@@ -33133,7 +33062,7 @@
         "rawStat": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "desc": "斜向切割形狀的軸端，四處跳躍地暴走，産生不規則的動態。",
@@ -33155,7 +33084,7 @@
         "rawStat": [
           2,
           10,
-          94,
+          80,
           123
         ],
         "desc": "十枚刃Gear以壓抑X Dash的速度來增加衝刺次數。",
@@ -33192,13 +33121,11 @@
         "stat": 2,
         "rawStat": [
           2,
-          10,
-          95,
           113
         ],
         "desc": "擅長Upper攻擊。",
         "group": "",
-        "mobility": 10,
+        "mobility": 113,
         "image": "https://go-shoot.github.io/x/img/bit/LR.png"
       },
       {
@@ -33215,7 +33142,7 @@
         "rawStat": [
           2,
           12,
-          77,
+          30,
           123
         ],
         "desc": "細小尖鋭的軸端持續穩守對戰盤中央，提高反擊機會。",
@@ -33234,13 +33161,11 @@
         "stat": 2,
         "rawStat": [
           2,
-          12,
-          76,
           123
         ],
         "desc": "吸收着地的衝擊。軸端亦稍為增大。",
         "group": "",
-        "mobility": 12,
+        "mobility": null,
         "image": "https://go-shoot.github.io/x/img/bit/BS.png"
       },
       {
@@ -33253,11 +33178,13 @@
         "attr": [],
         "stat": null,
         "rawStat": [
+          null,
+          20,
           null
         ],
         "desc": "（暫只在Hasbro產品中出現）",
         "group": "",
-        "mobility": null,
+        "mobility": 20,
         "image": "https://go-shoot.github.io/x/img/bit/DS.png"
       },
       {
@@ -33274,7 +33201,7 @@
         "rawStat": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "desc": "收細的軸端既有頭段的攻擊力及尾段的持久力。",
@@ -33314,7 +33241,7 @@
         "rawStat": [
           2.5,
           12,
-          94,
+          80,
           123
         ],
         "desc": "球狀軸端的尖端磨平同時在中央設有突起，迴避、衝刺、反擊三種軌道都可能。",
@@ -33332,11 +33259,12 @@
         "attr": [],
         "stat": 2.5,
         "rawStat": [
-          2.5
+          2.5,
+          121
         ],
         "desc": "球軸亦較凸出。",
         "group": "",
-        "mobility": null,
+        "mobility": 121,
         "image": "https://go-shoot.github.io/x/img/bit/GU.png"
       },
       {
@@ -33353,7 +33281,7 @@
         "rawStat": [
           2.5,
           12,
-          95,
+          80,
           123
         ],
         "desc": "渦形的粗大平坦軸端在右迴轉時提高與對戰盤的緊咬性，能高速攻擊。",
@@ -33375,7 +33303,7 @@
         "rawStat": [
           2,
           10,
-          78,
+          30,
           127
         ],
         "desc": "鈍角的尖銳軸端難以傾斜；十枚齒Gear於X Dash時減輕持久損失。",
@@ -33395,7 +33323,7 @@
         "rawStat": [
           2.5,
           16,
-          78,
+          30,
           132
         ],
         "desc": "進一步減低陀螺傾斜。",
@@ -33417,7 +33345,7 @@
         "rawStat": [
           4.5,
           20,
-          78,
+          30,
           150
         ],
         "desc": "大型球狀軸端既有持久性能，四方向突出的重量器亦具姿勢制御性能。",
@@ -33439,7 +33367,7 @@
         "rawStat": [
           2.5,
           16,
-          94,
+          80,
           115
         ],
         "desc": "大形Gear上一併擁有平軸帶來的活躍攻擊及中央突起帶來的平靜防守。",
