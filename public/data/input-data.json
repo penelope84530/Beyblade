@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T06:32:33.118Z",
+  "generatedAt": "2026-05-21T06:34:28.772Z",
   "sources": {
     "forum1117": {
       "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1117",
@@ -9,10 +9,9 @@
         "UX-03",
         "BX-23",
         "CX-16",
-        "CX-13",
-        "BX-48",
         "UX-04",
         "UX-17",
+        "CX-13",
         "UX-11",
         "UX-19",
         "UX-08",
@@ -25,14 +24,19 @@
         "CX-14",
         "CX-15",
         "UX-06",
+        "BX-49",
         "UX-09",
         "CX-02",
         "BX-46",
+        "UX-05",
         "BX-35",
         "BX-31",
         "UX-18",
         "CX-05",
         "CX-08",
+        "CX-17",
+        "CX-18",
+        "BX-48",
         "BX-00",
         "BX-09",
         "BX-25",
@@ -76,6 +80,26 @@
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1071"
         },
         {
+          "snA": 1213,
+          "title": "【問題】CX系列是不是特別弱勢 很喜歡CX陀螺的組裝樂趣 但目前CX系列是不是特別弱勢? 陀螺高度越矮、重心越低，越好轉 CX直接比BX、UX高一截 重點是高出那一截還剛好是固鎖位置 直接露出肚子給人切(對我就是說",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1213"
+        },
+        {
+          "snA": 1163,
+          "title": "【問題】問都問-Q&A集中串 1 2 3 希望版主幫忙置頂 有鑒於現在陀螺環境充斥詐騙跟黃牛 決定來幫助一下所有新手 只要想問的問題都可以問 我會盡量回答 也請其他有愛心的老手幫忙回覆 一起改善陀螺環境 讓更多",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1163"
+        },
+        {
+          "snA": 1212,
+          "title": "【其他】送兌換序號兩個紅天馬、一個魔導至尊 拿了麻煩回覆",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1212"
+        },
+        {
+          "snA": 1117,
+          "title": "【心得】【戰鬥陀螺X 新手入坑指南 2026版】(05/11新增X瀏覽器/查零件用) 2 3 4 【實用連結】 BEYBLADE X 瀏覽器 [快速查詢更種零件及出處 / 另可查詢賽事 / 陀螺交流LINE群] https://beyblade.phstudy.org/ Q: 我不想看那麼多, 給我最快的必買懶人包 (5月份開始 這3盒全買 至",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1117"
+        },
+        {
           "snA": 1211,
           "title": "【問題】騎士堡壘請益 騎士堡壘很帥啊，想玩防禦反擊，再只換固鎖和軸心的情況下，有推薦配置嗎？",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1211"
@@ -84,11 +108,6 @@
           "snA": 1210,
           "title": "【問題】獨角極變請益 有幸中了籤王CX17-01 想請問各位陀螺大神該應如何配置比較好 現階段買不太到CX11,不知是否有其他輔助戰刃可以替代H 另外,主戰刃搭配閃擊 會比 原裝的極變來的合適嗎",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1210"
-        },
-        {
-          "snA": 1163,
-          "title": "【問題】問都問-Q&A集中串 1 2 3 希望版主幫忙置頂 有鑒於現在陀螺環境充斥詐騙跟黃牛 決定來幫助一下所有新手 只要想問的問題都可以問 我會盡量回答 也請其他有愛心的老手幫忙回覆 一起改善陀螺環境 讓更多",
-          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1163"
         },
         {
           "snA": 1209,
@@ -109,11 +128,6 @@
           "snA": 1207,
           "title": "【討論】新手求配置 新手求配置 請問我這全部樣怎麼組才好 有些名稱 還背不起來 所以我自己標記數字 可以麻煩大大幫我組3顆 能上場有勝算的陀螺嗎 追加沒拍到",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1207"
-        },
-        {
-          "snA": 1117,
-          "title": "【心得】【戰鬥陀螺X 新手入坑指南 2026版】(05/11新增X瀏覽器/查零件用) 1 2 3 【實用連結】 BEYBLADE X 瀏覽器 [快速查詢更種零件及出處] https://beyblade.phstudy.org/ Q: 我不想看那麼多, 給我最快的必買懶人包 A: 好的! 陀螺御三家 1.UX-15鯊魚 2.UX-03神杖 3.BX-23鳳凰 【前",
-          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1117"
         },
         {
           "snA": 1205,
@@ -159,28 +173,28 @@
           "snA": 1198,
           "title": "【問題】新手求搭配組：：：：： CX-05 9-80 K CX-07 Tr CX-14 GV 8-70 UN CX-13 BK 1-50 I UX-14 0-70 Z UX-17 3-70 J UX-07 9-70 G / 1-80 GF / 2-60 S UX-06 7-60 GN BX-34 2-60 C BX-23 9-60 GF BX-00 3-60 GF 聖劍 BX-44 M-85 BS CX-01 S 6-60 V CX-03 B 6-80 W 目前有這些型號",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1198"
-        },
-        {
-          "snA": 1194,
-          "title": "【問題】新手剛入坑 買了別人的退坑禮包 求健檢該怎麼搭配比較好！ 目前有的陀螺bx-14-03 蒼龍神劍 bx-14-04 惡魔紅濂 bx-31-03 好像是一隻黑色的鯊魚 bx-48-03 猛瑪獠牙 cx-17-04 惡魔重錘 cx-17-05 粉色的暴龍 cx-10 銀狼 cx-12 鳳凰閃焰 cx-02 魔導至尊 cx-15 邪神狂怒",
-          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1194"
-        },
-        {
-          "snA": 1197,
-          "title": "【攻略】新手配置求健檢 目前陀螺有以下 CX-12 鳳凰閃焰 固鎖 :9-80 軸心:WW CX14 騎士堡壘 固鎖:8-70 軸心:UN UX14 天蠍長矛 固鎖:0-70 軸心:Z UX16 時鐘幻象 固鎖：9-65 軸心：B UX03 神杖 固鎖：5-70 軸心：DB UX19 子彈獅",
-          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1197"
         }
       ],
       "featuredPosts": [
         {
-          "snA": 1210,
-          "title": "【問題】獨角極變請益 有幸中了籤王CX17-01 想請問各位陀螺大神該應如何配置比較好 現階段買不太到CX11,不知是否有其他輔助戰刃可以替代H 另外,主戰刃搭配閃擊 會比 原裝的極變來的合適嗎",
-          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1210"
+          "snA": 1213,
+          "title": "【問題】CX系列是不是特別弱勢 很喜歡CX陀螺的組裝樂趣 但目前CX系列是不是特別弱勢? 陀螺高度越矮、重心越低，越好轉 CX直接比BX、UX高一截 重點是高出那一截還剛好是固鎖位置 直接露出肚子給人切(對我就是說",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1213"
         },
         {
           "snA": 1163,
           "title": "【問題】問都問-Q&A集中串 1 2 3 希望版主幫忙置頂 有鑒於現在陀螺環境充斥詐騙跟黃牛 決定來幫助一下所有新手 只要想問的問題都可以問 我會盡量回答 也請其他有愛心的老手幫忙回覆 一起改善陀螺環境 讓更多",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1163"
+        },
+        {
+          "snA": 1117,
+          "title": "【心得】【戰鬥陀螺X 新手入坑指南 2026版】(05/11新增X瀏覽器/查零件用) 2 3 4 【實用連結】 BEYBLADE X 瀏覽器 [快速查詢更種零件及出處 / 另可查詢賽事 / 陀螺交流LINE群] https://beyblade.phstudy.org/ Q: 我不想看那麼多, 給我最快的必買懶人包 (5月份開始 這3盒全買 至",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1117"
+        },
+        {
+          "snA": 1210,
+          "title": "【問題】獨角極變請益 有幸中了籤王CX17-01 想請問各位陀螺大神該應如何配置比較好 現階段買不太到CX11,不知是否有其他輔助戰刃可以替代H 另外,主戰刃搭配閃擊 會比 原裝的極變來的合適嗎",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1210"
         },
         {
           "snA": 1209,
@@ -201,11 +215,6 @@
           "snA": 1207,
           "title": "【討論】新手求配置 新手求配置 請問我這全部樣怎麼組才好 有些名稱 還背不起來 所以我自己標記數字 可以麻煩大大幫我組3顆 能上場有勝算的陀螺嗎 追加沒拍到",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1207"
-        },
-        {
-          "snA": 1117,
-          "title": "【心得】【戰鬥陀螺X 新手入坑指南 2026版】(05/11新增X瀏覽器/查零件用) 1 2 3 【實用連結】 BEYBLADE X 瀏覽器 [快速查詢更種零件及出處] https://beyblade.phstudy.org/ Q: 我不想看那麼多, 給我最快的必買懶人包 A: 好的! 陀螺御三家 1.UX-15鯊魚 2.UX-03神杖 3.BX-23鳳凰 【前",
-          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1117"
         },
         {
           "snA": 1205,
@@ -266,11 +275,6 @@
           "snA": 1193,
           "title": "【問題】BX-09 Bey Battle Logger 通行證 日韓的版本 可以使用台版app裡面的功能? 想請問 購買過日韓版通行證的 玩家們>",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1193"
-        },
-        {
-          "snA": 1190,
-          "title": "【情報】一隻被低估的戰鬥陀螺手遊! 【戰鬥陀螺X】【AXIS BLADE】【beybladex】【新手必看】",
-          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1190"
         }
       ]
     },
@@ -284,8 +288,8 @@
     "tierCounts": {
       "T0": 11,
       "T1": 19,
-      "T2": 40,
-      "NA": 204
+      "T2": 53,
+      "NA": 191
     }
   },
   "inputs": [
@@ -442,7 +446,7 @@
         "ratchet": "5-70",
         "bit": "Nr"
       },
-      "tier": "NA",
+      "tier": "T2",
       "aliases": [
         "CX-18",
         "CX-18-01",
@@ -475,7 +479,7 @@
         "ratchet": "5-70",
         "bit": "Nr"
       },
-      "tier": "NA",
+      "tier": "T2",
       "aliases": [
         "CX-18",
         "CX-18-02",
@@ -508,7 +512,7 @@
         "ratchet": "5-70",
         "bit": "Nr"
       },
-      "tier": "NA",
+      "tier": "T2",
       "aliases": [
         "CX-18",
         "CX-18-03",
@@ -639,7 +643,7 @@
         "ratchet": "4-50",
         "bit": "FF"
       },
-      "tier": "NA",
+      "tier": "T2",
       "aliases": [
         "BX-49",
         "BX49",
@@ -774,7 +778,7 @@
         "ratchet": "3-60",
         "bit": "GU"
       },
-      "tier": "NA",
+      "tier": "T2",
       "aliases": [
         "CX-17",
         "CX-17-01",
@@ -806,7 +810,7 @@
         "ratchet": "1-80",
         "bit": "GR"
       },
-      "tier": "NA",
+      "tier": "T2",
       "aliases": [
         "CX-17",
         "CX-17-02",
@@ -838,7 +842,7 @@
         "ratchet": "9-65",
         "bit": "LO"
       },
-      "tier": "NA",
+      "tier": "T2",
       "aliases": [
         "CX-17",
         "CX-17-03",
@@ -872,7 +876,7 @@
         "ratchet": "3-85",
         "bit": "GU"
       },
-      "tier": "NA",
+      "tier": "T2",
       "aliases": [
         "CX-17",
         "CX-17-04",
@@ -906,7 +910,7 @@
         "ratchet": "3-60",
         "bit": "N"
       },
-      "tier": "NA",
+      "tier": "T2",
       "aliases": [
         "CX-17",
         "CX-17-05",
@@ -940,7 +944,7 @@
         "ratchet": "7-80",
         "bit": "GU"
       },
-      "tier": "NA",
+      "tier": "T2",
       "aliases": [
         "CX-17",
         "CX-17-06",
@@ -7121,7 +7125,7 @@
         "ratchet": "1-80",
         "bit": "MN"
       },
-      "tier": "NA",
+      "tier": "T2",
       "aliases": [
         "UX-05",
         "UX-05-01",
@@ -7155,7 +7159,7 @@
         "ratchet": "9-60",
         "bit": "LF"
       },
-      "tier": "NA",
+      "tier": "T2",
       "aliases": [
         "UX-05",
         "UX-05-02",
@@ -7189,7 +7193,7 @@
         "ratchet": "3-70",
         "bit": "GP"
       },
-      "tier": "NA",
+      "tier": "T2",
       "aliases": [
         "UX-05",
         "UX-05-03",
