@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T06:36:54.550Z",
+  "generatedAt": "2026-05-29T06:38:04.742Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 274,
@@ -2199,9 +2199,10 @@
         ],
         "bit": 2.5,
         "bitRaw": [
-          2.5
+          2.5,
+          127
         ],
-        "bitMobility": null
+        "bitMobility": 127
       }
     },
     {
@@ -2296,9 +2297,10 @@
         ],
         "bit": 2.5,
         "bitRaw": [
-          2.5
+          2.5,
+          127
         ],
-        "bitMobility": null
+        "bitMobility": 127
       }
     },
     {
@@ -2393,9 +2395,10 @@
         ],
         "bit": 2.5,
         "bitRaw": [
-          2.5
+          2.5,
+          127
         ],
-        "bitMobility": null
+        "bitMobility": 127
       }
     },
     {
@@ -2490,9 +2493,10 @@
         ],
         "bit": 2.5,
         "bitRaw": [
-          2.5
+          2.5,
+          127
         ],
-        "bitMobility": null
+        "bitMobility": 127
       }
     },
     {
@@ -32603,11 +32607,12 @@
         "attr": [],
         "stat": 2.5,
         "rawStat": [
-          2.5
+          2.5,
+          127
         ],
         "desc": "少許變幼的平坦軸端既減輕持久損失也確保衝刺的速度。軸端亦稍幼。",
         "group": "",
-        "mobility": null,
+        "mobility": 127,
         "image": "https://go-shoot.github.io/x/img/bit/FF.png"
       },
       {
