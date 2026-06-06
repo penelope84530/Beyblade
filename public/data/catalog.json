@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T03:48:05.904Z",
+  "generatedAt": "2026-06-06T03:47:10.333Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 274,
@@ -29707,6 +29707,26 @@
   "parts": {
     "blade": [
       {
+        "code": "GlVl",
+        "names": {
+          "jap": "グローリーワルキューレ",
+          "eng": "Glory\\Valkyrie",
+          "chi": ""
+        },
+        "attr": [
+          "att",
+          "right",
+          "fused",
+          "bbb"
+        ],
+        "stat": null,
+        "rawStat": [
+          null
+        ],
+        "desc": "",
+        "image": "https://go-shoot.github.io/x/img/blade/GlVl.png"
+      },
+      {
         "code": "DrSt",
         "names": {
           "jap": "ドランストライク",
@@ -29735,7 +29755,6 @@
         "attr": [
           "sta",
           "right",
-          "UX",
           "fused"
         ],
         "stat": 41,
@@ -30786,6 +30805,26 @@
         "image": "https://go-shoot.github.io/x/img/blade/WyHv.png"
       },
       {
+        "code": "HrSh",
+        "names": {
+          "jap": "ホルスシャッター",
+          "eng": "HorusShatter",
+          "chi": ""
+        },
+        "attr": [
+          "sta",
+          "right",
+          "BX",
+          "expand"
+        ],
+        "stat": null,
+        "rawStat": [
+          null
+        ],
+        "desc": "",
+        "image": "https://go-shoot.github.io/x/img/blade/HrSh.png"
+      },
+      {
         "code": "BtGs",
         "names": {
           "jap": "バットガスト",
@@ -30793,9 +30832,9 @@
           "chi": ""
         },
         "attr": [
-          "BX",
           "bal",
-          "right"
+          "right",
+          "BX"
         ],
         "stat": 36.5,
         "rawStat": [
@@ -30812,9 +30851,9 @@
           "chi": ""
         },
         "attr": [
-          "UX",
           "def",
           "right",
+          "UX",
           "fused"
         ],
         "stat": 32.5,
@@ -30832,10 +30871,10 @@
           "chi": ""
         },
         "attr": [
-          "UX",
           "bal",
           "right",
-          "fused"
+          "fused",
+          "UX"
         ],
         "stat": 37.5,
         "rawStat": [
