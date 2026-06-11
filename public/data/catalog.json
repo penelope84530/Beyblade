@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T03:47:31.379Z",
+  "generatedAt": "2026-06-11T03:48:07.699Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 274,
@@ -1385,9 +1385,9 @@
         "ratchetRaw": [
           6.5
         ],
-        "bit": null,
+        "bit": 2,
         "bitRaw": [
-          null,
+          2,
           10
         ],
         "bitMobility": 10
@@ -1532,9 +1532,9 @@
         "ratchetRaw": [
           6.5
         ],
-        "bit": null,
+        "bit": 2,
         "bitRaw": [
-          null,
+          2,
           10
         ],
         "bitMobility": 10
@@ -1679,9 +1679,9 @@
         "ratchetRaw": [
           6.5
         ],
-        "bit": null,
+        "bit": 2,
         "bitRaw": [
-          null,
+          2,
           10
         ],
         "bitMobility": 10
@@ -32984,9 +32984,9 @@
         "attr": [
           "sta"
         ],
-        "stat": null,
+        "stat": 2,
         "rawStat": [
-          null,
+          2,
           10
         ],
         "desc": "細球狀軸端長久地迴轉；十枚齒Gear於X Dash時減輕持久損失。",
