@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T03:47:41.629Z",
+  "generatedAt": "2026-06-14T03:48:13.323Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 274,
@@ -1187,10 +1187,7 @@
       "isCx": false,
       "isCxExpansion": false,
       "videoId": "wVYcf4eMtmo",
-      "meta": {
-        "coat": "RoyalBlue",
-        "get": "J"
-      },
+      "meta": {},
       "names": {
         "eng": "SamuraiSaber 5-60 Kick",
         "chi": "武士之刃 武士星劍 5-60 K",
@@ -1315,7 +1312,7 @@
       "cxUnknownTokens": [],
       "isCx": true,
       "isCxExpansion": false,
-      "videoId": null,
+      "videoId": "QFpKzz_3icQ",
       "meta": {},
       "names": {
         "eng": "Br.Wh.O.W 5-70 Narrow",
@@ -29707,6 +29704,25 @@
   "parts": {
     "blade": [
       {
+        "code": "HvRn",
+        "names": {
+          "jap": "ヘブンズリング",
+          "eng": "HeavensRing",
+          "chi": ""
+        },
+        "attr": [
+          "def",
+          "right",
+          "expand"
+        ],
+        "stat": 37.5,
+        "rawStat": [
+          37.5
+        ],
+        "desc": "（此乃AI臨時圖）",
+        "image": "https://go-shoot.github.io/x/img/blade/HvRn.png"
+      },
+      {
         "code": "GlVl",
         "names": {
           "jap": "グローリーワルキューレ",
@@ -30884,26 +30900,6 @@
         "image": "https://go-shoot.github.io/x/img/blade/ShSr.png"
       },
       {
-        "code": "HvRn",
-        "names": {
-          "jap": "ヘブンズリング",
-          "eng": "HeavensRing",
-          "chi": ""
-        },
-        "attr": [
-          "def",
-          "right",
-          "BX",
-          "expand"
-        ],
-        "stat": 37.5,
-        "rawStat": [
-          37.5
-        ],
-        "desc": "（此乃AI臨時圖）",
-        "image": "https://go-shoot.github.io/x/img/blade/HvRn.png"
-      },
-      {
         "code": "VkHc",
         "names": {
           "jap": "ヴァイキングハック",
@@ -31870,6 +31866,60 @@
         ],
         "desc": "三枚大形Upper刃加上了能産生Down force的空力構造。",
         "image": "https://go-shoot.github.io/x/img/blade/CX/main/Br.png"
+      },
+      {
+        "code": "Wr",
+        "names": {
+          "jap": "リグル",
+          "eng": "Wriggle",
+          "chi": ""
+        },
+        "attr": [
+          "sta",
+          "right"
+        ],
+        "stat": 29.5,
+        "rawStat": [
+          29.5
+        ],
+        "desc": "",
+        "image": "https://go-shoot.github.io/x/img/blade/CX/main/Wr.png"
+      },
+      {
+        "code": "Ft",
+        "names": {
+          "jap": "フォート",
+          "eng": "Fort",
+          "chi": ""
+        },
+        "attr": [
+          "bal",
+          "right"
+        ],
+        "stat": 29,
+        "rawStat": [
+          29
+        ],
+        "desc": "",
+        "image": "https://go-shoot.github.io/x/img/blade/CX/main/Ft.png"
+      },
+      {
+        "code": "An",
+        "names": {
+          "jap": "アントラーズ",
+          "eng": "Antlers",
+          "chi": ""
+        },
+        "attr": [
+          "sta",
+          "right"
+        ],
+        "stat": 29,
+        "rawStat": [
+          29
+        ],
+        "desc": "",
+        "image": "https://go-shoot.github.io/x/img/blade/CX/main/An.png"
       }
     ],
     "ratchet": [
