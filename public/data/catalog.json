@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-15T03:48:27.541Z",
+  "generatedAt": "2026-06-16T03:48:32.774Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
-    "total": 285,
+    "total": 286,
     "arMainTotal": 5,
     "lines": {
-      "BX": 201,
+      "BX": 202,
       "UX": 44,
       "CX": 40
     }
@@ -157,7 +157,7 @@
       }
     },
     {
-      "id": "bey-21",
+      "id": "bey-22",
       "code": "BXC-13",
       "variantCode": "BXC-13",
       "variantNo": "01",
@@ -296,7 +296,7 @@
       }
     },
     {
-      "id": "bey-95",
+      "id": "bey-96",
       "code": "BXG-43",
       "variantCode": "BXG-43",
       "variantNo": "01",
@@ -433,7 +433,7 @@
       }
     },
     {
-      "id": "bey-135",
+      "id": "bey-136",
       "code": "CX-05",
       "variantCode": "CX-05-03",
       "variantNo": "03",
@@ -578,7 +578,7 @@
       }
     },
     {
-      "id": "bey-144",
+      "id": "bey-145",
       "code": "CX-02",
       "variantCode": "CX-02",
       "variantNo": "01",
@@ -1148,6 +1148,96 @@
     },
     {
       "id": "bey-4",
+      "code": "UX-20",
+      "variantCode": "UX-20",
+      "variantNo": "01",
+      "hasVariants": false,
+      "displayCode": "UX-20",
+      "normalizedVariantCode": "UX20",
+      "normalizedCode": "UX20",
+      "line": "UX",
+      "productType": "S",
+      "comboRaw": "GlVl = LF",
+      "bladeCode": "GlVl",
+      "ratchetCode": "LF",
+      "bitCode": "",
+      "cxChipCode": "",
+      "cxMainCode": "",
+      "cxSuffixCode": "",
+      "cxComponents": {
+        "chip": "",
+        "main": "",
+        "assist": "",
+        "over": "",
+        "metal": "",
+        "hasbro": ""
+      },
+      "cxComponentsAll": {
+        "chip": [],
+        "main": [],
+        "assist": [],
+        "over": [],
+        "metal": [],
+        "hasbro": []
+      },
+      "cxDisplayComponents": [],
+      "cxUnknownTokens": [
+        "GlVl"
+      ],
+      "isCx": false,
+      "isCxExpansion": false,
+      "videoId": "[object Object]",
+      "meta": {},
+      "names": {
+        "eng": "Glory\\Valkyrie LF",
+        "chi": "GlVl LF",
+        "jap": "グローリーワルキューレ"
+      },
+      "formalName": "Glory\\Valkyrie LF",
+      "formalAlias": "GlVl LF",
+      "searchTokens": [
+        "UX-20",
+        "GlVl = LF",
+        "GlVl",
+        "Glory\\Valkyrie LF",
+        "グローリーワルキューレ",
+        "GlVl LF"
+      ],
+      "images": {
+        "blade": "https://go-shoot.github.io/x/img/blade/GlVl.png",
+        "bladeMain": null,
+        "ratchet": "https://go-shoot.github.io/x/img/ratchet/LF.png",
+        "bit": null,
+        "cx": []
+      },
+      "isArMain": false,
+      "attributes": {
+        "blade": [
+          "att",
+          "right",
+          "fused",
+          "bbb"
+        ],
+        "bladeMain": [],
+        "ratchet": [],
+        "bit": []
+      },
+      "stats": {
+        "blade": null,
+        "bladeRaw": [
+          null
+        ],
+        "bladeMain": null,
+        "bladeMainRaw": [],
+        "ratchet": null,
+        "ratchetRaw": [],
+        "bit": null,
+        "bitRaw": [],
+        "bitMobility": null
+      }
+    },
+    {
+      "id": "bey-5",
       "code": "BX-50",
       "variantCode": "BX-50-01",
       "variantNo": "01",
@@ -1246,7 +1336,7 @@
       }
     },
     {
-      "id": "bey-5",
+      "id": "bey-6",
       "code": "BX-50",
       "variantCode": "BX-50-02",
       "variantNo": "02",
@@ -1344,7 +1434,7 @@
       }
     },
     {
-      "id": "bey-6",
+      "id": "bey-7",
       "code": "BX-50",
       "variantCode": "BX-50-03",
       "variantNo": "03",
@@ -1444,7 +1534,7 @@
       }
     },
     {
-      "id": "bey-7",
+      "id": "bey-8",
       "code": "BX-50",
       "variantCode": "BX-50-04",
       "variantNo": "04",
@@ -1546,7 +1636,7 @@
       }
     },
     {
-      "id": "bey-8",
+      "id": "bey-9",
       "code": "BX-50",
       "variantCode": "BX-50-05",
       "variantNo": "05",
@@ -1692,7 +1782,7 @@
       }
     },
     {
-      "id": "bey-9",
+      "id": "bey-10",
       "code": "BX-50",
       "variantCode": "BX-50-06",
       "variantNo": "06",
@@ -1833,20 +1923,20 @@
       }
     },
     {
-      "id": "bey-10",
-      "code": "UX-20",
-      "variantCode": "UX-20",
+      "id": "bey-11",
+      "code": "BXG-47",
+      "variantCode": "BXG-47",
       "variantNo": "01",
       "hasVariants": false,
-      "displayCode": "UX-20",
-      "normalizedVariantCode": "UX20",
-      "normalizedCode": "UX20",
-      "line": "UX",
-      "productType": "S",
-      "comboRaw": "GlVl = LF",
-      "bladeCode": "GlVl",
-      "ratchetCode": "LF",
-      "bitCode": "",
+      "displayCode": "BXG-47",
+      "normalizedVariantCode": "BXG47",
+      "normalizedCode": "BXG47",
+      "line": "BX",
+      "productType": "S H",
+      "comboRaw": "SPg 3-70 RA",
+      "bladeCode": "SPg",
+      "ratchetCode": "3-70",
+      "bitCode": "RA",
       "cxChipCode": "",
       "cxMainCode": "",
       "cxSuffixCode": "",
@@ -1868,32 +1958,32 @@
       },
       "cxDisplayComponents": [],
       "cxUnknownTokens": [
-        "GlVl"
+        "SPg"
       ],
       "isCx": false,
       "isCxExpansion": false,
-      "videoId": "[object Object]",
+      "videoId": null,
       "meta": {},
       "names": {
-        "eng": "Glory\\Valkyrie LF",
-        "chi": "GlVl LF",
-        "jap": "グローリーワルキューレ"
+        "eng": "Storm\\Pegasis 3-70 RA",
+        "chi": "烈風\\天馬 暴風\\天馬 3-70 RA",
+        "jap": "ストームペガシス"
       },
-      "formalName": "Glory\\Valkyrie LF",
-      "formalAlias": "GlVl LF",
+      "formalName": "Storm\\Pegasis 3-70 RA",
+      "formalAlias": "烈風\\天馬 暴風\\天馬 3-70 RA",
       "searchTokens": [
-        "UX-20",
-        "GlVl = LF",
-        "GlVl",
-        "Glory\\Valkyrie LF",
-        "グローリーワルキューレ",
-        "GlVl LF"
+        "BXG-47",
+        "SPg 3-70 RA",
+        "SPg",
+        "Storm\\Pegasis 3-70 RA",
+        "ストームペガシス",
+        "烈風\\天馬 暴風\\天馬 3-70 RA"
       ],
       "images": {
-        "blade": "https://go-shoot.github.io/x/img/blade/GlVl.png",
+        "blade": "https://go-shoot.github.io/x/img/blade/SPg.png",
         "bladeMain": null,
-        "ratchet": "https://go-shoot.github.io/x/img/ratchet/LF.png",
-        "bit": null,
+        "ratchet": "https://go-shoot.github.io/x/img/ratchet/3-70.png",
+        "bit": "https://go-shoot.github.io/x/img/bit/RA.png",
         "cx": []
       },
       "isArMain": false,
@@ -1901,453 +1991,40 @@
         "blade": [
           "att",
           "right",
-          "fused",
-          "bbb"
+          "MFB"
         ],
         "bladeMain": [],
         "ratchet": [],
         "bit": []
       },
       "stats": {
-        "blade": null,
+        "blade": 31.5,
         "bladeRaw": [
-          null
+          31.5
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
-        "ratchet": null,
-        "ratchetRaw": [],
-        "bit": null,
-        "bitRaw": [],
-        "bitMobility": null
-      }
-    },
-    {
-      "id": "bey-11",
-      "code": "BXG-?4",
-      "variantCode": "BXG-?4",
-      "variantNo": "01",
-      "hasVariants": false,
-      "displayCode": "BXG-?4",
-      "normalizedVariantCode": "BXG4",
-      "normalizedCode": "BXG4",
-      "line": "BX",
-      "productType": "B",
-      "comboRaw": "Bc.An.B 2-60 D",
-      "bladeCode": "Bc.An.B",
-      "ratchetCode": "2-60",
-      "bitCode": "D",
-      "cxChipCode": "Bc",
-      "cxMainCode": "An",
-      "cxSuffixCode": "B",
-      "cxComponents": {
-        "chip": "Bc",
-        "main": "An",
-        "assist": "B",
-        "over": "",
-        "metal": "",
-        "hasbro": ""
-      },
-      "cxComponentsAll": {
-        "chip": [
-          "Bc"
-        ],
-        "main": [
-          "An"
-        ],
-        "assist": [
-          "B"
-        ],
-        "over": [],
-        "metal": [],
-        "hasbro": []
-      },
-      "cxDisplayComponents": [
-        {
-          "category": "chip",
-          "label": "紋章",
-          "code": "Bc",
-          "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Bc.png"
-        },
-        {
-          "category": "main",
-          "label": "主要戰刃",
-          "code": "An",
-          "image": "https://go-shoot.github.io/x/img/blade/CX/main/An.png"
-        },
-        {
-          "category": "assist",
-          "label": "輔助戰刃",
-          "code": "B",
-          "image": "https://go-shoot.github.io/x/img/blade/CX/assist/B.png"
-        }
-      ],
-      "cxUnknownTokens": [],
-      "isCx": true,
-      "isCxExpansion": false,
-      "videoId": "[object Object]",
-      "meta": {},
-      "names": {
-        "eng": "Bc.An.B 2-60 Dot",
-        "chi": "Bc.An.B 2-60 D",
-        "jap": "アントラーズ"
-      },
-      "formalName": "Bc.An.B 2-60 Dot",
-      "formalAlias": "Bc.An.B 2-60 D",
-      "searchTokens": [
-        "BXG-?4",
-        "Bc.An.B 2-60 D",
-        "Bc.An.B",
-        "Bc.An.B 2-60 Dot",
-        "アントラーズ",
-        "Bc.An.B 2-60 D"
-      ],
-      "images": {
-        "blade": "https://go-shoot.github.io/x/img/blade/Bc.An.B.png",
-        "bladeMain": "https://go-shoot.github.io/x/img/blade/CX/main/An.png",
-        "ratchet": "https://go-shoot.github.io/x/img/ratchet/2-60.png",
-        "bit": "https://go-shoot.github.io/x/img/bit/D.png",
-        "cx": [
-          {
-            "category": "chip",
-            "label": "紋章",
-            "code": "Bc",
-            "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Bc.png"
-          },
-          {
-            "category": "main",
-            "label": "主要戰刃",
-            "code": "An",
-            "image": "https://go-shoot.github.io/x/img/blade/CX/main/An.png"
-          },
-          {
-            "category": "assist",
-            "label": "輔助戰刃",
-            "code": "B",
-            "image": "https://go-shoot.github.io/x/img/blade/CX/assist/B.png"
-          }
-        ]
-      },
-      "isArMain": false,
-      "attributes": {
-        "blade": [],
-        "bladeMain": [
-          "sta",
-          "right"
-        ],
-        "ratchet": [],
-        "bit": [
-          "def"
-        ]
-      },
-      "stats": {
-        "blade": null,
-        "bladeRaw": [],
-        "bladeMain": 29,
-        "bladeMainRaw": [
-          29
-        ],
         "ratchet": 6.5,
         "ratchetRaw": [
           6.5
         ],
-        "bit": 2,
+        "bit": 3,
         "bitRaw": [
-          2,
-          12,
-          30,
+          3,
           123
         ],
-        "bitMobility": 12
+        "bitMobility": 123
       }
     },
     {
       "id": "bey-12",
-      "code": "BXG-?3",
-      "variantCode": "BXG-?3",
+      "code": "BXH-23",
+      "variantCode": "BXH-23",
       "variantNo": "01",
       "hasVariants": false,
-      "displayCode": "BXG-?3",
-      "normalizedVariantCode": "BXG3",
-      "normalizedCode": "BXG3",
-      "line": "BX",
-      "productType": "B",
-      "comboRaw": "Hr.Ft.R 7-60 T",
-      "bladeCode": "Hr.Ft.R",
-      "ratchetCode": "7-60",
-      "bitCode": "T",
-      "cxChipCode": "Hr",
-      "cxMainCode": "Ft",
-      "cxSuffixCode": "R",
-      "cxComponents": {
-        "chip": "Hr",
-        "main": "Ft",
-        "assist": "R",
-        "over": "",
-        "metal": "",
-        "hasbro": ""
-      },
-      "cxComponentsAll": {
-        "chip": [
-          "Hr"
-        ],
-        "main": [
-          "Ft"
-        ],
-        "assist": [
-          "R"
-        ],
-        "over": [],
-        "metal": [],
-        "hasbro": []
-      },
-      "cxDisplayComponents": [
-        {
-          "category": "chip",
-          "label": "紋章",
-          "code": "Hr",
-          "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Hr.png"
-        },
-        {
-          "category": "main",
-          "label": "主要戰刃",
-          "code": "Ft",
-          "image": "https://go-shoot.github.io/x/img/blade/CX/main/Ft.png"
-        },
-        {
-          "category": "assist",
-          "label": "輔助戰刃",
-          "code": "R",
-          "image": "https://go-shoot.github.io/x/img/blade/CX/assist/R.png"
-        }
-      ],
-      "cxUnknownTokens": [],
-      "isCx": true,
-      "isCxExpansion": false,
-      "videoId": "[object Object]",
-      "meta": {},
-      "names": {
-        "eng": "Hr.Ft.R 7-60 Taper",
-        "chi": "Hr.Ft.R 7-60 T",
-        "jap": "フォート"
-      },
-      "formalName": "Hr.Ft.R 7-60 Taper",
-      "formalAlias": "Hr.Ft.R 7-60 T",
-      "searchTokens": [
-        "BXG-?3",
-        "Hr.Ft.R 7-60 T",
-        "Hr.Ft.R",
-        "Hr.Ft.R 7-60 Taper",
-        "フォート",
-        "Hr.Ft.R 7-60 T"
-      ],
-      "images": {
-        "blade": "https://go-shoot.github.io/x/img/blade/Hr.Ft.R.png",
-        "bladeMain": "https://go-shoot.github.io/x/img/blade/CX/main/Ft.png",
-        "ratchet": "https://go-shoot.github.io/x/img/ratchet/7-60.png",
-        "bit": "https://go-shoot.github.io/x/img/bit/T.png",
-        "cx": [
-          {
-            "category": "chip",
-            "label": "紋章",
-            "code": "Hr",
-            "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Hr.png"
-          },
-          {
-            "category": "main",
-            "label": "主要戰刃",
-            "code": "Ft",
-            "image": "https://go-shoot.github.io/x/img/blade/CX/main/Ft.png"
-          },
-          {
-            "category": "assist",
-            "label": "輔助戰刃",
-            "code": "R",
-            "image": "https://go-shoot.github.io/x/img/blade/CX/assist/R.png"
-          }
-        ]
-      },
-      "isArMain": false,
-      "attributes": {
-        "blade": [],
-        "bladeMain": [
-          "bal",
-          "right"
-        ],
-        "ratchet": [],
-        "bit": [
-          "bal"
-        ]
-      },
-      "stats": {
-        "blade": null,
-        "bladeRaw": [],
-        "bladeMain": 29,
-        "bladeMainRaw": [
-          29
-        ],
-        "ratchet": 7,
-        "ratchetRaw": [
-          7
-        ],
-        "bit": 2.5,
-        "bitRaw": [
-          2.5,
-          12,
-          80,
-          123
-        ],
-        "bitMobility": 12
-      }
-    },
-    {
-      "id": "bey-13",
-      "code": "BXG-?2",
-      "variantCode": "BXG-?2",
-      "variantNo": "01",
-      "hasVariants": false,
-      "displayCode": "BXG-?2",
-      "normalizedVariantCode": "BXG2",
-      "normalizedCode": "BXG2",
-      "line": "BX",
-      "productType": "B",
-      "comboRaw": "Kr.Wr.S 3-70 O",
-      "bladeCode": "Kr.Wr.S",
-      "ratchetCode": "3-70",
-      "bitCode": "O",
-      "cxChipCode": "Kr",
-      "cxMainCode": "Wr",
-      "cxSuffixCode": "S",
-      "cxComponents": {
-        "chip": "Kr",
-        "main": "Wr",
-        "assist": "S",
-        "over": "",
-        "metal": "",
-        "hasbro": ""
-      },
-      "cxComponentsAll": {
-        "chip": [
-          "Kr"
-        ],
-        "main": [
-          "Wr"
-        ],
-        "assist": [
-          "S"
-        ],
-        "over": [],
-        "metal": [],
-        "hasbro": []
-      },
-      "cxDisplayComponents": [
-        {
-          "category": "chip",
-          "label": "紋章",
-          "code": "Kr",
-          "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Kr.png"
-        },
-        {
-          "category": "main",
-          "label": "主要戰刃",
-          "code": "Wr",
-          "image": "https://go-shoot.github.io/x/img/blade/CX/main/Wr.png"
-        },
-        {
-          "category": "assist",
-          "label": "輔助戰刃",
-          "code": "S",
-          "image": "https://go-shoot.github.io/x/img/blade/CX/assist/S.png"
-        }
-      ],
-      "cxUnknownTokens": [],
-      "isCx": true,
-      "isCxExpansion": false,
-      "videoId": "[object Object]",
-      "meta": {},
-      "names": {
-        "eng": "Kr.Wr.S 3-70 Orb",
-        "chi": "Kr.Wr.S 3-70 O",
-        "jap": "リグル"
-      },
-      "formalName": "Kr.Wr.S 3-70 Orb",
-      "formalAlias": "Kr.Wr.S 3-70 O",
-      "searchTokens": [
-        "BXG-?2",
-        "Kr.Wr.S 3-70 O",
-        "Kr.Wr.S",
-        "Kr.Wr.S 3-70 Orb",
-        "リグル",
-        "Kr.Wr.S 3-70 O"
-      ],
-      "images": {
-        "blade": "https://go-shoot.github.io/x/img/blade/Kr.Wr.S.png",
-        "bladeMain": "https://go-shoot.github.io/x/img/blade/CX/main/Wr.png",
-        "ratchet": "https://go-shoot.github.io/x/img/ratchet/3-70.png",
-        "bit": "https://go-shoot.github.io/x/img/bit/O.png",
-        "cx": [
-          {
-            "category": "chip",
-            "label": "紋章",
-            "code": "Kr",
-            "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Kr.png"
-          },
-          {
-            "category": "main",
-            "label": "主要戰刃",
-            "code": "Wr",
-            "image": "https://go-shoot.github.io/x/img/blade/CX/main/Wr.png"
-          },
-          {
-            "category": "assist",
-            "label": "輔助戰刃",
-            "code": "S",
-            "image": "https://go-shoot.github.io/x/img/blade/CX/assist/S.png"
-          }
-        ]
-      },
-      "isArMain": false,
-      "attributes": {
-        "blade": [],
-        "bladeMain": [
-          "sta",
-          "right"
-        ],
-        "ratchet": [],
-        "bit": [
-          "sta"
-        ]
-      },
-      "stats": {
-        "blade": null,
-        "bladeRaw": [],
-        "bladeMain": 29.5,
-        "bladeMainRaw": [
-          29.5
-        ],
-        "ratchet": 6.5,
-        "ratchetRaw": [
-          6.5
-        ],
-        "bit": 2,
-        "bitRaw": [
-          2,
-          12,
-          30,
-          123
-        ],
-        "bitMobility": 12
-      }
-    },
-    {
-      "id": "bey-14",
-      "code": "BXG-?1",
-      "variantCode": "BXG-?1",
-      "variantNo": "01",
-      "hasVariants": false,
-      "displayCode": "BXG-?1",
-      "normalizedVariantCode": "BXG1",
-      "normalizedCode": "BXG1",
+      "displayCode": "BXH-23",
+      "normalizedVariantCode": "BXH23",
+      "normalizedCode": "BXH23",
       "line": "BX",
       "productType": "B H",
       "comboRaw": "Dk.Br.G 4-70 I",
@@ -2411,7 +2088,7 @@
       "formalName": "Dk.Br.G 4-70 Ignition",
       "formalAlias": "勇者 勇氣 4-70 I",
       "searchTokens": [
-        "BXG-?1",
+        "BXH-23",
         "Dk.Br.G 4-70 I",
         "Dk.Br.G",
         "Dk.Br.G 4-70 Ignition",
@@ -2478,98 +2155,418 @@
       }
     },
     {
-      "id": "bey-15",
-      "code": "BXG-54",
-      "variantCode": "BXG-54",
+      "id": "bey-13",
+      "code": "BXG-79",
+      "variantCode": "BXG-79",
       "variantNo": "01",
       "hasVariants": false,
-      "displayCode": "BXG-54",
-      "normalizedVariantCode": "BXG54",
-      "normalizedCode": "BXG54",
+      "displayCode": "BXG-79",
+      "normalizedVariantCode": "BXG79",
+      "normalizedCode": "BXG79",
       "line": "BX",
-      "productType": "S H",
-      "comboRaw": "SmSb 5-60 K",
-      "bladeCode": "SmSb",
-      "ratchetCode": "5-60",
-      "bitCode": "K",
-      "cxChipCode": "",
-      "cxMainCode": "",
-      "cxSuffixCode": "",
+      "productType": "B",
+      "comboRaw": "Hr.Ft.R 7-60 T",
+      "bladeCode": "Hr.Ft.R",
+      "ratchetCode": "7-60",
+      "bitCode": "T",
+      "cxChipCode": "Hr",
+      "cxMainCode": "Ft",
+      "cxSuffixCode": "R",
       "cxComponents": {
-        "chip": "",
-        "main": "",
-        "assist": "",
+        "chip": "Hr",
+        "main": "Ft",
+        "assist": "R",
         "over": "",
         "metal": "",
         "hasbro": ""
       },
       "cxComponentsAll": {
-        "chip": [],
-        "main": [],
-        "assist": [],
+        "chip": [
+          "Hr"
+        ],
+        "main": [
+          "Ft"
+        ],
+        "assist": [
+          "R"
+        ],
         "over": [],
         "metal": [],
         "hasbro": []
       },
-      "cxDisplayComponents": [],
-      "cxUnknownTokens": [
-        "SmSb"
+      "cxDisplayComponents": [
+        {
+          "category": "chip",
+          "label": "紋章",
+          "code": "Hr",
+          "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Hr.png"
+        },
+        {
+          "category": "main",
+          "label": "主要戰刃",
+          "code": "Ft",
+          "image": "https://go-shoot.github.io/x/img/blade/CX/main/Ft.png"
+        },
+        {
+          "category": "assist",
+          "label": "輔助戰刃",
+          "code": "R",
+          "image": "https://go-shoot.github.io/x/img/blade/CX/assist/R.png"
+        }
       ],
-      "isCx": false,
+      "cxUnknownTokens": [],
+      "isCx": true,
       "isCxExpansion": false,
-      "videoId": "wVYcf4eMtmo",
+      "videoId": "[object Object]",
       "meta": {},
       "names": {
-        "eng": "SamuraiSaber 5-60 Kick",
-        "chi": "武士之刃 武士星劍 5-60 K",
-        "jap": "サムライセイバー"
+        "eng": "Hr.Ft.R 7-60 Taper",
+        "chi": "Hr.Ft.R 7-60 T",
+        "jap": "フォート"
       },
-      "formalName": "SamuraiSaber 5-60 Kick",
-      "formalAlias": "武士之刃 武士星劍 5-60 K",
+      "formalName": "Hr.Ft.R 7-60 Taper",
+      "formalAlias": "Hr.Ft.R 7-60 T",
       "searchTokens": [
-        "BXG-54",
-        "SmSb 5-60 K",
-        "SmSb",
-        "SamuraiSaber 5-60 Kick",
-        "サムライセイバー",
-        "武士之刃 武士星劍 5-60 K"
+        "BXG-79",
+        "Hr.Ft.R 7-60 T",
+        "Hr.Ft.R",
+        "Hr.Ft.R 7-60 Taper",
+        "フォート",
+        "Hr.Ft.R 7-60 T"
       ],
       "images": {
-        "blade": "https://go-shoot.github.io/x/img/blade/SmSb.png",
-        "bladeMain": null,
-        "ratchet": "https://go-shoot.github.io/x/img/ratchet/5-60.png",
-        "bit": "https://go-shoot.github.io/x/img/bit/K.png",
-        "cx": []
+        "blade": "https://go-shoot.github.io/x/img/blade/Hr.Ft.R.png",
+        "bladeMain": "https://go-shoot.github.io/x/img/blade/CX/main/Ft.png",
+        "ratchet": "https://go-shoot.github.io/x/img/ratchet/7-60.png",
+        "bit": "https://go-shoot.github.io/x/img/bit/T.png",
+        "cx": [
+          {
+            "category": "chip",
+            "label": "紋章",
+            "code": "Hr",
+            "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Hr.png"
+          },
+          {
+            "category": "main",
+            "label": "主要戰刃",
+            "code": "Ft",
+            "image": "https://go-shoot.github.io/x/img/blade/CX/main/Ft.png"
+          },
+          {
+            "category": "assist",
+            "label": "輔助戰刃",
+            "code": "R",
+            "image": "https://go-shoot.github.io/x/img/blade/CX/assist/R.png"
+          }
+        ]
       },
       "isArMain": false,
       "attributes": {
-        "blade": [
-          "att",
+        "blade": [],
+        "bladeMain": [
+          "bal",
           "right"
         ],
-        "bladeMain": [],
         "ratchet": [],
         "bit": [
           "bal"
         ]
       },
       "stats": {
-        "blade": 36.5,
-        "bladeRaw": [
-          36.5
+        "blade": null,
+        "bladeRaw": [],
+        "bladeMain": 29,
+        "bladeMainRaw": [
+          29
         ],
-        "bladeMain": null,
-        "bladeMainRaw": [],
-        "ratchet": 6.5,
+        "ratchet": 7,
         "ratchetRaw": [
-          6.5
+          7
         ],
         "bit": 2.5,
         "bitRaw": [
           2.5,
           12,
           80,
-          125
+          123
+        ],
+        "bitMobility": 12
+      }
+    },
+    {
+      "id": "bey-14",
+      "code": "BXG-80",
+      "variantCode": "BXG-80",
+      "variantNo": "01",
+      "hasVariants": false,
+      "displayCode": "BXG-80",
+      "normalizedVariantCode": "BXG80",
+      "normalizedCode": "BXG80",
+      "line": "BX",
+      "productType": "B",
+      "comboRaw": "Kr.Wr.S 3-70 O",
+      "bladeCode": "Kr.Wr.S",
+      "ratchetCode": "3-70",
+      "bitCode": "O",
+      "cxChipCode": "Kr",
+      "cxMainCode": "Wr",
+      "cxSuffixCode": "S",
+      "cxComponents": {
+        "chip": "Kr",
+        "main": "Wr",
+        "assist": "S",
+        "over": "",
+        "metal": "",
+        "hasbro": ""
+      },
+      "cxComponentsAll": {
+        "chip": [
+          "Kr"
+        ],
+        "main": [
+          "Wr"
+        ],
+        "assist": [
+          "S"
+        ],
+        "over": [],
+        "metal": [],
+        "hasbro": []
+      },
+      "cxDisplayComponents": [
+        {
+          "category": "chip",
+          "label": "紋章",
+          "code": "Kr",
+          "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Kr.png"
+        },
+        {
+          "category": "main",
+          "label": "主要戰刃",
+          "code": "Wr",
+          "image": "https://go-shoot.github.io/x/img/blade/CX/main/Wr.png"
+        },
+        {
+          "category": "assist",
+          "label": "輔助戰刃",
+          "code": "S",
+          "image": "https://go-shoot.github.io/x/img/blade/CX/assist/S.png"
+        }
+      ],
+      "cxUnknownTokens": [],
+      "isCx": true,
+      "isCxExpansion": false,
+      "videoId": "[object Object]",
+      "meta": {},
+      "names": {
+        "eng": "Kr.Wr.S 3-70 Orb",
+        "chi": "Kr.Wr.S 3-70 O",
+        "jap": "リグル"
+      },
+      "formalName": "Kr.Wr.S 3-70 Orb",
+      "formalAlias": "Kr.Wr.S 3-70 O",
+      "searchTokens": [
+        "BXG-80",
+        "Kr.Wr.S 3-70 O",
+        "Kr.Wr.S",
+        "Kr.Wr.S 3-70 Orb",
+        "リグル",
+        "Kr.Wr.S 3-70 O"
+      ],
+      "images": {
+        "blade": "https://go-shoot.github.io/x/img/blade/Kr.Wr.S.png",
+        "bladeMain": "https://go-shoot.github.io/x/img/blade/CX/main/Wr.png",
+        "ratchet": "https://go-shoot.github.io/x/img/ratchet/3-70.png",
+        "bit": "https://go-shoot.github.io/x/img/bit/O.png",
+        "cx": [
+          {
+            "category": "chip",
+            "label": "紋章",
+            "code": "Kr",
+            "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Kr.png"
+          },
+          {
+            "category": "main",
+            "label": "主要戰刃",
+            "code": "Wr",
+            "image": "https://go-shoot.github.io/x/img/blade/CX/main/Wr.png"
+          },
+          {
+            "category": "assist",
+            "label": "輔助戰刃",
+            "code": "S",
+            "image": "https://go-shoot.github.io/x/img/blade/CX/assist/S.png"
+          }
+        ]
+      },
+      "isArMain": false,
+      "attributes": {
+        "blade": [],
+        "bladeMain": [
+          "sta",
+          "right"
+        ],
+        "ratchet": [],
+        "bit": [
+          "sta"
+        ]
+      },
+      "stats": {
+        "blade": null,
+        "bladeRaw": [],
+        "bladeMain": 29.5,
+        "bladeMainRaw": [
+          29.5
+        ],
+        "ratchet": 6.5,
+        "ratchetRaw": [
+          6.5
+        ],
+        "bit": 2,
+        "bitRaw": [
+          2,
+          12,
+          30,
+          123
+        ],
+        "bitMobility": 12
+      }
+    },
+    {
+      "id": "bey-15",
+      "code": "BXG-81",
+      "variantCode": "BXG-81",
+      "variantNo": "01",
+      "hasVariants": false,
+      "displayCode": "BXG-81",
+      "normalizedVariantCode": "BXG81",
+      "normalizedCode": "BXG81",
+      "line": "BX",
+      "productType": "B",
+      "comboRaw": "Bc.An.B 2-60 D",
+      "bladeCode": "Bc.An.B",
+      "ratchetCode": "2-60",
+      "bitCode": "D",
+      "cxChipCode": "Bc",
+      "cxMainCode": "An",
+      "cxSuffixCode": "B",
+      "cxComponents": {
+        "chip": "Bc",
+        "main": "An",
+        "assist": "B",
+        "over": "",
+        "metal": "",
+        "hasbro": ""
+      },
+      "cxComponentsAll": {
+        "chip": [
+          "Bc"
+        ],
+        "main": [
+          "An"
+        ],
+        "assist": [
+          "B"
+        ],
+        "over": [],
+        "metal": [],
+        "hasbro": []
+      },
+      "cxDisplayComponents": [
+        {
+          "category": "chip",
+          "label": "紋章",
+          "code": "Bc",
+          "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Bc.png"
+        },
+        {
+          "category": "main",
+          "label": "主要戰刃",
+          "code": "An",
+          "image": "https://go-shoot.github.io/x/img/blade/CX/main/An.png"
+        },
+        {
+          "category": "assist",
+          "label": "輔助戰刃",
+          "code": "B",
+          "image": "https://go-shoot.github.io/x/img/blade/CX/assist/B.png"
+        }
+      ],
+      "cxUnknownTokens": [],
+      "isCx": true,
+      "isCxExpansion": false,
+      "videoId": "[object Object]",
+      "meta": {},
+      "names": {
+        "eng": "Bc.An.B 2-60 Dot",
+        "chi": "Bc.An.B 2-60 D",
+        "jap": "アントラーズ"
+      },
+      "formalName": "Bc.An.B 2-60 Dot",
+      "formalAlias": "Bc.An.B 2-60 D",
+      "searchTokens": [
+        "BXG-81",
+        "Bc.An.B 2-60 D",
+        "Bc.An.B",
+        "Bc.An.B 2-60 Dot",
+        "アントラーズ",
+        "Bc.An.B 2-60 D"
+      ],
+      "images": {
+        "blade": "https://go-shoot.github.io/x/img/blade/Bc.An.B.png",
+        "bladeMain": "https://go-shoot.github.io/x/img/blade/CX/main/An.png",
+        "ratchet": "https://go-shoot.github.io/x/img/ratchet/2-60.png",
+        "bit": "https://go-shoot.github.io/x/img/bit/D.png",
+        "cx": [
+          {
+            "category": "chip",
+            "label": "紋章",
+            "code": "Bc",
+            "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Bc.png"
+          },
+          {
+            "category": "main",
+            "label": "主要戰刃",
+            "code": "An",
+            "image": "https://go-shoot.github.io/x/img/blade/CX/main/An.png"
+          },
+          {
+            "category": "assist",
+            "label": "輔助戰刃",
+            "code": "B",
+            "image": "https://go-shoot.github.io/x/img/blade/CX/assist/B.png"
+          }
+        ]
+      },
+      "isArMain": false,
+      "attributes": {
+        "blade": [],
+        "bladeMain": [
+          "sta",
+          "right"
+        ],
+        "ratchet": [],
+        "bit": [
+          "def"
+        ]
+      },
+      "stats": {
+        "blade": null,
+        "bladeRaw": [],
+        "bladeMain": 29,
+        "bladeMainRaw": [
+          29
+        ],
+        "ratchet": 6.5,
+        "ratchetRaw": [
+          6.5
+        ],
+        "bit": 2,
+        "bitRaw": [
+          2,
+          12,
+          30,
+          123
         ],
         "bitMobility": 12
       }
@@ -2644,7 +2641,9 @@
       "isCx": true,
       "isCxExpansion": false,
       "videoId": "QFpKzz_3icQ",
-      "meta": {},
+      "meta": {
+        "get": 8
+      },
       "names": {
         "eng": "Br.Wh.O.W 5-70 Narrow",
         "chi": "Br.Wh.O.W 5-70 Nr",
@@ -2790,7 +2789,7 @@
       "cxUnknownTokens": [],
       "isCx": true,
       "isCxExpansion": false,
-      "videoId": null,
+      "videoId": "[object Object]",
       "meta": {},
       "names": {
         "eng": "Br.Wh.O.W 5-70 Narrow",
@@ -2937,7 +2936,7 @@
       "cxUnknownTokens": [],
       "isCx": true,
       "isCxExpansion": false,
-      "videoId": null,
+      "videoId": "[object Object]",
       "meta": {},
       "names": {
         "eng": "Br.Wh.O.W 5-70 Narrow",
@@ -3017,6 +3016,103 @@
     },
     {
       "id": "bey-19",
+      "code": "BXG-54",
+      "variantCode": "BXG-54",
+      "variantNo": "01",
+      "hasVariants": false,
+      "displayCode": "BXG-54",
+      "normalizedVariantCode": "BXG54",
+      "normalizedCode": "BXG54",
+      "line": "BX",
+      "productType": "S H",
+      "comboRaw": "SmSb 5-60 K",
+      "bladeCode": "SmSb",
+      "ratchetCode": "5-60",
+      "bitCode": "K",
+      "cxChipCode": "",
+      "cxMainCode": "",
+      "cxSuffixCode": "",
+      "cxComponents": {
+        "chip": "",
+        "main": "",
+        "assist": "",
+        "over": "",
+        "metal": "",
+        "hasbro": ""
+      },
+      "cxComponentsAll": {
+        "chip": [],
+        "main": [],
+        "assist": [],
+        "over": [],
+        "metal": [],
+        "hasbro": []
+      },
+      "cxDisplayComponents": [],
+      "cxUnknownTokens": [
+        "SmSb"
+      ],
+      "isCx": false,
+      "isCxExpansion": false,
+      "videoId": "wVYcf4eMtmo",
+      "meta": {},
+      "names": {
+        "eng": "SamuraiSaber 5-60 Kick",
+        "chi": "武士之刃 武士星劍 5-60 K",
+        "jap": "サムライセイバー"
+      },
+      "formalName": "SamuraiSaber 5-60 Kick",
+      "formalAlias": "武士之刃 武士星劍 5-60 K",
+      "searchTokens": [
+        "BXG-54",
+        "SmSb 5-60 K",
+        "SmSb",
+        "SamuraiSaber 5-60 Kick",
+        "サムライセイバー",
+        "武士之刃 武士星劍 5-60 K"
+      ],
+      "images": {
+        "blade": "https://go-shoot.github.io/x/img/blade/SmSb.png",
+        "bladeMain": null,
+        "ratchet": "https://go-shoot.github.io/x/img/ratchet/5-60.png",
+        "bit": "https://go-shoot.github.io/x/img/bit/K.png",
+        "cx": []
+      },
+      "isArMain": false,
+      "attributes": {
+        "blade": [
+          "att",
+          "right"
+        ],
+        "bladeMain": [],
+        "ratchet": [],
+        "bit": [
+          "bal"
+        ]
+      },
+      "stats": {
+        "blade": 36.5,
+        "bladeRaw": [
+          36.5
+        ],
+        "bladeMain": null,
+        "bladeMainRaw": [],
+        "ratchet": 6.5,
+        "ratchetRaw": [
+          6.5
+        ],
+        "bit": 2.5,
+        "bitRaw": [
+          2.5,
+          12,
+          80,
+          125
+        ],
+        "bitMobility": 12
+      }
+    },
+    {
+      "id": "bey-20",
       "code": "BXH-22",
       "variantCode": "BXH-22",
       "variantNo": "01",
@@ -3163,7 +3259,7 @@
       }
     },
     {
-      "id": "bey-20",
+      "id": "bey-21",
       "code": "BXG-51",
       "variantCode": "BXG-51",
       "variantNo": "01",
@@ -3301,7 +3397,7 @@
       }
     },
     {
-      "id": "bey-21",
+      "id": "bey-22",
       "code": "BXC-13",
       "variantCode": "BXC-13",
       "variantNo": "01",
@@ -3440,7 +3536,7 @@
       }
     },
     {
-      "id": "bey-22",
+      "id": "bey-23",
       "code": "BX-49",
       "variantCode": "BX-49",
       "variantNo": "01",
@@ -3534,7 +3630,7 @@
       }
     },
     {
-      "id": "bey-23",
+      "id": "bey-24",
       "code": "BXH-25",
       "variantCode": "BXH-25-01",
       "variantNo": "01",
@@ -3632,7 +3728,7 @@
       }
     },
     {
-      "id": "bey-24",
+      "id": "bey-25",
       "code": "BXH-25",
       "variantCode": "BXH-25-02",
       "variantNo": "02",
@@ -3730,7 +3826,7 @@
       }
     },
     {
-      "id": "bey-25",
+      "id": "bey-26",
       "code": "BXH-25",
       "variantCode": "BXH-25-03",
       "variantNo": "03",
@@ -3828,7 +3924,7 @@
       }
     },
     {
-      "id": "bey-26",
+      "id": "bey-27",
       "code": "CX-17",
       "variantCode": "CX-17-01",
       "variantNo": "01",
@@ -3977,7 +4073,7 @@
       }
     },
     {
-      "id": "bey-27",
+      "id": "bey-28",
       "code": "CX-17",
       "variantCode": "CX-17-02",
       "variantNo": "02",
@@ -4124,7 +4220,7 @@
       }
     },
     {
-      "id": "bey-28",
+      "id": "bey-29",
       "code": "CX-17",
       "variantCode": "CX-17-03",
       "variantNo": "03",
@@ -4223,7 +4319,7 @@
       }
     },
     {
-      "id": "bey-29",
+      "id": "bey-30",
       "code": "CX-17",
       "variantCode": "CX-17-04",
       "variantNo": "04",
@@ -4322,7 +4418,7 @@
       }
     },
     {
-      "id": "bey-30",
+      "id": "bey-31",
       "code": "CX-17",
       "variantCode": "CX-17-05",
       "variantNo": "05",
@@ -4423,7 +4519,7 @@
       }
     },
     {
-      "id": "bey-31",
+      "id": "bey-32",
       "code": "CX-17",
       "variantCode": "CX-17-06",
       "variantNo": "06",
@@ -4521,7 +4617,7 @@
       }
     },
     {
-      "id": "bey-32",
+      "id": "bey-33",
       "code": "BXG-61",
       "variantCode": "BXG-61",
       "variantNo": "01",
@@ -4618,7 +4714,7 @@
       }
     },
     {
-      "id": "bey-33",
+      "id": "bey-34",
       "code": "UX-19",
       "variantCode": "UX-19",
       "variantNo": "01",
@@ -4707,7 +4803,7 @@
       }
     },
     {
-      "id": "bey-34",
+      "id": "bey-35",
       "code": "BXA-06",
       "variantCode": "BXA-06-01",
       "variantNo": "01",
@@ -4806,7 +4902,7 @@
       }
     },
     {
-      "id": "bey-35",
+      "id": "bey-36",
       "code": "BXA-06",
       "variantCode": "BXA-06-02",
       "variantNo": "02",
@@ -4909,7 +5005,7 @@
       }
     },
     {
-      "id": "bey-36",
+      "id": "bey-37",
       "code": "BXA-05",
       "variantCode": "BXA-05-01",
       "variantNo": "01",
@@ -5012,7 +5108,7 @@
       }
     },
     {
-      "id": "bey-37",
+      "id": "bey-38",
       "code": "BXA-05",
       "variantCode": "BXA-05-02",
       "variantNo": "02",
@@ -5111,7 +5207,7 @@
       }
     },
     {
-      "id": "bey-38",
+      "id": "bey-39",
       "code": "BXA-04",
       "variantCode": "BXA-04-01",
       "variantNo": "01",
@@ -5210,7 +5306,7 @@
       }
     },
     {
-      "id": "bey-39",
+      "id": "bey-40",
       "code": "BXA-04",
       "variantCode": "BXA-04-02",
       "variantNo": "02",
@@ -5309,7 +5405,7 @@
       }
     },
     {
-      "id": "bey-40",
+      "id": "bey-41",
       "code": "BXA-03",
       "variantCode": "BXA-03-01",
       "variantNo": "01",
@@ -5408,7 +5504,7 @@
       }
     },
     {
-      "id": "bey-41",
+      "id": "bey-42",
       "code": "BXA-03",
       "variantCode": "BXA-03-02",
       "variantNo": "02",
@@ -5511,7 +5607,7 @@
       }
     },
     {
-      "id": "bey-42",
+      "id": "bey-43",
       "code": "BXC-19",
       "variantCode": "BXC-19",
       "variantNo": "01",
@@ -5664,7 +5760,7 @@
       }
     },
     {
-      "id": "bey-43",
+      "id": "bey-44",
       "code": "BXG-21",
       "variantCode": "BXG-21",
       "variantNo": "01",
@@ -5762,7 +5858,7 @@
       }
     },
     {
-      "id": "bey-44",
+      "id": "bey-45",
       "code": "CX-16",
       "variantCode": "CX-16",
       "variantNo": "01",
@@ -5915,7 +6011,7 @@
       }
     },
     {
-      "id": "bey-45",
+      "id": "bey-46",
       "code": "CX-15",
       "variantCode": "CX-15",
       "variantNo": "01",
@@ -6062,7 +6158,7 @@
       }
     },
     {
-      "id": "bey-46",
+      "id": "bey-47",
       "code": "CX-14",
       "variantCode": "CX-14",
       "variantNo": "01",
@@ -6210,7 +6306,7 @@
       }
     },
     {
-      "id": "bey-47",
+      "id": "bey-48",
       "code": "CX-13",
       "variantCode": "CX-13",
       "variantNo": "01",
@@ -6363,7 +6459,7 @@
       }
     },
     {
-      "id": "bey-48",
+      "id": "bey-49",
       "code": "BXG-53",
       "variantCode": "BXG-53",
       "variantNo": "01",
@@ -6464,7 +6560,7 @@
       }
     },
     {
-      "id": "bey-49",
+      "id": "bey-50",
       "code": "BXG-52",
       "variantCode": "BXG-52",
       "variantNo": "01",
@@ -6564,7 +6660,7 @@
       }
     },
     {
-      "id": "bey-50",
+      "id": "bey-51",
       "code": "BXG-56",
       "variantCode": "BXG-56",
       "variantNo": "01",
@@ -6657,7 +6753,7 @@
       }
     },
     {
-      "id": "bey-51",
+      "id": "bey-52",
       "code": "BXG-24",
       "variantCode": "BXG-24",
       "variantNo": "01",
@@ -6755,7 +6851,7 @@
       }
     },
     {
-      "id": "bey-52",
+      "id": "bey-53",
       "code": "BXC-18",
       "variantCode": "BXC-18",
       "variantNo": "01",
@@ -6843,7 +6939,7 @@
       }
     },
     {
-      "id": "bey-53",
+      "id": "bey-54",
       "code": "BX-48",
       "variantCode": "BX-48-01",
       "variantNo": "01",
@@ -6948,7 +7044,7 @@
       }
     },
     {
-      "id": "bey-54",
+      "id": "bey-55",
       "code": "BX-48",
       "variantCode": "BX-48-02",
       "variantNo": "02",
@@ -7049,7 +7145,7 @@
       }
     },
     {
-      "id": "bey-55",
+      "id": "bey-56",
       "code": "BX-48",
       "variantCode": "BX-48-03",
       "variantNo": "03",
@@ -7150,7 +7246,7 @@
       }
     },
     {
-      "id": "bey-56",
+      "id": "bey-57",
       "code": "BX-48",
       "variantCode": "BX-48-04",
       "variantNo": "04",
@@ -7249,7 +7345,7 @@
       }
     },
     {
-      "id": "bey-57",
+      "id": "bey-58",
       "code": "BX-48",
       "variantCode": "BX-48-05",
       "variantNo": "05",
@@ -7350,7 +7446,7 @@
       }
     },
     {
-      "id": "bey-58",
+      "id": "bey-59",
       "code": "BXC-12",
       "variantCode": "BXC-12",
       "variantNo": "01",
@@ -7447,7 +7543,7 @@
       }
     },
     {
-      "id": "bey-59",
+      "id": "bey-60",
       "code": "CX-12",
       "variantCode": "CX-12",
       "variantNo": "01",
@@ -7586,7 +7682,7 @@
       }
     },
     {
-      "id": "bey-60",
+      "id": "bey-61",
       "code": "BXH-21",
       "variantCode": "BXH-21-01",
       "variantNo": "01",
@@ -7679,7 +7775,7 @@
       }
     },
     {
-      "id": "bey-61",
+      "id": "bey-62",
       "code": "BXH-21",
       "variantCode": "BXH-21-02",
       "variantNo": "02",
@@ -7772,7 +7868,7 @@
       }
     },
     {
-      "id": "bey-62",
+      "id": "bey-63",
       "code": "BXH-21",
       "variantCode": "BXH-21-03",
       "variantNo": "03",
@@ -7865,7 +7961,7 @@
       }
     },
     {
-      "id": "bey-63",
+      "id": "bey-64",
       "code": "BXG-22",
       "variantCode": "BXG-22",
       "variantNo": "01",
@@ -7959,7 +8055,7 @@
       }
     },
     {
-      "id": "bey-64",
+      "id": "bey-65",
       "code": "UX-18",
       "variantCode": "UX-18-01",
       "variantNo": "01",
@@ -8064,7 +8160,7 @@
       }
     },
     {
-      "id": "bey-65",
+      "id": "bey-66",
       "code": "UX-18",
       "variantCode": "UX-18-02",
       "variantNo": "02",
@@ -8165,7 +8261,7 @@
       }
     },
     {
-      "id": "bey-66",
+      "id": "bey-67",
       "code": "UX-18",
       "variantCode": "UX-18-03",
       "variantNo": "03",
@@ -8310,7 +8406,7 @@
       }
     },
     {
-      "id": "bey-67",
+      "id": "bey-68",
       "code": "UX-18",
       "variantCode": "UX-18-04",
       "variantNo": "04",
@@ -8448,7 +8544,7 @@
       }
     },
     {
-      "id": "bey-68",
+      "id": "bey-69",
       "code": "UX-18",
       "variantCode": "UX-18-05",
       "variantNo": "05",
@@ -8551,7 +8647,7 @@
       }
     },
     {
-      "id": "bey-69",
+      "id": "bey-70",
       "code": "UX-18",
       "variantCode": "UX-18-06",
       "variantNo": "06",
@@ -8649,7 +8745,7 @@
       }
     },
     {
-      "id": "bey-70",
+      "id": "bey-71",
       "code": "UX-17",
       "variantCode": "UX-17",
       "variantNo": "01",
@@ -8750,7 +8846,7 @@
       }
     },
     {
-      "id": "bey-71",
+      "id": "bey-72",
       "code": "BXG-55",
       "variantCode": "BXG-55",
       "variantNo": "01",
@@ -8843,7 +8939,7 @@
       }
     },
     {
-      "id": "bey-72",
+      "id": "bey-73",
       "code": "BXG-50",
       "variantCode": "BXG-50-01",
       "variantNo": "01",
@@ -8936,7 +9032,7 @@
       }
     },
     {
-      "id": "bey-73",
+      "id": "bey-74",
       "code": "BXG-50",
       "variantCode": "BXG-50-02",
       "variantNo": "02",
@@ -9029,7 +9125,7 @@
       }
     },
     {
-      "id": "bey-74",
+      "id": "bey-75",
       "code": "BXG-50",
       "variantCode": "BXG-50-03",
       "variantNo": "03",
@@ -9122,7 +9218,7 @@
       }
     },
     {
-      "id": "bey-75",
+      "id": "bey-76",
       "code": "BXG-50",
       "variantCode": "BXG-50-04",
       "variantNo": "04",
@@ -9215,7 +9311,7 @@
       }
     },
     {
-      "id": "bey-76",
+      "id": "bey-77",
       "code": "BXC-15",
       "variantCode": "BXC-15",
       "variantNo": "01",
@@ -9308,7 +9404,7 @@
       }
     },
     {
-      "id": "bey-77",
+      "id": "bey-78",
       "code": "BXG-38",
       "variantCode": "BXG-38",
       "variantNo": "01",
@@ -9447,7 +9543,7 @@
       }
     },
     {
-      "id": "bey-78",
+      "id": "bey-79",
       "code": "BXH-20",
       "variantCode": "BXH-20",
       "variantNo": "01",
@@ -9536,7 +9632,7 @@
       }
     },
     {
-      "id": "bey-79",
+      "id": "bey-80",
       "code": "CX-11",
       "variantCode": "CX-11-01",
       "variantNo": "01",
@@ -9672,7 +9768,7 @@
       }
     },
     {
-      "id": "bey-80",
+      "id": "bey-81",
       "code": "CX-11",
       "variantCode": "CX-11-02",
       "variantNo": "02",
@@ -9773,7 +9869,7 @@
       }
     },
     {
-      "id": "bey-81",
+      "id": "bey-82",
       "code": "CX-11",
       "variantCode": "CX-11-03",
       "variantNo": "03",
@@ -9870,7 +9966,7 @@
       }
     },
     {
-      "id": "bey-82",
+      "id": "bey-83",
       "code": "CX-10",
       "variantCode": "CX-10",
       "variantNo": "01",
@@ -10006,7 +10102,7 @@
       }
     },
     {
-      "id": "bey-83",
+      "id": "bey-84",
       "code": "BXG-39",
       "variantCode": "BXG-39-01",
       "variantNo": "01",
@@ -10103,7 +10199,7 @@
       }
     },
     {
-      "id": "bey-84",
+      "id": "bey-85",
       "code": "BXG-39",
       "variantCode": "BXG-39-02",
       "variantNo": "02",
@@ -10200,7 +10296,7 @@
       }
     },
     {
-      "id": "bey-85",
+      "id": "bey-86",
       "code": "UX-16",
       "variantCode": "UX-16-01",
       "variantNo": "01",
@@ -10307,7 +10403,7 @@
       }
     },
     {
-      "id": "bey-86",
+      "id": "bey-87",
       "code": "UX-16",
       "variantCode": "UX-16-02",
       "variantNo": "02",
@@ -10412,7 +10508,7 @@
       }
     },
     {
-      "id": "bey-87",
+      "id": "bey-88",
       "code": "UX-16",
       "variantCode": "UX-16-03",
       "variantNo": "03",
@@ -10517,7 +10613,7 @@
       }
     },
     {
-      "id": "bey-88",
+      "id": "bey-89",
       "code": "BX-46",
       "variantCode": "BX-46-01",
       "variantNo": "01",
@@ -10621,7 +10717,7 @@
       }
     },
     {
-      "id": "bey-89",
+      "id": "bey-90",
       "code": "BX-46",
       "variantCode": "BX-46-02",
       "variantNo": "02",
@@ -10722,7 +10818,7 @@
       }
     },
     {
-      "id": "bey-90",
+      "id": "bey-91",
       "code": "CX-09",
       "variantCode": "CX-09",
       "variantNo": "01",
@@ -10858,7 +10954,7 @@
       }
     },
     {
-      "id": "bey-91",
+      "id": "bey-92",
       "code": "UX-15",
       "variantCode": "UX-15-01",
       "variantNo": "01",
@@ -10955,7 +11051,7 @@
       }
     },
     {
-      "id": "bey-92",
+      "id": "bey-93",
       "code": "UX-15",
       "variantCode": "UX-15-02",
       "variantNo": "02",
@@ -11056,7 +11152,7 @@
       }
     },
     {
-      "id": "bey-93",
+      "id": "bey-94",
       "code": "UX-15",
       "variantCode": "UX-15-03",
       "variantNo": "03",
@@ -11194,7 +11290,7 @@
       }
     },
     {
-      "id": "bey-94",
+      "id": "bey-95",
       "code": "BX-45",
       "variantCode": "BX-45",
       "variantNo": "01",
@@ -11291,7 +11387,7 @@
       }
     },
     {
-      "id": "bey-95",
+      "id": "bey-96",
       "code": "BXG-43",
       "variantCode": "BXG-43",
       "variantNo": "01",
@@ -11428,7 +11524,7 @@
       }
     },
     {
-      "id": "bey-96",
+      "id": "bey-97",
       "code": "BXG-45",
       "variantCode": "BXG-45",
       "variantNo": "01",
@@ -11559,7 +11655,7 @@
       }
     },
     {
-      "id": "bey-97",
+      "id": "bey-98",
       "code": "BXG-20",
       "variantCode": "BXG-20",
       "variantNo": "01",
@@ -11653,7 +11749,7 @@
       }
     },
     {
-      "id": "bey-98",
+      "id": "bey-99",
       "code": "BXG-41",
       "variantCode": "BXG-41-01",
       "variantNo": "01",
@@ -11762,7 +11858,7 @@
       }
     },
     {
-      "id": "bey-99",
+      "id": "bey-100",
       "code": "BXG-41",
       "variantCode": "BXG-41-02",
       "variantNo": "02",
@@ -11865,7 +11961,7 @@
       }
     },
     {
-      "id": "bey-100",
+      "id": "bey-101",
       "code": "BXG-40",
       "variantCode": "BXG-40-01",
       "variantNo": "01",
@@ -11968,7 +12064,7 @@
       }
     },
     {
-      "id": "bey-101",
+      "id": "bey-102",
       "code": "BXG-40",
       "variantCode": "BXG-40-02",
       "variantNo": "02",
@@ -12069,7 +12165,7 @@
       }
     },
     {
-      "id": "bey-102",
+      "id": "bey-103",
       "code": "CX-08",
       "variantCode": "CX-08-01",
       "variantNo": "01",
@@ -12213,7 +12309,7 @@
       }
     },
     {
-      "id": "bey-103",
+      "id": "bey-104",
       "code": "CX-08",
       "variantCode": "CX-08-02",
       "variantNo": "02",
@@ -12355,7 +12451,7 @@
       }
     },
     {
-      "id": "bey-104",
+      "id": "bey-105",
       "code": "CX-08",
       "variantCode": "CX-08-03",
       "variantNo": "03",
@@ -12498,7 +12594,7 @@
       }
     },
     {
-      "id": "bey-105",
+      "id": "bey-106",
       "code": "CX-08",
       "variantCode": "CX-08-04",
       "variantNo": "04",
@@ -12595,7 +12691,7 @@
       }
     },
     {
-      "id": "bey-106",
+      "id": "bey-107",
       "code": "CX-08",
       "variantCode": "CX-08-05",
       "variantNo": "05",
@@ -12695,7 +12791,7 @@
       }
     },
     {
-      "id": "bey-107",
+      "id": "bey-108",
       "code": "CX-08",
       "variantCode": "CX-08-06",
       "variantNo": "06",
@@ -12797,7 +12893,7 @@
       }
     },
     {
-      "id": "bey-108",
+      "id": "bey-109",
       "code": "CX-07",
       "variantCode": "CX-07",
       "variantNo": "01",
@@ -12930,7 +13026,7 @@
       }
     },
     {
-      "id": "bey-109",
+      "id": "bey-110",
       "code": "BXG-42",
       "variantCode": "BXG-42",
       "variantNo": "01",
@@ -13025,7 +13121,7 @@
       }
     },
     {
-      "id": "bey-110",
+      "id": "bey-111",
       "code": "BXH-14",
       "variantCode": "BXH-14",
       "variantNo": "01",
@@ -13164,7 +13260,7 @@
       }
     },
     {
-      "id": "bey-111",
+      "id": "bey-112",
       "code": "BXC-14",
       "variantCode": "BXC-14",
       "variantNo": "01",
@@ -13263,7 +13359,7 @@
       }
     },
     {
-      "id": "bey-112",
+      "id": "bey-113",
       "code": "BX-44",
       "variantCode": "BX-44",
       "variantNo": "01",
@@ -13360,7 +13456,7 @@
       }
     },
     {
-      "id": "bey-113",
+      "id": "bey-114",
       "code": "CX-06",
       "variantCode": "CX-06-01",
       "variantNo": "01",
@@ -13501,7 +13597,7 @@
       }
     },
     {
-      "id": "bey-114",
+      "id": "bey-115",
       "code": "CX-06",
       "variantCode": "CX-06-02",
       "variantNo": "02",
@@ -13640,7 +13736,7 @@
       }
     },
     {
-      "id": "bey-115",
+      "id": "bey-116",
       "code": "CX-06",
       "variantCode": "CX-06-03",
       "variantNo": "03",
@@ -13783,7 +13879,7 @@
       }
     },
     {
-      "id": "bey-116",
+      "id": "bey-117",
       "code": "BXC-11",
       "variantCode": "BXC-11",
       "variantNo": "01",
@@ -13876,7 +13972,7 @@
       }
     },
     {
-      "id": "bey-117",
+      "id": "bey-118",
       "code": "BXG-37",
       "variantCode": "BXG-37-01",
       "variantNo": "01",
@@ -13979,7 +14075,7 @@
       }
     },
     {
-      "id": "bey-118",
+      "id": "bey-119",
       "code": "BXG-37",
       "variantCode": "BXG-37-02",
       "variantNo": "02",
@@ -14082,7 +14178,7 @@
       }
     },
     {
-      "id": "bey-119",
+      "id": "bey-120",
       "code": "BXG-36",
       "variantCode": "BXG-36-01",
       "variantNo": "01",
@@ -14185,7 +14281,7 @@
       }
     },
     {
-      "id": "bey-120",
+      "id": "bey-121",
       "code": "BXG-36",
       "variantCode": "BXG-36-02",
       "variantNo": "02",
@@ -14288,7 +14384,7 @@
       }
     },
     {
-      "id": "bey-121",
+      "id": "bey-122",
       "code": "BXH-16",
       "variantCode": "BXH-16-01",
       "variantNo": "01",
@@ -14430,7 +14526,7 @@
       }
     },
     {
-      "id": "bey-122",
+      "id": "bey-123",
       "code": "BXH-16",
       "variantCode": "BXH-16-02",
       "variantNo": "02",
@@ -14572,7 +14668,7 @@
       }
     },
     {
-      "id": "bey-123",
+      "id": "bey-124",
       "code": "BXH-16",
       "variantCode": "BXH-16-03",
       "variantNo": "03",
@@ -14714,7 +14810,7 @@
       }
     },
     {
-      "id": "bey-124",
+      "id": "bey-125",
       "code": "UX-14",
       "variantCode": "UX-14",
       "variantNo": "01",
@@ -14811,7 +14907,7 @@
       }
     },
     {
-      "id": "bey-125",
+      "id": "bey-126",
       "code": "BXG-34",
       "variantCode": "BXG-34-01",
       "variantNo": "01",
@@ -14914,7 +15010,7 @@
       }
     },
     {
-      "id": "bey-126",
+      "id": "bey-127",
       "code": "BXG-34",
       "variantCode": "BXG-34-02",
       "variantNo": "02",
@@ -15017,7 +15113,7 @@
       }
     },
     {
-      "id": "bey-127",
+      "id": "bey-128",
       "code": "BXG-33",
       "variantCode": "BXG-33-01",
       "variantNo": "01",
@@ -15120,7 +15216,7 @@
       }
     },
     {
-      "id": "bey-128",
+      "id": "bey-129",
       "code": "BXG-33",
       "variantCode": "BXG-33-02",
       "variantNo": "02",
@@ -15223,7 +15319,7 @@
       }
     },
     {
-      "id": "bey-129",
+      "id": "bey-130",
       "code": "BXG-30",
       "variantCode": "BXG-30-01",
       "variantNo": "01",
@@ -15326,7 +15422,7 @@
       }
     },
     {
-      "id": "bey-130",
+      "id": "bey-131",
       "code": "BXG-30",
       "variantCode": "BXG-30-02",
       "variantNo": "02",
@@ -15429,7 +15525,7 @@
       }
     },
     {
-      "id": "bey-131",
+      "id": "bey-132",
       "code": "BXG-29",
       "variantCode": "BXG-29-01",
       "variantNo": "01",
@@ -15532,7 +15628,7 @@
       }
     },
     {
-      "id": "bey-132",
+      "id": "bey-133",
       "code": "BXG-29",
       "variantCode": "BXG-29-02",
       "variantNo": "02",
@@ -15635,7 +15731,7 @@
       }
     },
     {
-      "id": "bey-133",
+      "id": "bey-134",
       "code": "CX-05",
       "variantCode": "CX-05-01",
       "variantNo": "01",
@@ -15780,7 +15876,7 @@
       }
     },
     {
-      "id": "bey-134",
+      "id": "bey-135",
       "code": "CX-05",
       "variantCode": "CX-05-02",
       "variantNo": "02",
@@ -15925,7 +16021,7 @@
       }
     },
     {
-      "id": "bey-135",
+      "id": "bey-136",
       "code": "CX-05",
       "variantCode": "CX-05-03",
       "variantNo": "03",
@@ -16070,7 +16166,7 @@
       }
     },
     {
-      "id": "bey-136",
+      "id": "bey-137",
       "code": "CX-05",
       "variantCode": "CX-05-04",
       "variantNo": "04",
@@ -16171,7 +16267,7 @@
       }
     },
     {
-      "id": "bey-137",
+      "id": "bey-138",
       "code": "CX-05",
       "variantCode": "CX-05-05",
       "variantNo": "05",
@@ -16268,7 +16364,7 @@
       }
     },
     {
-      "id": "bey-138",
+      "id": "bey-139",
       "code": "CX-05",
       "variantCode": "CX-05-06",
       "variantNo": "06",
@@ -16369,7 +16465,7 @@
       }
     },
     {
-      "id": "bey-139",
+      "id": "bey-140",
       "code": "BXH-15",
       "variantCode": "BXH-15",
       "variantNo": "01",
@@ -16508,7 +16604,7 @@
       }
     },
     {
-      "id": "bey-140",
+      "id": "bey-141",
       "code": "BXG-13",
       "variantCode": "BXG-13",
       "variantNo": "01",
@@ -16602,7 +16698,7 @@
       }
     },
     {
-      "id": "bey-141",
+      "id": "bey-142",
       "code": "CX-04",
       "variantCode": "CX-04-01",
       "variantNo": "01",
@@ -16745,7 +16841,7 @@
       }
     },
     {
-      "id": "bey-142",
+      "id": "bey-143",
       "code": "CX-04",
       "variantCode": "CX-04-02",
       "variantNo": "02",
@@ -16887,7 +16983,7 @@
       }
     },
     {
-      "id": "bey-143",
+      "id": "bey-144",
       "code": "CX-03",
       "variantCode": "CX-03",
       "variantNo": "01",
@@ -17026,7 +17122,7 @@
       }
     },
     {
-      "id": "bey-144",
+      "id": "bey-145",
       "code": "CX-02",
       "variantCode": "CX-02",
       "variantNo": "01",
@@ -17163,7 +17259,7 @@
       }
     },
     {
-      "id": "bey-145",
+      "id": "bey-146",
       "code": "CX-01",
       "variantCode": "CX-01",
       "variantNo": "01",
@@ -17301,7 +17397,7 @@
       }
     },
     {
-      "id": "bey-146",
+      "id": "bey-147",
       "code": "BXH-17",
       "variantCode": "BXH-17",
       "variantNo": "01",
@@ -17400,7 +17496,7 @@
       }
     },
     {
-      "id": "bey-147",
+      "id": "bey-148",
       "code": "BXG-12",
       "variantCode": "BXG-12-01",
       "variantNo": "01",
@@ -17498,7 +17594,7 @@
       }
     },
     {
-      "id": "bey-148",
+      "id": "bey-149",
       "code": "BXG-12",
       "variantCode": "BXG-12-02",
       "variantNo": "02",
@@ -17596,7 +17692,7 @@
       }
     },
     {
-      "id": "bey-149",
+      "id": "bey-150",
       "code": "BXG-12",
       "variantCode": "BXG-12-03",
       "variantNo": "03",
@@ -17694,7 +17790,7 @@
       }
     },
     {
-      "id": "bey-150",
+      "id": "bey-151",
       "code": "BXG-12",
       "variantCode": "BXG-12-04",
       "variantNo": "04",
@@ -17795,7 +17891,7 @@
       }
     },
     {
-      "id": "bey-151",
+      "id": "bey-152",
       "code": "BXG-35",
       "variantCode": "BXG-35",
       "variantNo": "01",
@@ -17891,7 +17987,7 @@
       }
     },
     {
-      "id": "bey-152",
+      "id": "bey-153",
       "code": "BXC-08",
       "variantCode": "BXC-08",
       "variantNo": "01",
@@ -17979,7 +18075,7 @@
       }
     },
     {
-      "id": "bey-153",
+      "id": "bey-154",
       "code": "BX-39",
       "variantCode": "BX-39-01",
       "variantNo": "01",
@@ -18079,7 +18175,7 @@
       }
     },
     {
-      "id": "bey-154",
+      "id": "bey-155",
       "code": "BX-39",
       "variantCode": "BX-39-02",
       "variantNo": "02",
@@ -18181,7 +18277,7 @@
       }
     },
     {
-      "id": "bey-155",
+      "id": "bey-156",
       "code": "BX-39",
       "variantCode": "BX-39-03",
       "variantNo": "03",
@@ -18283,7 +18379,7 @@
       }
     },
     {
-      "id": "bey-156",
+      "id": "bey-157",
       "code": "UX-13",
       "variantCode": "UX-13",
       "variantNo": "01",
@@ -18376,7 +18472,7 @@
       }
     },
     {
-      "id": "bey-157",
+      "id": "bey-158",
       "code": "BXG-19",
       "variantCode": "BXG-19",
       "variantNo": "01",
@@ -18475,7 +18571,7 @@
       }
     },
     {
-      "id": "bey-158",
+      "id": "bey-159",
       "code": "BXG-18",
       "variantCode": "BXG-18",
       "variantNo": "01",
@@ -18574,7 +18670,7 @@
       }
     },
     {
-      "id": "bey-159",
+      "id": "bey-160",
       "code": "BXC-07",
       "variantCode": "BXC-07",
       "variantNo": "01",
@@ -18671,7 +18767,7 @@
       }
     },
     {
-      "id": "bey-160",
+      "id": "bey-161",
       "code": "BXC-09",
       "variantCode": "BXC-09",
       "variantNo": "01",
@@ -18768,7 +18864,7 @@
       }
     },
     {
-      "id": "bey-161",
+      "id": "bey-162",
       "code": "BXG-11",
       "variantCode": "BXG-11",
       "variantNo": "01",
@@ -18866,7 +18962,7 @@
       }
     },
     {
-      "id": "bey-162",
+      "id": "bey-163",
       "code": "UX-12",
       "variantCode": "UX-12-01",
       "variantNo": "01",
@@ -18965,7 +19061,7 @@
       }
     },
     {
-      "id": "bey-163",
+      "id": "bey-164",
       "code": "UX-12",
       "variantCode": "UX-12-02",
       "variantNo": "02",
@@ -19066,7 +19162,7 @@
       }
     },
     {
-      "id": "bey-164",
+      "id": "bey-165",
       "code": "UX-12",
       "variantCode": "UX-12-03",
       "variantNo": "03",
@@ -19167,7 +19263,7 @@
       }
     },
     {
-      "id": "bey-165",
+      "id": "bey-166",
       "code": "UX-12",
       "variantCode": "UX-12-04",
       "variantNo": "04",
@@ -19268,7 +19364,7 @@
       }
     },
     {
-      "id": "bey-166",
+      "id": "bey-167",
       "code": "UX-12",
       "variantCode": "UX-12-05",
       "variantNo": "05",
@@ -19369,7 +19465,7 @@
       }
     },
     {
-      "id": "bey-167",
+      "id": "bey-168",
       "code": "UX-12",
       "variantCode": "UX-12-06",
       "variantNo": "06",
@@ -19470,7 +19566,7 @@
       }
     },
     {
-      "id": "bey-168",
+      "id": "bey-169",
       "code": "UX-11",
       "variantCode": "UX-11",
       "variantNo": "01",
@@ -19564,7 +19660,7 @@
       }
     },
     {
-      "id": "bey-169",
+      "id": "bey-170",
       "code": "BXG-32",
       "variantCode": "BXG-32",
       "variantNo": "01",
@@ -19661,7 +19757,7 @@
       }
     },
     {
-      "id": "bey-170",
+      "id": "bey-171",
       "code": "BXG-31",
       "variantCode": "BXG-31-01",
       "variantNo": "01",
@@ -19762,7 +19858,7 @@
       }
     },
     {
-      "id": "bey-171",
+      "id": "bey-172",
       "code": "BXG-31",
       "variantCode": "BXG-31-02",
       "variantNo": "02",
@@ -19863,7 +19959,7 @@
       }
     },
     {
-      "id": "bey-172",
+      "id": "bey-173",
       "code": "BXG-31",
       "variantCode": "BXG-31-03",
       "variantNo": "03",
@@ -19964,7 +20060,7 @@
       }
     },
     {
-      "id": "bey-173",
+      "id": "bey-174",
       "code": "BXG-23",
       "variantCode": "BXG-23",
       "variantNo": "01",
@@ -20062,7 +20158,7 @@
       }
     },
     {
-      "id": "bey-174",
+      "id": "bey-175",
       "code": "BXG-25",
       "variantCode": "BXG-25-01",
       "variantNo": "01",
@@ -20163,7 +20259,7 @@
       }
     },
     {
-      "id": "bey-175",
+      "id": "bey-176",
       "code": "BXG-25",
       "variantCode": "BXG-25-02",
       "variantNo": "02",
@@ -20260,7 +20356,7 @@
       }
     },
     {
-      "id": "bey-176",
+      "id": "bey-177",
       "code": "BXG-25",
       "variantCode": "BXG-25-03",
       "variantNo": "03",
@@ -20357,7 +20453,7 @@
       }
     },
     {
-      "id": "bey-177",
+      "id": "bey-178",
       "code": "BXG-16",
       "variantCode": "BXG-16",
       "variantNo": "01",
@@ -20450,7 +20546,7 @@
       }
     },
     {
-      "id": "bey-178",
+      "id": "bey-179",
       "code": "UX-10",
       "variantCode": "UX-10-01",
       "variantNo": "01",
@@ -20549,7 +20645,7 @@
       }
     },
     {
-      "id": "bey-179",
+      "id": "bey-180",
       "code": "UX-10",
       "variantCode": "UX-10-02",
       "variantNo": "02",
@@ -20650,7 +20746,7 @@
       }
     },
     {
-      "id": "bey-180",
+      "id": "bey-181",
       "code": "UX-10",
       "variantCode": "UX-10-03",
       "variantNo": "03",
@@ -20747,7 +20843,7 @@
       }
     },
     {
-      "id": "bey-181",
+      "id": "bey-182",
       "code": "UX-10",
       "variantCode": "UX-10-04",
       "variantNo": "04",
@@ -20846,7 +20942,7 @@
       }
     },
     {
-      "id": "bey-182",
+      "id": "bey-183",
       "code": "UX-10",
       "variantCode": "UX-10-05",
       "variantNo": "05",
@@ -20935,7 +21031,7 @@
       }
     },
     {
-      "id": "bey-183",
+      "id": "bey-184",
       "code": "UX-10",
       "variantCode": "UX-10-06",
       "variantNo": "06",
@@ -21028,7 +21124,7 @@
       }
     },
     {
-      "id": "bey-184",
+      "id": "bey-185",
       "code": "UX-09",
       "variantCode": "UX-09",
       "variantNo": "01",
@@ -21125,7 +21221,7 @@
       }
     },
     {
-      "id": "bey-185",
+      "id": "bey-186",
       "code": "BX-38",
       "variantCode": "BX-38",
       "variantNo": "01",
@@ -21219,7 +21315,7 @@
       }
     },
     {
-      "id": "bey-186",
+      "id": "bey-187",
       "code": "UX-08",
       "variantCode": "UX-08",
       "variantNo": "01",
@@ -21313,7 +21409,7 @@
       }
     },
     {
-      "id": "bey-187",
+      "id": "bey-188",
       "code": "BX-37",
       "variantCode": "BX-37",
       "variantNo": "01",
@@ -21410,7 +21506,7 @@
       }
     },
     {
-      "id": "bey-188",
+      "id": "bey-189",
       "code": "BX-36",
       "variantCode": "BX-36-01",
       "variantNo": "01",
@@ -21513,7 +21609,7 @@
       }
     },
     {
-      "id": "bey-189",
+      "id": "bey-190",
       "code": "BX-36",
       "variantCode": "BX-36-02",
       "variantNo": "02",
@@ -21610,7 +21706,7 @@
       }
     },
     {
-      "id": "bey-190",
+      "id": "bey-191",
       "code": "BX-36",
       "variantCode": "BX-36-03",
       "variantNo": "03",
@@ -21707,7 +21803,7 @@
       }
     },
     {
-      "id": "bey-191",
+      "id": "bey-192",
       "code": "BXG-07",
       "variantCode": "BXG-07-01",
       "variantNo": "01",
@@ -21811,7 +21907,7 @@
       }
     },
     {
-      "id": "bey-192",
+      "id": "bey-193",
       "code": "BXG-07",
       "variantCode": "BXG-07-02",
       "variantNo": "02",
@@ -21913,7 +22009,7 @@
       }
     },
     {
-      "id": "bey-193",
+      "id": "bey-194",
       "code": "BXC-05",
       "variantCode": "BXC-05",
       "variantNo": "01",
@@ -22006,7 +22102,7 @@
       }
     },
     {
-      "id": "bey-194",
+      "id": "bey-195",
       "code": "BXG-09",
       "variantCode": "BXG-09",
       "variantNo": "01",
@@ -22104,7 +22200,7 @@
       }
     },
     {
-      "id": "bey-195",
+      "id": "bey-196",
       "code": "UX-07",
       "variantCode": "UX-07-01",
       "variantNo": "01",
@@ -22207,7 +22303,7 @@
       }
     },
     {
-      "id": "bey-196",
+      "id": "bey-197",
       "code": "UX-07",
       "variantCode": "UX-07-02",
       "variantNo": "02",
@@ -22308,7 +22404,7 @@
       }
     },
     {
-      "id": "bey-197",
+      "id": "bey-198",
       "code": "UX-07",
       "variantCode": "UX-07-03",
       "variantNo": "03",
@@ -22405,7 +22501,7 @@
       }
     },
     {
-      "id": "bey-198",
+      "id": "bey-199",
       "code": "UX-06",
       "variantCode": "UX-06",
       "variantNo": "01",
@@ -22498,7 +22594,7 @@
       }
     },
     {
-      "id": "bey-199",
+      "id": "bey-200",
       "code": "BXG-15",
       "variantCode": "BXG-15",
       "variantNo": "01",
@@ -22596,7 +22692,7 @@
       }
     },
     {
-      "id": "bey-200",
+      "id": "bey-201",
       "code": "BXG-14",
       "variantCode": "BXG-14",
       "variantNo": "01",
@@ -22692,7 +22788,7 @@
       }
     },
     {
-      "id": "bey-201",
+      "id": "bey-202",
       "code": "BXG-17",
       "variantCode": "BXG-17-01",
       "variantNo": "01",
@@ -22785,7 +22881,7 @@
       }
     },
     {
-      "id": "bey-202",
+      "id": "bey-203",
       "code": "BXG-17",
       "variantCode": "BXG-17-02",
       "variantNo": "02",
@@ -22878,7 +22974,7 @@
       }
     },
     {
-      "id": "bey-203",
+      "id": "bey-204",
       "code": "BXG-17",
       "variantCode": "BXG-17-03",
       "variantNo": "03",
@@ -22971,7 +23067,7 @@
       }
     },
     {
-      "id": "bey-204",
+      "id": "bey-205",
       "code": "BXG-17",
       "variantCode": "BXG-17-04",
       "variantNo": "04",
@@ -23064,7 +23160,7 @@
       }
     },
     {
-      "id": "bey-205",
+      "id": "bey-206",
       "code": "BXH-10",
       "variantCode": "BXH-10",
       "variantNo": "01",
@@ -23162,7 +23258,7 @@
       }
     },
     {
-      "id": "bey-206",
+      "id": "bey-207",
       "code": "BX-35",
       "variantCode": "BX-35-01",
       "variantNo": "01",
@@ -23266,7 +23362,7 @@
       }
     },
     {
-      "id": "bey-207",
+      "id": "bey-208",
       "code": "BX-35",
       "variantCode": "BX-35-02",
       "variantNo": "02",
@@ -23368,7 +23464,7 @@
       }
     },
     {
-      "id": "bey-208",
+      "id": "bey-209",
       "code": "BX-35",
       "variantCode": "BX-35-03",
       "variantNo": "03",
@@ -23469,7 +23565,7 @@
       }
     },
     {
-      "id": "bey-209",
+      "id": "bey-210",
       "code": "BX-35",
       "variantCode": "BX-35-04",
       "variantNo": "04",
@@ -23570,7 +23666,7 @@
       }
     },
     {
-      "id": "bey-210",
+      "id": "bey-211",
       "code": "BX-35",
       "variantCode": "BX-35-05",
       "variantNo": "05",
@@ -23671,7 +23767,7 @@
       }
     },
     {
-      "id": "bey-211",
+      "id": "bey-212",
       "code": "BX-35",
       "variantCode": "BX-35-06",
       "variantNo": "06",
@@ -23772,7 +23868,7 @@
       }
     },
     {
-      "id": "bey-212",
+      "id": "bey-213",
       "code": "BX-34",
       "variantCode": "BX-34",
       "variantNo": "01",
@@ -23870,7 +23966,7 @@
       }
     },
     {
-      "id": "bey-213",
+      "id": "bey-214",
       "code": "BX-33",
       "variantCode": "BX-33",
       "variantNo": "01",
@@ -23968,7 +24064,7 @@
       }
     },
     {
-      "id": "bey-214",
+      "id": "bey-215",
       "code": "BXC-03",
       "variantCode": "BXC-03",
       "variantNo": "01",
@@ -24056,7 +24152,7 @@
       }
     },
     {
-      "id": "bey-215",
+      "id": "bey-216",
       "code": "BXH-09",
       "variantCode": "BXH-09",
       "variantNo": "01",
@@ -24149,7 +24245,7 @@
       }
     },
     {
-      "id": "bey-216",
+      "id": "bey-217",
       "code": "UX-05",
       "variantCode": "UX-05-01",
       "variantNo": "01",
@@ -24248,7 +24344,7 @@
       }
     },
     {
-      "id": "bey-217",
+      "id": "bey-218",
       "code": "UX-05",
       "variantCode": "UX-05-02",
       "variantNo": "02",
@@ -24345,7 +24441,7 @@
       }
     },
     {
-      "id": "bey-218",
+      "id": "bey-219",
       "code": "UX-05",
       "variantCode": "UX-05-03",
       "variantNo": "03",
@@ -24442,7 +24538,7 @@
       }
     },
     {
-      "id": "bey-219",
+      "id": "bey-220",
       "code": "BXG-08",
       "variantCode": "BXG-08",
       "variantNo": "01",
@@ -24535,7 +24631,7 @@
       }
     },
     {
-      "id": "bey-220",
+      "id": "bey-221",
       "code": "BX-31",
       "variantCode": "BX-31-01",
       "variantNo": "01",
@@ -24638,7 +24734,7 @@
       }
     },
     {
-      "id": "bey-221",
+      "id": "bey-222",
       "code": "BX-31",
       "variantCode": "BX-31-02",
       "variantNo": "02",
@@ -24739,7 +24835,7 @@
       }
     },
     {
-      "id": "bey-222",
+      "id": "bey-223",
       "code": "BX-31",
       "variantCode": "BX-31-03",
       "variantNo": "03",
@@ -24840,7 +24936,7 @@
       }
     },
     {
-      "id": "bey-223",
+      "id": "bey-224",
       "code": "BX-31",
       "variantCode": "BX-31-04",
       "variantNo": "04",
@@ -24941,7 +25037,7 @@
       }
     },
     {
-      "id": "bey-224",
+      "id": "bey-225",
       "code": "BX-31",
       "variantCode": "BX-31-05",
       "variantNo": "05",
@@ -25042,7 +25138,7 @@
       }
     },
     {
-      "id": "bey-225",
+      "id": "bey-226",
       "code": "BX-31",
       "variantCode": "BX-31-06",
       "variantNo": "06",
@@ -25143,7 +25239,7 @@
       }
     },
     {
-      "id": "bey-226",
+      "id": "bey-227",
       "code": "BXG-04",
       "variantCode": "BXG-04",
       "variantNo": "01",
@@ -25241,7 +25337,7 @@
       }
     },
     {
-      "id": "bey-227",
+      "id": "bey-228",
       "code": "UX-04",
       "variantCode": "UX-04-01",
       "variantNo": "01",
@@ -25342,7 +25438,7 @@
       }
     },
     {
-      "id": "bey-228",
+      "id": "bey-229",
       "code": "UX-04",
       "variantCode": "UX-04-02",
       "variantNo": "02",
@@ -25439,7 +25535,7 @@
       }
     },
     {
-      "id": "bey-229",
+      "id": "bey-230",
       "code": "UX-03",
       "variantCode": "UX-03",
       "variantNo": "01",
@@ -25532,7 +25628,7 @@
       }
     },
     {
-      "id": "bey-230",
+      "id": "bey-231",
       "code": "UX-02",
       "variantCode": "UX-02",
       "variantNo": "01",
@@ -25629,7 +25725,7 @@
       }
     },
     {
-      "id": "bey-231",
+      "id": "bey-232",
       "code": "UX-01",
       "variantCode": "UX-01",
       "variantNo": "01",
@@ -25726,7 +25822,7 @@
       }
     },
     {
-      "id": "bey-232",
+      "id": "bey-233",
       "code": "BXG-06",
       "variantCode": "BXG-06",
       "variantNo": "01",
@@ -25819,7 +25915,7 @@
       }
     },
     {
-      "id": "bey-233",
+      "id": "bey-234",
       "code": "BXG-05",
       "variantCode": "BXG-05",
       "variantNo": "01",
@@ -25916,7 +26012,7 @@
       }
     },
     {
-      "id": "bey-234",
+      "id": "bey-235",
       "code": "BX-27",
       "variantCode": "BX-27-01",
       "variantNo": "01",
@@ -26015,7 +26111,7 @@
       }
     },
     {
-      "id": "bey-235",
+      "id": "bey-236",
       "code": "BX-27",
       "variantCode": "BX-27-02",
       "variantNo": "02",
@@ -26112,7 +26208,7 @@
       }
     },
     {
-      "id": "bey-236",
+      "id": "bey-237",
       "code": "BX-27",
       "variantCode": "BX-27-03",
       "variantNo": "03",
@@ -26213,7 +26309,7 @@
       }
     },
     {
-      "id": "bey-237",
+      "id": "bey-238",
       "code": "BXA-01",
       "variantCode": "BXA-01",
       "variantNo": "01",
@@ -26310,7 +26406,7 @@
       }
     },
     {
-      "id": "bey-238",
+      "id": "bey-239",
       "code": "BX-26",
       "variantCode": "BX-26",
       "variantNo": "01",
@@ -26403,7 +26499,7 @@
       }
     },
     {
-      "id": "bey-239",
+      "id": "bey-240",
       "code": "BXC-02",
       "variantCode": "BXC-02",
       "variantNo": "01",
@@ -26500,7 +26596,7 @@
       }
     },
     {
-      "id": "bey-240",
+      "id": "bey-241",
       "code": "BX-24",
       "variantCode": "BX-24-01",
       "variantNo": "01",
@@ -26599,7 +26695,7 @@
       }
     },
     {
-      "id": "bey-241",
+      "id": "bey-242",
       "code": "BX-24",
       "variantCode": "BX-24-02",
       "variantNo": "02",
@@ -26700,7 +26796,7 @@
       }
     },
     {
-      "id": "bey-242",
+      "id": "bey-243",
       "code": "BX-24",
       "variantCode": "BX-24-03",
       "variantNo": "03",
@@ -26797,7 +26893,7 @@
       }
     },
     {
-      "id": "bey-243",
+      "id": "bey-244",
       "code": "BX-24",
       "variantCode": "BX-24-04",
       "variantNo": "04",
@@ -26898,7 +26994,7 @@
       }
     },
     {
-      "id": "bey-244",
+      "id": "bey-245",
       "code": "BX-24",
       "variantCode": "BX-24-05",
       "variantNo": "05",
@@ -26995,7 +27091,7 @@
       }
     },
     {
-      "id": "bey-245",
+      "id": "bey-246",
       "code": "BX-24",
       "variantCode": "BX-24-06",
       "variantNo": "06",
@@ -27092,7 +27188,7 @@
       }
     },
     {
-      "id": "bey-246",
+      "id": "bey-247",
       "code": "BX-23",
       "variantCode": "BX-23",
       "variantNo": "01",
@@ -27187,7 +27283,7 @@
       }
     },
     {
-      "id": "bey-247",
+      "id": "bey-248",
       "code": "BXC-01",
       "variantCode": "BXC-01",
       "variantNo": "01",
@@ -27275,7 +27371,7 @@
       }
     },
     {
-      "id": "bey-248",
+      "id": "bey-249",
       "code": "BXH-04",
       "variantCode": "BXH-04-01",
       "variantNo": "01",
@@ -27376,7 +27472,7 @@
       }
     },
     {
-      "id": "bey-249",
+      "id": "bey-250",
       "code": "BXH-04",
       "variantCode": "BXH-04-02",
       "variantNo": "02",
@@ -27477,7 +27573,7 @@
       }
     },
     {
-      "id": "bey-250",
+      "id": "bey-251",
       "code": "BXH-04",
       "variantCode": "BXH-04-03",
       "variantNo": "03",
@@ -27578,7 +27674,7 @@
       }
     },
     {
-      "id": "bey-251",
+      "id": "bey-252",
       "code": "BX-22",
       "variantCode": "BX-22",
       "variantNo": "01",
@@ -27675,7 +27771,7 @@
       }
     },
     {
-      "id": "bey-252",
+      "id": "bey-253",
       "code": "BX-21",
       "variantCode": "BX-21-01",
       "variantNo": "01",
@@ -27772,7 +27868,7 @@
       }
     },
     {
-      "id": "bey-253",
+      "id": "bey-254",
       "code": "BX-21",
       "variantCode": "BX-21-02",
       "variantNo": "02",
@@ -27869,7 +27965,7 @@
       }
     },
     {
-      "id": "bey-254",
+      "id": "bey-255",
       "code": "BX-21",
       "variantCode": "BX-21-03",
       "variantNo": "03",
@@ -27970,7 +28066,7 @@
       }
     },
     {
-      "id": "bey-255",
+      "id": "bey-256",
       "code": "BX-20",
       "variantCode": "BX-20-01",
       "variantNo": "01",
@@ -28071,7 +28167,7 @@
       }
     },
     {
-      "id": "bey-256",
+      "id": "bey-257",
       "code": "BX-20",
       "variantCode": "BX-20-02",
       "variantNo": "02",
@@ -28172,7 +28268,7 @@
       }
     },
     {
-      "id": "bey-257",
+      "id": "bey-258",
       "code": "BX-20",
       "variantCode": "BX-20-03",
       "variantNo": "03",
@@ -28273,7 +28369,7 @@
       }
     },
     {
-      "id": "bey-258",
+      "id": "bey-259",
       "code": "BX-19",
       "variantCode": "BX-19",
       "variantNo": "01",
@@ -28370,7 +28466,7 @@
       }
     },
     {
-      "id": "bey-259",
+      "id": "bey-260",
       "code": "BX-17",
       "variantCode": "BX-17-01",
       "variantNo": "01",
@@ -28471,7 +28567,7 @@
       }
     },
     {
-      "id": "bey-260",
+      "id": "bey-261",
       "code": "BX-17",
       "variantCode": "BX-17-02",
       "variantNo": "02",
@@ -28572,7 +28668,7 @@
       }
     },
     {
-      "id": "bey-261",
+      "id": "bey-262",
       "code": "BX-16",
       "variantCode": "BX-16-01",
       "variantNo": "01",
@@ -28675,7 +28771,7 @@
       }
     },
     {
-      "id": "bey-262",
+      "id": "bey-263",
       "code": "BX-16",
       "variantCode": "BX-16-02",
       "variantNo": "02",
@@ -28776,7 +28872,7 @@
       }
     },
     {
-      "id": "bey-263",
+      "id": "bey-264",
       "code": "BX-16",
       "variantCode": "BX-16-03",
       "variantNo": "03",
@@ -28873,7 +28969,7 @@
       }
     },
     {
-      "id": "bey-264",
+      "id": "bey-265",
       "code": "BX-15",
       "variantCode": "BX-15",
       "variantNo": "01",
@@ -28970,7 +29066,7 @@
       }
     },
     {
-      "id": "bey-265",
+      "id": "bey-266",
       "code": "BXG-03",
       "variantCode": "BXG-03",
       "variantNo": "01",
@@ -29067,7 +29163,7 @@
       }
     },
     {
-      "id": "bey-266",
+      "id": "bey-267",
       "code": "BXH-01",
       "variantCode": "BXH-01",
       "variantNo": "01",
@@ -29165,7 +29261,7 @@
       }
     },
     {
-      "id": "bey-267",
+      "id": "bey-268",
       "code": "BX-14",
       "variantCode": "BX-14-01",
       "variantNo": "01",
@@ -29264,7 +29360,7 @@
       }
     },
     {
-      "id": "bey-268",
+      "id": "bey-269",
       "code": "BX-14",
       "variantCode": "BX-14-02",
       "variantNo": "02",
@@ -29365,7 +29461,7 @@
       }
     },
     {
-      "id": "bey-269",
+      "id": "bey-270",
       "code": "BX-14",
       "variantCode": "BX-14-03",
       "variantNo": "03",
@@ -29466,7 +29562,7 @@
       }
     },
     {
-      "id": "bey-270",
+      "id": "bey-271",
       "code": "BX-14",
       "variantCode": "BX-14-04",
       "variantNo": "04",
@@ -29563,7 +29659,7 @@
       }
     },
     {
-      "id": "bey-271",
+      "id": "bey-272",
       "code": "BX-14",
       "variantCode": "BX-14-05",
       "variantNo": "05",
@@ -29660,7 +29756,7 @@
       }
     },
     {
-      "id": "bey-272",
+      "id": "bey-273",
       "code": "BX-14",
       "variantCode": "BX-14-06",
       "variantNo": "06",
@@ -29761,7 +29857,7 @@
       }
     },
     {
-      "id": "bey-273",
+      "id": "bey-274",
       "code": "BX-13",
       "variantCode": "BX-13",
       "variantNo": "01",
@@ -29854,7 +29950,7 @@
       }
     },
     {
-      "id": "bey-274",
+      "id": "bey-275",
       "code": "BXH-02",
       "variantCode": "BXH-02",
       "variantNo": "01",
@@ -29951,7 +30047,7 @@
       }
     },
     {
-      "id": "bey-275",
+      "id": "bey-276",
       "code": "BXG-01",
       "variantCode": "BXG-01",
       "variantNo": "01",
@@ -30049,7 +30145,7 @@
       }
     },
     {
-      "id": "bey-276",
+      "id": "bey-277",
       "code": "BX-08",
       "variantCode": "BX-08-01",
       "variantNo": "01",
@@ -30150,7 +30246,7 @@
       }
     },
     {
-      "id": "bey-277",
+      "id": "bey-278",
       "code": "BX-08",
       "variantCode": "BX-08-02",
       "variantNo": "02",
@@ -30251,7 +30347,7 @@
       }
     },
     {
-      "id": "bey-278",
+      "id": "bey-279",
       "code": "BX-08",
       "variantCode": "BX-08-03",
       "variantNo": "03",
@@ -30352,7 +30448,7 @@
       }
     },
     {
-      "id": "bey-279",
+      "id": "bey-280",
       "code": "BX-07",
       "variantCode": "BX-07",
       "variantNo": "01",
@@ -30449,7 +30545,7 @@
       }
     },
     {
-      "id": "bey-280",
+      "id": "bey-281",
       "code": "BX-06",
       "variantCode": "BX-06",
       "variantNo": "01",
@@ -30546,7 +30642,7 @@
       }
     },
     {
-      "id": "bey-281",
+      "id": "bey-282",
       "code": "BX-05",
       "variantCode": "BX-05",
       "variantNo": "01",
@@ -30643,7 +30739,7 @@
       }
     },
     {
-      "id": "bey-282",
+      "id": "bey-283",
       "code": "BX-04",
       "variantCode": "BX-04",
       "variantNo": "01",
@@ -30740,7 +30836,7 @@
       }
     },
     {
-      "id": "bey-283",
+      "id": "bey-284",
       "code": "BX-03",
       "variantCode": "BX-03",
       "variantNo": "01",
@@ -30837,7 +30933,7 @@
       }
     },
     {
-      "id": "bey-284",
+      "id": "bey-285",
       "code": "BX-02",
       "variantCode": "BX-02",
       "variantNo": "01",
@@ -30934,7 +31030,7 @@
       }
     },
     {
-      "id": "bey-285",
+      "id": "bey-286",
       "code": "BX-01",
       "variantCode": "BX-01",
       "variantNo": "01",
@@ -31049,7 +31145,7 @@
         "rawStat": [
           37.5
         ],
-        "desc": "（此乃AI臨時圖）",
+        "desc": "金屬連接至中央能提高剛性；框架構造的圓形十二枚刃把衝擊高效率分散，持續抵耐。",
         "image": "https://go-shoot.github.io/x/img/blade/HvRn.png"
       },
       {
@@ -31069,7 +31165,7 @@
         "rawStat": [
           null
         ],
-        "desc": "",
+        "desc": "內藏彈簧的可動刃攻擊時回彈，以反發力特化於強烈的撞擊性能。",
         "image": "https://go-shoot.github.io/x/img/blade/GlVl.png"
       },
       {
@@ -34606,7 +34702,7 @@
           20,
           null
         ],
-        "desc": "（暫只在Hasbro產品中出現）",
+        "desc": "把Burst抵耐性交換成提升的姿勢制禦性能。",
         "group": "",
         "mobility": 20,
         "image": "https://go-shoot.github.io/x/img/bit/DS.png"
