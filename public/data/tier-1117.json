@@ -1,73 +1,9 @@
 {
-  "generatedAt": "2026-06-18T03:48:03.210Z",
+  "generatedAt": "2026-06-19T03:48:50.431Z",
   "source": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1117",
   "title": "【心得】【戰鬥陀螺X 新手入坑指南 2026版】(05/11新增X瀏覽器/查零件用) @戰鬥陀螺 系列 哈啦板 - 巴哈姆特",
   "tiers": {
-    "T0": [
-      {
-        "tier": "T0",
-        "code": "",
-        "normalizedCode": "",
-        "name": "戰鬥盤-",
-        "raw": "戰鬥盤-   (這不用我說吧? 除非你要用鍋碗瓢盆來打)"
-      },
-      {
-        "tier": "T0",
-        "code": "CX-16",
-        "normalizedCode": "CX16",
-        "name": "入門戰鬥盤組",
-        "raw": "CX-16入門戰鬥盤組 (  戰鬥盤,  龍王閃擊異色,發射握把)"
-      },
-      {
-        "tier": "T0",
-        "code": "UX-04",
-        "normalizedCode": "UX04",
-        "name": "衝擊對戰組",
-        "raw": "UX-04衝擊對戰組   (  戰鬥盤    ,魔導神杖,蒼龍爆刃)   但太稀有了,不容易買僅供參考"
-      },
-      {
-        "tier": "T0",
-        "code": "UX-15",
-        "normalizedCode": "UX15",
-        "name": "鮫鯊狂麟",
-        "raw": "UX-15鮫鯊狂麟 (  鯊魚上蓋  ,暴龍上蓋,1-70,3-60,L軸)"
-      },
-      {
-        "tier": "T0",
-        "code": "UX-03",
-        "normalizedCode": "UX03",
-        "name": "魔導神杖",
-        "raw": "UX-03魔導神杖 (  神杖上蓋  )"
-      },
-      {
-        "tier": "T0",
-        "code": "BX-23",
-        "normalizedCode": "BX23",
-        "name": "鳳凰飛翼",
-        "raw": "BX-23鳳凰飛翼 (  鳳凰上蓋  ,  9-60  ,右旋旋風發射器)"
-      },
-      {
-        "tier": "T0",
-        "code": "UX-17",
-        "normalizedCode": "UX17",
-        "name": "殞星龍騎士",
-        "raw": "UX-17殞星龍騎士 (隕星上蓋,3-70,J軸,左旋拉條發射器)"
-      },
-      {
-        "tier": "T0",
-        "code": "CX-13",
-        "normalizedCode": "CX13",
-        "name": "龍王閃擊",
-        "raw": "CX-13龍王閃擊 (龍王上蓋,1-50,I軸)"
-      },
-      {
-        "tier": "T0",
-        "code": "UX-11",
-        "normalizedCode": "UX11",
-        "name": "衝擊龍神",
-        "raw": "UX-11衝擊龍神 (  9-60  ,  LR軸  ,右旋旋風發射器)"
-      }
-    ],
+    "T0": [],
     "T1": [
       {
         "tier": "T1",
@@ -78,10 +14,10 @@
       },
       {
         "tier": "T1",
-        "code": "UX-19",
-        "normalizedCode": "UX19",
-        "name": "子彈獅鷲",
-        "raw": "UX-19子彈獅鷲（  H軸  ）陀螺有一定強度,很適合新手"
+        "code": "CX-18",
+        "normalizedCode": "CX18",
+        "name": "腕龍鞭打",
+        "raw": "CX-18腕龍鞭打 (   W環 Nr軸   ) 超值W環包,玩CX必備零件, Nr軸 新起T1軸 效果不錯"
       },
       {
         "tier": "T1",
@@ -134,17 +70,10 @@
       },
       {
         "tier": "T1",
-        "code": "CX-14",
-        "normalizedCode": "CX14",
-        "name": "騎士堡壘",
-        "raw": "CX-14騎士堡壘 (騎士上蓋,8-70,UN軸)"
-      },
-      {
-        "tier": "T1",
-        "code": "CX-15",
-        "normalizedCode": "CX15",
-        "name": "邪神狂怒",
-        "raw": "CX-15邪神狂怒 (邪神上蓋,4-55,Y軸)"
+        "code": "CX-13",
+        "normalizedCode": "CX13",
+        "name": "龍王閃擊",
+        "raw": "CX-13龍王閃擊 (龍王上蓋,1-50,I軸)"
       }
     ],
     "T2": [
@@ -227,6 +156,20 @@
       },
       {
         "tier": "T2",
+        "code": "CX-14",
+        "normalizedCode": "CX14",
+        "name": "騎士堡壘",
+        "raw": "CX-14騎士堡壘 (騎士上蓋,8-70,UN軸)"
+      },
+      {
+        "tier": "T2",
+        "code": "CX-15",
+        "normalizedCode": "CX15",
+        "name": "邪神狂怒",
+        "raw": "CX-15邪神狂怒 (邪神上蓋,4-55,Y軸)"
+      },
+      {
+        "tier": "T2",
         "code": "CX-17",
         "normalizedCode": "CX17",
         "name": "抽包組",
@@ -264,69 +207,6 @@
   },
   "entries": [
     {
-      "tier": "T0",
-      "code": "",
-      "normalizedCode": "",
-      "name": "戰鬥盤-",
-      "raw": "戰鬥盤-   (這不用我說吧? 除非你要用鍋碗瓢盆來打)"
-    },
-    {
-      "tier": "T0",
-      "code": "CX-16",
-      "normalizedCode": "CX16",
-      "name": "入門戰鬥盤組",
-      "raw": "CX-16入門戰鬥盤組 (  戰鬥盤,  龍王閃擊異色,發射握把)"
-    },
-    {
-      "tier": "T0",
-      "code": "UX-04",
-      "normalizedCode": "UX04",
-      "name": "衝擊對戰組",
-      "raw": "UX-04衝擊對戰組   (  戰鬥盤    ,魔導神杖,蒼龍爆刃)   但太稀有了,不容易買僅供參考"
-    },
-    {
-      "tier": "T0",
-      "code": "UX-15",
-      "normalizedCode": "UX15",
-      "name": "鮫鯊狂麟",
-      "raw": "UX-15鮫鯊狂麟 (  鯊魚上蓋  ,暴龍上蓋,1-70,3-60,L軸)"
-    },
-    {
-      "tier": "T0",
-      "code": "UX-03",
-      "normalizedCode": "UX03",
-      "name": "魔導神杖",
-      "raw": "UX-03魔導神杖 (  神杖上蓋  )"
-    },
-    {
-      "tier": "T0",
-      "code": "BX-23",
-      "normalizedCode": "BX23",
-      "name": "鳳凰飛翼",
-      "raw": "BX-23鳳凰飛翼 (  鳳凰上蓋  ,  9-60  ,右旋旋風發射器)"
-    },
-    {
-      "tier": "T0",
-      "code": "UX-17",
-      "normalizedCode": "UX17",
-      "name": "殞星龍騎士",
-      "raw": "UX-17殞星龍騎士 (隕星上蓋,3-70,J軸,左旋拉條發射器)"
-    },
-    {
-      "tier": "T0",
-      "code": "CX-13",
-      "normalizedCode": "CX13",
-      "name": "龍王閃擊",
-      "raw": "CX-13龍王閃擊 (龍王上蓋,1-50,I軸)"
-    },
-    {
-      "tier": "T0",
-      "code": "UX-11",
-      "normalizedCode": "UX11",
-      "name": "衝擊龍神",
-      "raw": "UX-11衝擊龍神 (  9-60  ,  LR軸  ,右旋旋風發射器)"
-    },
-    {
       "tier": "T1",
       "code": "BX-49",
       "normalizedCode": "BX49",
@@ -335,10 +215,10 @@
     },
     {
       "tier": "T1",
-      "code": "UX-19",
-      "normalizedCode": "UX19",
-      "name": "子彈獅鷲",
-      "raw": "UX-19子彈獅鷲（  H軸  ）陀螺有一定強度,很適合新手"
+      "code": "CX-18",
+      "normalizedCode": "CX18",
+      "name": "腕龍鞭打",
+      "raw": "CX-18腕龍鞭打 (   W環 Nr軸   ) 超值W環包,玩CX必備零件, Nr軸 新起T1軸 效果不錯"
     },
     {
       "tier": "T1",
@@ -391,17 +271,10 @@
     },
     {
       "tier": "T1",
-      "code": "CX-14",
-      "normalizedCode": "CX14",
-      "name": "騎士堡壘",
-      "raw": "CX-14騎士堡壘 (騎士上蓋,8-70,UN軸)"
-    },
-    {
-      "tier": "T1",
-      "code": "CX-15",
-      "normalizedCode": "CX15",
-      "name": "邪神狂怒",
-      "raw": "CX-15邪神狂怒 (邪神上蓋,4-55,Y軸)"
+      "code": "CX-13",
+      "normalizedCode": "CX13",
+      "name": "龍王閃擊",
+      "raw": "CX-13龍王閃擊 (龍王上蓋,1-50,I軸)"
     },
     {
       "tier": "T2",
@@ -482,6 +355,20 @@
     },
     {
       "tier": "T2",
+      "code": "CX-14",
+      "normalizedCode": "CX14",
+      "name": "騎士堡壘",
+      "raw": "CX-14騎士堡壘 (騎士上蓋,8-70,UN軸)"
+    },
+    {
+      "tier": "T2",
+      "code": "CX-15",
+      "normalizedCode": "CX15",
+      "name": "邪神狂怒",
+      "raw": "CX-15邪神狂怒 (邪神上蓋,4-55,Y軸)"
+    },
+    {
+      "tier": "T2",
       "code": "CX-17",
       "normalizedCode": "CX17",
       "name": "抽包組",
@@ -517,16 +404,8 @@
     }
   ],
   "tierMapByCode": {
-    "CX16": "T0",
-    "UX04": "T0",
-    "UX15": "T0",
-    "UX03": "T0",
-    "BX23": "T0",
-    "UX17": "T0",
-    "CX13": "T0",
-    "UX11": "T0",
     "BX49": "T2",
-    "UX19": "T1",
+    "CX18": "T2",
     "UX08": "T1",
     "UX10": "T1",
     "CX11": "T1",
@@ -534,8 +413,7 @@
     "CX07": "T1",
     "UX01": "T1",
     "UX16": "T1",
-    "CX14": "T1",
-    "CX15": "T1",
+    "CX13": "T1",
     "UX06": "T2",
     "UX09": "T2",
     "CX02": "T2",
@@ -546,8 +424,9 @@
     "UX18": "T2",
     "CX05": "T2",
     "CX08": "T2",
+    "CX14": "T2",
+    "CX15": "T2",
     "CX17": "T2",
-    "CX18": "T2",
     "BX48": "T2",
     "BX00": "T2"
   }
