@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T03:47:27.321Z",
+  "generatedAt": "2026-06-21T03:48:21.091Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 289,
@@ -15664,9 +15664,9 @@
         ]
       },
       "stats": {
-        "blade": 33,
+        "blade": 33.5,
         "bladeRaw": [
-          33
+          33.5
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
@@ -32521,9 +32521,9 @@
           "right",
           "BX"
         ],
-        "stat": null,
+        "stat": 27.5,
         "rawStat": [
-          null
+          27.5
         ],
         "desc": "",
         "image": "https://go-shoot.github.io/x/img/blade/CrCl.png"
@@ -32914,6 +32914,26 @@
         "image": "https://go-shoot.github.io/x/img/blade/Than.png"
       },
       {
+        "code": "Hulk",
+        "names": {
+          "jap": "ハルク",
+          "eng": "Hulk",
+          "chi": "浩克"
+        },
+        "attr": [
+          "def",
+          "right",
+          "BX",
+          "marvel"
+        ],
+        "stat": 32.5,
+        "rawStat": [
+          32.5
+        ],
+        "desc": "",
+        "image": "https://go-shoot.github.io/x/img/blade/Hulk.png"
+      },
+      {
         "code": "Redh",
         "names": {
           "jap": "レッドハルク",
@@ -32966,9 +32986,9 @@
           "BX",
           "marvel"
         ],
-        "stat": 33,
+        "stat": 33.5,
         "rawStat": [
-          33
+          33.5
         ],
         "desc": "",
         "image": "https://go-shoot.github.io/x/img/blade/Spid.png"
