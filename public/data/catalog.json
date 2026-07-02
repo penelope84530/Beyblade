@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T03:47:29.849Z",
+  "generatedAt": "2026-07-02T03:47:08.923Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 289,
@@ -1449,8 +1449,10 @@
       ],
       "isCx": false,
       "isCxExpansion": false,
-      "videoId": "[object Object]",
-      "meta": {},
+      "videoId": "rYbwfA49v78",
+      "meta": {
+        "coat": "White"
+      },
       "names": {
         "eng": "Glory\\Valkyrie LF",
         "chi": "GlVl LF",
@@ -1539,7 +1541,7 @@
       ],
       "isCx": false,
       "isCxExpansion": false,
-      "videoId": null,
+      "videoId": "oL-syPgPhUY",
       "meta": {},
       "names": {
         "eng": "HeavensRing 0-80 DS",
@@ -2484,18 +2486,18 @@
       "meta": {},
       "names": {
         "eng": "Hr.Ft.R 7-60 Taper",
-        "chi": "Hr.Ft.R 7-60 T",
+        "chi": "要塞 7-60 T",
         "jap": "フォート"
       },
       "formalName": "Hr.Ft.R 7-60 Taper",
-      "formalAlias": "Hr.Ft.R 7-60 T",
+      "formalAlias": "要塞 7-60 T",
       "searchTokens": [
         "BXG-79",
         "Hr.Ft.R 7-60 T",
         "Hr.Ft.R",
         "Hr.Ft.R 7-60 Taper",
         "フォート",
-        "Hr.Ft.R 7-60 T"
+        "要塞 7-60 T"
       ],
       "images": {
         "blade": "https://go-shoot.github.io/x/img/blade/Hr.Ft.R.png",
@@ -2623,18 +2625,18 @@
       "meta": {},
       "names": {
         "eng": "Kr.Wr.S 3-70 Orb",
-        "chi": "Kr.Wr.S 3-70 O",
+        "chi": "蠕動 扭擺 3-70 O",
         "jap": "リグル"
       },
       "formalName": "Kr.Wr.S 3-70 Orb",
-      "formalAlias": "Kr.Wr.S 3-70 O",
+      "formalAlias": "蠕動 扭擺 3-70 O",
       "searchTokens": [
         "BXG-80",
         "Kr.Wr.S 3-70 O",
         "Kr.Wr.S",
         "Kr.Wr.S 3-70 Orb",
         "リグル",
-        "Kr.Wr.S 3-70 O"
+        "蠕動 扭擺 3-70 O"
       ],
       "images": {
         "blade": "https://go-shoot.github.io/x/img/blade/Kr.Wr.S.png",
@@ -2762,18 +2764,18 @@
       "meta": {},
       "names": {
         "eng": "Bc.An.B 2-60 Dot",
-        "chi": "Bc.An.B 2-60 D",
+        "chi": "巨角 戰角 2-60 D",
         "jap": "アントラーズ"
       },
       "formalName": "Bc.An.B 2-60 Dot",
-      "formalAlias": "Bc.An.B 2-60 D",
+      "formalAlias": "巨角 戰角 2-60 D",
       "searchTokens": [
         "BXG-81",
         "Bc.An.B 2-60 D",
         "Bc.An.B",
         "Bc.An.B 2-60 Dot",
         "アントラーズ",
-        "Bc.An.B 2-60 D"
+        "巨角 戰角 2-60 D"
       ],
       "images": {
         "blade": "https://go-shoot.github.io/x/img/blade/Bc.An.B.png",
@@ -32510,6 +32512,87 @@
         "image": "https://go-shoot.github.io/x/img/blade/WyHv.png"
       },
       {
+        "code": "SpSp",
+        "names": {
+          "jap": "",
+          "eng": "SuppressSuperion",
+          "chi": ""
+        },
+        "attr": [
+          "bal",
+          "right",
+          "BX",
+          "expand",
+          "bbb"
+        ],
+        "stat": null,
+        "rawStat": [
+          null
+        ],
+        "desc": "",
+        "image": "https://go-shoot.github.io/x/img/blade/SpSp.png"
+      },
+      {
+        "code": "JgSz",
+        "names": {
+          "jap": "",
+          "eng": "JaguarSeize",
+          "chi": ""
+        },
+        "attr": [
+          "def",
+          "right",
+          "UX",
+          "fused"
+        ],
+        "stat": null,
+        "rawStat": [
+          null
+        ],
+        "desc": "",
+        "image": "https://go-shoot.github.io/x/img/blade/JgSz.png"
+      },
+      {
+        "code": "CyEy",
+        "names": {
+          "jap": "サイクロプスアイ",
+          "eng": "CyclopsEye",
+          "chi": ""
+        },
+        "attr": [
+          "sta",
+          "right",
+          "BX",
+          "expand"
+        ],
+        "stat": null,
+        "rawStat": [
+          null
+        ],
+        "desc": "",
+        "image": "https://go-shoot.github.io/x/img/blade/CyEy.png"
+      },
+      {
+        "code": "HlNt",
+        "names": {
+          "jap": "ヘルズネザー",
+          "eng": "HellsNether",
+          "chi": ""
+        },
+        "attr": [
+          "bal",
+          "right",
+          "UX",
+          "fused"
+        ],
+        "stat": null,
+        "rawStat": [
+          null
+        ],
+        "desc": "",
+        "image": "https://go-shoot.github.io/x/img/blade/HlNt.png"
+      },
+      {
         "code": "CrCl",
         "names": {
           "jap": "クラブクランプ",
@@ -32564,7 +32647,7 @@
         "rawStat": [
           36.5
         ],
-        "desc": "（此乃AI臨時圖）",
+        "desc": "",
         "image": "https://go-shoot.github.io/x/img/blade/BtGs.png"
       },
       {
@@ -33600,7 +33683,7 @@
         "names": {
           "jap": "リグル",
           "eng": "Wriggle",
-          "chi": ""
+          "chi": "蠕動 扭擺"
         },
         "attr": [
           "sta",
@@ -33618,7 +33701,7 @@
         "names": {
           "jap": "フォート",
           "eng": "Fort",
-          "chi": ""
+          "chi": "要塞"
         },
         "attr": [
           "bal",
@@ -33636,7 +33719,7 @@
         "names": {
           "jap": "アントラーズ",
           "eng": "Antlers",
-          "chi": ""
+          "chi": "巨角 戰角"
         },
         "attr": [
           "sta",
@@ -33939,6 +34022,21 @@
         ],
         "desc": "採用容易化解攻擊的四枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/4-80.png"
+      },
+      {
+        "code": "5-50",
+        "names": {
+          "eng": "5-50",
+          "jap": "5-50",
+          "chi": "5-50"
+        },
+        "attr": [],
+        "stat": null,
+        "rawStat": [
+          null
+        ],
+        "desc": "",
+        "image": "https://go-shoot.github.io/x/img/ratchet/5-50.png"
       },
       {
         "code": "5-60",
@@ -34833,6 +34931,26 @@
         "group": "round",
         "mobility": 12,
         "image": "https://go-shoot.github.io/x/img/bit/P.png"
+      },
+      {
+        "code": "LP",
+        "names": {
+          "jap": "",
+          "eng": "",
+          "chi": ""
+        },
+        "attr": [],
+        "stat": null,
+        "rawStat": [
+          null,
+          null,
+          null,
+          null
+        ],
+        "desc": "",
+        "group": "",
+        "mobility": null,
+        "image": "https://go-shoot.github.io/x/img/bit/LP.png"
       },
       {
         "code": "GP",

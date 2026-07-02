@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T03:47:32.241Z",
+  "generatedAt": "2026-07-02T03:47:11.749Z",
   "sources": {
     "forum1117": {
       "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1117",
@@ -78,6 +78,11 @@
           "snA": 1071,
           "title": "【公告】本板板主申請人一覽",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1071"
+        },
+        {
+          "snA": 1311,
+          "title": "【問題】新手請教冷門陀螺 小朋友(國小6年級)新手加入戰鬥陀螺，因為自己本身也不懂， 所以買了暴風巨神給他， 但是他卻被同學說這顆很爛沒用... 真的是這樣嗎? 我打算再買一些給他， 但又怕再採雷讓他被",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1311"
         },
         {
           "snA": 1117,
@@ -168,14 +173,14 @@
           "snA": 1294,
           "title": "【問題】新手求組合 以下是我app登錄有打勾持有的陀螺請問這些能有辦法配出三顆比較厲害的陀螺嗎？",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1294"
-        },
-        {
-          "snA": 1293,
-          "title": "【問題】求大佬們幫配 各位大佬們剛入坑陀螺不久 因為剛畢業出來沒什麼財力 買不了溢價陀螺 目前只買到五顆🥲 看了很多攻略還是不知道怎麼配比較好 缺太多零件 想問大大們這五顆能不能簡單配出三",
-          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1293"
         }
       ],
       "featuredPosts": [
+        {
+          "snA": 1311,
+          "title": "【問題】新手請教冷門陀螺 小朋友(國小6年級)新手加入戰鬥陀螺，因為自己本身也不懂， 所以買了暴風巨神給他， 但是他卻被同學說這顆很爛沒用... 真的是這樣嗎? 我打算再買一些給他， 但又怕再採雷讓他被",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1311"
+        },
         {
           "snA": 1117,
           "title": "【心得】【戰鬥陀螺X 新手入坑指南 2026版】(06/26更新阿土版梯度表) 4 5 6 【實用連結】 BEYBLADE X 瀏覽器 [快速查詢更種零件及出處 / 另可查詢賽事 / 陀螺交流LINE群] https://beyblade.phstudy.org/ Q: 我不想看那麼多, 給我最快的必買懶人包 (5月份開始 這3盒全買 至",
@@ -270,11 +275,6 @@
           "snA": 1289,
           "title": "【問題】新手剛入坑，比賽陀螺配置請益 各位大神好， 剛剛入坑跟兒子一起瘋，手上買到這些陀螺，做了一些功課把零件分類出來，可以給我一點建議怎麼搭配出三個可以去比賽的最強組合陀螺，跟兩個備案嗎。 以下是我",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1289"
-        },
-        {
-          "snA": 1287,
-          "title": "【問題】關於新手配置-魔導神杖、子彈獅鷲、腕龍鞭打 各位前輩好，首先感謝★血色。Arios〞大大先前的回覆，我受益良多~ 目前有買了一些陀螺給小孩玩，都是全新原裝的，小孩跟大人玩的都很喜歡XD 為了讓小孩未來參加周邊的比賽可",
-          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1287"
         }
       ]
     },
@@ -797,11 +797,11 @@
       "line": "BX",
       "names": {
         "eng": "Hr.Ft.R 7-60 Taper",
-        "chi": "Hr.Ft.R 7-60 T",
+        "chi": "要塞 7-60 T",
         "jap": "フォート"
       },
       "formalName": "Hr.Ft.R 7-60 Taper",
-      "formalAlias": "Hr.Ft.R 7-60 T",
+      "formalAlias": "要塞 7-60 T",
       "parts": {
         "blade": "Hr.Ft.R",
         "ratchet": "7-60",
@@ -814,7 +814,7 @@
         "BXG7901",
         "BXG79 01",
         "BXG79-01",
-        "Hr.Ft.R 7-60 T",
+        "要塞 7-60 T",
         "Hr.Ft.R 7-60 Taper",
         "フォート",
         "Hr.Ft.R",
@@ -830,11 +830,11 @@
       "line": "BX",
       "names": {
         "eng": "Kr.Wr.S 3-70 Orb",
-        "chi": "Kr.Wr.S 3-70 O",
+        "chi": "蠕動 扭擺 3-70 O",
         "jap": "リグル"
       },
       "formalName": "Kr.Wr.S 3-70 Orb",
-      "formalAlias": "Kr.Wr.S 3-70 O",
+      "formalAlias": "蠕動 扭擺 3-70 O",
       "parts": {
         "blade": "Kr.Wr.S",
         "ratchet": "3-70",
@@ -847,7 +847,7 @@
         "BXG8001",
         "BXG80 01",
         "BXG80-01",
-        "Kr.Wr.S 3-70 O",
+        "蠕動 扭擺 3-70 O",
         "Kr.Wr.S 3-70 Orb",
         "リグル",
         "Kr.Wr.S",
@@ -863,11 +863,11 @@
       "line": "BX",
       "names": {
         "eng": "Bc.An.B 2-60 Dot",
-        "chi": "Bc.An.B 2-60 D",
+        "chi": "巨角 戰角 2-60 D",
         "jap": "アントラーズ"
       },
       "formalName": "Bc.An.B 2-60 Dot",
-      "formalAlias": "Bc.An.B 2-60 D",
+      "formalAlias": "巨角 戰角 2-60 D",
       "parts": {
         "blade": "Bc.An.B",
         "ratchet": "2-60",
@@ -880,7 +880,7 @@
         "BXG8101",
         "BXG81 01",
         "BXG81-01",
-        "Bc.An.B 2-60 D",
+        "巨角 戰角 2-60 D",
         "Bc.An.B 2-60 Dot",
         "アントラーズ",
         "Bc.An.B",
