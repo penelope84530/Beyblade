@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T03:47:08.923Z",
+  "generatedAt": "2026-07-03T03:46:35.811Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 289,
@@ -2980,7 +2980,9 @@
         "bit": 2,
         "bitRaw": [
           2,
-          10
+          10,
+          30,
+          123
         ],
         "bitMobility": 10
       }
@@ -3127,7 +3129,9 @@
         "bit": 2,
         "bitRaw": [
           2,
-          10
+          10,
+          30,
+          123
         ],
         "bitMobility": 10
       }
@@ -3274,7 +3278,9 @@
         "bit": 2,
         "bitRaw": [
           2,
-          10
+          10,
+          30,
+          123
         ],
         "bitMobility": 10
       }
@@ -32529,7 +32535,7 @@
         "rawStat": [
           null
         ],
-        "desc": "",
+        "desc": "(0-70LP tent.)",
         "image": "https://go-shoot.github.io/x/img/blade/SpSp.png"
       },
       {
@@ -32549,7 +32555,7 @@
         "rawStat": [
           null
         ],
-        "desc": "",
+        "desc": "(HN tent.)",
         "image": "https://go-shoot.github.io/x/img/blade/JgSz.png"
       },
       {
@@ -32569,7 +32575,7 @@
         "rawStat": [
           null
         ],
-        "desc": "",
+        "desc": "(7-55FB tent.)",
         "image": "https://go-shoot.github.io/x/img/blade/CyEy.png"
       },
       {
@@ -32589,7 +32595,7 @@
         "rawStat": [
           null
         ],
-        "desc": "",
+        "desc": "(Z tent.)",
         "image": "https://go-shoot.github.io/x/img/blade/HlNt.png"
       },
       {
@@ -32608,7 +32614,7 @@
         "rawStat": [
           27.5
         ],
-        "desc": "",
+        "desc": "(9-65S tent.)",
         "image": "https://go-shoot.github.io/x/img/blade/CrCl.png"
       },
       {
@@ -32628,7 +32634,7 @@
         "rawStat": [
           null
         ],
-        "desc": "",
+        "desc": "(9-65GB tent.)",
         "image": "https://go-shoot.github.io/x/img/blade/HrSh.png"
       },
       {
@@ -32647,7 +32653,7 @@
         "rawStat": [
           36.5
         ],
-        "desc": "",
+        "desc": "(3-85GP tent.)",
         "image": "https://go-shoot.github.io/x/img/blade/BtGs.png"
       },
       {
@@ -32667,7 +32673,7 @@
         "rawStat": [
           32.5
         ],
-        "desc": "",
+        "desc": "(GB tent.)",
         "image": "https://go-shoot.github.io/x/img/blade/AgRm.png"
       },
       {
@@ -32687,7 +32693,7 @@
         "rawStat": [
           37.5
         ],
-        "desc": "",
+        "desc": "(LF tent.)",
         "image": "https://go-shoot.github.io/x/img/blade/ShSr.png"
       },
       {
@@ -32706,7 +32712,7 @@
         "rawStat": [
           32.5
         ],
-        "desc": "",
+        "desc": "(4-55O tent.)",
         "image": "https://go-shoot.github.io/x/img/blade/VkHc.png"
       },
       {
@@ -32725,7 +32731,7 @@
         "rawStat": [
           27.5
         ],
-        "desc": "",
+        "desc": "(9-60GB tent.)",
         "image": "https://go-shoot.github.io/x/img/blade/MdSt.png"
       },
       {
@@ -32744,7 +32750,7 @@
         "rawStat": [
           31.5
         ],
-        "desc": "",
+        "desc": "(3-60GB tent.)",
         "image": "https://go-shoot.github.io/x/img/blade/KnYl.png"
       },
       {
@@ -34863,7 +34869,9 @@
         "stat": 2,
         "rawStat": [
           2,
-          10
+          10,
+          30,
+          123
         ],
         "desc": "細球狀軸端長久地迴轉；十枚齒Gear於X Dash時減輕持久損失。",
         "group": "round",
