@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T03:46:35.811Z",
+  "generatedAt": "2026-07-04T03:46:20.392Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 289,
@@ -32518,10 +32518,10 @@
         "image": "https://go-shoot.github.io/x/img/blade/WyHv.png"
       },
       {
-        "code": "SpSp",
+        "code": "SgSp",
         "names": {
-          "jap": "",
-          "eng": "SuppressSuperion",
+          "jap": "ジークスペリオン",
+          "eng": "SiegSuperion",
           "chi": ""
         },
         "attr": [
@@ -32536,7 +32536,7 @@
           null
         ],
         "desc": "(0-70LP tent.)",
-        "image": "https://go-shoot.github.io/x/img/blade/SpSp.png"
+        "image": "https://go-shoot.github.io/x/img/blade/SgSp.png"
       },
       {
         "code": "JgSz",
