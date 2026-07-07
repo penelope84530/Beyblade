@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T03:47:02.771Z",
+  "generatedAt": "2026-07-07T03:46:50.640Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 289,
@@ -1488,9 +1488,9 @@
         "bit": []
       },
       "stats": {
-        "blade": null,
+        "blade": 43.5,
         "bladeRaw": [
-          null
+          43.5
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
@@ -31432,9 +31432,9 @@
           "fused",
           "bbb"
         ],
-        "stat": null,
+        "stat": 43.5,
         "rawStat": [
-          null
+          43.5
         ],
         "desc": "內藏彈簧的可動刃攻擊時回彈，以反發力特化於強烈的撞擊性能。",
         "image": "https://go-shoot.github.io/x/img/blade/GlVl.png"
