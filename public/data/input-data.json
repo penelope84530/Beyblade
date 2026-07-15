@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T03:38:09.941Z",
+  "generatedAt": "2026-07-15T03:38:40.666Z",
   "sources": {
     "forum1117": {
       "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1117",
@@ -8,11 +8,13 @@
         "UX-15",
         "UX-03",
         "BX-23",
+        "UX-21",
         "CX-16",
         "UX-04",
         "UX-17",
         "UX-11",
         "UX-19",
+        "UX-20",
         "BX-49",
         "CX-18",
         "UX-08",
@@ -68,8 +70,7 @@
         "BX-48-03",
         "BX-48-04",
         "CX02",
-        "UX-14",
-        "UX-20"
+        "UX-14"
       ]
     },
     "forumBoard2696": {
@@ -81,14 +82,14 @@
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1071"
         },
         {
-          "snA": 1330,
-          "title": "【情報】「UX-20榮耀女武神陀螺」「免費送給你」「全新T0頂峰陀螺」 「UX-20榮耀女武神陀螺」「免費送給你」「全新T0頂峰陀螺」",
-          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1330"
-        },
-        {
           "snA": 1328,
           "title": "【問題】剛入手ux20女武神應怎配？甚麼軸心好？ 我看配置極簡單 都是一體化設計 不能換環換蓋 只能換軸心？ 另外他屬於tier幾呢？感覺很強！",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1328"
+        },
+        {
+          "snA": 1330,
+          "title": "【情報】「UX-20榮耀女武神陀螺」「免費送給你」「全新T0頂峰陀螺」 「UX-20榮耀女武神陀螺」「免費送給你」「全新T0頂峰陀螺」",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1330"
         },
         {
           "snA": 1329,
@@ -178,14 +179,14 @@
       ],
       "featuredPosts": [
         {
-          "snA": 1330,
-          "title": "【情報】「UX-20榮耀女武神陀螺」「免費送給你」「全新T0頂峰陀螺」 「UX-20榮耀女武神陀螺」「免費送給你」「全新T0頂峰陀螺」",
-          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1330"
-        },
-        {
           "snA": 1328,
           "title": "【問題】剛入手ux20女武神應怎配？甚麼軸心好？ 我看配置極簡單 都是一體化設計 不能換環換蓋 只能換軸心？ 另外他屬於tier幾呢？感覺很強！",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1328"
+        },
+        {
+          "snA": 1330,
+          "title": "【情報】「UX-20榮耀女武神陀螺」「免費送給你」「全新T0頂峰陀螺」 「UX-20榮耀女武神陀螺」「免費送給你」「全新T0頂峰陀螺」",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1330"
         },
         {
           "snA": 1329,
@@ -288,9 +289,9 @@
     "totalInputs": 296,
     "tierCounts": {
       "T0": 0,
-      "T1": 17,
+      "T1": 18,
       "T2": 55,
-      "NA": 224
+      "NA": 223
     }
   },
   "inputs": [
@@ -360,38 +361,6 @@
     },
     {
       "id": "bey-3",
-      "code": "BXG-?2",
-      "displayCode": "BXG-?2",
-      "variantNo": "01",
-      "line": "BX",
-      "names": {
-        "eng": "Glory\\Valkyrie LF",
-        "chi": "榮耀\\戰神 LF",
-        "jap": "グローリーワルキューレ"
-      },
-      "formalName": "Glory\\Valkyrie LF",
-      "formalAlias": "榮耀\\戰神 LF",
-      "parts": {
-        "blade": "GlVl",
-        "ratchet": "LF",
-        "bit": ""
-      },
-      "tier": "NA",
-      "aliases": [
-        "BXG-?2",
-        "BXG?2",
-        "BXG?201",
-        "BXG?2 01",
-        "BXG?2-01",
-        "榮耀\\戰神 LF",
-        "Glory\\Valkyrie LF",
-        "グローリーワルキューレ",
-        "GlVl",
-        "LF"
-      ]
-    },
-    {
-      "id": "bey-4",
       "code": "BXG-57",
       "displayCode": "BXG-57-01",
       "variantNo": "01",
@@ -425,7 +394,7 @@
       ]
     },
     {
-      "id": "bey-5",
+      "id": "bey-4",
       "code": "BXG-57",
       "displayCode": "BXG-57-02",
       "variantNo": "02",
@@ -459,7 +428,7 @@
       ]
     },
     {
-      "id": "bey-6",
+      "id": "bey-5",
       "code": "BXG-57",
       "displayCode": "BXG-57-03",
       "variantNo": "03",
@@ -493,40 +462,39 @@
       ]
     },
     {
-      "id": "bey-7",
-      "code": "BXG-?1",
-      "displayCode": "BXG-?1",
+      "id": "bey-6",
+      "code": "BXG-63",
+      "displayCode": "BXG-63",
       "variantNo": "01",
       "line": "BX",
       "names": {
-        "eng": "DranSword_V2 3-60 Flat",
-        "chi": "翔龍神劍_V2 蒼龍神劍_V2 3-60 F",
-        "jap": "ドランソード_V2"
+        "eng": "Glory\\Valkyrie LF",
+        "chi": "榮耀\\戰神 LF",
+        "jap": "グローリーワルキューレ"
       },
-      "formalName": "DranSword_V2 3-60 Flat",
-      "formalAlias": "翔龍神劍_V2 蒼龍神劍_V2 3-60 F",
+      "formalName": "Glory\\Valkyrie LF",
+      "formalAlias": "榮耀\\戰神 LF",
       "parts": {
-        "blade": "DrSw2",
-        "ratchet": "3-60",
-        "bit": "F"
+        "blade": "GlVl",
+        "ratchet": "LF",
+        "bit": ""
       },
       "tier": "NA",
       "aliases": [
-        "BXG-?1",
-        "BXG?1",
-        "BXG?101",
-        "BXG?1 01",
-        "BXG?1-01",
-        "翔龍神劍_V2 蒼龍神劍_V2 3-60 F",
-        "DranSword_V2 3-60 Flat",
-        "ドランソード_V2",
-        "DrSw2",
-        "3-60",
-        "F"
+        "BXG-63",
+        "BXG63",
+        "BXG6301",
+        "BXG63 01",
+        "BXG63-01",
+        "榮耀\\戰神 LF",
+        "Glory\\Valkyrie LF",
+        "グローリーワルキューレ",
+        "GlVl",
+        "LF"
       ]
     },
     {
-      "id": "bey-8",
+      "id": "bey-7",
       "code": "UX-21",
       "displayCode": "UX-21-01",
       "variantNo": "01",
@@ -559,7 +527,7 @@
       ]
     },
     {
-      "id": "bey-9",
+      "id": "bey-8",
       "code": "UX-21",
       "displayCode": "UX-21-02",
       "variantNo": "02",
@@ -593,7 +561,7 @@
       ]
     },
     {
-      "id": "bey-10",
+      "id": "bey-9",
       "code": "UX-21",
       "displayCode": "UX-21-03",
       "variantNo": "03",
@@ -624,6 +592,39 @@
         "SlWl",
         "9-70",
         "R"
+      ]
+    },
+    {
+      "id": "bey-10",
+      "code": "BXG-49",
+      "displayCode": "BXG-49",
+      "variantNo": "01",
+      "line": "BX",
+      "names": {
+        "eng": "DranSword_V2 3-60 Flat",
+        "chi": "翔龍神劍_V2 蒼龍神劍_V2 3-60 F",
+        "jap": "ドランソード_V2"
+      },
+      "formalName": "DranSword_V2 3-60 Flat",
+      "formalAlias": "翔龍神劍_V2 蒼龍神劍_V2 3-60 F",
+      "parts": {
+        "blade": "DrSw2",
+        "ratchet": "3-60",
+        "bit": "F"
+      },
+      "tier": "NA",
+      "aliases": [
+        "BXG-49",
+        "BXG49",
+        "BXG4901",
+        "BXG49 01",
+        "BXG49-01",
+        "翔龍神劍_V2 蒼龍神劍_V2 3-60 F",
+        "DranSword_V2 3-60 Flat",
+        "ドランソード_V2",
+        "DrSw2",
+        "3-60",
+        "F"
       ]
     },
     {
@@ -736,7 +737,7 @@
         "ratchet": "LF",
         "bit": ""
       },
-      "tier": "NA",
+      "tier": "T1",
       "aliases": [
         "UX-20",
         "UX20",

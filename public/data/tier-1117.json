@@ -1,10 +1,17 @@
 {
-  "generatedAt": "2026-07-14T03:38:08.708Z",
+  "generatedAt": "2026-07-15T03:38:39.406Z",
   "source": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1117",
   "title": "【心得】【戰鬥陀螺X 新手入坑指南 2026版】(06/26更新阿土版梯度表) @戰鬥陀螺 系列 哈啦板 - 巴哈姆特",
   "tiers": {
     "T0": [],
     "T1": [
+      {
+        "tier": "T1",
+        "code": "UX-20",
+        "normalizedCode": "UX20",
+        "name": "榮耀女武神",
+        "raw": "UX-20榮耀女武神 (旋風發射器) 基本可以直接上場"
+      },
       {
         "tier": "T1",
         "code": "BX-49",
@@ -208,6 +215,13 @@
   "entries": [
     {
       "tier": "T1",
+      "code": "UX-20",
+      "normalizedCode": "UX20",
+      "name": "榮耀女武神",
+      "raw": "UX-20榮耀女武神 (旋風發射器) 基本可以直接上場"
+    },
+    {
+      "tier": "T1",
       "code": "BX-49",
       "normalizedCode": "BX49",
       "name": "蒼龍突襲",
@@ -404,6 +418,7 @@
     }
   ],
   "tierMapByCode": {
+    "UX20": "T1",
     "BX49": "T2",
     "CX18": "T2",
     "UX08": "T1",

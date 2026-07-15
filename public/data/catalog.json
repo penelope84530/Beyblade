@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T03:38:07.409Z",
+  "generatedAt": "2026-07-15T03:38:38.148Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 296,
@@ -12,7 +12,7 @@
   },
   "arMainCatalog": [
     {
-      "id": "bey-4",
+      "id": "bey-3",
       "code": "BXG-57",
       "variantCode": "BXG-57-01",
       "variantNo": "01",
@@ -984,96 +984,6 @@
     },
     {
       "id": "bey-3",
-      "code": "BXG-?2",
-      "variantCode": "BXG-?2",
-      "variantNo": "01",
-      "hasVariants": false,
-      "displayCode": "BXG-?2",
-      "normalizedVariantCode": "BXG2",
-      "normalizedCode": "BXG2",
-      "line": "BX",
-      "productType": "S H",
-      "comboRaw": "GlVl = LF",
-      "bladeCode": "GlVl",
-      "ratchetCode": "LF",
-      "bitCode": "",
-      "cxChipCode": "",
-      "cxMainCode": "",
-      "cxSuffixCode": "",
-      "cxComponents": {
-        "chip": "",
-        "main": "",
-        "assist": "",
-        "over": "",
-        "metal": "",
-        "hasbro": ""
-      },
-      "cxComponentsAll": {
-        "chip": [],
-        "main": [],
-        "assist": [],
-        "over": [],
-        "metal": [],
-        "hasbro": []
-      },
-      "cxDisplayComponents": [],
-      "cxUnknownTokens": [
-        "GlVl"
-      ],
-      "isCx": false,
-      "isCxExpansion": false,
-      "videoId": "[object Object]",
-      "meta": {},
-      "names": {
-        "eng": "Glory\\Valkyrie LF",
-        "chi": "榮耀\\戰神 LF",
-        "jap": "グローリーワルキューレ"
-      },
-      "formalName": "Glory\\Valkyrie LF",
-      "formalAlias": "榮耀\\戰神 LF",
-      "searchTokens": [
-        "BXG-?2",
-        "GlVl = LF",
-        "GlVl",
-        "Glory\\Valkyrie LF",
-        "グローリーワルキューレ",
-        "榮耀\\戰神 LF"
-      ],
-      "images": {
-        "blade": "https://go-shoot.github.io/x/img/blade/GlVl.png",
-        "bladeMain": null,
-        "ratchet": "https://go-shoot.github.io/x/img/ratchet/LF.png",
-        "bit": null,
-        "cx": []
-      },
-      "isArMain": false,
-      "attributes": {
-        "blade": [
-          "att",
-          "right",
-          "fused",
-          "bbb"
-        ],
-        "bladeMain": [],
-        "ratchet": [],
-        "bit": []
-      },
-      "stats": {
-        "blade": 43.5,
-        "bladeRaw": [
-          43.5
-        ],
-        "bladeMain": null,
-        "bladeMainRaw": [],
-        "ratchet": null,
-        "ratchetRaw": [],
-        "bit": null,
-        "bitRaw": [],
-        "bitMobility": null
-      }
-    },
-    {
-      "id": "bey-4",
       "code": "BXG-57",
       "variantCode": "BXG-57-01",
       "variantNo": "01",
@@ -1218,7 +1128,7 @@
       }
     },
     {
-      "id": "bey-5",
+      "id": "bey-4",
       "code": "BXG-57",
       "variantCode": "BXG-57-02",
       "variantNo": "02",
@@ -1360,7 +1270,7 @@
       }
     },
     {
-      "id": "bey-6",
+      "id": "bey-5",
       "code": "BXG-57",
       "variantCode": "BXG-57-03",
       "variantNo": "03",
@@ -1503,20 +1413,20 @@
       }
     },
     {
-      "id": "bey-7",
-      "code": "BXG-?1",
-      "variantCode": "BXG-?1",
+      "id": "bey-6",
+      "code": "BXG-63",
+      "variantCode": "BXG-63",
       "variantNo": "01",
       "hasVariants": false,
-      "displayCode": "BXG-?1",
-      "normalizedVariantCode": "BXG1",
-      "normalizedCode": "BXG1",
+      "displayCode": "BXG-63",
+      "normalizedVariantCode": "BXG63",
+      "normalizedCode": "BXG63",
       "line": "BX",
-      "productType": "B",
-      "comboRaw": "DrSw2 3-60 F",
-      "bladeCode": "DrSw2",
-      "ratchetCode": "3-60",
-      "bitCode": "F",
+      "productType": "S H",
+      "comboRaw": "GlVl = LF",
+      "bladeCode": "GlVl",
+      "ratchetCode": "LF",
+      "bitCode": "",
       "cxChipCode": "",
       "cxMainCode": "",
       "cxSuffixCode": "",
@@ -1538,69 +1448,62 @@
       },
       "cxDisplayComponents": [],
       "cxUnknownTokens": [
-        "DrSw2"
+        "GlVl"
       ],
       "isCx": false,
       "isCxExpansion": false,
-      "videoId": null,
+      "videoId": "[object Object]",
       "meta": {},
       "names": {
-        "eng": "DranSword_V2 3-60 Flat",
-        "chi": "翔龍神劍_V2 蒼龍神劍_V2 3-60 F",
-        "jap": "ドランソード_V2"
+        "eng": "Glory\\Valkyrie LF",
+        "chi": "榮耀\\戰神 LF",
+        "jap": "グローリーワルキューレ"
       },
-      "formalName": "DranSword_V2 3-60 Flat",
-      "formalAlias": "翔龍神劍_V2 蒼龍神劍_V2 3-60 F",
+      "formalName": "Glory\\Valkyrie LF",
+      "formalAlias": "榮耀\\戰神 LF",
       "searchTokens": [
-        "BXG-?1",
-        "DrSw2 3-60 F",
-        "DrSw2",
-        "DranSword_V2 3-60 Flat",
-        "ドランソード_V2",
-        "翔龍神劍_V2 蒼龍神劍_V2 3-60 F"
+        "BXG-63",
+        "GlVl = LF",
+        "GlVl",
+        "Glory\\Valkyrie LF",
+        "グローリーワルキューレ",
+        "榮耀\\戰神 LF"
       ],
       "images": {
-        "blade": "https://go-shoot.github.io/x/img/blade/DrSw2.png",
+        "blade": "https://go-shoot.github.io/x/img/blade/GlVl.png",
         "bladeMain": null,
-        "ratchet": "https://go-shoot.github.io/x/img/ratchet/3-60.png",
-        "bit": "https://go-shoot.github.io/x/img/bit/F.png",
+        "ratchet": "https://go-shoot.github.io/x/img/ratchet/LF.png",
+        "bit": null,
         "cx": []
       },
       "isArMain": false,
       "attributes": {
         "blade": [
           "att",
-          "right"
+          "right",
+          "fused",
+          "bbb"
         ],
         "bladeMain": [],
         "ratchet": [],
-        "bit": [
-          "att"
-        ]
+        "bit": []
       },
       "stats": {
-        "blade": 37.5,
+        "blade": 43.5,
         "bladeRaw": [
-          37.5
+          43.5
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
-        "ratchet": 6.5,
-        "ratchetRaw": [
-          6.5
-        ],
-        "bit": 2.5,
-        "bitRaw": [
-          2.5,
-          12,
-          80,
-          123
-        ],
-        "bitMobility": 12
+        "ratchet": null,
+        "ratchetRaw": [],
+        "bit": null,
+        "bitRaw": [],
+        "bitMobility": null
       }
     },
     {
-      "id": "bey-8",
+      "id": "bey-7",
       "code": "UX-21",
       "variantCode": "UX-21-01",
       "variantNo": "01",
@@ -1694,7 +1597,7 @@
       }
     },
     {
-      "id": "bey-9",
+      "id": "bey-8",
       "code": "UX-21",
       "variantCode": "UX-21-02",
       "variantNo": "02",
@@ -1795,7 +1698,7 @@
       }
     },
     {
-      "id": "bey-10",
+      "id": "bey-9",
       "code": "UX-21",
       "variantCode": "UX-21-03",
       "variantNo": "03",
@@ -1894,6 +1797,103 @@
           123
         ],
         "bitMobility": 10
+      }
+    },
+    {
+      "id": "bey-10",
+      "code": "BXG-49",
+      "variantCode": "BXG-49",
+      "variantNo": "01",
+      "hasVariants": false,
+      "displayCode": "BXG-49",
+      "normalizedVariantCode": "BXG49",
+      "normalizedCode": "BXG49",
+      "line": "BX",
+      "productType": "B",
+      "comboRaw": "DrSw2 3-60 F",
+      "bladeCode": "DrSw2",
+      "ratchetCode": "3-60",
+      "bitCode": "F",
+      "cxChipCode": "",
+      "cxMainCode": "",
+      "cxSuffixCode": "",
+      "cxComponents": {
+        "chip": "",
+        "main": "",
+        "assist": "",
+        "over": "",
+        "metal": "",
+        "hasbro": ""
+      },
+      "cxComponentsAll": {
+        "chip": [],
+        "main": [],
+        "assist": [],
+        "over": [],
+        "metal": [],
+        "hasbro": []
+      },
+      "cxDisplayComponents": [],
+      "cxUnknownTokens": [
+        "DrSw2"
+      ],
+      "isCx": false,
+      "isCxExpansion": false,
+      "videoId": null,
+      "meta": {},
+      "names": {
+        "eng": "DranSword_V2 3-60 Flat",
+        "chi": "翔龍神劍_V2 蒼龍神劍_V2 3-60 F",
+        "jap": "ドランソード_V2"
+      },
+      "formalName": "DranSword_V2 3-60 Flat",
+      "formalAlias": "翔龍神劍_V2 蒼龍神劍_V2 3-60 F",
+      "searchTokens": [
+        "BXG-49",
+        "DrSw2 3-60 F",
+        "DrSw2",
+        "DranSword_V2 3-60 Flat",
+        "ドランソード_V2",
+        "翔龍神劍_V2 蒼龍神劍_V2 3-60 F"
+      ],
+      "images": {
+        "blade": "https://go-shoot.github.io/x/img/blade/DrSw2.png",
+        "bladeMain": null,
+        "ratchet": "https://go-shoot.github.io/x/img/ratchet/3-60.png",
+        "bit": "https://go-shoot.github.io/x/img/bit/F.png",
+        "cx": []
+      },
+      "isArMain": false,
+      "attributes": {
+        "blade": [
+          "att",
+          "right"
+        ],
+        "bladeMain": [],
+        "ratchet": [],
+        "bit": [
+          "att"
+        ]
+      },
+      "stats": {
+        "blade": 37.5,
+        "bladeRaw": [
+          37.5
+        ],
+        "bladeMain": null,
+        "bladeMainRaw": [],
+        "ratchet": 6.5,
+        "ratchetRaw": [
+          6.5
+        ],
+        "bit": 2.5,
+        "bitRaw": [
+          2.5,
+          12,
+          80,
+          123
+        ],
+        "bitMobility": 12
       }
     },
     {
@@ -2341,9 +2341,9 @@
         "ratchetRaw": [
           7.5
         ],
-        "bit": null,
+        "bit": 3.5,
         "bitRaw": [
-          null,
+          3.5,
           20,
           null
         ],
@@ -2641,9 +2641,9 @@
           5,
           85
         ],
-        "bit": null,
+        "bit": 3.5,
         "bitRaw": [
-          null,
+          3.5,
           20,
           null
         ],
@@ -32167,7 +32167,7 @@
         "rawStat": [
           null
         ],
-        "desc": "",
+        "desc": "利用可切替Blade高度的機關，能分別使用強撞擊攻擊刃及化解刃，特化於向各種高度對手的對應力。",
         "image": "https://go-shoot.github.io/x/img/blade/HlNt.png"
       },
       {
@@ -32923,7 +32923,7 @@
         "rawStat": [
           37.5
         ],
-        "desc": "",
+        "desc": "三攻Upper刃擅於把對手向斜上方撞飛。性能有所更新的V2 Model。",
         "image": "https://go-shoot.github.io/x/img/blade/DrSw2.png"
       },
       {
@@ -33302,7 +33302,7 @@
         "rawStat": [
           35.5
         ],
-        "desc": "向下收窄的階梯構造，不論對手的形狀都擅於抵擋攻擊並從上方壓制。",
+        "desc": "向下收窄的階梯形狀兩枚刃把對手攻擊由上向下壓制，擅於分散衝擊。",
         "image": "https://go-shoot.github.io/x/img/blade/WyHv.png"
       },
       {
@@ -35907,9 +35907,9 @@
           "chi": ""
         },
         "attr": [],
-        "stat": null,
+        "stat": 3.5,
         "rawStat": [
-          null,
+          3.5,
           20,
           null
         ],
