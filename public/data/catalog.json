@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T03:41:12.052Z",
+  "generatedAt": "2026-07-24T03:40:51.127Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 302,
@@ -2446,7 +2446,7 @@
         "bitRaw": [
           3.5,
           20,
-          null
+          124
         ],
         "bitMobility": 20
       }
@@ -2746,7 +2746,7 @@
         "bitRaw": [
           3.5,
           20,
-          null
+          124
         ],
         "bitMobility": 20
       }
@@ -36505,7 +36505,7 @@
         "rawStat": [
           3.5,
           20,
-          null
+          124
         ],
         "desc": "。Burst抵耐性替換成姿勢制禦性能提升。",
         "group": "",
