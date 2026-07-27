@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T03:45:47.730Z",
+  "generatedAt": "2026-07-27T03:46:06.858Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 302,
@@ -1647,18 +1647,18 @@
       "meta": {},
       "names": {
         "eng": "HellsNether Z",
-        "chi": "HlNt Z",
+        "chi": "煉獄下界 Z",
         "jap": "ヘルズネザー"
       },
       "formalName": "HellsNether Z",
-      "formalAlias": "HlNt Z",
+      "formalAlias": "煉獄下界 Z",
       "searchTokens": [
         "UX-21",
         "HlNt = Z",
         "HlNt",
         "HellsNether Z",
         "ヘルズネザー",
-        "HlNt Z",
+        "煉獄下界 Z",
         "UX-21-01",
         "UX2101",
         "UX21-01",
@@ -1684,9 +1684,9 @@
         "bit": []
       },
       "stats": {
-        "blade": null,
+        "blade": 42.5,
         "bladeRaw": [
-          null
+          42.5
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
@@ -1741,18 +1741,18 @@
       "meta": {},
       "names": {
         "eng": "WyvernHover 8-80 Ball",
-        "chi": "WyHv 8-80 B",
+        "chi": "飛龍翱翔 8-80 B",
         "jap": "ワイバーンホバー"
       },
       "formalName": "WyvernHover 8-80 Ball",
-      "formalAlias": "WyHv 8-80 B",
+      "formalAlias": "飛龍翱翔 8-80 B",
       "searchTokens": [
         "UX-21",
         "WyHv 8-80 B",
         "WyHv",
         "WyvernHover 8-80 Ball",
         "ワイバーンホバー",
-        "WyHv 8-80 B",
+        "飛龍翱翔 8-80 B",
         "UX-21-02",
         "UX2102",
         "UX21-02",
@@ -11760,18 +11760,18 @@
       "meta": {},
       "names": {
         "eng": "WyvernHover 2-80 GN",
-        "chi": "WyHv 2-80 GN",
+        "chi": "飛龍翱翔 2-80 GN",
         "jap": "ワイバーンホバー"
       },
       "formalName": "WyvernHover 2-80 GN",
-      "formalAlias": "WyHv 2-80 GN",
+      "formalAlias": "飛龍翱翔 2-80 GN",
       "searchTokens": [
         "BXG-39",
         "WyHv 2-80 GN",
         "WyHv",
         "WyvernHover 2-80 GN",
         "ワイバーンホバー",
-        "WyHv 2-80 GN",
+        "飛龍翱翔 2-80 GN",
         "BXG-39-01",
         "BXG3901",
         "BXG39-01",
@@ -11857,18 +11857,18 @@
       "meta": {},
       "names": {
         "eng": "WyvernHover 2-80 GN",
-        "chi": "WyHv 2-80 GN",
+        "chi": "飛龍翱翔 2-80 GN",
         "jap": "ワイバーンホバー"
       },
       "formalName": "WyvernHover 2-80 GN",
-      "formalAlias": "WyHv 2-80 GN",
+      "formalAlias": "飛龍翱翔 2-80 GN",
       "searchTokens": [
         "BXG-39",
         "WyHv 2-80 GN",
         "WyHv",
         "WyvernHover 2-80 GN",
         "ワイバーンホバー",
-        "WyHv 2-80 GN",
+        "飛龍翱翔 2-80 GN",
         "BXG-39-02",
         "BXG3902",
         "BXG39-02",
@@ -32749,7 +32749,7 @@
         "names": {
           "jap": "ヘルズネザー",
           "eng": "HellsNether",
-          "chi": ""
+          "chi": "煉獄下界"
         },
         "attr": [
           "bal",
@@ -32757,9 +32757,9 @@
           "UX",
           "fused"
         ],
-        "stat": null,
+        "stat": 42.5,
         "rawStat": [
-          null
+          42.5
         ],
         "desc": "利用可切替Blade高度的機關，能分別使用強撞擊攻擊刃及化解刃，特化於向各種高度對手的對應力。",
         "image": "https://go-shoot.github.io/x/img/blade/HlNt.png"
@@ -33886,7 +33886,7 @@
         "names": {
           "jap": "ワイバーンホバー",
           "eng": "WyvernHover",
-          "chi": ""
+          "chi": "飛龍翱翔"
         },
         "attr": [
           "def",

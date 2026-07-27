@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T03:45:50.045Z",
+  "generatedAt": "2026-07-27T03:46:09.267Z",
   "sources": {
     "forum1117": {
       "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1117",
@@ -92,11 +92,6 @@
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1340"
         },
         {
-          "snA": 1338,
-          "title": "【問題】新手求配置～因為有被詐騙，所以部份零件不全 近期要跟朋友一起打陀螺，第一名有獎勵，因此看手上的陀螺，有沒有機會可以贏，以下是我有的上蓋、固鎖及軸承 上蓋區 BX50-2(不知道叫什麼名字，黑色的那顆） 蒼龍突襲 蒼穹龍",
-          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1338"
-        },
-        {
           "snA": 1337,
           "title": "【問題】新戰鬥盤問題 前陣子入手了一個新的戰鬥盤（含有QR CODE所以確定為正版） 之前都是玩盜版的 或是去朋友家玩正版的 在朋友家跟用盜版的 練習逆軌都可以很順利的走 至少3次可以成功一次 但用了",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1337"
@@ -175,14 +170,14 @@
           "snA": 1322,
           "title": "【問題】新手剛入坑求幫配置 圓了兒時的夢想， 這兩周入坑，也當了幾回盤子， 這陣子大補貨也跟一群年輕的腿拚了幾波方霸， (累死老人家) 目前網上還有BX48抽包跟CX06抽包還沒到貨， 故暫時不算入手零件。",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1322"
+        },
+        {
+          "snA": 1313,
+          "title": "【討論】新手YT詢問大家的意見 安安，我是青銅貓 QQ 是玩世紀帝國的育兒系YT（？） 最近因為朋友的關係，半隻腳入坑戰鬥陀螺 目前陀螺還都是跟朋友借的，自己也還在慢慢研究比賽規則 配件搭配的部分就有點硬",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1313"
         }
       ],
       "featuredPosts": [
-        {
-          "snA": 1338,
-          "title": "【問題】新手求配置～因為有被詐騙，所以部份零件不全 近期要跟朋友一起打陀螺，第一名有獎勵，因此看手上的陀螺，有沒有機會可以贏，以下是我有的上蓋、固鎖及軸承 上蓋區 BX50-2(不知道叫什麼名字，黑色的那顆） 蒼龍突襲 蒼穹龍",
-          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1338"
-        },
         {
           "snA": 1117,
           "title": "【心得】【戰鬥陀螺X 新手入坑指南 2026版】(06/26更新阿土版梯度表) 4 5 6 【實用連結】 BEYBLADE X 瀏覽器 [快速查詢更種零件及出處 / 另可查詢賽事 / 陀螺交流LINE群] https://beyblade.phstudy.org/ Q: 我不想看那麼多, 給我最快的必買懶人包 (5月份開始 這3盒全買 至",
@@ -257,6 +252,11 @@
           "snA": 1312,
           "title": "【問題】請幫忙配置可以打比賽的陀螺 最近小朋友開始入坑戰鬥陀螺 想要參加比賽 想請版上大大們幫忙配置3個可以打比賽的陀螺 不求得名次 只求不要一輪遊就好 謝謝 手邊有的零組件如下 UX-08 霜輝銀狼（3-80 FB軸） UX-17",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1312"
+        },
+        {
+          "snA": 1311,
+          "title": "【問題】新手請教冷門陀螺 小朋友(國小6年級)新手加入戰鬥陀螺，因為自己本身也不懂， 所以買了暴風巨神給他， 但是他卻被同學說這顆很爛沒用... 真的是這樣嗎? 我打算再買一些給他， 但又怕再採雷讓他被",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1311"
         }
       ]
     },
@@ -514,11 +514,11 @@
       "line": "UX",
       "names": {
         "eng": "HellsNether Z",
-        "chi": "HlNt Z",
+        "chi": "煉獄下界 Z",
         "jap": "ヘルズネザー"
       },
       "formalName": "HellsNether Z",
-      "formalAlias": "HlNt Z",
+      "formalAlias": "煉獄下界 Z",
       "parts": {
         "blade": "HlNt",
         "ratchet": "Z",
@@ -532,7 +532,7 @@
         "UX2101",
         "UX21 01",
         "UX21-01",
-        "HlNt Z",
+        "煉獄下界 Z",
         "HellsNether Z",
         "ヘルズネザー",
         "HlNt",
@@ -547,11 +547,11 @@
       "line": "UX",
       "names": {
         "eng": "WyvernHover 8-80 Ball",
-        "chi": "WyHv 8-80 B",
+        "chi": "飛龍翱翔 8-80 B",
         "jap": "ワイバーンホバー"
       },
       "formalName": "WyvernHover 8-80 Ball",
-      "formalAlias": "WyHv 8-80 B",
+      "formalAlias": "飛龍翱翔 8-80 B",
       "parts": {
         "blade": "WyHv",
         "ratchet": "8-80",
@@ -565,7 +565,7 @@
         "UX2102",
         "UX21 02",
         "UX21-02",
-        "WyHv 8-80 B",
+        "飛龍翱翔 8-80 B",
         "WyvernHover 8-80 Ball",
         "ワイバーンホバー",
         "WyHv",
@@ -3568,11 +3568,11 @@
       "line": "BX",
       "names": {
         "eng": "WyvernHover 2-80 GN",
-        "chi": "WyHv 2-80 GN",
+        "chi": "飛龍翱翔 2-80 GN",
         "jap": "ワイバーンホバー"
       },
       "formalName": "WyvernHover 2-80 GN",
-      "formalAlias": "WyHv 2-80 GN",
+      "formalAlias": "飛龍翱翔 2-80 GN",
       "parts": {
         "blade": "WyHv",
         "ratchet": "2-80",
@@ -3586,7 +3586,7 @@
         "BXG3901",
         "BXG39 01",
         "BXG39-01",
-        "WyHv 2-80 GN",
+        "飛龍翱翔 2-80 GN",
         "WyvernHover 2-80 GN",
         "ワイバーンホバー",
         "WyHv",
@@ -3602,11 +3602,11 @@
       "line": "BX",
       "names": {
         "eng": "WyvernHover 2-80 GN",
-        "chi": "WyHv 2-80 GN",
+        "chi": "飛龍翱翔 2-80 GN",
         "jap": "ワイバーンホバー"
       },
       "formalName": "WyvernHover 2-80 GN",
-      "formalAlias": "WyHv 2-80 GN",
+      "formalAlias": "飛龍翱翔 2-80 GN",
       "parts": {
         "blade": "WyHv",
         "ratchet": "2-80",
@@ -3620,7 +3620,7 @@
         "BXG3902",
         "BXG39 02",
         "BXG39-02",
-        "WyHv 2-80 GN",
+        "飛龍翱翔 2-80 GN",
         "WyvernHover 2-80 GN",
         "ワイバーンホバー",
         "WyHv",
