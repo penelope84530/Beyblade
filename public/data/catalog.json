@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T03:36:26.464Z",
+  "generatedAt": "2026-07-31T03:44:25.119Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 302,
@@ -1643,7 +1643,7 @@
       ],
       "isCx": false,
       "isCxExpansion": false,
-      "videoId": null,
+      "videoId": "raKd9pRsaHk",
       "meta": {},
       "names": {
         "eng": "HellsNether Z",
@@ -2393,7 +2393,9 @@
       "isCx": false,
       "isCxExpansion": false,
       "videoId": "oL-syPgPhUY",
-      "meta": {},
+      "meta": {
+        "get": 3
+      },
       "names": {
         "eng": "HeavensRing 0-80 DS",
         "chi": "蒼穹圓環 天國日輪 0-80 DS",
@@ -2491,7 +2493,7 @@
       ],
       "isCx": false,
       "isCxExpansion": false,
-      "videoId": null,
+      "videoId": "[object Object]",
       "meta": {},
       "names": {
         "eng": "HeavensRing 6-60 TP",
@@ -2589,7 +2591,7 @@
       ],
       "isCx": false,
       "isCxExpansion": false,
-      "videoId": null,
+      "videoId": "[object Object]",
       "meta": {},
       "names": {
         "eng": "Impact\\Drake 7-55 FB",
@@ -2689,7 +2691,7 @@
       ],
       "isCx": false,
       "isCxExpansion": false,
-      "videoId": null,
+      "videoId": "[object Object]",
       "meta": {},
       "names": {
         "eng": "GhostCircle M-85 DS",
@@ -2814,7 +2816,7 @@
       "cxUnknownTokens": [],
       "isCx": true,
       "isCxExpansion": false,
-      "videoId": null,
+      "videoId": "[object Object]",
       "meta": {},
       "names": {
         "eng": "Wl.Fl.D 9-65 Level",
@@ -2960,7 +2962,7 @@
       "cxUnknownTokens": [],
       "isCx": true,
       "isCxExpansion": false,
-      "videoId": null,
+      "videoId": "[object Object]",
       "meta": {},
       "names": {
         "eng": "Cr.Rp.B 0-80 WB",
