@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T03:31:03.069Z",
+  "generatedAt": "2026-08-08T03:04:04.505Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 305,
@@ -2085,18 +2085,18 @@
       "meta": {},
       "names": {
         "eng": "HellsNether Z",
-        "chi": "煉獄下界 Z",
+        "chi": "煉獄下界 惡魔冥界 Z",
         "jap": "ヘルズネザー"
       },
       "formalName": "HellsNether Z",
-      "formalAlias": "煉獄下界 Z",
+      "formalAlias": "煉獄下界 惡魔冥界 Z",
       "searchTokens": [
         "UX-21",
         "HlNt = Z",
         "HlNt",
         "HellsNether Z",
         "ヘルズネザー",
-        "煉獄下界 Z",
+        "煉獄下界 惡魔冥界 Z",
         "UX-21-01",
         "UX2101",
         "UX21-01",
@@ -2179,18 +2179,18 @@
       "meta": {},
       "names": {
         "eng": "WyvernHover 8-80 Ball",
-        "chi": "飛龍翱翔 8-80 B",
+        "chi": "飛龍翱翔 飛龍凌空 8-80 B",
         "jap": "ワイバーンホバー"
       },
       "formalName": "WyvernHover 8-80 Ball",
-      "formalAlias": "飛龍翱翔 8-80 B",
+      "formalAlias": "飛龍翱翔 飛龍凌空 8-80 B",
       "searchTokens": [
         "UX-21",
         "WyHv 8-80 B",
         "WyHv",
         "WyvernHover 8-80 Ball",
         "ワイバーンホバー",
-        "飛龍翱翔 8-80 B",
+        "飛龍翱翔 飛龍凌空 8-80 B",
         "UX-21-02",
         "UX2102",
         "UX21-02",
@@ -2222,9 +2222,9 @@
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
-        "ratchet": null,
+        "ratchet": 8.5,
         "ratchetRaw": [
-          null
+          8.5
         ],
         "bit": 2,
         "bitRaw": [
@@ -12200,18 +12200,18 @@
       "meta": {},
       "names": {
         "eng": "WyvernHover 2-80 GN",
-        "chi": "飛龍翱翔 2-80 GN",
+        "chi": "飛龍翱翔 飛龍凌空 2-80 GN",
         "jap": "ワイバーンホバー"
       },
       "formalName": "WyvernHover 2-80 GN",
-      "formalAlias": "飛龍翱翔 2-80 GN",
+      "formalAlias": "飛龍翱翔 飛龍凌空 2-80 GN",
       "searchTokens": [
         "BXG-39",
         "WyHv 2-80 GN",
         "WyHv",
         "WyvernHover 2-80 GN",
         "ワイバーンホバー",
-        "飛龍翱翔 2-80 GN",
+        "飛龍翱翔 飛龍凌空 2-80 GN",
         "BXG-39-01",
         "BXG3901",
         "BXG39-01",
@@ -12297,18 +12297,18 @@
       "meta": {},
       "names": {
         "eng": "WyvernHover 2-80 GN",
-        "chi": "飛龍翱翔 2-80 GN",
+        "chi": "飛龍翱翔 飛龍凌空 2-80 GN",
         "jap": "ワイバーンホバー"
       },
       "formalName": "WyvernHover 2-80 GN",
-      "formalAlias": "飛龍翱翔 2-80 GN",
+      "formalAlias": "飛龍翱翔 飛龍凌空 2-80 GN",
       "searchTokens": [
         "BXG-39",
         "WyHv 2-80 GN",
         "WyHv",
         "WyvernHover 2-80 GN",
         "ワイバーンホバー",
-        "飛龍翱翔 2-80 GN",
+        "飛龍翱翔 飛龍凌空 2-80 GN",
         "BXG-39-02",
         "BXG3902",
         "BXG39-02",
@@ -33189,7 +33189,7 @@
         "names": {
           "jap": "ヘルズネザー",
           "eng": "HellsNether",
-          "chi": "煉獄下界"
+          "chi": "煉獄下界 惡魔冥界"
         },
         "attr": [
           "bal",
@@ -34326,7 +34326,7 @@
         "names": {
           "jap": "ワイバーンホバー",
           "eng": "WyvernHover",
-          "chi": "飛龍翱翔"
+          "chi": "飛龍翱翔 飛龍凌空"
         },
         "attr": [
           "def",
@@ -34408,7 +34408,7 @@
           "chi": ""
         },
         "attr": [
-          "def",
+          "sta",
           "right",
           "BX"
         ],
@@ -34424,7 +34424,7 @@
         "names": {
           "jap": "ホルスシャッター",
           "eng": "HorusShatter",
-          "chi": "33="
+          "chi": ""
         },
         "attr": [
           "sta",
@@ -36021,9 +36021,9 @@
           "chi": "8-80"
         },
         "attr": [],
-        "stat": null,
+        "stat": 8.5,
         "rawStat": [
-          null
+          8.5
         ],
         "desc": "使用大徑及擅於強化離心力的八枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/8-80.png"

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T03:31:05.240Z",
+  "generatedAt": "2026-08-08T03:04:06.916Z",
   "sources": {
     "forum1117": {
       "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1117",
@@ -80,6 +80,11 @@
           "snA": 1071,
           "title": "【公告】本板板主申請人一覽",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1071"
+        },
+        {
+          "snA": 1351,
+          "title": "【問題】新手求教 5月訂的陀螺總算到了 現在手上有 ⏺️UX-10騎士圓甲改造套組 ⏺️BX-23鳳凰960GF ⏺️CX-13 龍王閃擊BK ⏺️CX-11 帝王威能H 數了一下，大概有這些 🔹上蓋：騎士上蓋，暴龍上蓋，BX鳳凰",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1351"
         },
         {
           "snA": 1350,
@@ -170,14 +175,14 @@
           "snA": 1331,
           "title": "【閒聊】有台中的群可以加入嗎 最近想買陀螺 看脆上面都有有人在百貨公司排隊 我看百貨公司的官網也都沒有公告 不知道開賣的資訊 各位是都從群組裡面互相告知的嗎",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1331"
-        },
-        {
-          "snA": 1328,
-          "title": "【問題】剛入手ux20女武神應怎配？甚麼軸心好？ 我看配置極簡單 都是一體化設計 不能換環換蓋 只能換軸心？ 另外他屬於tier幾呢？感覺很強！",
-          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1328"
         }
       ],
       "featuredPosts": [
+        {
+          "snA": 1351,
+          "title": "【問題】新手求教 5月訂的陀螺總算到了 現在手上有 ⏺️UX-10騎士圓甲改造套組 ⏺️BX-23鳳凰960GF ⏺️CX-13 龍王閃擊BK ⏺️CX-11 帝王威能H 數了一下，大概有這些 🔹上蓋：騎士上蓋，暴龍上蓋，BX鳳凰",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1351"
+        },
         {
           "snA": 1350,
           "title": "【問題】新手健檢 幫小孩買陀螺 目前有 UX-03 魔導神杖5-70-DB BX-34 蒼穹龍騎士2-60-C CX-07 天馬爆擊A-Tr UX-01 蒼龍爆刃1-60-A BX-23 鳳凰飛翼9-60-GF BX-20 蒼龍利刃4-60-R 美版BX-00 猛瑪獠牙3-60T UX-17 殞星龍騎士3-70-J",
@@ -615,11 +620,11 @@
       "line": "UX",
       "names": {
         "eng": "HellsNether Z",
-        "chi": "煉獄下界 Z",
+        "chi": "煉獄下界 惡魔冥界 Z",
         "jap": "ヘルズネザー"
       },
       "formalName": "HellsNether Z",
-      "formalAlias": "煉獄下界 Z",
+      "formalAlias": "煉獄下界 惡魔冥界 Z",
       "parts": {
         "blade": "HlNt",
         "ratchet": "Z",
@@ -633,7 +638,7 @@
         "UX2101",
         "UX21 01",
         "UX21-01",
-        "煉獄下界 Z",
+        "煉獄下界 惡魔冥界 Z",
         "HellsNether Z",
         "ヘルズネザー",
         "HlNt",
@@ -648,11 +653,11 @@
       "line": "UX",
       "names": {
         "eng": "WyvernHover 8-80 Ball",
-        "chi": "飛龍翱翔 8-80 B",
+        "chi": "飛龍翱翔 飛龍凌空 8-80 B",
         "jap": "ワイバーンホバー"
       },
       "formalName": "WyvernHover 8-80 Ball",
-      "formalAlias": "飛龍翱翔 8-80 B",
+      "formalAlias": "飛龍翱翔 飛龍凌空 8-80 B",
       "parts": {
         "blade": "WyHv",
         "ratchet": "8-80",
@@ -666,7 +671,7 @@
         "UX2102",
         "UX21 02",
         "UX21-02",
-        "飛龍翱翔 8-80 B",
+        "飛龍翱翔 飛龍凌空 8-80 B",
         "WyvernHover 8-80 Ball",
         "ワイバーンホバー",
         "WyHv",
@@ -3669,11 +3674,11 @@
       "line": "BX",
       "names": {
         "eng": "WyvernHover 2-80 GN",
-        "chi": "飛龍翱翔 2-80 GN",
+        "chi": "飛龍翱翔 飛龍凌空 2-80 GN",
         "jap": "ワイバーンホバー"
       },
       "formalName": "WyvernHover 2-80 GN",
-      "formalAlias": "飛龍翱翔 2-80 GN",
+      "formalAlias": "飛龍翱翔 飛龍凌空 2-80 GN",
       "parts": {
         "blade": "WyHv",
         "ratchet": "2-80",
@@ -3687,7 +3692,7 @@
         "BXG3901",
         "BXG39 01",
         "BXG39-01",
-        "飛龍翱翔 2-80 GN",
+        "飛龍翱翔 飛龍凌空 2-80 GN",
         "WyvernHover 2-80 GN",
         "ワイバーンホバー",
         "WyHv",
@@ -3703,11 +3708,11 @@
       "line": "BX",
       "names": {
         "eng": "WyvernHover 2-80 GN",
-        "chi": "飛龍翱翔 2-80 GN",
+        "chi": "飛龍翱翔 飛龍凌空 2-80 GN",
         "jap": "ワイバーンホバー"
       },
       "formalName": "WyvernHover 2-80 GN",
-      "formalAlias": "飛龍翱翔 2-80 GN",
+      "formalAlias": "飛龍翱翔 飛龍凌空 2-80 GN",
       "parts": {
         "blade": "WyHv",
         "ratchet": "2-80",
@@ -3721,7 +3726,7 @@
         "BXG3902",
         "BXG39 02",
         "BXG39-02",
-        "飛龍翱翔 2-80 GN",
+        "飛龍翱翔 飛龍凌空 2-80 GN",
         "WyvernHover 2-80 GN",
         "ワイバーンホバー",
         "WyHv",
