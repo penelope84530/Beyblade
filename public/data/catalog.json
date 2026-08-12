@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T03:10:40.761Z",
+  "generatedAt": "2026-08-12T03:19:02.364Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 305,
@@ -2216,9 +2216,9 @@
         ]
       },
       "stats": {
-        "blade": 35.5,
+        "blade": 35,
         "bladeRaw": [
-          35.5
+          35
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
@@ -2378,7 +2378,7 @@
       ],
       "isCx": false,
       "isCxExpansion": false,
-      "videoId": null,
+      "videoId": "_gTWDg8haKs",
       "meta": {},
       "names": {
         "eng": "DranSword_Version 2.0 3-60 Flat",
@@ -12235,9 +12235,9 @@
         "bit": []
       },
       "stats": {
-        "blade": 35.5,
+        "blade": 35,
         "bladeRaw": [
-          35.5
+          35
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
@@ -12332,9 +12332,9 @@
         "bit": []
       },
       "stats": {
-        "blade": 35.5,
+        "blade": 35,
         "bladeRaw": [
-          35.5
+          35
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
@@ -34332,9 +34332,9 @@
           "def",
           "right"
         ],
-        "stat": 35.5,
+        "stat": 35,
         "rawStat": [
-          35.5
+          35
         ],
         "desc": "向下收窄的階梯形狀兩枚刃把對手攻擊由上向下壓制，擅於分散衝擊。",
         "image": "https://go-shoot.github.io/x/img/blade/WyHv.png"
@@ -34353,9 +34353,9 @@
           "expand",
           "bbb"
         ],
-        "stat": null,
+        "stat": 40,
         "rawStat": [
-          null
+          40
         ],
         "desc": "(0-70LP tent.)",
         "image": "https://go-shoot.github.io/x/img/blade/SgSp.png"
@@ -35843,7 +35843,7 @@
         "rawStat": [
           null
         ],
-        "desc": "",
+        "desc": "採用厚及離心力優秀的五枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/5-50.png"
       },
       {
