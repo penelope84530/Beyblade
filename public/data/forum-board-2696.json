@@ -1,16 +1,21 @@
 {
-  "generatedAt": "2026-08-12T03:19:03.995Z",
+  "generatedAt": "2026-08-13T03:19:44.414Z",
   "source": "https://forum.gamer.com.tw/B.php?bsn=2696",
   "title": "戰鬥陀螺 系列 哈啦板 - 巴哈姆特",
   "summary": {
     "totalParsed": 30,
-    "featuredCount": 18
+    "featuredCount": 17
   },
   "latestPosts": [
     {
       "snA": 1071,
       "title": "【公告】本板板主申請人一覽",
       "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1071"
+    },
+    {
+      "snA": 1352,
+      "title": "【問題】射擊訓練場異常 請問App一直顯示射擊訓練場異常，是什麼原因呢？",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1352"
     },
     {
       "snA": 1351,
@@ -151,11 +156,6 @@
       "snA": 1322,
       "title": "【問題】新手剛入坑求幫配置 圓了兒時的夢想， 這兩周入坑，也當了幾回盤子， 這陣子大補貨也跟一群年輕的腿拚了幾波方霸， (累死老人家) 目前網上還有BX48抽包跟CX06抽包還沒到貨， 故暫時不算入手零件。",
       "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1322"
-    },
-    {
-      "snA": 1313,
-      "title": "【討論】新手YT詢問大家的意見 安安，我是青銅貓 QQ 是玩世紀帝國的育兒系YT（？） 最近因為朋友的關係，半隻腳入坑戰鬥陀螺 目前陀螺還都是跟朋友借的，自己也還在慢慢研究比賽規則 配件搭配的部分就有點硬",
-      "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1313"
     }
   ],
   "featuredPosts": [
@@ -243,11 +243,6 @@
       "snA": 1322,
       "title": "【問題】新手剛入坑求幫配置 圓了兒時的夢想， 這兩周入坑，也當了幾回盤子， 這陣子大補貨也跟一群年輕的腿拚了幾波方霸， (累死老人家) 目前網上還有BX48抽包跟CX06抽包還沒到貨， 故暫時不算入手零件。",
       "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1322"
-    },
-    {
-      "snA": 1313,
-      "title": "【討論】新手YT詢問大家的意見 安安，我是青銅貓 QQ 是玩世紀帝國的育兒系YT（？） 最近因為朋友的關係，半隻腳入坑戰鬥陀螺 目前陀螺還都是跟朋友借的，自己也還在慢慢研究比賽規則 配件搭配的部分就有點硬",
-      "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1313"
     }
   ]
 }

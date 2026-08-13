@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T03:19:02.364Z",
+  "generatedAt": "2026-08-13T03:19:42.945Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 305,
@@ -850,9 +850,9 @@
         "bladeRaw": [],
         "bladeMain": null,
         "bladeMainRaw": [],
-        "ratchet": null,
+        "ratchet": 6.5,
         "ratchetRaw": [
-          null
+          6.5
         ],
         "bit": 2,
         "bitRaw": [
@@ -996,9 +996,9 @@
         "bladeRaw": [],
         "bladeMain": null,
         "bladeMainRaw": [],
-        "ratchet": null,
+        "ratchet": 6.5,
         "ratchetRaw": [
-          null
+          6.5
         ],
         "bit": 2,
         "bitRaw": [
@@ -1142,9 +1142,9 @@
         "bladeRaw": [],
         "bladeMain": null,
         "bladeMainRaw": [],
-        "ratchet": null,
+        "ratchet": 6.5,
         "ratchetRaw": [
-          null
+          6.5
         ],
         "bit": 2,
         "bitRaw": [
@@ -35839,9 +35839,9 @@
           "chi": "5-50"
         },
         "attr": [],
-        "stat": null,
+        "stat": 6.5,
         "rawStat": [
-          null
+          6.5
         ],
         "desc": "採用厚及離心力優秀的五枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/5-50.png"
