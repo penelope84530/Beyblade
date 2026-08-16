@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T02:47:54.383Z",
+  "generatedAt": "2026-08-16T02:49:35.331Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 305,
@@ -2437,13 +2437,13 @@
     },
     {
       "id": "bey-15",
-      "code": "BXH-?1_01",
-      "variantCode": "BXH-?1_01",
+      "code": "BXH-27",
+      "variantCode": "BXH-27-01",
       "variantNo": "01",
-      "hasVariants": false,
-      "displayCode": "BXH-?1_01",
-      "normalizedVariantCode": "BXH101",
-      "normalizedCode": "BXH101",
+      "hasVariants": true,
+      "displayCode": "BXH-27-01",
+      "normalizedVariantCode": "BXH2701",
+      "normalizedCode": "BXH27",
       "line": "BX",
       "productType": "Lm H",
       "comboRaw": "/ / U",
@@ -2485,11 +2485,15 @@
       "formalName": "/ / Unite",
       "formalAlias": "/ / U",
       "searchTokens": [
-        "BXH-?1_01",
+        "BXH-27",
         "/ / U",
         "/",
         "/ / Unite",
-        "/ / U"
+        "/ / U",
+        "BXH-27-01",
+        "BXH2701",
+        "BXH27-01",
+        "BXH27 01"
       ],
       "images": {
         "blade": "https://go-shoot.github.io/x/img/blade/%2F.png",
@@ -2526,13 +2530,13 @@
     },
     {
       "id": "bey-16",
-      "code": "BXH-?1_02",
-      "variantCode": "BXH-?1_02",
-      "variantNo": "01",
-      "hasVariants": false,
-      "displayCode": "BXH-?1_02",
-      "normalizedVariantCode": "BXH102",
-      "normalizedCode": "BXH102",
+      "code": "BXH-27",
+      "variantCode": "BXH-27-02",
+      "variantNo": "02",
+      "hasVariants": true,
+      "displayCode": "BXH-27-02",
+      "normalizedVariantCode": "BXH2702",
+      "normalizedCode": "BXH27",
       "line": "BX",
       "productType": "Lm H",
       "comboRaw": "/ / W",
@@ -2574,11 +2578,15 @@
       "formalName": "/ / Wedge",
       "formalAlias": "/ / W",
       "searchTokens": [
-        "BXH-?1_02",
+        "BXH-27",
         "/ / W",
         "/",
         "/ / Wedge",
-        "/ / W"
+        "/ / W",
+        "BXH-27-02",
+        "BXH2702",
+        "BXH27-02",
+        "BXH27 02"
       ],
       "images": {
         "blade": "https://go-shoot.github.io/x/img/blade/%2F.png",
@@ -2615,13 +2623,13 @@
     },
     {
       "id": "bey-17",
-      "code": "BXH-?1_03",
-      "variantCode": "BXH-?1_03",
-      "variantNo": "01",
-      "hasVariants": false,
-      "displayCode": "BXH-?1_03",
-      "normalizedVariantCode": "BXH103",
-      "normalizedCode": "BXH103",
+      "code": "BXH-27",
+      "variantCode": "BXH-27-03",
+      "variantNo": "03",
+      "hasVariants": true,
+      "displayCode": "BXH-27-03",
+      "normalizedVariantCode": "BXH2703",
+      "normalizedCode": "BXH27",
       "line": "BX",
       "productType": "Lm H",
       "comboRaw": "/ / GB",
@@ -2663,11 +2671,15 @@
       "formalName": "/ / GB",
       "formalAlias": "/ / GB",
       "searchTokens": [
-        "BXH-?1_03",
+        "BXH-27",
         "/ / GB",
         "/",
         "/ / GB",
-        "/ / GB"
+        "/ / GB",
+        "BXH-27-03",
+        "BXH2703",
+        "BXH27-03",
+        "BXH27 03"
       ],
       "images": {
         "blade": "https://go-shoot.github.io/x/img/blade/%2F.png",
@@ -33185,6 +33197,26 @@
   "parts": {
     "blade": [
       {
+        "code": "SgSp",
+        "names": {
+          "jap": "ジークスペリオン",
+          "eng": "Sieg\\Superion",
+          "chi": ""
+        },
+        "attr": [
+          "bal",
+          "right",
+          "expand",
+          "bbb"
+        ],
+        "stat": 40,
+        "rawStat": [
+          40
+        ],
+        "desc": "",
+        "image": "https://go-shoot.github.io/x/img/blade/SgSp.png"
+      },
+      {
         "code": "HlNt",
         "names": {
           "jap": "ヘルズネザー",
@@ -34338,27 +34370,6 @@
         ],
         "desc": "向下收窄的階梯形狀兩枚刃把對手攻擊由上向下壓制，擅於分散衝擊。",
         "image": "https://go-shoot.github.io/x/img/blade/WyHv.png"
-      },
-      {
-        "code": "SgSp",
-        "names": {
-          "jap": "ジークスペリオン",
-          "eng": "SiegSuperion",
-          "chi": ""
-        },
-        "attr": [
-          "bal",
-          "right",
-          "BX",
-          "expand",
-          "bbb"
-        ],
-        "stat": 40,
-        "rawStat": [
-          40
-        ],
-        "desc": "(0-70LP tent.)",
-        "image": "https://go-shoot.github.io/x/img/blade/SgSp.png"
       },
       {
         "code": "JgSz",

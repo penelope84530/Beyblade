@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T02:47:56.588Z",
+  "generatedAt": "2026-08-16T02:49:37.915Z",
   "sources": {
     "forum1117": {
       "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1117",
@@ -80,6 +80,16 @@
           "snA": 1071,
           "title": "【公告】本板板主申請人一覽",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1071"
+        },
+        {
+          "snA": 1355,
+          "title": "【討論】新人入坑，請教組陀螺以及發射器問題 想問問發射器拉尺的會沒有拉繩的厲害嗎。武士星劍這種特別的發射器有什麼過人之處麼？還想問問我該怎麼組陀螺比較好 目前box有 UX10 UX19 UX21 朋友送的BX35兩包開到0406 朋友說是bx35",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1355"
+        },
+        {
+          "snA": 1354,
+          "title": "【問題】抽到序號要怎麼用啊？ FUNBOX官網看不到哪裏兌換購買 找陀螺型號也找不到 請問是需要有開才能兌換嗎",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1354"
         },
         {
           "snA": 1353,
@@ -165,19 +175,14 @@
           "snA": 1335,
           "title": "【問題】發射問題 發射時碰撞對方的手時，有選手提出對方有碰撞自己的手時，是會判重賽還是發射失誤再重賽? 因為我看規則書寫： 「若發射時發生陀螺卡在發射器上導致無法成功發射、或是裁判開",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1335"
-        },
-        {
-          "snA": 1334,
-          "title": "【問題】日版QR兌換問題 請問這是有抽中陀螺還是配件而已？ 要怎麼兌換回台灣？ 感恩",
-          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1334"
-        },
-        {
-          "snA": 1333,
-          "title": "【問題】新手求配置 拜託各位高手教教我如何配置，謝謝！",
-          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1333"
         }
       ],
       "featuredPosts": [
+        {
+          "snA": 1355,
+          "title": "【討論】新人入坑，請教組陀螺以及發射器問題 想問問發射器拉尺的會沒有拉繩的厲害嗎。武士星劍這種特別的發射器有什麼過人之處麼？還想問問我該怎麼組陀螺比較好 目前box有 UX10 UX19 UX21 朋友送的BX35兩包開到0406 朋友說是bx35",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1355"
+        },
         {
           "snA": 1353,
           "title": "【問題】請問要買給小孩的 要抽哪幾個?? 觀望一陣子了 買不到實體 現在總算有抽選機會! 請問要買給小孩要抽哪幾個呢?? 目前進度 剛要辦帳號 輸入遊戲ID的超級新手!",
@@ -257,11 +262,6 @@
           "snA": 1324,
           "title": "【情報】8月新品公開「稀有零件下放又有T0零件？」 今天這張雜誌情報、真是驚呆我眼睛了 8月新品 3合1改造套組 日幣4500 定價應該台幣850附近 先不說UX擴張的實用性算高、看好惡魔新機體 除此之外 有一線等級的飛龍（美版色）盡然",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1324"
-        },
-        {
-          "snA": 1323,
-          "title": "【問題】bx46日版beycode 交換 想用日版bx46日版beycode 交換台任何台版beycode 請私訊我",
-          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1323"
         }
       ]
     },
@@ -743,8 +743,8 @@
     },
     {
       "id": "bey-15",
-      "code": "BXH-?1_01",
-      "displayCode": "BXH-?1_01",
+      "code": "BXH-27",
+      "displayCode": "BXH-27-01",
       "variantNo": "01",
       "line": "BX",
       "names": {
@@ -761,11 +761,12 @@
       },
       "tier": "NA",
       "aliases": [
-        "BXH-?1_01",
-        "BXH?1_01",
-        "BXH?1_0101",
-        "BXH?1_01 01",
-        "BXH?1_01-01",
+        "BXH-27",
+        "BXH-27-01",
+        "BXH27",
+        "BXH2701",
+        "BXH27 01",
+        "BXH27-01",
         "/ / U",
         "/ / Unite",
         "/",
@@ -774,9 +775,9 @@
     },
     {
       "id": "bey-16",
-      "code": "BXH-?1_02",
-      "displayCode": "BXH-?1_02",
-      "variantNo": "01",
+      "code": "BXH-27",
+      "displayCode": "BXH-27-02",
+      "variantNo": "02",
       "line": "BX",
       "names": {
         "eng": "/ / Wedge",
@@ -792,11 +793,12 @@
       },
       "tier": "NA",
       "aliases": [
-        "BXH-?1_02",
-        "BXH?1_02",
-        "BXH?1_0201",
-        "BXH?1_02 01",
-        "BXH?1_02-01",
+        "BXH-27",
+        "BXH-27-02",
+        "BXH27",
+        "BXH2702",
+        "BXH27 02",
+        "BXH27-02",
         "/ / W",
         "/ / Wedge",
         "/",
@@ -805,9 +807,9 @@
     },
     {
       "id": "bey-17",
-      "code": "BXH-?1_03",
-      "displayCode": "BXH-?1_03",
-      "variantNo": "01",
+      "code": "BXH-27",
+      "displayCode": "BXH-27-03",
+      "variantNo": "03",
       "line": "BX",
       "names": {
         "eng": "/ / GB",
@@ -823,11 +825,12 @@
       },
       "tier": "NA",
       "aliases": [
-        "BXH-?1_03",
-        "BXH?1_03",
-        "BXH?1_0301",
-        "BXH?1_03 01",
-        "BXH?1_03-01",
+        "BXH-27",
+        "BXH-27-03",
+        "BXH27",
+        "BXH2703",
+        "BXH27 03",
+        "BXH27-03",
         "/ / GB",
         "/",
         "GB"
