@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T02:49:00.376Z",
+  "generatedAt": "2026-08-20T02:48:51.456Z",
   "sources": {
     "forum1117": {
       "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1117",
@@ -80,6 +80,11 @@
           "snA": 1071,
           "title": "【公告】本板板主申請人一覽",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1071"
+        },
+        {
+          "snA": 1357,
+          "title": "【心得】有點感慨 看到很久沒開的戰鬥陀螺app，點進去後充滿感慨 當時在爆紅前一個月暫時退坑 沒想到爆紅後一堆亂象 價格跟規矩都很誇張 曾經滿滿原價295神杖一坨沒人買，去方爸逛一下就能買齊",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1357"
         },
         {
           "snA": 1356,
@@ -170,14 +175,14 @@
           "snA": 1340,
           "title": "【討論】抽到日版序號 但要用起來蠻麻煩的",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1340"
-        },
-        {
-          "snA": 1337,
-          "title": "【問題】新戰鬥盤問題 前陣子入手了一個新的戰鬥盤（含有QR CODE所以確定為正版） 之前都是玩盜版的 或是去朋友家玩正版的 在朋友家跟用盜版的 練習逆軌都可以很順利的走 至少3次可以成功一次 但用了",
-          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1337"
         }
       ],
       "featuredPosts": [
+        {
+          "snA": 1357,
+          "title": "【心得】有點感慨 看到很久沒開的戰鬥陀螺app，點進去後充滿感慨 當時在爆紅前一個月暫時退坑 沒想到爆紅後一堆亂象 價格跟規矩都很誇張 曾經滿滿原價295神杖一坨沒人買，去方爸逛一下就能買齊",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1357"
+        },
         {
           "snA": 1356,
           "title": "【問題】戰鬥陀螺x 霜輝銀狼 配3-80還是3-70比較好 固鎖",
