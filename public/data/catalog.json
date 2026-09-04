@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T03:46:03.985Z",
+  "generatedAt": "2026-09-04T02:42:01.477Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 305,
@@ -34954,6 +34954,46 @@
         ],
         "desc": "",
         "image": "https://go-shoot.github.io/x/img/blade/Gree.png"
+      },
+      {
+        "code": "Mist",
+        "names": {
+          "jap": "ミスター・ファンタスティック",
+          "eng": "Mister Fantastic",
+          "chi": ""
+        },
+        "attr": [
+          "def",
+          "right",
+          "BX",
+          "marvel"
+        ],
+        "stat": null,
+        "rawStat": [
+          null
+        ],
+        "desc": "9-65A",
+        "image": "https://go-shoot.github.io/x/img/blade/Mist.png"
+      },
+      {
+        "code": "Doct",
+        "names": {
+          "jap": "ドクター・ドゥーム",
+          "eng": "Doctor Doom",
+          "chi": ""
+        },
+        "attr": [
+          "def",
+          "right",
+          "BX",
+          "marvel"
+        ],
+        "stat": null,
+        "rawStat": [
+          null
+        ],
+        "desc": "0-80LO",
+        "image": "https://go-shoot.github.io/x/img/blade/Doct.png"
       },
       {
         "code": "Luke",
