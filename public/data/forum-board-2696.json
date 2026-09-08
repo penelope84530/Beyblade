@@ -1,16 +1,21 @@
 {
-  "generatedAt": "2026-09-07T02:43:19.551Z",
+  "generatedAt": "2026-09-08T02:41:13.668Z",
   "source": "https://forum.gamer.com.tw/B.php?bsn=2696",
   "title": "戰鬥陀螺 系列 哈啦板 - 巴哈姆特",
   "summary": {
     "totalParsed": 30,
-    "featuredCount": 21
+    "featuredCount": 22
   },
   "latestPosts": [
     {
       "snA": 1071,
       "title": "【公告】本板板主申請人一覽",
       "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1071"
+    },
+    {
+      "snA": 1369,
+      "title": "【問題】如何分辨正版盜版軸心 因為最近K軸太貴 所以前幾天收了一個下位版T軸 拆的時候也沒注意看 剛剛整理零件的時候 發現怎麼這顆的產編只有一個2 我對過其他軸心都會帶一個英文字母 請問我是買到盜版的嗎",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1369"
     },
     {
       "snA": 1368,
@@ -151,14 +156,14 @@
       "snA": 1341,
       "title": "【問題】請問這啥卡",
       "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1341"
-    },
-    {
-      "snA": 1340,
-      "title": "【討論】抽到日版序號 但要用起來蠻麻煩的",
-      "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1340"
     }
   ],
   "featuredPosts": [
+    {
+      "snA": 1369,
+      "title": "【問題】如何分辨正版盜版軸心 因為最近K軸太貴 所以前幾天收了一個下位版T軸 拆的時候也沒注意看 剛剛整理零件的時候 發現怎麼這顆的產編只有一個2 我對過其他軸心都會帶一個英文字母 請問我是買到盜版的嗎",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1369"
+    },
     {
       "snA": 1368,
       "title": "【情報】【戰鬥陀螺APP限定序號購買公告】開放序號陀螺購買啦！ 9/9（三）AM10:00 要買要快，盡量在第一時間下單，官方自己也說數量有限。 到時數量不足的話，又要等待漫長的第二波預購開放了。 【戰鬥陀螺APP限定序號購買公告】 CX-00 龍神勇氣G",
