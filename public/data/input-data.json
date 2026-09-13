@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T02:40:46.941Z",
+  "generatedAt": "2026-09-13T02:41:34.411Z",
   "sources": {
     "forum1117": {
       "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1117",
@@ -80,6 +80,11 @@
           "snA": 1071,
           "title": "【公告】本板板主申請人一覽",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1071"
+        },
+        {
+          "snA": 1372,
+          "title": "【問題】新手請益陀螺組合 如題想淺嚐玩看看 從一開始的不介意到看了老爹或阿土等創作者的影片後，覺得有一些陀螺好像也不錯 但在挑選上有些地方想向前輩請教 目前想組三~四顆就好，收藏或能偶爾跟朋",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1372"
         },
         {
           "snA": 1371,
@@ -170,14 +175,14 @@
           "snA": 1354,
           "title": "【問題】抽到序號要怎麼用啊？ FUNBOX官網看不到哪裏兌換購買 找陀螺型號也找不到 請問是需要有開才能兌換嗎",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1354"
-        },
-        {
-          "snA": 1353,
-          "title": "【問題】請問要買給小孩的 要抽哪幾個?? 觀望一陣子了 買不到實體 現在總算有抽選機會! 請問要買給小孩要抽哪幾個呢?? 目前進度 剛要辦帳號 輸入遊戲ID的超級新手!",
-          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1353"
         }
       ],
       "featuredPosts": [
+        {
+          "snA": 1372,
+          "title": "【問題】新手請益陀螺組合 如題想淺嚐玩看看 從一開始的不介意到看了老爹或阿土等創作者的影片後，覺得有一些陀螺好像也不錯 但在挑選上有些地方想向前輩請教 目前想組三~四顆就好，收藏或能偶爾跟朋",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1372"
+        },
         {
           "snA": 1371,
           "title": "【問題】陀螺小白 買了一些陀螺 但不會組 想請大佬幫我組 如題 應該不會再買零件了 就和朋友玩玩 可能心血來潮會去體驗比賽氣氛 就醬 有的陀螺有 UX-19 CX-18黑晚龍 cx17開到綠色的 cx14 cx13 還有2顆BX-46送的 請問要怎麼搭配出三顆呢? 還是就原",
@@ -272,11 +277,6 @@
           "snA": 1348,
           "title": "【問題】新手請教比賽配置 以上為目前有的零件，CX的部分都是原裝，沒有多的零件跟帝王紋章 目前預計上場的配置為： 隕星龍騎士 8-70 L 暴龍霸擊 3-60 T 惡魔紅鐮 9-60 B 還請各位前輩幫忙調整，感謝",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1348"
-        },
-        {
-          "snA": 1346,
-          "title": "【問題】新手求幫配置 目前入手的陀螺如下，跪求讓小小孩比較有機會獲勝的配置，或是有需要再入手的部件？ BX-50 衝擊龍神 7-55 FB CX-14 騎士堡壘 GV 8-70 UN UX-11 衝擊龍神 9-60 LR UX-16 時鐘幻象 9-65 B UX-19 彈丸",
-          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1346"
         }
       ]
     },
@@ -401,12 +401,12 @@
       "variantNo": "01",
       "line": "BX",
       "names": {
-        "eng": "WizardArrow_Version 2.0 4-80 Ball",
-        "chi": "巫師弩箭_V2 魔導幻箭_V2 4-80 B",
-        "jap": "ウィザードアロー_バージョン2.0"
+        "eng": "WzAr2 4-80 Ball",
+        "chi": "WzAr2 4-80 B",
+        "jap": ""
       },
-      "formalName": "WizardArrow_Version 2.0 4-80 Ball",
-      "formalAlias": "巫師弩箭_V2 魔導幻箭_V2 4-80 B",
+      "formalName": "WzAr2 4-80 Ball",
+      "formalAlias": "WzAr2 4-80 B",
       "parts": {
         "blade": "WzAr2",
         "ratchet": "4-80",
@@ -420,9 +420,8 @@
         "BX5301",
         "BX53 01",
         "BX53-01",
-        "巫師弩箭_V2 魔導幻箭_V2 4-80 B",
-        "WizardArrow_Version 2.0 4-80 Ball",
-        "ウィザードアロー_バージョン2.0",
+        "WzAr2 4-80 B",
+        "WzAr2 4-80 Ball",
         "WzAr2",
         "4-80",
         "B"
@@ -435,12 +434,12 @@
       "variantNo": "02",
       "line": "BX",
       "names": {
-        "eng": "KnightShield_Version 2.0 3-80 Needle",
-        "chi": "騎士護盾_V2 騎士重盾_V2 3-80 N",
-        "jap": "ナイトシールド_バージョン2.0"
+        "eng": "KnSh2 3-80 Needle",
+        "chi": "KnSh2 3-80 N",
+        "jap": ""
       },
-      "formalName": "KnightShield_Version 2.0 3-80 Needle",
-      "formalAlias": "騎士護盾_V2 騎士重盾_V2 3-80 N",
+      "formalName": "KnSh2 3-80 Needle",
+      "formalAlias": "KnSh2 3-80 N",
       "parts": {
         "blade": "KnSh2",
         "ratchet": "3-80",
@@ -454,9 +453,8 @@
         "BX5302",
         "BX53 02",
         "BX53-02",
-        "騎士護盾_V2 騎士重盾_V2 3-80 N",
-        "KnightShield_Version 2.0 3-80 Needle",
-        "ナイトシールド_バージョン2.0",
+        "KnSh2 3-80 N",
+        "KnSh2 3-80 Needle",
         "KnSh2",
         "3-80",
         "N"
@@ -1092,12 +1090,12 @@
       "variantNo": "01",
       "line": "BX",
       "names": {
-        "eng": "DranSword_Version 2.0 3-60 Flat",
-        "chi": "翔龍神劍_V2 蒼龍神劍_V2 3-60 F",
-        "jap": "ドランソード_バージョン2.0"
+        "eng": "DrSw2 3-60 Flat",
+        "chi": "DrSw2 3-60 F",
+        "jap": ""
       },
-      "formalName": "DranSword_Version 2.0 3-60 Flat",
-      "formalAlias": "翔龍神劍_V2 蒼龍神劍_V2 3-60 F",
+      "formalName": "DrSw2 3-60 Flat",
+      "formalAlias": "DrSw2 3-60 F",
       "parts": {
         "blade": "DrSw2",
         "ratchet": "3-60",
@@ -1110,9 +1108,8 @@
         "BXG4901",
         "BXG49 01",
         "BXG49-01",
-        "翔龍神劍_V2 蒼龍神劍_V2 3-60 F",
-        "DranSword_Version 2.0 3-60 Flat",
-        "ドランソード_バージョン2.0",
+        "DrSw2 3-60 F",
+        "DrSw2 3-60 Flat",
         "DrSw2",
         "3-60",
         "F"

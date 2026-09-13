@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T02:40:44.695Z",
+  "generatedAt": "2026-09-13T02:41:31.971Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 312,
@@ -1081,19 +1081,18 @@
       "videoId": null,
       "meta": {},
       "names": {
-        "eng": "WizardArrow_Version 2.0 4-80 Ball",
-        "chi": "巫師弩箭_V2 魔導幻箭_V2 4-80 B",
-        "jap": "ウィザードアロー_バージョン2.0"
+        "eng": "WzAr2 4-80 Ball",
+        "chi": "WzAr2 4-80 B",
+        "jap": ""
       },
-      "formalName": "WizardArrow_Version 2.0 4-80 Ball",
-      "formalAlias": "巫師弩箭_V2 魔導幻箭_V2 4-80 B",
+      "formalName": "WzAr2 4-80 Ball",
+      "formalAlias": "WzAr2 4-80 B",
       "searchTokens": [
         "BX-53",
         "WzAr2 4-80 B",
         "WzAr2",
-        "WizardArrow_Version 2.0 4-80 Ball",
-        "ウィザードアロー_バージョン2.0",
-        "巫師弩箭_V2 魔導幻箭_V2 4-80 B",
+        "WzAr2 4-80 Ball",
+        "WzAr2 4-80 B",
         "BX-53-01",
         "BX5301",
         "BX53-01",
@@ -1108,10 +1107,7 @@
       },
       "isArMain": false,
       "attributes": {
-        "blade": [
-          "sta",
-          "right"
-        ],
+        "blade": [],
         "bladeMain": [],
         "ratchet": [],
         "bit": [
@@ -1182,19 +1178,18 @@
       "videoId": null,
       "meta": {},
       "names": {
-        "eng": "KnightShield_Version 2.0 3-80 Needle",
-        "chi": "騎士護盾_V2 騎士重盾_V2 3-80 N",
-        "jap": "ナイトシールド_バージョン2.0"
+        "eng": "KnSh2 3-80 Needle",
+        "chi": "KnSh2 3-80 N",
+        "jap": ""
       },
-      "formalName": "KnightShield_Version 2.0 3-80 Needle",
-      "formalAlias": "騎士護盾_V2 騎士重盾_V2 3-80 N",
+      "formalName": "KnSh2 3-80 Needle",
+      "formalAlias": "KnSh2 3-80 N",
       "searchTokens": [
         "BX-53",
         "KnSh2 3-80 N",
         "KnSh2",
-        "KnightShield_Version 2.0 3-80 Needle",
-        "ナイトシールド_バージョン2.0",
-        "騎士護盾_V2 騎士重盾_V2 3-80 N",
+        "KnSh2 3-80 Needle",
+        "KnSh2 3-80 N",
         "BX-53-02",
         "BX5302",
         "BX53-02",
@@ -1209,10 +1204,7 @@
       },
       "isArMain": false,
       "attributes": {
-        "blade": [
-          "def",
-          "right"
-        ],
+        "blade": [],
         "bladeMain": [],
         "ratchet": [],
         "bit": [
@@ -3534,19 +3526,18 @@
       "videoId": "_gTWDg8haKs",
       "meta": {},
       "names": {
-        "eng": "DranSword_Version 2.0 3-60 Flat",
-        "chi": "翔龍神劍_V2 蒼龍神劍_V2 3-60 F",
-        "jap": "ドランソード_バージョン2.0"
+        "eng": "DrSw2 3-60 Flat",
+        "chi": "DrSw2 3-60 F",
+        "jap": ""
       },
-      "formalName": "DranSword_Version 2.0 3-60 Flat",
-      "formalAlias": "翔龍神劍_V2 蒼龍神劍_V2 3-60 F",
+      "formalName": "DrSw2 3-60 Flat",
+      "formalAlias": "DrSw2 3-60 F",
       "searchTokens": [
         "BXG-49",
         "DrSw2 3-60 F",
         "DrSw2",
-        "DranSword_Version 2.0 3-60 Flat",
-        "ドランソード_バージョン2.0",
-        "翔龍神劍_V2 蒼龍神劍_V2 3-60 F"
+        "DrSw2 3-60 Flat",
+        "DrSw2 3-60 F"
       ],
       "images": {
         "blade": "https://go-shoot.github.io/x/img/blade/DrSw2.png",
@@ -3557,10 +3548,7 @@
       },
       "isArMain": false,
       "attributes": {
-        "blade": [
-          "att",
-          "right"
-        ],
+        "blade": [],
         "bladeMain": [],
         "ratchet": [],
         "bit": [
@@ -34057,7 +34045,7 @@
         "rawStat": [
           41
         ],
-        "desc": "（此乃AI臨時圖・異色版會在2026/10 DMMくじ中推出）",
+        "desc": "",
         "image": "https://go-shoot.github.io/x/img/blade/BsBr.png"
       },
       {
@@ -34724,14 +34712,11 @@
       {
         "code": "DrSw2",
         "names": {
-          "jap": "ドランソード_バージョン2.0",
-          "eng": "DranSword_Version 2.0",
-          "chi": "翔龍神劍_V2 蒼龍神劍_V2"
+          "jap": "",
+          "eng": "",
+          "chi": ""
         },
-        "attr": [
-          "att",
-          "right"
-        ],
+        "attr": [],
         "stat": 37.5,
         "rawStat": [
           37.5
@@ -34796,14 +34781,11 @@
       {
         "code": "WzAr2",
         "names": {
-          "jap": "ウィザードアロー_バージョン2.0",
-          "eng": "WizardArrow_Version 2.0",
-          "chi": "巫師弩箭_V2 魔導幻箭_V2"
+          "jap": "",
+          "eng": "",
+          "chi": ""
         },
-        "attr": [
-          "sta",
-          "right"
-        ],
+        "attr": [],
         "stat": 36,
         "rawStat": [
           36
@@ -34832,14 +34814,11 @@
       {
         "code": "KnSh2",
         "names": {
-          "jap": "ナイトシールド_バージョン2.0",
-          "eng": "KnightShield_Version 2.0",
-          "chi": "騎士護盾_V2 騎士重盾_V2"
+          "jap": "",
+          "eng": "",
+          "chi": ""
         },
-        "attr": [
-          "def",
-          "right"
-        ],
+        "attr": [],
         "stat": null,
         "rawStat": [
           null
