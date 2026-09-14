@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T02:41:31.971Z",
+  "generatedAt": "2026-09-14T02:45:49.536Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 312,
@@ -862,7 +862,7 @@
       "normalizedVariantCode": "BXG101",
       "normalizedCode": "BXG1",
       "line": "BX",
-      "productType": "Lm",
+      "productType": "Lm H",
       "comboRaw": "BsBr = DB",
       "bladeCode": "BsBr",
       "ratchetCode": "DB",
@@ -955,7 +955,7 @@
       "normalizedVariantCode": "BXG102",
       "normalizedCode": "BXG1",
       "line": "BX",
-      "productType": "Lm",
+      "productType": "Lm H",
       "comboRaw": "BsBr = DB",
       "bladeCode": "BsBr",
       "ratchetCode": "DB",
