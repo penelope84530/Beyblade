@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T02:46:31.759Z",
+  "generatedAt": "2026-09-22T02:43:04.738Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 312,
@@ -2128,99 +2128,6 @@
       "normalizedCode": "BXH27",
       "line": "BX",
       "productType": "Lm H",
-      "comboRaw": "/ / W",
-      "bladeCode": "/",
-      "ratchetCode": "/",
-      "bitCode": "W",
-      "cxChipCode": "",
-      "cxMainCode": "",
-      "cxSuffixCode": "",
-      "cxComponents": {
-        "chip": "",
-        "main": "",
-        "assist": "",
-        "over": "",
-        "metal": "",
-        "hasbro": ""
-      },
-      "cxComponentsAll": {
-        "chip": [],
-        "main": [],
-        "assist": [],
-        "over": [],
-        "metal": [],
-        "hasbro": []
-      },
-      "cxDisplayComponents": [],
-      "cxUnknownTokens": [
-        "/"
-      ],
-      "isCx": false,
-      "isCxExpansion": false,
-      "videoId": null,
-      "meta": {},
-      "names": {
-        "eng": "/ / Wedge",
-        "chi": "/ / W",
-        "jap": ""
-      },
-      "formalName": "/ / Wedge",
-      "formalAlias": "/ / W",
-      "searchTokens": [
-        "BXH-27",
-        "/ / W",
-        "/",
-        "/ / Wedge",
-        "/ / W",
-        "BXH-27-02",
-        "BXH2702",
-        "BXH27-02",
-        "BXH27 02"
-      ],
-      "images": {
-        "blade": "https://go-shoot.github.io/x/img/blade/%2F.png",
-        "bladeMain": null,
-        "ratchet": "https://go-shoot.github.io/x/img/ratchet/%2F.png",
-        "bit": "https://go-shoot.github.io/x/img/bit/W.png",
-        "cx": []
-      },
-      "isArMain": false,
-      "attributes": {
-        "blade": [],
-        "bladeMain": [],
-        "ratchet": [],
-        "bit": [
-          "def"
-        ]
-      },
-      "stats": {
-        "blade": null,
-        "bladeRaw": [],
-        "bladeMain": null,
-        "bladeMainRaw": [],
-        "ratchet": null,
-        "ratchetRaw": [],
-        "bit": 2,
-        "bitRaw": [
-          2,
-          10,
-          30,
-          127
-        ],
-        "bitMobility": 10
-      }
-    },
-    {
-      "id": "bey-14",
-      "code": "BXH-27",
-      "variantCode": "BXH-27-03",
-      "variantNo": "03",
-      "hasVariants": true,
-      "displayCode": "BXH-27-03",
-      "normalizedVariantCode": "BXH2703",
-      "normalizedCode": "BXH27",
-      "line": "BX",
-      "productType": "Lm H",
       "comboRaw": "/ / GB",
       "bladeCode": "/",
       "ratchetCode": "/",
@@ -2265,10 +2172,10 @@
         "/",
         "/ / GB",
         "/ / GB",
-        "BXH-27-03",
-        "BXH2703",
-        "BXH27-03",
-        "BXH27 03"
+        "BXH-27-02",
+        "BXH2702",
+        "BXH27-02",
+        "BXH27 02"
       ],
       "images": {
         "blade": "https://go-shoot.github.io/x/img/blade/%2F.png",
@@ -2297,6 +2204,99 @@
           123
         ],
         "bitMobility": 123
+      }
+    },
+    {
+      "id": "bey-14",
+      "code": "BXH-27",
+      "variantCode": "BXH-27-03",
+      "variantNo": "03",
+      "hasVariants": true,
+      "displayCode": "BXH-27-03",
+      "normalizedVariantCode": "BXH2703",
+      "normalizedCode": "BXH27",
+      "line": "BX",
+      "productType": "Lm H",
+      "comboRaw": "/ / W",
+      "bladeCode": "/",
+      "ratchetCode": "/",
+      "bitCode": "W",
+      "cxChipCode": "",
+      "cxMainCode": "",
+      "cxSuffixCode": "",
+      "cxComponents": {
+        "chip": "",
+        "main": "",
+        "assist": "",
+        "over": "",
+        "metal": "",
+        "hasbro": ""
+      },
+      "cxComponentsAll": {
+        "chip": [],
+        "main": [],
+        "assist": [],
+        "over": [],
+        "metal": [],
+        "hasbro": []
+      },
+      "cxDisplayComponents": [],
+      "cxUnknownTokens": [
+        "/"
+      ],
+      "isCx": false,
+      "isCxExpansion": false,
+      "videoId": null,
+      "meta": {},
+      "names": {
+        "eng": "/ / Wedge",
+        "chi": "/ / W",
+        "jap": ""
+      },
+      "formalName": "/ / Wedge",
+      "formalAlias": "/ / W",
+      "searchTokens": [
+        "BXH-27",
+        "/ / W",
+        "/",
+        "/ / Wedge",
+        "/ / W",
+        "BXH-27-03",
+        "BXH2703",
+        "BXH27-03",
+        "BXH27 03"
+      ],
+      "images": {
+        "blade": "https://go-shoot.github.io/x/img/blade/%2F.png",
+        "bladeMain": null,
+        "ratchet": "https://go-shoot.github.io/x/img/ratchet/%2F.png",
+        "bit": "https://go-shoot.github.io/x/img/bit/W.png",
+        "cx": []
+      },
+      "isArMain": false,
+      "attributes": {
+        "blade": [],
+        "bladeMain": [],
+        "ratchet": [],
+        "bit": [
+          "def"
+        ]
+      },
+      "stats": {
+        "blade": null,
+        "bladeRaw": [],
+        "bladeMain": null,
+        "bladeMainRaw": [],
+        "ratchet": null,
+        "ratchetRaw": [],
+        "bit": 2,
+        "bitRaw": [
+          2,
+          10,
+          30,
+          127
+        ],
+        "bitMobility": 10
       }
     },
     {
@@ -3290,107 +3290,6 @@
       "normalizedVariantCode": "UX2102",
       "normalizedCode": "UX21",
       "line": "UX",
-      "productType": "St",
-      "comboRaw": "WyHv 8-80 B",
-      "bladeCode": "WyHv",
-      "ratchetCode": "8-80",
-      "bitCode": "B",
-      "cxChipCode": "",
-      "cxMainCode": "",
-      "cxSuffixCode": "",
-      "cxComponents": {
-        "chip": "",
-        "main": "",
-        "assist": "",
-        "over": "",
-        "metal": "",
-        "hasbro": ""
-      },
-      "cxComponentsAll": {
-        "chip": [],
-        "main": [],
-        "assist": [],
-        "over": [],
-        "metal": [],
-        "hasbro": []
-      },
-      "cxDisplayComponents": [],
-      "cxUnknownTokens": [
-        "WyHv"
-      ],
-      "isCx": false,
-      "isCxExpansion": false,
-      "videoId": null,
-      "meta": {},
-      "names": {
-        "eng": "WyvernHover 8-80 Ball",
-        "chi": "飛龍翱翔 飛龍凌空 8-80 B",
-        "jap": "ワイバーンホバー"
-      },
-      "formalName": "WyvernHover 8-80 Ball",
-      "formalAlias": "飛龍翱翔 飛龍凌空 8-80 B",
-      "searchTokens": [
-        "UX-21",
-        "WyHv 8-80 B",
-        "WyHv",
-        "WyvernHover 8-80 Ball",
-        "ワイバーンホバー",
-        "飛龍翱翔 飛龍凌空 8-80 B",
-        "UX-21-02",
-        "UX2102",
-        "UX21-02",
-        "UX21 02"
-      ],
-      "images": {
-        "blade": "https://go-shoot.github.io/x/img/blade/WyHv.png",
-        "bladeMain": null,
-        "ratchet": "https://go-shoot.github.io/x/img/ratchet/8-80.png",
-        "bit": "https://go-shoot.github.io/x/img/bit/B.png",
-        "cx": []
-      },
-      "isArMain": false,
-      "attributes": {
-        "blade": [
-          "def",
-          "right"
-        ],
-        "bladeMain": [],
-        "ratchet": [],
-        "bit": [
-          "sta"
-        ]
-      },
-      "stats": {
-        "blade": 35,
-        "bladeRaw": [
-          35
-        ],
-        "bladeMain": null,
-        "bladeMainRaw": [],
-        "ratchet": 8.5,
-        "ratchetRaw": [
-          8.5
-        ],
-        "bit": 2,
-        "bitRaw": [
-          2,
-          12,
-          30,
-          124
-        ],
-        "bitMobility": 12
-      }
-    },
-    {
-      "id": "bey-24",
-      "code": "UX-21",
-      "variantCode": "UX-21-03",
-      "variantNo": "03",
-      "hasVariants": true,
-      "displayCode": "UX-21-03",
-      "normalizedVariantCode": "UX2103",
-      "normalizedCode": "UX21",
-      "line": "UX",
       "productType": "St H",
       "comboRaw": "SlWl 9-70 R",
       "bladeCode": "SlWl",
@@ -3437,10 +3336,10 @@
         "Silver\\Wolf 9-70 Rush",
         "シルバーウルフ",
         "白銀\\戰狼 霜輝\\銀狼 9-70 R",
-        "UX-21-03",
-        "UX2103",
-        "UX21-03",
-        "UX21 03"
+        "UX-21-02",
+        "UX2102",
+        "UX21-02",
+        "UX21 02"
       ],
       "images": {
         "blade": "https://go-shoot.github.io/x/img/blade/SlWl.png",
@@ -3481,6 +3380,107 @@
           123
         ],
         "bitMobility": 10
+      }
+    },
+    {
+      "id": "bey-24",
+      "code": "UX-21",
+      "variantCode": "UX-21-03",
+      "variantNo": "03",
+      "hasVariants": true,
+      "displayCode": "UX-21-03",
+      "normalizedVariantCode": "UX2103",
+      "normalizedCode": "UX21",
+      "line": "UX",
+      "productType": "St",
+      "comboRaw": "WyHv 8-80 B",
+      "bladeCode": "WyHv",
+      "ratchetCode": "8-80",
+      "bitCode": "B",
+      "cxChipCode": "",
+      "cxMainCode": "",
+      "cxSuffixCode": "",
+      "cxComponents": {
+        "chip": "",
+        "main": "",
+        "assist": "",
+        "over": "",
+        "metal": "",
+        "hasbro": ""
+      },
+      "cxComponentsAll": {
+        "chip": [],
+        "main": [],
+        "assist": [],
+        "over": [],
+        "metal": [],
+        "hasbro": []
+      },
+      "cxDisplayComponents": [],
+      "cxUnknownTokens": [
+        "WyHv"
+      ],
+      "isCx": false,
+      "isCxExpansion": false,
+      "videoId": null,
+      "meta": {},
+      "names": {
+        "eng": "WyvernHover 8-80 Ball",
+        "chi": "飛龍翱翔 飛龍凌空 8-80 B",
+        "jap": "ワイバーンホバー"
+      },
+      "formalName": "WyvernHover 8-80 Ball",
+      "formalAlias": "飛龍翱翔 飛龍凌空 8-80 B",
+      "searchTokens": [
+        "UX-21",
+        "WyHv 8-80 B",
+        "WyHv",
+        "WyvernHover 8-80 Ball",
+        "ワイバーンホバー",
+        "飛龍翱翔 飛龍凌空 8-80 B",
+        "UX-21-03",
+        "UX2103",
+        "UX21-03",
+        "UX21 03"
+      ],
+      "images": {
+        "blade": "https://go-shoot.github.io/x/img/blade/WyHv.png",
+        "bladeMain": null,
+        "ratchet": "https://go-shoot.github.io/x/img/ratchet/8-80.png",
+        "bit": "https://go-shoot.github.io/x/img/bit/B.png",
+        "cx": []
+      },
+      "isArMain": false,
+      "attributes": {
+        "blade": [
+          "def",
+          "right"
+        ],
+        "bladeMain": [],
+        "ratchet": [],
+        "bit": [
+          "sta"
+        ]
+      },
+      "stats": {
+        "blade": 35,
+        "bladeRaw": [
+          35
+        ],
+        "bladeMain": null,
+        "bladeMainRaw": [],
+        "ratchet": 8.5,
+        "ratchetRaw": [
+          8.5
+        ],
+        "bit": 2,
+        "bitRaw": [
+          2,
+          12,
+          30,
+          124
+        ],
+        "bitMobility": 12
       }
     },
     {
@@ -12557,107 +12557,6 @@
       "normalizedVariantCode": "CX1102",
       "normalizedCode": "CX11",
       "line": "CX",
-      "productType": "St H",
-      "comboRaw": "GlRc M-85 HN",
-      "bladeCode": "GlRc",
-      "ratchetCode": "M-85",
-      "bitCode": "HN",
-      "cxChipCode": "",
-      "cxMainCode": "",
-      "cxSuffixCode": "",
-      "cxComponents": {
-        "chip": "",
-        "main": "",
-        "assist": "",
-        "over": "",
-        "metal": "",
-        "hasbro": ""
-      },
-      "cxComponentsAll": {
-        "chip": [],
-        "main": [],
-        "assist": [],
-        "over": [],
-        "metal": [],
-        "hasbro": []
-      },
-      "cxDisplayComponents": [],
-      "cxUnknownTokens": [
-        "GlRc"
-      ],
-      "isCx": false,
-      "isCxExpansion": false,
-      "videoId": "[object Object]",
-      "meta": {},
-      "names": {
-        "eng": "GolemRock M-85 HN",
-        "chi": "魔像巨石 魔像奇岩 M-85 HN",
-        "jap": "ゴーレムロック"
-      },
-      "formalName": "GolemRock M-85 HN",
-      "formalAlias": "魔像巨石 魔像奇岩 M-85 HN",
-      "searchTokens": [
-        "CX-11",
-        "GlRc M-85 HN",
-        "GlRc",
-        "GolemRock M-85 HN",
-        "ゴーレムロック",
-        "魔像巨石 魔像奇岩 M-85 HN",
-        "CX-11-02",
-        "CX1102",
-        "CX11-02",
-        "CX11 02"
-      ],
-      "images": {
-        "blade": "https://go-shoot.github.io/x/img/blade/GlRc.png",
-        "bladeMain": null,
-        "ratchet": "https://go-shoot.github.io/x/img/ratchet/M-85.png",
-        "bit": "https://go-shoot.github.io/x/img/bit/HN.png",
-        "cx": []
-      },
-      "isArMain": false,
-      "attributes": {
-        "blade": [
-          "def",
-          "right"
-        ],
-        "bladeMain": [],
-        "ratchet": [
-          "simple"
-        ],
-        "bit": []
-      },
-      "stats": {
-        "blade": 34,
-        "bladeRaw": [
-          34
-        ],
-        "bladeMain": null,
-        "bladeMainRaw": [],
-        "ratchet": 10.5,
-        "ratchetRaw": [
-          10.5,
-          5,
-          85
-        ],
-        "bit": 2.5,
-        "bitRaw": [
-          2.5,
-          133
-        ],
-        "bitMobility": 133
-      }
-    },
-    {
-      "id": "bey-108",
-      "code": "CX-11",
-      "variantCode": "CX-11-03",
-      "variantNo": "03",
-      "hasVariants": true,
-      "displayCode": "CX-11-03",
-      "normalizedVariantCode": "CX1103",
-      "normalizedCode": "CX11",
-      "line": "CX",
       "productType": "St",
       "comboRaw": "ShGl 5-60 FB",
       "bladeCode": "ShGl",
@@ -12704,10 +12603,10 @@
         "SharkGill 5-60 FB",
         "シャークギル",
         "烈鯊鰓刃 鮫鯊撕裂 5-60 FB",
-        "CX-11-03",
-        "CX1103",
-        "CX11-03",
-        "CX11 03"
+        "CX-11-02",
+        "CX1102",
+        "CX11-02",
+        "CX11 02"
       ],
       "images": {
         "blade": "https://go-shoot.github.io/x/img/blade/ShGl.png",
@@ -12743,6 +12642,107 @@
           123
         ],
         "bitMobility": 123
+      }
+    },
+    {
+      "id": "bey-108",
+      "code": "CX-11",
+      "variantCode": "CX-11-03",
+      "variantNo": "03",
+      "hasVariants": true,
+      "displayCode": "CX-11-03",
+      "normalizedVariantCode": "CX1103",
+      "normalizedCode": "CX11",
+      "line": "CX",
+      "productType": "St H",
+      "comboRaw": "GlRc M-85 HN",
+      "bladeCode": "GlRc",
+      "ratchetCode": "M-85",
+      "bitCode": "HN",
+      "cxChipCode": "",
+      "cxMainCode": "",
+      "cxSuffixCode": "",
+      "cxComponents": {
+        "chip": "",
+        "main": "",
+        "assist": "",
+        "over": "",
+        "metal": "",
+        "hasbro": ""
+      },
+      "cxComponentsAll": {
+        "chip": [],
+        "main": [],
+        "assist": [],
+        "over": [],
+        "metal": [],
+        "hasbro": []
+      },
+      "cxDisplayComponents": [],
+      "cxUnknownTokens": [
+        "GlRc"
+      ],
+      "isCx": false,
+      "isCxExpansion": false,
+      "videoId": "[object Object]",
+      "meta": {},
+      "names": {
+        "eng": "GolemRock M-85 HN",
+        "chi": "魔像巨石 魔像奇岩 M-85 HN",
+        "jap": "ゴーレムロック"
+      },
+      "formalName": "GolemRock M-85 HN",
+      "formalAlias": "魔像巨石 魔像奇岩 M-85 HN",
+      "searchTokens": [
+        "CX-11",
+        "GlRc M-85 HN",
+        "GlRc",
+        "GolemRock M-85 HN",
+        "ゴーレムロック",
+        "魔像巨石 魔像奇岩 M-85 HN",
+        "CX-11-03",
+        "CX1103",
+        "CX11-03",
+        "CX11 03"
+      ],
+      "images": {
+        "blade": "https://go-shoot.github.io/x/img/blade/GlRc.png",
+        "bladeMain": null,
+        "ratchet": "https://go-shoot.github.io/x/img/ratchet/M-85.png",
+        "bit": "https://go-shoot.github.io/x/img/bit/HN.png",
+        "cx": []
+      },
+      "isArMain": false,
+      "attributes": {
+        "blade": [
+          "def",
+          "right"
+        ],
+        "bladeMain": [],
+        "ratchet": [
+          "simple"
+        ],
+        "bit": []
+      },
+      "stats": {
+        "blade": 34,
+        "bladeRaw": [
+          34
+        ],
+        "bladeMain": null,
+        "bladeMainRaw": [],
+        "ratchet": 10.5,
+        "ratchetRaw": [
+          10.5,
+          5,
+          85
+        ],
+        "bit": 2.5,
+        "bitRaw": [
+          2.5,
+          133
+        ],
+        "bitMobility": 133
       }
     },
     {
@@ -19488,149 +19488,6 @@
       "normalizedCode": "CX04",
       "line": "CX",
       "productType": "SS H",
-      "comboRaw": "Pr.Dr.B 6-80 W",
-      "bladeCode": "Pr.Dr.B",
-      "ratchetCode": "6-80",
-      "bitCode": "W",
-      "cxChipCode": "Pr",
-      "cxMainCode": "Dr",
-      "cxSuffixCode": "B",
-      "cxComponents": {
-        "chip": "Pr",
-        "main": "",
-        "assist": "B",
-        "over": "",
-        "metal": "",
-        "hasbro": ""
-      },
-      "cxComponentsAll": {
-        "chip": [
-          "Pr",
-          "Dr"
-        ],
-        "main": [],
-        "assist": [
-          "B"
-        ],
-        "over": [],
-        "metal": [],
-        "hasbro": []
-      },
-      "cxDisplayComponents": [
-        {
-          "category": "chip",
-          "label": "紋章 1",
-          "code": "Pr",
-          "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Pr.png"
-        },
-        {
-          "category": "chip",
-          "label": "紋章 2",
-          "code": "Dr",
-          "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Dr.png"
-        },
-        {
-          "category": "assist",
-          "label": "輔助戰刃",
-          "code": "B",
-          "image": "https://go-shoot.github.io/x/img/blade/CX/assist/B.png"
-        }
-      ],
-      "cxUnknownTokens": [],
-      "isCx": true,
-      "isCxExpansion": false,
-      "videoId": null,
-      "meta": {},
-      "names": {
-        "eng": "Pr.Dr.B 6-80 Wedge",
-        "chi": "幽暗 幽冥 6-80 W",
-        "jap": "ダーク"
-      },
-      "formalName": "Pr.Dr.B 6-80 Wedge",
-      "formalAlias": "幽暗 幽冥 6-80 W",
-      "searchTokens": [
-        "CX-04",
-        "Pr.Dr.B 6-80 W",
-        "Pr.Dr.B",
-        "Pr.Dr.B 6-80 Wedge",
-        "ダーク",
-        "幽暗 幽冥 6-80 W",
-        "CX-04-01",
-        "CX0401",
-        "CX04-01",
-        "CX04 01"
-      ],
-      "images": {
-        "blade": "https://go-shoot.github.io/x/img/blade/Pr.Dr.B.png",
-        "bladeMain": "https://go-shoot.github.io/x/img/blade/CX/main/Dr.png",
-        "ratchet": "https://go-shoot.github.io/x/img/ratchet/6-80.png",
-        "bit": "https://go-shoot.github.io/x/img/bit/W.png",
-        "cx": [
-          {
-            "category": "chip",
-            "label": "紋章 1",
-            "code": "Pr",
-            "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Pr.png"
-          },
-          {
-            "category": "chip",
-            "label": "紋章 2",
-            "code": "Dr",
-            "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Dr.png"
-          },
-          {
-            "category": "assist",
-            "label": "輔助戰刃",
-            "code": "B",
-            "image": "https://go-shoot.github.io/x/img/blade/CX/assist/B.png"
-          }
-        ]
-      },
-      "isArMain": false,
-      "attributes": {
-        "blade": [],
-        "bladeMain": [
-          "def",
-          "right",
-          "mfb"
-        ],
-        "ratchet": [],
-        "bit": [
-          "def"
-        ]
-      },
-      "stats": {
-        "blade": null,
-        "bladeRaw": [],
-        "bladeMain": 30.5,
-        "bladeMainRaw": [
-          30.5
-        ],
-        "ratchet": 7,
-        "ratchetRaw": [
-          7
-        ],
-        "bit": 2,
-        "bitRaw": [
-          2,
-          10,
-          30,
-          127
-        ],
-        "bitMobility": 10
-      }
-    },
-    {
-      "id": "bey-169",
-      "code": "CX-04",
-      "variantCode": "CX-04-02",
-      "variantNo": "02",
-      "hasVariants": true,
-      "displayCode": "CX-04-02",
-      "normalizedVariantCode": "CX0402",
-      "normalizedCode": "CX04",
-      "line": "CX",
-      "productType": "SS H",
       "comboRaw": "Dr.Br.S 6-60 V",
       "bladeCode": "Dr.Br.S",
       "ratchetCode": "6-60",
@@ -19698,10 +19555,10 @@
         "Dr.Br.S 6-60 Vortex",
         "ブレイブ",
         "勇者 勇氣 6-60 V",
-        "CX-04-02",
-        "CX0402",
-        "CX04-02",
-        "CX04 02"
+        "CX-04-01",
+        "CX0401",
+        "CX04-01",
+        "CX04 01"
       ],
       "images": {
         "blade": "https://go-shoot.github.io/x/img/blade/Dr.Br.S.png",
@@ -19760,6 +19617,149 @@
           123
         ],
         "bitMobility": 12
+      }
+    },
+    {
+      "id": "bey-169",
+      "code": "CX-04",
+      "variantCode": "CX-04-02",
+      "variantNo": "02",
+      "hasVariants": true,
+      "displayCode": "CX-04-02",
+      "normalizedVariantCode": "CX0402",
+      "normalizedCode": "CX04",
+      "line": "CX",
+      "productType": "SS H",
+      "comboRaw": "Pr.Dr.B 6-80 W",
+      "bladeCode": "Pr.Dr.B",
+      "ratchetCode": "6-80",
+      "bitCode": "W",
+      "cxChipCode": "Pr",
+      "cxMainCode": "Dr",
+      "cxSuffixCode": "B",
+      "cxComponents": {
+        "chip": "Pr",
+        "main": "",
+        "assist": "B",
+        "over": "",
+        "metal": "",
+        "hasbro": ""
+      },
+      "cxComponentsAll": {
+        "chip": [
+          "Pr",
+          "Dr"
+        ],
+        "main": [],
+        "assist": [
+          "B"
+        ],
+        "over": [],
+        "metal": [],
+        "hasbro": []
+      },
+      "cxDisplayComponents": [
+        {
+          "category": "chip",
+          "label": "紋章 1",
+          "code": "Pr",
+          "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Pr.png"
+        },
+        {
+          "category": "chip",
+          "label": "紋章 2",
+          "code": "Dr",
+          "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Dr.png"
+        },
+        {
+          "category": "assist",
+          "label": "輔助戰刃",
+          "code": "B",
+          "image": "https://go-shoot.github.io/x/img/blade/CX/assist/B.png"
+        }
+      ],
+      "cxUnknownTokens": [],
+      "isCx": true,
+      "isCxExpansion": false,
+      "videoId": null,
+      "meta": {},
+      "names": {
+        "eng": "Pr.Dr.B 6-80 Wedge",
+        "chi": "幽暗 幽冥 6-80 W",
+        "jap": "ダーク"
+      },
+      "formalName": "Pr.Dr.B 6-80 Wedge",
+      "formalAlias": "幽暗 幽冥 6-80 W",
+      "searchTokens": [
+        "CX-04",
+        "Pr.Dr.B 6-80 W",
+        "Pr.Dr.B",
+        "Pr.Dr.B 6-80 Wedge",
+        "ダーク",
+        "幽暗 幽冥 6-80 W",
+        "CX-04-02",
+        "CX0402",
+        "CX04-02",
+        "CX04 02"
+      ],
+      "images": {
+        "blade": "https://go-shoot.github.io/x/img/blade/Pr.Dr.B.png",
+        "bladeMain": "https://go-shoot.github.io/x/img/blade/CX/main/Dr.png",
+        "ratchet": "https://go-shoot.github.io/x/img/ratchet/6-80.png",
+        "bit": "https://go-shoot.github.io/x/img/bit/W.png",
+        "cx": [
+          {
+            "category": "chip",
+            "label": "紋章 1",
+            "code": "Pr",
+            "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Pr.png"
+          },
+          {
+            "category": "chip",
+            "label": "紋章 2",
+            "code": "Dr",
+            "image": "https://go-shoot.github.io/x/img/blade/CX/chip/Dr.png"
+          },
+          {
+            "category": "assist",
+            "label": "輔助戰刃",
+            "code": "B",
+            "image": "https://go-shoot.github.io/x/img/blade/CX/assist/B.png"
+          }
+        ]
+      },
+      "isArMain": false,
+      "attributes": {
+        "blade": [],
+        "bladeMain": [
+          "def",
+          "right",
+          "mfb"
+        ],
+        "ratchet": [],
+        "bit": [
+          "def"
+        ]
+      },
+      "stats": {
+        "blade": null,
+        "bladeRaw": [],
+        "bladeMain": 30.5,
+        "bladeMainRaw": [
+          30.5
+        ],
+        "ratchet": 7,
+        "ratchetRaw": [
+          7
+        ],
+        "bit": 2,
+        "bitRaw": [
+          2,
+          10,
+          30,
+          127
+        ],
+        "bitMobility": 10
       }
     },
     {

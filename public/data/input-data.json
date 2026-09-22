@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T02:46:34.194Z",
+  "generatedAt": "2026-09-22T02:43:07.310Z",
   "sources": {
     "forum1117": {
       "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1117",
@@ -695,38 +695,6 @@
       "variantNo": "02",
       "line": "BX",
       "names": {
-        "eng": "/ / Wedge",
-        "chi": "/ / W",
-        "jap": ""
-      },
-      "formalName": "/ / Wedge",
-      "formalAlias": "/ / W",
-      "parts": {
-        "blade": "/",
-        "ratchet": "/",
-        "bit": "W"
-      },
-      "tier": "NA",
-      "aliases": [
-        "BXH-27",
-        "BXH-27-02",
-        "BXH27",
-        "BXH2702",
-        "BXH27 02",
-        "BXH27-02",
-        "/ / W",
-        "/ / Wedge",
-        "/",
-        "W"
-      ]
-    },
-    {
-      "id": "bey-14",
-      "code": "BXH-27",
-      "displayCode": "BXH-27-03",
-      "variantNo": "03",
-      "line": "BX",
-      "names": {
         "eng": "/ / GB",
         "chi": "/ / GB",
         "jap": ""
@@ -741,14 +709,46 @@
       "tier": "NA",
       "aliases": [
         "BXH-27",
+        "BXH-27-02",
+        "BXH27",
+        "BXH2702",
+        "BXH27 02",
+        "BXH27-02",
+        "/ / GB",
+        "/",
+        "GB"
+      ]
+    },
+    {
+      "id": "bey-14",
+      "code": "BXH-27",
+      "displayCode": "BXH-27-03",
+      "variantNo": "03",
+      "line": "BX",
+      "names": {
+        "eng": "/ / Wedge",
+        "chi": "/ / W",
+        "jap": ""
+      },
+      "formalName": "/ / Wedge",
+      "formalAlias": "/ / W",
+      "parts": {
+        "blade": "/",
+        "ratchet": "/",
+        "bit": "W"
+      },
+      "tier": "NA",
+      "aliases": [
+        "BXH-27",
         "BXH-27-03",
         "BXH27",
         "BXH2703",
         "BXH27 03",
         "BXH27-03",
-        "/ / GB",
+        "/ / W",
+        "/ / Wedge",
         "/",
-        "GB"
+        "W"
       ]
     },
     {
@@ -1022,40 +1022,6 @@
       "variantNo": "02",
       "line": "UX",
       "names": {
-        "eng": "WyvernHover 8-80 Ball",
-        "chi": "飛龍翱翔 飛龍凌空 8-80 B",
-        "jap": "ワイバーンホバー"
-      },
-      "formalName": "WyvernHover 8-80 Ball",
-      "formalAlias": "飛龍翱翔 飛龍凌空 8-80 B",
-      "parts": {
-        "blade": "WyHv",
-        "ratchet": "8-80",
-        "bit": "B"
-      },
-      "tier": "NA",
-      "aliases": [
-        "UX-21",
-        "UX-21-02",
-        "UX21",
-        "UX2102",
-        "UX21 02",
-        "UX21-02",
-        "飛龍翱翔 飛龍凌空 8-80 B",
-        "WyvernHover 8-80 Ball",
-        "ワイバーンホバー",
-        "WyHv",
-        "8-80",
-        "B"
-      ]
-    },
-    {
-      "id": "bey-24",
-      "code": "UX-21",
-      "displayCode": "UX-21-03",
-      "variantNo": "03",
-      "line": "UX",
-      "names": {
         "eng": "Silver\\Wolf 9-70 Rush",
         "chi": "白銀\\戰狼 霜輝\\銀狼 9-70 R",
         "jap": "シルバーウルフ"
@@ -1070,17 +1036,51 @@
       "tier": "NA",
       "aliases": [
         "UX-21",
-        "UX-21-03",
+        "UX-21-02",
         "UX21",
-        "UX2103",
-        "UX21 03",
-        "UX21-03",
+        "UX2102",
+        "UX21 02",
+        "UX21-02",
         "白銀\\戰狼 霜輝\\銀狼 9-70 R",
         "Silver\\Wolf 9-70 Rush",
         "シルバーウルフ",
         "SlWl",
         "9-70",
         "R"
+      ]
+    },
+    {
+      "id": "bey-24",
+      "code": "UX-21",
+      "displayCode": "UX-21-03",
+      "variantNo": "03",
+      "line": "UX",
+      "names": {
+        "eng": "WyvernHover 8-80 Ball",
+        "chi": "飛龍翱翔 飛龍凌空 8-80 B",
+        "jap": "ワイバーンホバー"
+      },
+      "formalName": "WyvernHover 8-80 Ball",
+      "formalAlias": "飛龍翱翔 飛龍凌空 8-80 B",
+      "parts": {
+        "blade": "WyHv",
+        "ratchet": "8-80",
+        "bit": "B"
+      },
+      "tier": "NA",
+      "aliases": [
+        "UX-21",
+        "UX-21-03",
+        "UX21",
+        "UX2103",
+        "UX21 03",
+        "UX21-03",
+        "飛龍翱翔 飛龍凌空 8-80 B",
+        "WyvernHover 8-80 Ball",
+        "ワイバーンホバー",
+        "WyHv",
+        "8-80",
+        "B"
       ]
     },
     {
@@ -3816,40 +3816,6 @@
       "variantNo": "02",
       "line": "CX",
       "names": {
-        "eng": "GolemRock M-85 HN",
-        "chi": "魔像巨石 魔像奇岩 M-85 HN",
-        "jap": "ゴーレムロック"
-      },
-      "formalName": "GolemRock M-85 HN",
-      "formalAlias": "魔像巨石 魔像奇岩 M-85 HN",
-      "parts": {
-        "blade": "GlRc",
-        "ratchet": "M-85",
-        "bit": "HN"
-      },
-      "tier": "T1",
-      "aliases": [
-        "CX-11",
-        "CX-11-02",
-        "CX11",
-        "CX1102",
-        "CX11 02",
-        "CX11-02",
-        "魔像巨石 魔像奇岩 M-85 HN",
-        "GolemRock M-85 HN",
-        "ゴーレムロック",
-        "GlRc",
-        "M-85",
-        "HN"
-      ]
-    },
-    {
-      "id": "bey-108",
-      "code": "CX-11",
-      "displayCode": "CX-11-03",
-      "variantNo": "03",
-      "line": "CX",
-      "names": {
         "eng": "SharkGill 5-60 FB",
         "chi": "烈鯊鰓刃 鮫鯊撕裂 5-60 FB",
         "jap": "シャークギル"
@@ -3864,17 +3830,51 @@
       "tier": "T1",
       "aliases": [
         "CX-11",
-        "CX-11-03",
+        "CX-11-02",
         "CX11",
-        "CX1103",
-        "CX11 03",
-        "CX11-03",
+        "CX1102",
+        "CX11 02",
+        "CX11-02",
         "烈鯊鰓刃 鮫鯊撕裂 5-60 FB",
         "SharkGill 5-60 FB",
         "シャークギル",
         "ShGl",
         "5-60",
         "FB"
+      ]
+    },
+    {
+      "id": "bey-108",
+      "code": "CX-11",
+      "displayCode": "CX-11-03",
+      "variantNo": "03",
+      "line": "CX",
+      "names": {
+        "eng": "GolemRock M-85 HN",
+        "chi": "魔像巨石 魔像奇岩 M-85 HN",
+        "jap": "ゴーレムロック"
+      },
+      "formalName": "GolemRock M-85 HN",
+      "formalAlias": "魔像巨石 魔像奇岩 M-85 HN",
+      "parts": {
+        "blade": "GlRc",
+        "ratchet": "M-85",
+        "bit": "HN"
+      },
+      "tier": "T1",
+      "aliases": [
+        "CX-11",
+        "CX-11-03",
+        "CX11",
+        "CX1103",
+        "CX11 03",
+        "CX11-03",
+        "魔像巨石 魔像奇岩 M-85 HN",
+        "GolemRock M-85 HN",
+        "ゴーレムロック",
+        "GlRc",
+        "M-85",
+        "HN"
       ]
     },
     {
@@ -5870,40 +5870,6 @@
       "variantNo": "01",
       "line": "CX",
       "names": {
-        "eng": "Pr.Dr.B 6-80 Wedge",
-        "chi": "幽暗 幽冥 6-80 W",
-        "jap": "ダーク"
-      },
-      "formalName": "Pr.Dr.B 6-80 Wedge",
-      "formalAlias": "幽暗 幽冥 6-80 W",
-      "parts": {
-        "blade": "Pr.Dr.B",
-        "ratchet": "6-80",
-        "bit": "W"
-      },
-      "tier": "NA",
-      "aliases": [
-        "CX-04",
-        "CX-04-01",
-        "CX04",
-        "CX0401",
-        "CX04 01",
-        "CX04-01",
-        "幽暗 幽冥 6-80 W",
-        "Pr.Dr.B 6-80 Wedge",
-        "ダーク",
-        "Pr.Dr.B",
-        "6-80",
-        "W"
-      ]
-    },
-    {
-      "id": "bey-169",
-      "code": "CX-04",
-      "displayCode": "CX-04-02",
-      "variantNo": "02",
-      "line": "CX",
-      "names": {
         "eng": "Dr.Br.S 6-60 Vortex",
         "chi": "勇者 勇氣 6-60 V",
         "jap": "ブレイブ"
@@ -5918,17 +5884,51 @@
       "tier": "NA",
       "aliases": [
         "CX-04",
-        "CX-04-02",
+        "CX-04-01",
         "CX04",
-        "CX0402",
-        "CX04 02",
-        "CX04-02",
+        "CX0401",
+        "CX04 01",
+        "CX04-01",
         "勇者 勇氣 6-60 V",
         "Dr.Br.S 6-60 Vortex",
         "ブレイブ",
         "Dr.Br.S",
         "6-60",
         "V"
+      ]
+    },
+    {
+      "id": "bey-169",
+      "code": "CX-04",
+      "displayCode": "CX-04-02",
+      "variantNo": "02",
+      "line": "CX",
+      "names": {
+        "eng": "Pr.Dr.B 6-80 Wedge",
+        "chi": "幽暗 幽冥 6-80 W",
+        "jap": "ダーク"
+      },
+      "formalName": "Pr.Dr.B 6-80 Wedge",
+      "formalAlias": "幽暗 幽冥 6-80 W",
+      "parts": {
+        "blade": "Pr.Dr.B",
+        "ratchet": "6-80",
+        "bit": "W"
+      },
+      "tier": "NA",
+      "aliases": [
+        "CX-04",
+        "CX-04-02",
+        "CX04",
+        "CX0402",
+        "CX04 02",
+        "CX04-02",
+        "幽暗 幽冥 6-80 W",
+        "Pr.Dr.B 6-80 Wedge",
+        "ダーク",
+        "Pr.Dr.B",
+        "6-80",
+        "W"
       ]
     },
     {
