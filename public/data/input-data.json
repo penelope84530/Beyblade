@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T02:43:07.310Z",
+  "generatedAt": "2026-09-23T02:43:10.686Z",
   "sources": {
     "forum1117": {
       "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1117",
@@ -80,6 +80,11 @@
           "snA": 1071,
           "title": "【公告】本板板主申請人一覽",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1071"
+        },
+        {
+          "snA": 1380,
+          "title": "【問題】你們拿到紅空力天馬了嗎？ 6／17第一波開放 我就在官方下訂單了 到現在都沒出貨 有人有收到貨嗎？",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1380"
         },
         {
           "snA": 1379,
@@ -170,11 +175,6 @@
           "snA": 1363,
           "title": "【情報】陀螺交易買賣網站上線!~ 📣 有賣貨便的戰鬥陀螺賣家看過來！ 第一版戰鬥陀螺交易市場 BMarket 上線了！ ⚡ 賣貨便一鍵上架 不用重新逐筆刊登，貼上賣場連結 → 匯入商品 → 直接連回賣貨便成交。 不用每",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1363"
-        },
-        {
-          "snA": 1362,
-          "title": "【問題】新人請教 好多年沒買過陀螺了，想問下之後是都不會有現場買的，只能靠抽名額來買嗎？以及有沒有消息什麼時候才會補貨 我弟想跟同學玩，但網上價格都貴的可怕只能先靠盜版頂住",
-          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1362"
         }
       ],
       "featuredPosts": [
@@ -286,12 +286,12 @@
     }
   },
   "summary": {
-    "totalInputs": 312,
+    "totalInputs": 315,
     "tierCounts": {
       "T0": 0,
       "T1": 18,
       "T2": 55,
-      "NA": 239
+      "NA": 242
     }
   },
   "inputs": [
@@ -951,8 +951,8 @@
     },
     {
       "id": "bey-21",
-      "code": "BXC-?1",
-      "displayCode": "BXC-?1",
+      "code": "BXC-20",
+      "displayCode": "BXC-20",
       "variantNo": "01",
       "line": "BX",
       "names": {
@@ -969,11 +969,11 @@
       },
       "tier": "NA",
       "aliases": [
-        "BXC-?1",
-        "BXC?1",
-        "BXC?101",
-        "BXC?1 01",
-        "BXC?1-01",
+        "BXC-20",
+        "BXC20",
+        "BXC2001",
+        "BXC20 01",
+        "BXC20-01",
         "時鐘幽景 時鐘幻象 4-55 S",
         "ClockMirage 4-55 Spike",
         "クロックミラージュ",
@@ -6872,14 +6872,14 @@
       "variantNo": "02",
       "line": "BX",
       "names": {
-        "eng": "DranBuster 1-60 Accel",
-        "chi": "翔龍破壞劍 蒼龍爆刃 1-60 A",
-        "jap": "ドランバスター"
+        "eng": "/ 1-60 Accel",
+        "chi": "/ 1-60 A",
+        "jap": ""
       },
-      "formalName": "DranBuster 1-60 Accel",
-      "formalAlias": "翔龍破壞劍 蒼龍爆刃 1-60 A",
+      "formalName": "/ 1-60 Accel",
+      "formalAlias": "/ 1-60 A",
       "parts": {
-        "blade": "DrBs",
+        "blade": "/",
         "ratchet": "1-60",
         "bit": "A"
       },
@@ -6891,10 +6891,9 @@
         "BXG3102",
         "BXG31 02",
         "BXG31-02",
-        "翔龍破壞劍 蒼龍爆刃 1-60 A",
-        "DranBuster 1-60 Accel",
-        "ドランバスター",
-        "DrBs",
+        "/ 1-60 A",
+        "/ 1-60 Accel",
+        "/",
         "1-60",
         "A"
       ]
@@ -6935,6 +6934,106 @@
     },
     {
       "id": "bey-200",
+      "code": "BXG-31",
+      "displayCode": "BXG-31-04",
+      "variantNo": "04",
+      "line": "BX",
+      "names": {
+        "eng": "/ 1-60 Accel",
+        "chi": "/ 1-60 A",
+        "jap": ""
+      },
+      "formalName": "/ 1-60 Accel",
+      "formalAlias": "/ 1-60 A",
+      "parts": {
+        "blade": "/",
+        "ratchet": "1-60",
+        "bit": "A"
+      },
+      "tier": "NA",
+      "aliases": [
+        "BXG-31",
+        "BXG-31-04",
+        "BXG31",
+        "BXG3104",
+        "BXG31 04",
+        "BXG31-04",
+        "/ 1-60 A",
+        "/ 1-60 Accel",
+        "/",
+        "1-60",
+        "A"
+      ]
+    },
+    {
+      "id": "bey-201",
+      "code": "BXG-31",
+      "displayCode": "BXG-31-05",
+      "variantNo": "05",
+      "line": "BX",
+      "names": {
+        "eng": "DranBuster 1-60 Accel",
+        "chi": "翔龍破壞劍 蒼龍爆刃 1-60 A",
+        "jap": "ドランバスター"
+      },
+      "formalName": "DranBuster 1-60 Accel",
+      "formalAlias": "翔龍破壞劍 蒼龍爆刃 1-60 A",
+      "parts": {
+        "blade": "DrBs",
+        "ratchet": "1-60",
+        "bit": "A"
+      },
+      "tier": "NA",
+      "aliases": [
+        "BXG-31",
+        "BXG-31-05",
+        "BXG31",
+        "BXG3105",
+        "BXG31 05",
+        "BXG31-05",
+        "翔龍破壞劍 蒼龍爆刃 1-60 A",
+        "DranBuster 1-60 Accel",
+        "ドランバスター",
+        "DrBs",
+        "1-60",
+        "A"
+      ]
+    },
+    {
+      "id": "bey-202",
+      "code": "BXG-31",
+      "displayCode": "BXG-31-06",
+      "variantNo": "06",
+      "line": "BX",
+      "names": {
+        "eng": "/ 1-60 Accel",
+        "chi": "/ 1-60 A",
+        "jap": ""
+      },
+      "formalName": "/ 1-60 Accel",
+      "formalAlias": "/ 1-60 A",
+      "parts": {
+        "blade": "/",
+        "ratchet": "1-60",
+        "bit": "A"
+      },
+      "tier": "NA",
+      "aliases": [
+        "BXG-31",
+        "BXG-31-06",
+        "BXG31",
+        "BXG3106",
+        "BXG31 06",
+        "BXG31-06",
+        "/ 1-60 A",
+        "/ 1-60 Accel",
+        "/",
+        "1-60",
+        "A"
+      ]
+    },
+    {
+      "id": "bey-203",
       "code": "BXG-23",
       "displayCode": "BXG-23",
       "variantNo": "01",
@@ -6967,7 +7066,7 @@
       ]
     },
     {
-      "id": "bey-201",
+      "id": "bey-204",
       "code": "BXG-25",
       "displayCode": "BXG-25-01",
       "variantNo": "01",
@@ -7001,7 +7100,7 @@
       ]
     },
     {
-      "id": "bey-202",
+      "id": "bey-205",
       "code": "BXG-25",
       "displayCode": "BXG-25-02",
       "variantNo": "02",
@@ -7035,7 +7134,7 @@
       ]
     },
     {
-      "id": "bey-203",
+      "id": "bey-206",
       "code": "BXG-25",
       "displayCode": "BXG-25-03",
       "variantNo": "03",
@@ -7069,7 +7168,7 @@
       ]
     },
     {
-      "id": "bey-204",
+      "id": "bey-207",
       "code": "BXG-16",
       "displayCode": "BXG-16",
       "variantNo": "01",
@@ -7102,7 +7201,7 @@
       ]
     },
     {
-      "id": "bey-205",
+      "id": "bey-208",
       "code": "UX-10",
       "displayCode": "UX-10-01",
       "variantNo": "01",
@@ -7136,7 +7235,7 @@
       ]
     },
     {
-      "id": "bey-206",
+      "id": "bey-209",
       "code": "UX-10",
       "displayCode": "UX-10-02",
       "variantNo": "02",
@@ -7170,7 +7269,7 @@
       ]
     },
     {
-      "id": "bey-207",
+      "id": "bey-210",
       "code": "UX-10",
       "displayCode": "UX-10-03",
       "variantNo": "03",
@@ -7204,7 +7303,7 @@
       ]
     },
     {
-      "id": "bey-208",
+      "id": "bey-211",
       "code": "UX-10",
       "displayCode": "UX-10-04",
       "variantNo": "04",
@@ -7238,7 +7337,7 @@
       ]
     },
     {
-      "id": "bey-209",
+      "id": "bey-212",
       "code": "UX-10",
       "displayCode": "UX-10-05",
       "variantNo": "05",
@@ -7269,7 +7368,7 @@
       ]
     },
     {
-      "id": "bey-210",
+      "id": "bey-213",
       "code": "UX-10",
       "displayCode": "UX-10-06",
       "variantNo": "06",
@@ -7301,7 +7400,7 @@
       ]
     },
     {
-      "id": "bey-211",
+      "id": "bey-214",
       "code": "UX-09",
       "displayCode": "UX-09",
       "variantNo": "01",
@@ -7334,7 +7433,7 @@
       ]
     },
     {
-      "id": "bey-212",
+      "id": "bey-215",
       "code": "BX-38",
       "displayCode": "BX-38",
       "variantNo": "01",
@@ -7367,7 +7466,7 @@
       ]
     },
     {
-      "id": "bey-213",
+      "id": "bey-216",
       "code": "UX-08",
       "displayCode": "UX-08",
       "variantNo": "01",
@@ -7400,7 +7499,7 @@
       ]
     },
     {
-      "id": "bey-214",
+      "id": "bey-217",
       "code": "BX-37",
       "displayCode": "BX-37",
       "variantNo": "01",
@@ -7433,7 +7532,7 @@
       ]
     },
     {
-      "id": "bey-215",
+      "id": "bey-218",
       "code": "BX-36",
       "displayCode": "BX-36-01",
       "variantNo": "01",
@@ -7467,7 +7566,7 @@
       ]
     },
     {
-      "id": "bey-216",
+      "id": "bey-219",
       "code": "BX-36",
       "displayCode": "BX-36-02",
       "variantNo": "02",
@@ -7501,7 +7600,7 @@
       ]
     },
     {
-      "id": "bey-217",
+      "id": "bey-220",
       "code": "BX-36",
       "displayCode": "BX-36-03",
       "variantNo": "03",
@@ -7535,7 +7634,7 @@
       ]
     },
     {
-      "id": "bey-218",
+      "id": "bey-221",
       "code": "BXG-07",
       "displayCode": "BXG-07-01",
       "variantNo": "01",
@@ -7569,7 +7668,7 @@
       ]
     },
     {
-      "id": "bey-219",
+      "id": "bey-222",
       "code": "BXG-07",
       "displayCode": "BXG-07-02",
       "variantNo": "02",
@@ -7603,7 +7702,7 @@
       ]
     },
     {
-      "id": "bey-220",
+      "id": "bey-223",
       "code": "BXC-05",
       "displayCode": "BXC-05",
       "variantNo": "01",
@@ -7636,7 +7735,7 @@
       ]
     },
     {
-      "id": "bey-221",
+      "id": "bey-224",
       "code": "BXG-09",
       "displayCode": "BXG-09",
       "variantNo": "01",
@@ -7669,7 +7768,7 @@
       ]
     },
     {
-      "id": "bey-222",
+      "id": "bey-225",
       "code": "UX-07",
       "displayCode": "UX-07-01",
       "variantNo": "01",
@@ -7703,7 +7802,7 @@
       ]
     },
     {
-      "id": "bey-223",
+      "id": "bey-226",
       "code": "UX-07",
       "displayCode": "UX-07-02",
       "variantNo": "02",
@@ -7737,7 +7836,7 @@
       ]
     },
     {
-      "id": "bey-224",
+      "id": "bey-227",
       "code": "UX-07",
       "displayCode": "UX-07-03",
       "variantNo": "03",
@@ -7771,7 +7870,7 @@
       ]
     },
     {
-      "id": "bey-225",
+      "id": "bey-228",
       "code": "UX-06",
       "displayCode": "UX-06",
       "variantNo": "01",
@@ -7804,7 +7903,7 @@
       ]
     },
     {
-      "id": "bey-226",
+      "id": "bey-229",
       "code": "BXG-15",
       "displayCode": "BXG-15",
       "variantNo": "01",
@@ -7837,7 +7936,7 @@
       ]
     },
     {
-      "id": "bey-227",
+      "id": "bey-230",
       "code": "BXG-14",
       "displayCode": "BXG-14",
       "variantNo": "01",
@@ -7870,7 +7969,7 @@
       ]
     },
     {
-      "id": "bey-228",
+      "id": "bey-231",
       "code": "BXG-17",
       "displayCode": "BXG-17-01",
       "variantNo": "01",
@@ -7902,7 +8001,7 @@
       ]
     },
     {
-      "id": "bey-229",
+      "id": "bey-232",
       "code": "BXG-17",
       "displayCode": "BXG-17-02",
       "variantNo": "02",
@@ -7934,7 +8033,7 @@
       ]
     },
     {
-      "id": "bey-230",
+      "id": "bey-233",
       "code": "BXG-17",
       "displayCode": "BXG-17-03",
       "variantNo": "03",
@@ -7966,7 +8065,7 @@
       ]
     },
     {
-      "id": "bey-231",
+      "id": "bey-234",
       "code": "BXG-17",
       "displayCode": "BXG-17-04",
       "variantNo": "04",
@@ -7998,7 +8097,7 @@
       ]
     },
     {
-      "id": "bey-232",
+      "id": "bey-235",
       "code": "BXH-10",
       "displayCode": "BXH-10",
       "variantNo": "01",
@@ -8031,7 +8130,7 @@
       ]
     },
     {
-      "id": "bey-233",
+      "id": "bey-236",
       "code": "BX-35",
       "displayCode": "BX-35-01",
       "variantNo": "01",
@@ -8065,7 +8164,7 @@
       ]
     },
     {
-      "id": "bey-234",
+      "id": "bey-237",
       "code": "BX-35",
       "displayCode": "BX-35-02",
       "variantNo": "02",
@@ -8099,7 +8198,7 @@
       ]
     },
     {
-      "id": "bey-235",
+      "id": "bey-238",
       "code": "BX-35",
       "displayCode": "BX-35-03",
       "variantNo": "03",
@@ -8133,7 +8232,7 @@
       ]
     },
     {
-      "id": "bey-236",
+      "id": "bey-239",
       "code": "BX-35",
       "displayCode": "BX-35-04",
       "variantNo": "04",
@@ -8167,7 +8266,7 @@
       ]
     },
     {
-      "id": "bey-237",
+      "id": "bey-240",
       "code": "BX-35",
       "displayCode": "BX-35-05",
       "variantNo": "05",
@@ -8201,7 +8300,7 @@
       ]
     },
     {
-      "id": "bey-238",
+      "id": "bey-241",
       "code": "BX-35",
       "displayCode": "BX-35-06",
       "variantNo": "06",
@@ -8235,7 +8334,7 @@
       ]
     },
     {
-      "id": "bey-239",
+      "id": "bey-242",
       "code": "BX-34",
       "displayCode": "BX-34",
       "variantNo": "01",
@@ -8268,7 +8367,7 @@
       ]
     },
     {
-      "id": "bey-240",
+      "id": "bey-243",
       "code": "BX-33",
       "displayCode": "BX-33",
       "variantNo": "01",
@@ -8301,7 +8400,7 @@
       ]
     },
     {
-      "id": "bey-241",
+      "id": "bey-244",
       "code": "BXC-03",
       "displayCode": "BXC-03",
       "variantNo": "01",
@@ -8333,7 +8432,7 @@
       ]
     },
     {
-      "id": "bey-242",
+      "id": "bey-245",
       "code": "BXH-09",
       "displayCode": "BXH-09",
       "variantNo": "01",
@@ -8366,7 +8465,7 @@
       ]
     },
     {
-      "id": "bey-243",
+      "id": "bey-246",
       "code": "UX-05",
       "displayCode": "UX-05-01",
       "variantNo": "01",
@@ -8400,7 +8499,7 @@
       ]
     },
     {
-      "id": "bey-244",
+      "id": "bey-247",
       "code": "UX-05",
       "displayCode": "UX-05-02",
       "variantNo": "02",
@@ -8434,7 +8533,7 @@
       ]
     },
     {
-      "id": "bey-245",
+      "id": "bey-248",
       "code": "UX-05",
       "displayCode": "UX-05-03",
       "variantNo": "03",
@@ -8468,7 +8567,7 @@
       ]
     },
     {
-      "id": "bey-246",
+      "id": "bey-249",
       "code": "BXG-08",
       "displayCode": "BXG-08",
       "variantNo": "01",
@@ -8501,7 +8600,7 @@
       ]
     },
     {
-      "id": "bey-247",
+      "id": "bey-250",
       "code": "BX-31",
       "displayCode": "BX-31-01",
       "variantNo": "01",
@@ -8535,7 +8634,7 @@
       ]
     },
     {
-      "id": "bey-248",
+      "id": "bey-251",
       "code": "BX-31",
       "displayCode": "BX-31-02",
       "variantNo": "02",
@@ -8569,7 +8668,7 @@
       ]
     },
     {
-      "id": "bey-249",
+      "id": "bey-252",
       "code": "BX-31",
       "displayCode": "BX-31-03",
       "variantNo": "03",
@@ -8603,7 +8702,7 @@
       ]
     },
     {
-      "id": "bey-250",
+      "id": "bey-253",
       "code": "BX-31",
       "displayCode": "BX-31-04",
       "variantNo": "04",
@@ -8637,7 +8736,7 @@
       ]
     },
     {
-      "id": "bey-251",
+      "id": "bey-254",
       "code": "BX-31",
       "displayCode": "BX-31-05",
       "variantNo": "05",
@@ -8671,7 +8770,7 @@
       ]
     },
     {
-      "id": "bey-252",
+      "id": "bey-255",
       "code": "BX-31",
       "displayCode": "BX-31-06",
       "variantNo": "06",
@@ -8705,7 +8804,7 @@
       ]
     },
     {
-      "id": "bey-253",
+      "id": "bey-256",
       "code": "BXG-04",
       "displayCode": "BXG-04",
       "variantNo": "01",
@@ -8738,7 +8837,7 @@
       ]
     },
     {
-      "id": "bey-254",
+      "id": "bey-257",
       "code": "UX-04",
       "displayCode": "UX-04-01",
       "variantNo": "01",
@@ -8772,7 +8871,7 @@
       ]
     },
     {
-      "id": "bey-255",
+      "id": "bey-258",
       "code": "UX-04",
       "displayCode": "UX-04-02",
       "variantNo": "02",
@@ -8806,7 +8905,7 @@
       ]
     },
     {
-      "id": "bey-256",
+      "id": "bey-259",
       "code": "UX-03",
       "displayCode": "UX-03",
       "variantNo": "01",
@@ -8839,7 +8938,7 @@
       ]
     },
     {
-      "id": "bey-257",
+      "id": "bey-260",
       "code": "UX-02",
       "displayCode": "UX-02",
       "variantNo": "01",
@@ -8872,7 +8971,7 @@
       ]
     },
     {
-      "id": "bey-258",
+      "id": "bey-261",
       "code": "UX-01",
       "displayCode": "UX-01",
       "variantNo": "01",
@@ -8905,7 +9004,7 @@
       ]
     },
     {
-      "id": "bey-259",
+      "id": "bey-262",
       "code": "BXG-06",
       "displayCode": "BXG-06",
       "variantNo": "01",
@@ -8938,7 +9037,7 @@
       ]
     },
     {
-      "id": "bey-260",
+      "id": "bey-263",
       "code": "BXG-05",
       "displayCode": "BXG-05",
       "variantNo": "01",
@@ -8971,7 +9070,7 @@
       ]
     },
     {
-      "id": "bey-261",
+      "id": "bey-264",
       "code": "BX-27",
       "displayCode": "BX-27-01",
       "variantNo": "01",
@@ -9005,7 +9104,7 @@
       ]
     },
     {
-      "id": "bey-262",
+      "id": "bey-265",
       "code": "BX-27",
       "displayCode": "BX-27-02",
       "variantNo": "02",
@@ -9039,7 +9138,7 @@
       ]
     },
     {
-      "id": "bey-263",
+      "id": "bey-266",
       "code": "BX-27",
       "displayCode": "BX-27-03",
       "variantNo": "03",
@@ -9073,7 +9172,7 @@
       ]
     },
     {
-      "id": "bey-264",
+      "id": "bey-267",
       "code": "BXA-01",
       "displayCode": "BXA-01",
       "variantNo": "01",
@@ -9106,7 +9205,7 @@
       ]
     },
     {
-      "id": "bey-265",
+      "id": "bey-268",
       "code": "BX-26",
       "displayCode": "BX-26",
       "variantNo": "01",
@@ -9139,7 +9238,7 @@
       ]
     },
     {
-      "id": "bey-266",
+      "id": "bey-269",
       "code": "BXC-02",
       "displayCode": "BXC-02",
       "variantNo": "01",
@@ -9172,7 +9271,7 @@
       ]
     },
     {
-      "id": "bey-267",
+      "id": "bey-270",
       "code": "BX-24",
       "displayCode": "BX-24-01",
       "variantNo": "01",
@@ -9206,7 +9305,7 @@
       ]
     },
     {
-      "id": "bey-268",
+      "id": "bey-271",
       "code": "BX-24",
       "displayCode": "BX-24-02",
       "variantNo": "02",
@@ -9240,7 +9339,7 @@
       ]
     },
     {
-      "id": "bey-269",
+      "id": "bey-272",
       "code": "BX-24",
       "displayCode": "BX-24-03",
       "variantNo": "03",
@@ -9274,7 +9373,7 @@
       ]
     },
     {
-      "id": "bey-270",
+      "id": "bey-273",
       "code": "BX-24",
       "displayCode": "BX-24-04",
       "variantNo": "04",
@@ -9308,7 +9407,7 @@
       ]
     },
     {
-      "id": "bey-271",
+      "id": "bey-274",
       "code": "BX-24",
       "displayCode": "BX-24-05",
       "variantNo": "05",
@@ -9342,7 +9441,7 @@
       ]
     },
     {
-      "id": "bey-272",
+      "id": "bey-275",
       "code": "BX-24",
       "displayCode": "BX-24-06",
       "variantNo": "06",
@@ -9376,7 +9475,7 @@
       ]
     },
     {
-      "id": "bey-273",
+      "id": "bey-276",
       "code": "BX-23",
       "displayCode": "BX-23",
       "variantNo": "01",
@@ -9409,7 +9508,7 @@
       ]
     },
     {
-      "id": "bey-274",
+      "id": "bey-277",
       "code": "BXC-01",
       "displayCode": "BXC-01",
       "variantNo": "01",
@@ -9441,7 +9540,7 @@
       ]
     },
     {
-      "id": "bey-275",
+      "id": "bey-278",
       "code": "BXH-04",
       "displayCode": "BXH-04-01",
       "variantNo": "01",
@@ -9475,7 +9574,7 @@
       ]
     },
     {
-      "id": "bey-276",
+      "id": "bey-279",
       "code": "BXH-04",
       "displayCode": "BXH-04-02",
       "variantNo": "02",
@@ -9509,7 +9608,7 @@
       ]
     },
     {
-      "id": "bey-277",
+      "id": "bey-280",
       "code": "BXH-04",
       "displayCode": "BXH-04-03",
       "variantNo": "03",
@@ -9543,7 +9642,7 @@
       ]
     },
     {
-      "id": "bey-278",
+      "id": "bey-281",
       "code": "BX-22",
       "displayCode": "BX-22",
       "variantNo": "01",
@@ -9576,7 +9675,7 @@
       ]
     },
     {
-      "id": "bey-279",
+      "id": "bey-282",
       "code": "BX-21",
       "displayCode": "BX-21-01",
       "variantNo": "01",
@@ -9610,7 +9709,7 @@
       ]
     },
     {
-      "id": "bey-280",
+      "id": "bey-283",
       "code": "BX-21",
       "displayCode": "BX-21-02",
       "variantNo": "02",
@@ -9644,7 +9743,7 @@
       ]
     },
     {
-      "id": "bey-281",
+      "id": "bey-284",
       "code": "BX-21",
       "displayCode": "BX-21-03",
       "variantNo": "03",
@@ -9678,7 +9777,7 @@
       ]
     },
     {
-      "id": "bey-282",
+      "id": "bey-285",
       "code": "BX-20",
       "displayCode": "BX-20-01",
       "variantNo": "01",
@@ -9712,7 +9811,7 @@
       ]
     },
     {
-      "id": "bey-283",
+      "id": "bey-286",
       "code": "BX-20",
       "displayCode": "BX-20-02",
       "variantNo": "02",
@@ -9746,7 +9845,7 @@
       ]
     },
     {
-      "id": "bey-284",
+      "id": "bey-287",
       "code": "BX-20",
       "displayCode": "BX-20-03",
       "variantNo": "03",
@@ -9780,7 +9879,7 @@
       ]
     },
     {
-      "id": "bey-285",
+      "id": "bey-288",
       "code": "BX-19",
       "displayCode": "BX-19",
       "variantNo": "01",
@@ -9813,7 +9912,7 @@
       ]
     },
     {
-      "id": "bey-286",
+      "id": "bey-289",
       "code": "BX-17",
       "displayCode": "BX-17-01",
       "variantNo": "01",
@@ -9847,7 +9946,7 @@
       ]
     },
     {
-      "id": "bey-287",
+      "id": "bey-290",
       "code": "BX-17",
       "displayCode": "BX-17-02",
       "variantNo": "02",
@@ -9881,7 +9980,7 @@
       ]
     },
     {
-      "id": "bey-288",
+      "id": "bey-291",
       "code": "BX-16",
       "displayCode": "BX-16-01",
       "variantNo": "01",
@@ -9915,7 +10014,7 @@
       ]
     },
     {
-      "id": "bey-289",
+      "id": "bey-292",
       "code": "BX-16",
       "displayCode": "BX-16-02",
       "variantNo": "02",
@@ -9949,7 +10048,7 @@
       ]
     },
     {
-      "id": "bey-290",
+      "id": "bey-293",
       "code": "BX-16",
       "displayCode": "BX-16-03",
       "variantNo": "03",
@@ -9983,7 +10082,7 @@
       ]
     },
     {
-      "id": "bey-291",
+      "id": "bey-294",
       "code": "BX-15",
       "displayCode": "BX-15",
       "variantNo": "01",
@@ -10016,7 +10115,7 @@
       ]
     },
     {
-      "id": "bey-292",
+      "id": "bey-295",
       "code": "BXG-03",
       "displayCode": "BXG-03",
       "variantNo": "01",
@@ -10049,7 +10148,7 @@
       ]
     },
     {
-      "id": "bey-293",
+      "id": "bey-296",
       "code": "BXH-01",
       "displayCode": "BXH-01",
       "variantNo": "01",
@@ -10082,7 +10181,7 @@
       ]
     },
     {
-      "id": "bey-294",
+      "id": "bey-297",
       "code": "BX-14",
       "displayCode": "BX-14-01",
       "variantNo": "01",
@@ -10116,7 +10215,7 @@
       ]
     },
     {
-      "id": "bey-295",
+      "id": "bey-298",
       "code": "BX-14",
       "displayCode": "BX-14-02",
       "variantNo": "02",
@@ -10150,7 +10249,7 @@
       ]
     },
     {
-      "id": "bey-296",
+      "id": "bey-299",
       "code": "BX-14",
       "displayCode": "BX-14-03",
       "variantNo": "03",
@@ -10184,7 +10283,7 @@
       ]
     },
     {
-      "id": "bey-297",
+      "id": "bey-300",
       "code": "BX-14",
       "displayCode": "BX-14-04",
       "variantNo": "04",
@@ -10218,7 +10317,7 @@
       ]
     },
     {
-      "id": "bey-298",
+      "id": "bey-301",
       "code": "BX-14",
       "displayCode": "BX-14-05",
       "variantNo": "05",
@@ -10252,7 +10351,7 @@
       ]
     },
     {
-      "id": "bey-299",
+      "id": "bey-302",
       "code": "BX-14",
       "displayCode": "BX-14-06",
       "variantNo": "06",
@@ -10286,7 +10385,7 @@
       ]
     },
     {
-      "id": "bey-300",
+      "id": "bey-303",
       "code": "BX-13",
       "displayCode": "BX-13",
       "variantNo": "01",
@@ -10319,7 +10418,7 @@
       ]
     },
     {
-      "id": "bey-301",
+      "id": "bey-304",
       "code": "BXH-02",
       "displayCode": "BXH-02",
       "variantNo": "01",
@@ -10352,7 +10451,7 @@
       ]
     },
     {
-      "id": "bey-302",
+      "id": "bey-305",
       "code": "BXG-01",
       "displayCode": "BXG-01",
       "variantNo": "01",
@@ -10385,7 +10484,7 @@
       ]
     },
     {
-      "id": "bey-303",
+      "id": "bey-306",
       "code": "BX-08",
       "displayCode": "BX-08-01",
       "variantNo": "01",
@@ -10419,7 +10518,7 @@
       ]
     },
     {
-      "id": "bey-304",
+      "id": "bey-307",
       "code": "BX-08",
       "displayCode": "BX-08-02",
       "variantNo": "02",
@@ -10453,7 +10552,7 @@
       ]
     },
     {
-      "id": "bey-305",
+      "id": "bey-308",
       "code": "BX-08",
       "displayCode": "BX-08-03",
       "variantNo": "03",
@@ -10487,7 +10586,7 @@
       ]
     },
     {
-      "id": "bey-306",
+      "id": "bey-309",
       "code": "BX-07",
       "displayCode": "BX-07",
       "variantNo": "01",
@@ -10520,7 +10619,7 @@
       ]
     },
     {
-      "id": "bey-307",
+      "id": "bey-310",
       "code": "BX-06",
       "displayCode": "BX-06",
       "variantNo": "01",
@@ -10553,7 +10652,7 @@
       ]
     },
     {
-      "id": "bey-308",
+      "id": "bey-311",
       "code": "BX-05",
       "displayCode": "BX-05",
       "variantNo": "01",
@@ -10586,7 +10685,7 @@
       ]
     },
     {
-      "id": "bey-309",
+      "id": "bey-312",
       "code": "BX-04",
       "displayCode": "BX-04",
       "variantNo": "01",
@@ -10619,7 +10718,7 @@
       ]
     },
     {
-      "id": "bey-310",
+      "id": "bey-313",
       "code": "BX-03",
       "displayCode": "BX-03",
       "variantNo": "01",
@@ -10652,7 +10751,7 @@
       ]
     },
     {
-      "id": "bey-311",
+      "id": "bey-314",
       "code": "BX-02",
       "displayCode": "BX-02",
       "variantNo": "01",
@@ -10685,7 +10784,7 @@
       ]
     },
     {
-      "id": "bey-312",
+      "id": "bey-315",
       "code": "BX-01",
       "displayCode": "BX-01",
       "variantNo": "01",

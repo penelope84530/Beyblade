@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-22T02:43:04.738Z",
+  "generatedAt": "2026-09-23T02:43:08.099Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
-    "total": 312,
+    "total": 315,
     "arMainTotal": 5,
     "lines": {
-      "BX": 222,
+      "BX": 225,
       "CX": 43,
       "UX": 47
     }
@@ -140,11 +140,13 @@
         "bladeRaw": [],
         "bladeMain": 29.5,
         "bladeMainRaw": [
-          29.5
+          29.5,
+          511
         ],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          410
         ],
         "bit": 3.5,
         "bitRaw": [
@@ -279,11 +281,13 @@
         "bladeRaw": [],
         "bladeMain": 29.5,
         "bladeMainRaw": [
-          29.5
+          29.5,
+          511
         ],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          410
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -418,11 +422,13 @@
         "bladeRaw": [],
         "bladeMain": 29.5,
         "bladeMainRaw": [
-          29.5
+          29.5,
+          511
         ],
         "ratchet": 4.5,
         "ratchetRaw": [
-          4.5
+          4.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -561,11 +567,13 @@
         "bladeRaw": [],
         "bladeMain": 29.5,
         "bladeMainRaw": [
-          29.5
+          29.5,
+          511
         ],
         "ratchet": 4.5,
         "ratchetRaw": [
-          4.5
+          4.5,
+          390
         ],
         "bit": 2,
         "bitRaw": [
@@ -700,11 +708,13 @@
         "bladeRaw": [],
         "bladeMain": 29.5,
         "bladeMainRaw": [
-          29.5
+          29.5,
+          511
         ],
         "ratchet": 4.5,
         "ratchetRaw": [
-          4.5
+          4.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -838,11 +848,13 @@
         "bladeRaw": [],
         "bladeMain": 31.5,
         "bladeMainRaw": [
-          31.5
+          31.5,
+          493
         ],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -1123,7 +1135,8 @@
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -1220,7 +1233,8 @@
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -1316,13 +1330,15 @@
       "stats": {
         "blade": 38.5,
         "bladeRaw": [
-          38.5
+          38.5,
+          510
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -1421,7 +1437,8 @@
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": null,
         "bitRaw": [
@@ -1570,11 +1587,13 @@
         "bladeRaw": [],
         "bladeMain": 32.5,
         "bladeMainRaw": [
-          32.5
+          32.5,
+          500
         ],
         "ratchet": 5.5,
         "ratchetRaw": [
-          5.5
+          5.5,
+          432
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -1722,7 +1741,8 @@
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -1868,7 +1888,8 @@
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -2014,7 +2035,8 @@
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -2436,7 +2458,8 @@
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -2694,11 +2717,13 @@
         "bladeRaw": [],
         "bladeMain": 29.5,
         "bladeMainRaw": [
-          29.5
+          29.5,
+          511
         ],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          410
         ],
         "bit": 3.5,
         "bitRaw": [
@@ -2836,11 +2861,13 @@
         "bladeRaw": [],
         "bladeMain": 31.5,
         "bladeMainRaw": [
-          31.5
+          31.5,
+          530
         ],
         "ratchet": 6,
         "ratchetRaw": [
-          6
+          6,
+          432
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -2979,11 +3006,13 @@
         "bladeRaw": [],
         "bladeMain": 30.5,
         "bladeMainRaw": [
-          30.5
+          30.5,
+          510
         ],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          410
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -3074,7 +3103,8 @@
       "stats": {
         "blade": 43.5,
         "bladeRaw": [
-          43.5
+          43.5,
+          514
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
@@ -3087,13 +3117,13 @@
     },
     {
       "id": "bey-21",
-      "code": "BXC-?1",
-      "variantCode": "BXC-?1",
+      "code": "BXC-20",
+      "variantCode": "BXC-20",
       "variantNo": "01",
       "hasVariants": false,
-      "displayCode": "BXC-?1",
-      "normalizedVariantCode": "BXC1",
-      "normalizedCode": "BXC1",
+      "displayCode": "BXC-20",
+      "normalizedVariantCode": "BXC20",
+      "normalizedCode": "BXC20",
       "line": "BX",
       "productType": "Lm H",
       "comboRaw": "ClMr 4-55 S",
@@ -3135,7 +3165,7 @@
       "formalName": "ClockMirage 4-55 Spike",
       "formalAlias": "時鐘幽景 時鐘幻象 4-55 S",
       "searchTokens": [
-        "BXC-?1",
+        "BXC-20",
         "ClMr 4-55 S",
         "ClMr",
         "ClockMirage 4-55 Spike",
@@ -3168,13 +3198,15 @@
       "stats": {
         "blade": 37.5,
         "bladeRaw": [
-          37.5
+          37.5,
+          520
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 4.5,
         "ratchetRaw": [
-          4.5
+          4.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -3269,7 +3301,8 @@
       "stats": {
         "blade": 42.5,
         "bladeRaw": [
-          42.5
+          42.5,
+          498
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
@@ -3364,13 +3397,15 @@
       "stats": {
         "blade": 37,
         "bladeRaw": [
-          37
+          37,
+          492
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          390
         ],
         "bit": 2,
         "bitRaw": [
@@ -3465,13 +3500,15 @@
       "stats": {
         "blade": 35,
         "bladeRaw": [
-          35
+          35,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 8.5,
         "ratchetRaw": [
-          8.5
+          8.5,
+          429
         ],
         "bit": 2,
         "bitRaw": [
@@ -3558,13 +3595,15 @@
       "stats": {
         "blade": 37.5,
         "bladeRaw": [
-          37.5
+          37.5,
+          489
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -3657,7 +3696,8 @@
       "stats": {
         "blade": 43.5,
         "bladeRaw": [
-          43.5
+          43.5,
+          514
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
@@ -3752,13 +3792,15 @@
       "stats": {
         "blade": 37.5,
         "bladeRaw": [
-          37.5
+          37.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7.5,
         "ratchetRaw": [
-          7.5
+          7.5,
+          410
         ],
         "bit": 3.5,
         "bitRaw": [
@@ -3851,13 +3893,15 @@
       "stats": {
         "blade": 37.5,
         "bladeRaw": [
-          37.5
+          37.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -3951,13 +3995,15 @@
       "stats": {
         "blade": 38.5,
         "bladeRaw": [
-          38.5
+          38.5,
+          509
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 5.5,
         "ratchetRaw": [
-          5.5
+          5.5,
+          414
         ],
         "bit": 2,
         "bitRaw": [
@@ -4050,14 +4096,15 @@
       "stats": {
         "blade": 26.5,
         "bladeRaw": [
-          26.5
+          26.5,
+          453
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 10.5,
         "ratchetRaw": [
           10.5,
-          5,
+          404,
           85
         ],
         "bit": 3.5,
@@ -4199,11 +4246,13 @@
         "bladeRaw": [],
         "bladeMain": 29,
         "bladeMainRaw": [
-          29
+          29,
+          510
         ],
         "ratchet": 4.5,
         "ratchetRaw": [
-          4.5
+          4.5,
+          390
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -4340,11 +4389,13 @@
         "bladeRaw": [],
         "bladeMain": 29,
         "bladeMainRaw": [
-          29
+          29,
+          510
         ],
         "ratchet": 7.5,
         "ratchetRaw": [
-          7.5
+          7.5,
+          410
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -4434,13 +4485,15 @@
       "stats": {
         "blade": 31.5,
         "bladeRaw": [
-          31.5
+          31.5,
+          481
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 3,
         "bitRaw": [
@@ -4572,11 +4625,13 @@
         "bladeRaw": [],
         "bladeMain": 31.5,
         "bladeMainRaw": [
-          31.5
+          31.5,
+          530
         ],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -4711,11 +4766,13 @@
         "bladeRaw": [],
         "bladeMain": 29,
         "bladeMainRaw": [
-          29
+          29,
+          511
         ],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          414
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -4850,11 +4907,13 @@
         "bladeRaw": [],
         "bladeMain": 29.5,
         "bladeMainRaw": [
-          29.5
+          29.5,
+          510
         ],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -4989,11 +5048,13 @@
         "bladeRaw": [],
         "bladeMain": 29,
         "bladeMainRaw": [
-          29
+          29,
+          510
         ],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          410
         ],
         "bit": 2,
         "bitRaw": [
@@ -5144,7 +5205,8 @@
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -5293,7 +5355,8 @@
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -5442,7 +5505,8 @@
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -5533,13 +5597,15 @@
       "stats": {
         "blade": 36.5,
         "bladeRaw": [
-          36.5
+          36.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -5686,7 +5752,8 @@
         "bladeMainRaw": [],
         "ratchet": 4.5,
         "ratchetRaw": [
-          4.5
+          4.5,
+          400
         ],
         "bit": 4.5,
         "bitRaw": [
@@ -5820,11 +5887,13 @@
         "bladeRaw": [],
         "bladeMain": 31.5,
         "bladeMainRaw": [
-          31.5
+          31.5,
+          530
         ],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -5959,11 +6028,13 @@
         "bladeRaw": [],
         "bladeMain": 29.5,
         "bladeMainRaw": [
-          29.5
+          29.5,
+          511
         ],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          410
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -6053,13 +6124,15 @@
       "stats": {
         "blade": 41.5,
         "bladeRaw": [
-          41.5
+          41.5,
+          503
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6,
         "ratchetRaw": [
-          6
+          6,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -6151,13 +6224,15 @@
       "stats": {
         "blade": 41.5,
         "bladeRaw": [
-          41.5
+          41.5,
+          503
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6,
         "ratchetRaw": [
-          6
+          6,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -6249,13 +6324,15 @@
       "stats": {
         "blade": 41.5,
         "bladeRaw": [
-          41.5
+          41.5,
+          503
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6,
         "ratchetRaw": [
-          6
+          6,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -6347,13 +6424,15 @@
       "stats": {
         "blade": 41.5,
         "bladeRaw": [
-          41.5
+          41.5,
+          503
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6,
         "ratchetRaw": [
-          6
+          6,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -6502,7 +6581,8 @@
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -6649,7 +6729,8 @@
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          432
         ],
         "bit": 2,
         "bitRaw": [
@@ -6742,13 +6823,15 @@
       "stats": {
         "blade": 36.5,
         "bladeRaw": [
-          36.5
+          36.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 4.5,
         "ratchetRaw": [
-          4.5
+          4.5,
+          390
         ],
         "bit": 2,
         "bitRaw": [
@@ -6841,13 +6924,15 @@
       "stats": {
         "blade": 33.5,
         "bladeRaw": [
-          33.5
+          33.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 4.5,
         "ratchetRaw": [
-          4.5
+          4.5,
+          390
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -6940,13 +7025,15 @@
       "stats": {
         "blade": 37,
         "bladeRaw": [
-          37
+          37,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -7040,13 +7127,15 @@
       "stats": {
         "blade": 35,
         "bladeRaw": [
-          35
+          35,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7.5,
         "ratchetRaw": [
-          7.5
+          7.5,
+          414
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -7135,13 +7224,15 @@
       "stats": {
         "blade": 39.5,
         "bladeRaw": [
-          39.5
+          39.5,
+          500
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          410
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -7231,7 +7322,8 @@
       "stats": {
         "blade": 60.5,
         "bladeRaw": [
-          60.5
+          60.5,
+          520
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
@@ -7331,7 +7423,8 @@
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -7432,7 +7525,8 @@
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -7535,7 +7629,8 @@
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -7636,7 +7731,8 @@
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -7735,7 +7831,8 @@
         "bladeMainRaw": [],
         "ratchet": 6,
         "ratchetRaw": [
-          6
+          6,
+          432
         ],
         "bit": 2,
         "bitRaw": [
@@ -7834,7 +7931,8 @@
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          390
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -7933,7 +8031,8 @@
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -8034,7 +8133,8 @@
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          432
         ],
         "bit": 2,
         "bitRaw": [
@@ -8126,13 +8226,15 @@
       "stats": {
         "blade": 31,
         "bladeRaw": [
-          31
+          31,
+          488
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          410
         ],
         "bit": 3.5,
         "bitRaw": [
@@ -8281,11 +8383,13 @@
         "bladeRaw": [],
         "bladeMain": 32.5,
         "bladeMainRaw": [
-          32.5
+          32.5,
+          500
         ],
         "ratchet": 5.5,
         "ratchetRaw": [
-          5.5
+          5.5,
+          432
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -8432,7 +8536,8 @@
         "bladeMainRaw": [],
         "ratchet": 4.5,
         "ratchetRaw": [
-          4.5
+          4.5,
+          400
         ],
         "bit": 4.5,
         "bitRaw": [
@@ -8578,11 +8683,13 @@
         "bladeRaw": [],
         "bladeMain": 31,
         "bladeMainRaw": [
-          31
+          31,
+          500
         ],
         "ratchet": 7.5,
         "ratchetRaw": [
-          7.5
+          7.5,
+          429
         ],
         "bit": 2,
         "bitRaw": [
@@ -8729,11 +8836,13 @@
         "bladeRaw": [],
         "bladeMain": 32.5,
         "bladeMainRaw": [
-          32.5
+          32.5,
+          500
         ],
         "ratchet": 5.5,
         "ratchetRaw": [
-          5.5
+          5.5,
+          432
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -8828,13 +8937,15 @@
       "stats": {
         "blade": 35,
         "bladeRaw": [
-          35
+          35,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -8929,13 +9040,15 @@
       "stats": {
         "blade": 35,
         "bladeRaw": [
-          35
+          35,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -9028,13 +9141,15 @@
       "stats": {
         "blade": 33.5,
         "bladeRaw": [
-          33.5
+          33.5,
+          483
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -9125,13 +9240,15 @@
       "stats": {
         "blade": 33,
         "bladeRaw": [
-          33
+          33,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -9222,13 +9339,15 @@
       "stats": {
         "blade": 31.5,
         "bladeRaw": [
-          31.5
+          31.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7.5,
         "ratchetRaw": [
-          7.5
+          7.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -9321,13 +9440,15 @@
       "stats": {
         "blade": 37.5,
         "bladeRaw": [
-          37.5
+          37.5,
+          500
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          390
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -9421,13 +9542,15 @@
       "stats": {
         "blade": 35,
         "bladeRaw": [
-          35
+          35,
+          489
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6,
         "ratchetRaw": [
-          6
+          6,
+          432
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -9516,13 +9639,15 @@
       "stats": {
         "blade": 38,
         "bladeRaw": [
-          38
+          38,
+          498
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          432
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -9612,13 +9737,15 @@
       "stats": {
         "blade": 38.5,
         "bladeRaw": [
-          38.5
+          38.5,
+          510
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -9707,7 +9834,8 @@
       "stats": {
         "blade": 35,
         "bladeRaw": [
-          35
+          35,
+          489
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
@@ -9805,13 +9933,15 @@
       "stats": {
         "blade": 37.5,
         "bladeRaw": [
-          37.5
+          37.5,
+          500
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          390
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -9906,13 +10036,15 @@
       "stats": {
         "blade": 34.5,
         "bladeRaw": [
-          34.5
+          34.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 3.5,
         "bitRaw": [
@@ -10007,13 +10139,15 @@
       "stats": {
         "blade": 32.5,
         "bladeRaw": [
-          32.5
+          32.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          414
         ],
         "bit": 2,
         "bitRaw": [
@@ -10108,13 +10242,15 @@
       "stats": {
         "blade": 32.5,
         "bladeRaw": [
-          32.5
+          32.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 4.5,
         "ratchetRaw": [
-          4.5
+          4.5,
+          390
         ],
         "bit": 2,
         "bitRaw": [
@@ -10207,13 +10343,15 @@
       "stats": {
         "blade": 36.5,
         "bladeRaw": [
-          36.5
+          36.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          410
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -10304,13 +10442,15 @@
       "stats": {
         "blade": 36.5,
         "bladeRaw": [
-          36.5
+          36.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          410
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -10445,11 +10585,13 @@
         "bladeRaw": [],
         "bladeMain": 31,
         "bladeMainRaw": [
-          31
+          31,
+          500
         ],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          390
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -10818,13 +10960,15 @@
       "stats": {
         "blade": 25.5,
         "bladeRaw": [
-          25.5
+          25.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 3,
         "bitRaw": [
@@ -10921,13 +11065,15 @@
       "stats": {
         "blade": 37.5,
         "bladeRaw": [
-          37.5
+          37.5,
+          512
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 5.5,
         "ratchetRaw": [
-          5.5
+          5.5,
+          414
         ],
         "bit": 2,
         "bitRaw": [
@@ -11022,13 +11168,15 @@
       "stats": {
         "blade": 37.5,
         "bladeRaw": [
-          37.5
+          37.5,
+          512
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -11169,11 +11317,13 @@
         "bladeRaw": [],
         "bladeMain": 30.5,
         "bladeMainRaw": [
-          30.5
+          30.5,
+          510
         ],
         "ratchet": 4.5,
         "ratchetRaw": [
-          4.5
+          4.5,
+          390
         ],
         "bit": 2,
         "bitRaw": [
@@ -11309,11 +11459,13 @@
         "bladeRaw": [],
         "bladeMain": 31.5,
         "bladeMainRaw": [
-          31.5
+          31.5,
+          530
         ],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          390
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -11408,13 +11560,15 @@
       "stats": {
         "blade": 35,
         "bladeRaw": [
-          35
+          35,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 5.5,
         "ratchetRaw": [
-          5.5
+          5.5,
+          414
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -11508,13 +11662,15 @@
       "stats": {
         "blade": 34.5,
         "bladeRaw": [
-          34.5
+          34.5,
+          489
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -11607,13 +11763,15 @@
       "stats": {
         "blade": 39,
         "bladeRaw": [
-          39
+          39,
+          499
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -11702,13 +11860,15 @@
       "stats": {
         "blade": 34.5,
         "bladeRaw": [
-          34.5
+          34.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          410
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -12167,13 +12327,15 @@
       "stats": {
         "blade": 36.5,
         "bladeRaw": [
-          36.5
+          36.5,
+          492
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -12306,11 +12468,13 @@
         "bladeRaw": [],
         "bladeMain": 30.5,
         "bladeMainRaw": [
-          30.5
+          30.5,
+          500
         ],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -12538,7 +12702,8 @@
         "bladeRaw": [],
         "bladeMain": 33.5,
         "bladeMainRaw": [
-          33.5
+          33.5,
+          500
         ],
         "ratchet": null,
         "ratchetRaw": [],
@@ -12628,13 +12793,15 @@
       "stats": {
         "blade": 30,
         "bladeRaw": [
-          30
+          30,
+          500
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -12727,14 +12894,15 @@
       "stats": {
         "blade": 34,
         "bladeRaw": [
-          34
+          34,
+          484
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 10.5,
         "ratchetRaw": [
           10.5,
-          5,
+          404,
           85
         ],
         "bit": 2.5,
@@ -12867,11 +13035,13 @@
         "bladeRaw": [],
         "bladeMain": 31.5,
         "bladeMainRaw": [
-          31.5
+          31.5,
+          493
         ],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          410
         ],
         "bit": 3.5,
         "bitRaw": [
@@ -12962,13 +13132,15 @@
       "stats": {
         "blade": 35,
         "bladeRaw": [
-          35
+          35,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          410
         ],
         "bit": 2,
         "bitRaw": [
@@ -13059,13 +13231,15 @@
       "stats": {
         "blade": 35,
         "bladeRaw": [
-          35
+          35,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          410
         ],
         "bit": 2,
         "bitRaw": [
@@ -13164,13 +13338,15 @@
       "stats": {
         "blade": 37.5,
         "bladeRaw": [
-          37.5
+          37.5,
+          520
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 4.5,
         "ratchetRaw": [
-          4.5
+          4.5,
+          390
         ],
         "bit": 2,
         "bitRaw": [
@@ -13269,13 +13445,15 @@
       "stats": {
         "blade": 37.5,
         "bladeRaw": [
-          37.5
+          37.5,
+          520
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 4.5,
         "ratchetRaw": [
-          4.5
+          4.5,
+          390
         ],
         "bit": 2,
         "bitRaw": [
@@ -13374,13 +13552,15 @@
       "stats": {
         "blade": 37.5,
         "bladeRaw": [
-          37.5
+          37.5,
+          520
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 4.5,
         "ratchetRaw": [
-          4.5
+          4.5,
+          390
         ],
         "bit": 2,
         "bitRaw": [
@@ -13478,13 +13658,15 @@
       "stats": {
         "blade": 37.5,
         "bladeRaw": [
-          37.5
+          37.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          390
         ],
         "bit": 2,
         "bitRaw": [
@@ -13579,13 +13761,15 @@
       "stats": {
         "blade": 31.5,
         "bladeRaw": [
-          31.5
+          31.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7.5,
         "ratchetRaw": [
-          7.5
+          7.5,
+          414
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -13719,11 +13903,13 @@
         "bladeRaw": [],
         "bladeMain": 32.5,
         "bladeMainRaw": [
-          32.5
+          32.5,
+          497
         ],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -13814,13 +14000,15 @@
       "stats": {
         "blade": 37.5,
         "bladeRaw": [
-          37.5
+          37.5,
+          511
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6,
         "ratchetRaw": [
-          6
+          6,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -13913,13 +14101,15 @@
       "stats": {
         "blade": 36,
         "bladeRaw": [
-          36
+          36,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6,
         "ratchetRaw": [
-          6
+          6,
+          432
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -14055,11 +14245,13 @@
         "bladeRaw": [],
         "bladeMain": 31.5,
         "bladeMainRaw": [
-          31.5
+          31.5,
+          530
         ],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -14148,13 +14340,15 @@
       "stats": {
         "blade": 35.5,
         "bladeRaw": [
-          35.5
+          35.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 3.5,
         "bitRaw": [
@@ -14289,11 +14483,13 @@
         "bladeRaw": [],
         "bladeMain": 29.5,
         "bladeMainRaw": [
-          29.5
+          29.5,
+          511
         ],
         "ratchet": 4.5,
         "ratchetRaw": [
-          4.5
+          4.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -14425,7 +14621,8 @@
         "bladeRaw": [],
         "bladeMain": 32.5,
         "bladeMainRaw": [
-          32.5
+          32.5,
+          500
         ],
         "ratchet": null,
         "ratchetRaw": [],
@@ -14512,13 +14709,15 @@
       "stats": {
         "blade": 29.5,
         "bladeRaw": [
-          29.5
+          29.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -14619,13 +14818,15 @@
       "stats": {
         "blade": 36,
         "bladeRaw": [
-          36
+          36,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 4.5,
         "ratchetRaw": [
-          4.5
+          4.5,
+          390
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -14722,13 +14923,15 @@
       "stats": {
         "blade": 34.5,
         "bladeRaw": [
-          34.5
+          34.5,
+          489
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 4.5,
         "ratchetRaw": [
-          4.5
+          4.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -14827,13 +15030,15 @@
       "stats": {
         "blade": 37,
         "bladeRaw": [
-          37
+          37,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          432
         ],
         "bit": 2,
         "bitRaw": [
@@ -14932,7 +15137,8 @@
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          390
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -15072,11 +15278,13 @@
         "bladeRaw": [],
         "bladeMain": 29,
         "bladeMainRaw": [
-          29
+          29,
+          510
         ],
         "ratchet": 7.5,
         "ratchetRaw": [
-          7.5
+          7.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -15216,11 +15424,13 @@
         "bladeRaw": [],
         "bladeMain": 29,
         "bladeMainRaw": [
-          29
+          29,
+          510
         ],
         "ratchet": 4.5,
         "ratchetRaw": [
-          4.5
+          4.5,
+          390
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -15357,11 +15567,13 @@
         "bladeRaw": [],
         "bladeMain": 30.5,
         "bladeMainRaw": [
-          30.5
+          30.5,
+          511
         ],
         "ratchet": 6,
         "ratchetRaw": [
-          6
+          6,
+          432
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -15454,13 +15666,15 @@
       "stats": {
         "blade": 36.5,
         "bladeRaw": [
-          36.5
+          36.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7.5,
         "ratchetRaw": [
-          7.5
+          7.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -15552,13 +15766,15 @@
       "stats": {
         "blade": 32.5,
         "bladeRaw": [
-          32.5
+          32.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7.5,
         "ratchetRaw": [
-          7.5
+          7.5,
+          414
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -15654,13 +15870,15 @@
       "stats": {
         "blade": 37.5,
         "bladeRaw": [
-          37.5
+          37.5,
+          500
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 4.5,
         "ratchetRaw": [
-          4.5
+          4.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -15796,7 +16014,8 @@
         "bladeRaw": [],
         "bladeMain": 32.5,
         "bladeMainRaw": [
-          32.5
+          32.5,
+          500
         ],
         "ratchet": null,
         "ratchetRaw": [],
@@ -15884,13 +16103,15 @@
       "stats": {
         "blade": 36.5,
         "bladeRaw": [
-          36.5
+          36.5,
+          477
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 4.5,
         "ratchetRaw": [
-          4.5
+          4.5,
+          390
         ],
         "bit": 2,
         "bitRaw": [
@@ -16023,11 +16244,13 @@
         "bladeRaw": [],
         "bladeMain": 31.5,
         "bladeMainRaw": [
-          31.5
+          31.5,
+          520
         ],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -16217,14 +16440,15 @@
       "stats": {
         "blade": 36.5,
         "bladeRaw": [
-          36.5
+          36.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 10.5,
         "ratchetRaw": [
           10.5,
-          5,
+          404,
           85
         ],
         "bit": 2,
@@ -16362,11 +16586,13 @@
         "bladeRaw": [],
         "bladeMain": 30.5,
         "bladeMainRaw": [
-          30.5
+          30.5,
+          510
         ],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          390
         ],
         "bit": 2,
         "bitRaw": [
@@ -16501,11 +16727,13 @@
         "bladeRaw": [],
         "bladeMain": 30.5,
         "bladeMainRaw": [
-          30.5
+          30.5,
+          510
         ],
         "ratchet": 7.5,
         "ratchetRaw": [
-          7.5
+          7.5,
+          410
         ],
         "bit": 3.5,
         "bitRaw": [
@@ -16642,11 +16870,13 @@
         "bladeRaw": [],
         "bladeMain": 30.5,
         "bladeMainRaw": [
-          30.5
+          30.5,
+          510
         ],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          410
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -16735,13 +16965,15 @@
       "stats": {
         "blade": 31.5,
         "bladeRaw": [
-          31.5
+          31.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -16842,7 +17074,8 @@
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -16945,7 +17178,8 @@
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -17048,7 +17282,8 @@
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -17151,7 +17386,8 @@
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -17289,11 +17525,13 @@
         "bladeRaw": [],
         "bladeMain": 31.5,
         "bladeMainRaw": [
-          31.5
+          31.5,
+          530
         ],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -17431,11 +17669,13 @@
         "bladeRaw": [],
         "bladeMain": 31.5,
         "bladeMainRaw": [
-          31.5
+          31.5,
+          530
         ],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -17573,11 +17813,13 @@
         "bladeRaw": [],
         "bladeMain": 31.5,
         "bladeMainRaw": [
-          31.5
+          31.5,
+          530
         ],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -17668,13 +17910,15 @@
       "stats": {
         "blade": 39.5,
         "bladeRaw": [
-          39.5
+          39.5,
+          500
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          410
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -17777,7 +18021,8 @@
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -17880,7 +18125,8 @@
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -17983,7 +18229,8 @@
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -18086,7 +18333,8 @@
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -18189,7 +18437,8 @@
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -18292,7 +18541,8 @@
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -18395,7 +18645,8 @@
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -18498,7 +18749,8 @@
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -18639,11 +18891,13 @@
         "bladeRaw": [],
         "bladeMain": 29,
         "bladeMainRaw": [
-          29
+          29,
+          510
         ],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -18784,11 +19038,13 @@
         "bladeRaw": [],
         "bladeMain": 29,
         "bladeMainRaw": [
-          29
+          29,
+          510
         ],
         "ratchet": 4.5,
         "ratchetRaw": [
-          4.5
+          4.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -18929,11 +19185,13 @@
         "bladeRaw": [],
         "bladeMain": 29.5,
         "bladeMainRaw": [
-          29.5
+          29.5,
+          511
         ],
         "ratchet": 4.5,
         "ratchetRaw": [
-          4.5
+          4.5,
+          390
         ],
         "bit": 2,
         "bitRaw": [
@@ -19028,13 +19286,15 @@
       "stats": {
         "blade": 35,
         "bladeRaw": [
-          35
+          35,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          390
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -19127,13 +19387,15 @@
       "stats": {
         "blade": 34.5,
         "bladeRaw": [
-          34.5
+          34.5,
+          489
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -19226,13 +19488,15 @@
       "stats": {
         "blade": 38,
         "bladeRaw": [
-          38
+          38,
+          498
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          414
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -19367,11 +19631,13 @@
         "bladeRaw": [],
         "bladeMain": 30.5,
         "bladeMainRaw": [
-          30.5
+          30.5,
+          511
         ],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -19461,13 +19727,15 @@
       "stats": {
         "blade": 30.5,
         "bladeRaw": [
-          30.5
+          30.5,
+          492
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -19603,11 +19871,13 @@
         "bladeRaw": [],
         "bladeMain": 31.5,
         "bladeMainRaw": [
-          31.5
+          31.5,
+          530
         ],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -19746,11 +20016,13 @@
         "bladeRaw": [],
         "bladeMain": 30.5,
         "bladeMainRaw": [
-          30.5
+          30.5,
+          511
         ],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -19885,11 +20157,13 @@
         "bladeRaw": [],
         "bladeMain": 30.5,
         "bladeMainRaw": [
-          30.5
+          30.5,
+          511
         ],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -20024,11 +20298,13 @@
         "bladeRaw": [],
         "bladeMain": 29.5,
         "bladeMainRaw": [
-          29.5
+          29.5,
+          511
         ],
         "ratchet": 4.5,
         "ratchetRaw": [
-          4.5
+          4.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -20160,11 +20436,13 @@
         "bladeRaw": [],
         "bladeMain": 31.5,
         "bladeMainRaw": [
-          31.5
+          31.5,
+          530
         ],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -20357,13 +20635,15 @@
       "stats": {
         "blade": 25.5,
         "bladeRaw": [
-          25.5
+          25.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 3,
         "bitRaw": [
@@ -20455,13 +20735,15 @@
       "stats": {
         "blade": 31.5,
         "bladeRaw": [
-          31.5
+          31.5,
+          481
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 3,
         "bitRaw": [
@@ -20553,13 +20835,15 @@
       "stats": {
         "blade": 33.5,
         "bladeRaw": [
-          33.5
+          33.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          410
         ],
         "bit": 3,
         "bitRaw": [
@@ -20652,13 +20936,15 @@
       "stats": {
         "blade": 35,
         "bladeRaw": [
-          35
+          35,
+          489
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -20750,13 +21036,15 @@
       "stats": {
         "blade": 38.5,
         "bladeRaw": [
-          38.5
+          38.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          390
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -20843,7 +21131,8 @@
       "stats": {
         "blade": 33.5,
         "bladeRaw": [
-          33.5
+          33.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
@@ -20938,13 +21227,15 @@
       "stats": {
         "blade": 32.5,
         "bladeRaw": [
-          32.5
+          32.5,
+          500
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7.5,
         "ratchetRaw": [
-          7.5
+          7.5,
+          414
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -21038,13 +21329,15 @@
       "stats": {
         "blade": 32.5,
         "bladeRaw": [
-          32.5
+          32.5,
+          500
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -21140,13 +21433,15 @@
       "stats": {
         "blade": 32.5,
         "bladeRaw": [
-          32.5
+          32.5,
+          500
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -21235,13 +21530,15 @@
       "stats": {
         "blade": 34,
         "bladeRaw": [
-          34
+          34,
+          484
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6,
         "ratchetRaw": [
-          6
+          6,
+          432
         ],
         "bit": 2,
         "bitRaw": [
@@ -21332,13 +21629,15 @@
       "stats": {
         "blade": 33.5,
         "bladeRaw": [
-          33.5
+          33.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -21431,13 +21730,15 @@
       "stats": {
         "blade": 36.5,
         "bladeRaw": [
-          36.5
+          36.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6,
         "ratchetRaw": [
-          6
+          6,
+          432
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -21528,13 +21829,15 @@
       "stats": {
         "blade": 33.5,
         "bladeRaw": [
-          33.5
+          33.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          410
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -21625,13 +21928,15 @@
       "stats": {
         "blade": 36.5,
         "bladeRaw": [
-          36.5
+          36.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6,
         "ratchetRaw": [
-          6
+          6,
+          432
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -21723,13 +22028,15 @@
       "stats": {
         "blade": 28.5,
         "bladeRaw": [
-          28.5
+          28.5,
+          500
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          414
         ],
         "bit": 2,
         "bitRaw": [
@@ -21824,13 +22131,15 @@
       "stats": {
         "blade": 26.5,
         "bladeRaw": [
-          26.5
+          26.5,
+          453
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7.5,
         "ratchetRaw": [
-          7.5
+          7.5,
+          410
         ],
         "bit": 2,
         "bitRaw": [
@@ -21923,13 +22232,15 @@
       "stats": {
         "blade": 26.5,
         "bladeRaw": [
-          26.5
+          26.5,
+          453
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -22024,13 +22335,15 @@
       "stats": {
         "blade": 28,
         "bladeRaw": [
-          28
+          28,
+          485
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -22125,13 +22438,15 @@
       "stats": {
         "blade": 31.5,
         "bladeRaw": [
-          31.5
+          31.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7.5,
         "ratchetRaw": [
-          7.5
+          7.5,
+          410
         ],
         "bit": 3.5,
         "bitRaw": [
@@ -22226,13 +22541,15 @@
       "stats": {
         "blade": 33.5,
         "bladeRaw": [
-          33.5
+          33.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          410
         ],
         "bit": 2,
         "bitRaw": [
@@ -22327,13 +22644,15 @@
       "stats": {
         "blade": 31.5,
         "bladeRaw": [
-          31.5
+          31.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7.5,
         "ratchetRaw": [
-          7.5
+          7.5,
+          410
         ],
         "bit": 2,
         "bitRaw": [
@@ -22423,13 +22742,15 @@
       "stats": {
         "blade": 38.5,
         "bladeRaw": [
-          38.5
+          38.5,
+          509
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          390
         ],
         "bit": 2,
         "bitRaw": [
@@ -22518,13 +22839,15 @@
       "stats": {
         "blade": 32.5,
         "bladeRaw": [
-          32.5
+          32.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          410
         ],
         "bit": 3.5,
         "bitRaw": [
@@ -22619,13 +22942,15 @@
       "stats": {
         "blade": 36.5,
         "bladeRaw": [
-          36.5
+          36.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6,
         "ratchetRaw": [
-          6
+          6,
+          432
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -22648,8 +22973,8 @@
       "normalizedCode": "BXG31",
       "line": "BX",
       "productType": "B H",
-      "comboRaw": "DrBs 1-60 A",
-      "bladeCode": "DrBs",
+      "comboRaw": "/ 1-60 A",
+      "bladeCode": "/",
       "ratchetCode": "1-60",
       "bitCode": "A",
       "cxChipCode": "",
@@ -22673,33 +22998,32 @@
       },
       "cxDisplayComponents": [],
       "cxUnknownTokens": [
-        "DrBs"
+        "/"
       ],
       "isCx": false,
       "isCxExpansion": false,
-      "videoId": "[object Object]",
+      "videoId": null,
       "meta": {},
       "names": {
-        "eng": "DranBuster 1-60 Accel",
-        "chi": "翔龍破壞劍 蒼龍爆刃 1-60 A",
-        "jap": "ドランバスター"
+        "eng": "/ 1-60 Accel",
+        "chi": "/ 1-60 A",
+        "jap": ""
       },
-      "formalName": "DranBuster 1-60 Accel",
-      "formalAlias": "翔龍破壞劍 蒼龍爆刃 1-60 A",
+      "formalName": "/ 1-60 Accel",
+      "formalAlias": "/ 1-60 A",
       "searchTokens": [
         "BXG-31",
-        "DrBs 1-60 A",
-        "DrBs",
-        "DranBuster 1-60 Accel",
-        "ドランバスター",
-        "翔龍破壞劍 蒼龍爆刃 1-60 A",
+        "/ 1-60 A",
+        "/",
+        "/ 1-60 Accel",
+        "/ 1-60 A",
         "BXG-31-02",
         "BXG3102",
         "BXG31-02",
         "BXG31 02"
       ],
       "images": {
-        "blade": "https://go-shoot.github.io/x/img/blade/DrBs.png",
+        "blade": "https://go-shoot.github.io/x/img/blade/%2F.png",
         "bladeMain": null,
         "ratchet": "https://go-shoot.github.io/x/img/ratchet/1-60.png",
         "bit": "https://go-shoot.github.io/x/img/bit/A.png",
@@ -22707,10 +23031,7 @@
       },
       "isArMain": false,
       "attributes": {
-        "blade": [
-          "att",
-          "right"
-        ],
+        "blade": [],
         "bladeMain": [],
         "ratchet": [],
         "bit": [
@@ -22718,15 +23039,14 @@
         ]
       },
       "stats": {
-        "blade": 36.5,
-        "bladeRaw": [
-          36.5
-        ],
+        "blade": null,
+        "bladeRaw": [],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6,
         "ratchetRaw": [
-          6
+          6,
+          432
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -22821,13 +23141,15 @@
       "stats": {
         "blade": 36.5,
         "bladeRaw": [
-          36.5
+          36.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6,
         "ratchetRaw": [
-          6
+          6,
+          432
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -22841,6 +23163,301 @@
     },
     {
       "id": "bey-200",
+      "code": "BXG-31",
+      "variantCode": "BXG-31-04",
+      "variantNo": "04",
+      "hasVariants": true,
+      "displayCode": "BXG-31-04",
+      "normalizedVariantCode": "BXG3104",
+      "normalizedCode": "BXG31",
+      "line": "BX",
+      "productType": "B H",
+      "comboRaw": "/ 1-60 A",
+      "bladeCode": "/",
+      "ratchetCode": "1-60",
+      "bitCode": "A",
+      "cxChipCode": "",
+      "cxMainCode": "",
+      "cxSuffixCode": "",
+      "cxComponents": {
+        "chip": "",
+        "main": "",
+        "assist": "",
+        "over": "",
+        "metal": "",
+        "hasbro": ""
+      },
+      "cxComponentsAll": {
+        "chip": [],
+        "main": [],
+        "assist": [],
+        "over": [],
+        "metal": [],
+        "hasbro": []
+      },
+      "cxDisplayComponents": [],
+      "cxUnknownTokens": [
+        "/"
+      ],
+      "isCx": false,
+      "isCxExpansion": false,
+      "videoId": null,
+      "meta": {},
+      "names": {
+        "eng": "/ 1-60 Accel",
+        "chi": "/ 1-60 A",
+        "jap": ""
+      },
+      "formalName": "/ 1-60 Accel",
+      "formalAlias": "/ 1-60 A",
+      "searchTokens": [
+        "BXG-31",
+        "/ 1-60 A",
+        "/",
+        "/ 1-60 Accel",
+        "/ 1-60 A",
+        "BXG-31-04",
+        "BXG3104",
+        "BXG31-04",
+        "BXG31 04"
+      ],
+      "images": {
+        "blade": "https://go-shoot.github.io/x/img/blade/%2F.png",
+        "bladeMain": null,
+        "ratchet": "https://go-shoot.github.io/x/img/ratchet/1-60.png",
+        "bit": "https://go-shoot.github.io/x/img/bit/A.png",
+        "cx": []
+      },
+      "isArMain": false,
+      "attributes": {
+        "blade": [],
+        "bladeMain": [],
+        "ratchet": [],
+        "bit": [
+          "att"
+        ]
+      },
+      "stats": {
+        "blade": null,
+        "bladeRaw": [],
+        "bladeMain": null,
+        "bladeMainRaw": [],
+        "ratchet": 6,
+        "ratchetRaw": [
+          6,
+          432
+        ],
+        "bit": 2.5,
+        "bitRaw": [
+          2.5,
+          16,
+          80,
+          122
+        ],
+        "bitMobility": 16
+      }
+    },
+    {
+      "id": "bey-201",
+      "code": "BXG-31",
+      "variantCode": "BXG-31-05",
+      "variantNo": "05",
+      "hasVariants": true,
+      "displayCode": "BXG-31-05",
+      "normalizedVariantCode": "BXG3105",
+      "normalizedCode": "BXG31",
+      "line": "BX",
+      "productType": "B H",
+      "comboRaw": "DrBs 1-60 A",
+      "bladeCode": "DrBs",
+      "ratchetCode": "1-60",
+      "bitCode": "A",
+      "cxChipCode": "",
+      "cxMainCode": "",
+      "cxSuffixCode": "",
+      "cxComponents": {
+        "chip": "",
+        "main": "",
+        "assist": "",
+        "over": "",
+        "metal": "",
+        "hasbro": ""
+      },
+      "cxComponentsAll": {
+        "chip": [],
+        "main": [],
+        "assist": [],
+        "over": [],
+        "metal": [],
+        "hasbro": []
+      },
+      "cxDisplayComponents": [],
+      "cxUnknownTokens": [
+        "DrBs"
+      ],
+      "isCx": false,
+      "isCxExpansion": false,
+      "videoId": "[object Object]",
+      "meta": {},
+      "names": {
+        "eng": "DranBuster 1-60 Accel",
+        "chi": "翔龍破壞劍 蒼龍爆刃 1-60 A",
+        "jap": "ドランバスター"
+      },
+      "formalName": "DranBuster 1-60 Accel",
+      "formalAlias": "翔龍破壞劍 蒼龍爆刃 1-60 A",
+      "searchTokens": [
+        "BXG-31",
+        "DrBs 1-60 A",
+        "DrBs",
+        "DranBuster 1-60 Accel",
+        "ドランバスター",
+        "翔龍破壞劍 蒼龍爆刃 1-60 A",
+        "BXG-31-05",
+        "BXG3105",
+        "BXG31-05",
+        "BXG31 05"
+      ],
+      "images": {
+        "blade": "https://go-shoot.github.io/x/img/blade/DrBs.png",
+        "bladeMain": null,
+        "ratchet": "https://go-shoot.github.io/x/img/ratchet/1-60.png",
+        "bit": "https://go-shoot.github.io/x/img/bit/A.png",
+        "cx": []
+      },
+      "isArMain": false,
+      "attributes": {
+        "blade": [
+          "att",
+          "right"
+        ],
+        "bladeMain": [],
+        "ratchet": [],
+        "bit": [
+          "att"
+        ]
+      },
+      "stats": {
+        "blade": 36.5,
+        "bladeRaw": [
+          36.5,
+          490
+        ],
+        "bladeMain": null,
+        "bladeMainRaw": [],
+        "ratchet": 6,
+        "ratchetRaw": [
+          6,
+          432
+        ],
+        "bit": 2.5,
+        "bitRaw": [
+          2.5,
+          16,
+          80,
+          122
+        ],
+        "bitMobility": 16
+      }
+    },
+    {
+      "id": "bey-202",
+      "code": "BXG-31",
+      "variantCode": "BXG-31-06",
+      "variantNo": "06",
+      "hasVariants": true,
+      "displayCode": "BXG-31-06",
+      "normalizedVariantCode": "BXG3106",
+      "normalizedCode": "BXG31",
+      "line": "BX",
+      "productType": "B H",
+      "comboRaw": "/ 1-60 A",
+      "bladeCode": "/",
+      "ratchetCode": "1-60",
+      "bitCode": "A",
+      "cxChipCode": "",
+      "cxMainCode": "",
+      "cxSuffixCode": "",
+      "cxComponents": {
+        "chip": "",
+        "main": "",
+        "assist": "",
+        "over": "",
+        "metal": "",
+        "hasbro": ""
+      },
+      "cxComponentsAll": {
+        "chip": [],
+        "main": [],
+        "assist": [],
+        "over": [],
+        "metal": [],
+        "hasbro": []
+      },
+      "cxDisplayComponents": [],
+      "cxUnknownTokens": [
+        "/"
+      ],
+      "isCx": false,
+      "isCxExpansion": false,
+      "videoId": null,
+      "meta": {},
+      "names": {
+        "eng": "/ 1-60 Accel",
+        "chi": "/ 1-60 A",
+        "jap": ""
+      },
+      "formalName": "/ 1-60 Accel",
+      "formalAlias": "/ 1-60 A",
+      "searchTokens": [
+        "BXG-31",
+        "/ 1-60 A",
+        "/",
+        "/ 1-60 Accel",
+        "/ 1-60 A",
+        "BXG-31-06",
+        "BXG3106",
+        "BXG31-06",
+        "BXG31 06"
+      ],
+      "images": {
+        "blade": "https://go-shoot.github.io/x/img/blade/%2F.png",
+        "bladeMain": null,
+        "ratchet": "https://go-shoot.github.io/x/img/ratchet/1-60.png",
+        "bit": "https://go-shoot.github.io/x/img/bit/A.png",
+        "cx": []
+      },
+      "isArMain": false,
+      "attributes": {
+        "blade": [],
+        "bladeMain": [],
+        "ratchet": [],
+        "bit": [
+          "att"
+        ]
+      },
+      "stats": {
+        "blade": null,
+        "bladeRaw": [],
+        "bladeMain": null,
+        "bladeMainRaw": [],
+        "ratchet": 6,
+        "ratchetRaw": [
+          6,
+          432
+        ],
+        "bit": 2.5,
+        "bitRaw": [
+          2.5,
+          16,
+          80,
+          122
+        ],
+        "bitMobility": 16
+      }
+    },
+    {
+      "id": "bey-203",
       "code": "BXG-23",
       "variantCode": "BXG-23",
       "variantNo": "01",
@@ -22919,13 +23536,15 @@
       "stats": {
         "blade": 37.5,
         "bladeRaw": [
-          37.5
+          37.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -22938,7 +23557,7 @@
       }
     },
     {
-      "id": "bey-201",
+      "id": "bey-204",
       "code": "BXG-25",
       "variantCode": "BXG-25-01",
       "variantNo": "01",
@@ -23020,13 +23639,15 @@
       "stats": {
         "blade": 36.5,
         "bladeRaw": [
-          36.5
+          36.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -23039,7 +23660,7 @@
       }
     },
     {
-      "id": "bey-202",
+      "id": "bey-205",
       "code": "BXG-25",
       "variantCode": "BXG-25-02",
       "variantNo": "02",
@@ -23119,13 +23740,15 @@
       "stats": {
         "blade": 35,
         "bladeRaw": [
-          35
+          35,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          390
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -23136,7 +23759,7 @@
       }
     },
     {
-      "id": "bey-203",
+      "id": "bey-206",
       "code": "BXG-25",
       "variantCode": "BXG-25-03",
       "variantNo": "03",
@@ -23216,13 +23839,15 @@
       "stats": {
         "blade": 35,
         "bladeRaw": [
-          35
+          35,
+          489
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 3.5,
         "bitRaw": [
@@ -23233,7 +23858,7 @@
       }
     },
     {
-      "id": "bey-204",
+      "id": "bey-207",
       "code": "BXG-16",
       "variantCode": "BXG-16",
       "variantNo": "01",
@@ -23309,13 +23934,15 @@
       "stats": {
         "blade": 31,
         "bladeRaw": [
-          31
+          31,
+          450
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -23326,7 +23953,7 @@
       }
     },
     {
-      "id": "bey-205",
+      "id": "bey-208",
       "code": "UX-10",
       "variantCode": "UX-10-01",
       "variantNo": "01",
@@ -23408,13 +24035,15 @@
       "stats": {
         "blade": 36.5,
         "bladeRaw": [
-          36.5
+          36.5,
+          477
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 4.5,
         "ratchetRaw": [
-          4.5
+          4.5,
+          390
         ],
         "bit": 2,
         "bitRaw": [
@@ -23425,7 +24054,7 @@
       }
     },
     {
-      "id": "bey-206",
+      "id": "bey-209",
       "code": "UX-10",
       "variantCode": "UX-10-02",
       "variantNo": "02",
@@ -23507,13 +24136,15 @@
       "stats": {
         "blade": 34.5,
         "bladeRaw": [
-          34.5
+          34.5,
+          489
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7.5,
         "ratchetRaw": [
-          7.5
+          7.5,
+          414
         ],
         "bit": 2,
         "bitRaw": [
@@ -23526,7 +24157,7 @@
       }
     },
     {
-      "id": "bey-207",
+      "id": "bey-210",
       "code": "UX-10",
       "variantCode": "UX-10-03",
       "variantNo": "03",
@@ -23606,13 +24237,15 @@
       "stats": {
         "blade": 37,
         "bladeRaw": [
-          37
+          37,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6,
         "ratchetRaw": [
-          6
+          6,
+          432
         ],
         "bit": 3,
         "bitRaw": [
@@ -23623,7 +24256,7 @@
       }
     },
     {
-      "id": "bey-208",
+      "id": "bey-211",
       "code": "UX-10",
       "variantCode": "UX-10-04",
       "variantNo": "04",
@@ -23705,7 +24338,8 @@
       "stats": {
         "blade": 33.5,
         "bladeRaw": [
-          33.5
+          33.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
@@ -23722,7 +24356,7 @@
       }
     },
     {
-      "id": "bey-209",
+      "id": "bey-212",
       "code": "UX-10",
       "variantCode": "UX-10-05",
       "variantNo": "05",
@@ -23811,7 +24445,7 @@
       }
     },
     {
-      "id": "bey-210",
+      "id": "bey-213",
       "code": "UX-10",
       "variantCode": "UX-10-06",
       "variantNo": "06",
@@ -23904,7 +24538,7 @@
       }
     },
     {
-      "id": "bey-211",
+      "id": "bey-214",
       "code": "UX-09",
       "variantCode": "UX-09",
       "variantNo": "01",
@@ -23982,13 +24616,15 @@
       "stats": {
         "blade": 36.5,
         "bladeRaw": [
-          36.5
+          36.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          410
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -24001,7 +24637,7 @@
       }
     },
     {
-      "id": "bey-212",
+      "id": "bey-215",
       "code": "BX-38",
       "variantCode": "BX-38",
       "variantNo": "01",
@@ -24078,13 +24714,15 @@
       "stats": {
         "blade": 35,
         "bladeRaw": [
-          35
+          35,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -24095,7 +24733,7 @@
       }
     },
     {
-      "id": "bey-213",
+      "id": "bey-216",
       "code": "UX-08",
       "variantCode": "UX-08",
       "variantNo": "01",
@@ -24172,13 +24810,15 @@
       "stats": {
         "blade": 37,
         "bladeRaw": [
-          37
+          37,
+          492
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -24189,7 +24829,7 @@
       }
     },
     {
-      "id": "bey-214",
+      "id": "bey-217",
       "code": "BX-37",
       "variantCode": "BX-37",
       "variantNo": "01",
@@ -24267,13 +24907,15 @@
       "stats": {
         "blade": 30.5,
         "bladeRaw": [
-          30.5
+          30.5,
+          450
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -24286,7 +24928,7 @@
       }
     },
     {
-      "id": "bey-215",
+      "id": "bey-218",
       "code": "BX-36",
       "variantCode": "BX-36-01",
       "variantNo": "01",
@@ -24370,13 +25012,15 @@
       "stats": {
         "blade": 38,
         "bladeRaw": [
-          38
+          38,
+          498
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7.5,
         "ratchetRaw": [
-          7.5
+          7.5,
+          400
         ],
         "bit": 3.5,
         "bitRaw": [
@@ -24389,7 +25033,7 @@
       }
     },
     {
-      "id": "bey-216",
+      "id": "bey-219",
       "code": "BX-36",
       "variantCode": "BX-36-02",
       "variantNo": "02",
@@ -24469,13 +25113,15 @@
       "stats": {
         "blade": 38,
         "bladeRaw": [
-          38
+          38,
+          498
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -24486,7 +25132,7 @@
       }
     },
     {
-      "id": "bey-217",
+      "id": "bey-220",
       "code": "BX-36",
       "variantCode": "BX-36-03",
       "variantNo": "03",
@@ -24566,13 +25212,15 @@
       "stats": {
         "blade": 38,
         "bladeRaw": [
-          38
+          38,
+          498
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -24583,7 +25231,7 @@
       }
     },
     {
-      "id": "bey-218",
+      "id": "bey-221",
       "code": "BXG-07",
       "variantCode": "BXG-07-01",
       "variantNo": "01",
@@ -24668,13 +25316,15 @@
       "stats": {
         "blade": 33.5,
         "bladeRaw": [
-          33.5
+          33.5,
+          488
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6,
         "ratchetRaw": [
-          6
+          6,
+          432
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -24687,7 +25337,7 @@
       }
     },
     {
-      "id": "bey-219",
+      "id": "bey-222",
       "code": "BXG-07",
       "variantCode": "BXG-07-02",
       "variantNo": "02",
@@ -24770,13 +25420,15 @@
       "stats": {
         "blade": 33.5,
         "bladeRaw": [
-          33.5
+          33.5,
+          488
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6,
         "ratchetRaw": [
-          6
+          6,
+          432
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -24789,7 +25441,7 @@
       }
     },
     {
-      "id": "bey-220",
+      "id": "bey-223",
       "code": "BXC-05",
       "variantCode": "BXC-05",
       "variantNo": "01",
@@ -24865,13 +25517,15 @@
       "stats": {
         "blade": 38.5,
         "bladeRaw": [
-          38.5
+          38.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          390
         ],
         "bit": 3.5,
         "bitRaw": [
@@ -24882,7 +25536,7 @@
       }
     },
     {
-      "id": "bey-221",
+      "id": "bey-224",
       "code": "BXG-09",
       "variantCode": "BXG-09",
       "variantNo": "01",
@@ -24961,13 +25615,15 @@
       "stats": {
         "blade": 37.5,
         "bladeRaw": [
-          37.5
+          37.5,
+          500
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          410
         ],
         "bit": 2,
         "bitRaw": [
@@ -24980,7 +25636,7 @@
       }
     },
     {
-      "id": "bey-222",
+      "id": "bey-225",
       "code": "UX-07",
       "variantCode": "UX-07-01",
       "variantNo": "01",
@@ -25064,13 +25720,15 @@
       "stats": {
         "blade": 34.5,
         "bladeRaw": [
-          34.5
+          34.5,
+          489
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          390
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -25083,7 +25741,7 @@
       }
     },
     {
-      "id": "bey-223",
+      "id": "bey-226",
       "code": "UX-07",
       "variantCode": "UX-07-02",
       "variantNo": "02",
@@ -25165,13 +25823,15 @@
       "stats": {
         "blade": 31.5,
         "bladeRaw": [
-          31.5
+          31.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          410
         ],
         "bit": 2,
         "bitRaw": [
@@ -25184,7 +25844,7 @@
       }
     },
     {
-      "id": "bey-224",
+      "id": "bey-227",
       "code": "UX-07",
       "variantCode": "UX-07-03",
       "variantNo": "03",
@@ -25264,13 +25924,15 @@
       "stats": {
         "blade": 32.5,
         "bladeRaw": [
-          32.5
+          32.5,
+          483
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          432
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -25281,7 +25943,7 @@
       }
     },
     {
-      "id": "bey-225",
+      "id": "bey-228",
       "code": "UX-06",
       "variantCode": "UX-06",
       "variantNo": "01",
@@ -25357,13 +26019,15 @@
       "stats": {
         "blade": 35,
         "bladeRaw": [
-          35
+          35,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          414
         ],
         "bit": 2,
         "bitRaw": [
@@ -25374,7 +26038,7 @@
       }
     },
     {
-      "id": "bey-226",
+      "id": "bey-229",
       "code": "BXG-15",
       "variantCode": "BXG-15",
       "variantNo": "01",
@@ -25453,13 +26117,15 @@
       "stats": {
         "blade": 28,
         "bladeRaw": [
-          28
+          28,
+          481
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -25472,7 +26138,7 @@
       }
     },
     {
-      "id": "bey-227",
+      "id": "bey-230",
       "code": "BXG-14",
       "variantCode": "BXG-14",
       "variantNo": "01",
@@ -25551,13 +26217,15 @@
       "stats": {
         "blade": 35,
         "bladeRaw": [
-          35
+          35,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          410
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -25568,7 +26236,7 @@
       }
     },
     {
-      "id": "bey-228",
+      "id": "bey-231",
       "code": "BXG-17",
       "variantCode": "BXG-17-01",
       "variantNo": "01",
@@ -25661,7 +26329,7 @@
       }
     },
     {
-      "id": "bey-229",
+      "id": "bey-232",
       "code": "BXG-17",
       "variantCode": "BXG-17-02",
       "variantNo": "02",
@@ -25754,7 +26422,7 @@
       }
     },
     {
-      "id": "bey-230",
+      "id": "bey-233",
       "code": "BXG-17",
       "variantCode": "BXG-17-03",
       "variantNo": "03",
@@ -25847,7 +26515,7 @@
       }
     },
     {
-      "id": "bey-231",
+      "id": "bey-234",
       "code": "BXG-17",
       "variantCode": "BXG-17-04",
       "variantNo": "04",
@@ -25940,7 +26608,7 @@
       }
     },
     {
-      "id": "bey-232",
+      "id": "bey-235",
       "code": "BXH-10",
       "variantCode": "BXH-10",
       "variantNo": "01",
@@ -26019,13 +26687,15 @@
       "stats": {
         "blade": 38.5,
         "bladeRaw": [
-          38.5
+          38.5,
+          510
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -26038,7 +26708,7 @@
       }
     },
     {
-      "id": "bey-233",
+      "id": "bey-236",
       "code": "BX-35",
       "variantCode": "BX-35-01",
       "variantNo": "01",
@@ -26123,13 +26793,15 @@
       "stats": {
         "blade": 32.5,
         "bladeRaw": [
-          32.5
+          32.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -26142,7 +26814,7 @@
       }
     },
     {
-      "id": "bey-234",
+      "id": "bey-237",
       "code": "BX-35",
       "variantCode": "BX-35-02",
       "variantNo": "02",
@@ -26225,13 +26897,15 @@
       "stats": {
         "blade": 32.5,
         "bladeRaw": [
-          32.5
+          32.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          390
         ],
         "bit": 2,
         "bitRaw": [
@@ -26244,7 +26918,7 @@
       }
     },
     {
-      "id": "bey-235",
+      "id": "bey-238",
       "code": "BX-35",
       "variantCode": "BX-35-03",
       "variantNo": "03",
@@ -26326,13 +27000,15 @@
       "stats": {
         "blade": 33.5,
         "bladeRaw": [
-          33.5
+          33.5,
+          483
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -26345,7 +27021,7 @@
       }
     },
     {
-      "id": "bey-236",
+      "id": "bey-239",
       "code": "BX-35",
       "variantCode": "BX-35-04",
       "variantNo": "04",
@@ -26427,13 +27103,15 @@
       "stats": {
         "blade": 35.5,
         "bladeRaw": [
-          35.5
+          35.5,
+          500
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6,
         "ratchetRaw": [
-          6
+          6,
+          432
         ],
         "bit": 2,
         "bitRaw": [
@@ -26446,7 +27124,7 @@
       }
     },
     {
-      "id": "bey-237",
+      "id": "bey-240",
       "code": "BX-35",
       "variantCode": "BX-35-05",
       "variantNo": "05",
@@ -26528,13 +27206,15 @@
       "stats": {
         "blade": 38.5,
         "bladeRaw": [
-          38.5
+          38.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7.5,
         "ratchetRaw": [
-          7.5
+          7.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -26547,7 +27227,7 @@
       }
     },
     {
-      "id": "bey-238",
+      "id": "bey-241",
       "code": "BX-35",
       "variantCode": "BX-35-06",
       "variantNo": "06",
@@ -26629,13 +27309,15 @@
       "stats": {
         "blade": 34.5,
         "bladeRaw": [
-          34.5
+          34.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -26648,7 +27330,7 @@
       }
     },
     {
-      "id": "bey-239",
+      "id": "bey-242",
       "code": "BX-34",
       "variantCode": "BX-34",
       "variantNo": "01",
@@ -26727,13 +27409,15 @@
       "stats": {
         "blade": 37.5,
         "bladeRaw": [
-          37.5
+          37.5,
+          500
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          410
         ],
         "bit": 2,
         "bitRaw": [
@@ -26746,7 +27430,7 @@
       }
     },
     {
-      "id": "bey-240",
+      "id": "bey-243",
       "code": "BX-33",
       "variantCode": "BX-33",
       "variantNo": "01",
@@ -26825,13 +27509,15 @@
       "stats": {
         "blade": 34.5,
         "bladeRaw": [
-          34.5
+          34.5,
+          489
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -26844,7 +27530,7 @@
       }
     },
     {
-      "id": "bey-241",
+      "id": "bey-244",
       "code": "BXC-03",
       "variantCode": "BXC-03",
       "variantNo": "01",
@@ -26920,7 +27606,8 @@
       "stats": {
         "blade": 35,
         "bladeRaw": [
-          35
+          35,
+          489
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
@@ -26932,7 +27619,7 @@
       }
     },
     {
-      "id": "bey-242",
+      "id": "bey-245",
       "code": "BXH-09",
       "variantCode": "BXH-09",
       "variantNo": "01",
@@ -27008,13 +27695,15 @@
       "stats": {
         "blade": 35.5,
         "bladeRaw": [
-          35.5
+          35.5,
+          500
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 3.5,
         "bitRaw": [
@@ -27025,7 +27714,7 @@
       }
     },
     {
-      "id": "bey-243",
+      "id": "bey-246",
       "code": "UX-05",
       "variantCode": "UX-05-01",
       "variantNo": "01",
@@ -27107,13 +27796,15 @@
       "stats": {
         "blade": 28,
         "bladeRaw": [
-          28
+          28,
+          485
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          432
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -27124,7 +27815,7 @@
       }
     },
     {
-      "id": "bey-244",
+      "id": "bey-247",
       "code": "UX-05",
       "variantCode": "UX-05-02",
       "variantNo": "02",
@@ -27204,13 +27895,15 @@
       "stats": {
         "blade": 28,
         "bladeRaw": [
-          28
+          28,
+          485
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          390
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -27221,7 +27914,7 @@
       }
     },
     {
-      "id": "bey-245",
+      "id": "bey-248",
       "code": "UX-05",
       "variantCode": "UX-05-03",
       "variantNo": "03",
@@ -27301,13 +27994,15 @@
       "stats": {
         "blade": 28,
         "bladeRaw": [
-          28
+          28,
+          485
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -27318,7 +28013,7 @@
       }
     },
     {
-      "id": "bey-246",
+      "id": "bey-249",
       "code": "BXG-08",
       "variantCode": "BXG-08",
       "variantNo": "01",
@@ -27394,13 +28089,15 @@
       "stats": {
         "blade": 33.5,
         "bladeRaw": [
-          33.5
+          33.5,
+          487
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -27411,7 +28108,7 @@
       }
     },
     {
-      "id": "bey-247",
+      "id": "bey-250",
       "code": "BX-31",
       "variantCode": "BX-31-01",
       "variantNo": "01",
@@ -27495,13 +28192,15 @@
       "stats": {
         "blade": 37,
         "bladeRaw": [
-          37
+          37,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -27514,7 +28213,7 @@
       }
     },
     {
-      "id": "bey-248",
+      "id": "bey-251",
       "code": "BX-31",
       "variantCode": "BX-31-02",
       "variantNo": "02",
@@ -27596,13 +28295,15 @@
       "stats": {
         "blade": 37,
         "bladeRaw": [
-          37
+          37,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -27615,7 +28316,7 @@
       }
     },
     {
-      "id": "bey-249",
+      "id": "bey-252",
       "code": "BX-31",
       "variantCode": "BX-31-03",
       "variantNo": "03",
@@ -27697,13 +28398,15 @@
       "stats": {
         "blade": 33.5,
         "bladeRaw": [
-          33.5
+          33.5,
+          487
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          390
         ],
         "bit": 2,
         "bitRaw": [
@@ -27716,7 +28419,7 @@
       }
     },
     {
-      "id": "bey-250",
+      "id": "bey-253",
       "code": "BX-31",
       "variantCode": "BX-31-04",
       "variantNo": "04",
@@ -27798,13 +28501,15 @@
       "stats": {
         "blade": 35,
         "bladeRaw": [
-          35
+          35,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -27817,7 +28522,7 @@
       }
     },
     {
-      "id": "bey-251",
+      "id": "bey-254",
       "code": "BX-31",
       "variantCode": "BX-31-05",
       "variantNo": "05",
@@ -27899,13 +28604,15 @@
       "stats": {
         "blade": 34.5,
         "bladeRaw": [
-          34.5
+          34.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6,
         "ratchetRaw": [
-          6
+          6,
+          432
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -27918,7 +28625,7 @@
       }
     },
     {
-      "id": "bey-252",
+      "id": "bey-255",
       "code": "BX-31",
       "variantCode": "BX-31-06",
       "variantNo": "06",
@@ -28000,13 +28707,15 @@
       "stats": {
         "blade": 33,
         "bladeRaw": [
-          33
+          33,
+          450
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7.5,
         "ratchetRaw": [
-          7.5
+          7.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -28019,7 +28728,7 @@
       }
     },
     {
-      "id": "bey-253",
+      "id": "bey-256",
       "code": "BXG-04",
       "variantCode": "BXG-04",
       "variantNo": "01",
@@ -28098,13 +28807,15 @@
       "stats": {
         "blade": 28.5,
         "bladeRaw": [
-          28.5
+          28.5,
+          489
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -28117,7 +28828,7 @@
       }
     },
     {
-      "id": "bey-254",
+      "id": "bey-257",
       "code": "UX-04",
       "variantCode": "UX-04-01",
       "variantNo": "01",
@@ -28199,13 +28910,15 @@
       "stats": {
         "blade": 36.5,
         "bladeRaw": [
-          36.5
+          36.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6,
         "ratchetRaw": [
-          6
+          6,
+          432
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -28218,7 +28931,7 @@
       }
     },
     {
-      "id": "bey-255",
+      "id": "bey-258",
       "code": "UX-04",
       "variantCode": "UX-04-02",
       "variantNo": "02",
@@ -28298,13 +29011,15 @@
       "stats": {
         "blade": 35.5,
         "bladeRaw": [
-          35.5
+          35.5,
+          500
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 3.5,
         "bitRaw": [
@@ -28315,7 +29030,7 @@
       }
     },
     {
-      "id": "bey-256",
+      "id": "bey-259",
       "code": "UX-03",
       "variantCode": "UX-03",
       "variantNo": "01",
@@ -28391,13 +29106,15 @@
       "stats": {
         "blade": 35.5,
         "bladeRaw": [
-          35.5
+          35.5,
+          500
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 3.5,
         "bitRaw": [
@@ -28408,7 +29125,7 @@
       }
     },
     {
-      "id": "bey-257",
+      "id": "bey-260",
       "code": "UX-02",
       "variantCode": "UX-02",
       "variantNo": "01",
@@ -28486,13 +29203,15 @@
       "stats": {
         "blade": 33.5,
         "bladeRaw": [
-          33.5
+          33.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -28505,7 +29224,7 @@
       }
     },
     {
-      "id": "bey-258",
+      "id": "bey-261",
       "code": "UX-01",
       "variantCode": "UX-01",
       "variantNo": "01",
@@ -28583,13 +29302,15 @@
       "stats": {
         "blade": 36.5,
         "bladeRaw": [
-          36.5
+          36.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6,
         "ratchetRaw": [
-          6
+          6,
+          432
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -28602,7 +29323,7 @@
       }
     },
     {
-      "id": "bey-259",
+      "id": "bey-262",
       "code": "BXG-06",
       "variantCode": "BXG-06",
       "variantNo": "01",
@@ -28678,13 +29399,15 @@
       "stats": {
         "blade": 34.5,
         "bladeRaw": [
-          34.5
+          34.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -28695,7 +29418,7 @@
       }
     },
     {
-      "id": "bey-260",
+      "id": "bey-263",
       "code": "BXG-05",
       "variantCode": "BXG-05",
       "variantNo": "01",
@@ -28773,13 +29496,15 @@
       "stats": {
         "blade": 31.5,
         "bladeRaw": [
-          31.5
+          31.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -28792,7 +29517,7 @@
       }
     },
     {
-      "id": "bey-261",
+      "id": "bey-264",
       "code": "BX-27",
       "variantCode": "BX-27-01",
       "variantNo": "01",
@@ -28874,13 +29599,15 @@
       "stats": {
         "blade": 32.5,
         "bladeRaw": [
-          32.5
+          32.5,
+          483
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          390
         ],
         "bit": 2,
         "bitRaw": [
@@ -28891,7 +29618,7 @@
       }
     },
     {
-      "id": "bey-262",
+      "id": "bey-265",
       "code": "BX-27",
       "variantCode": "BX-27-02",
       "variantNo": "02",
@@ -28971,13 +29698,15 @@
       "stats": {
         "blade": 32.5,
         "bladeRaw": [
-          32.5
+          32.5,
+          483
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -28988,7 +29717,7 @@
       }
     },
     {
-      "id": "bey-263",
+      "id": "bey-266",
       "code": "BX-27",
       "variantCode": "BX-27-03",
       "variantNo": "03",
@@ -29070,13 +29799,15 @@
       "stats": {
         "blade": 32.5,
         "bladeRaw": [
-          32.5
+          32.5,
+          483
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -29089,7 +29820,7 @@
       }
     },
     {
-      "id": "bey-264",
+      "id": "bey-267",
       "code": "BXA-01",
       "variantCode": "BXA-01",
       "variantNo": "01",
@@ -29167,13 +29898,15 @@
       "stats": {
         "blade": 35,
         "bladeRaw": [
-          35
+          35,
+          489
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -29186,7 +29919,7 @@
       }
     },
     {
-      "id": "bey-265",
+      "id": "bey-268",
       "code": "BX-26",
       "variantCode": "BX-26",
       "variantNo": "01",
@@ -29262,13 +29995,15 @@
       "stats": {
         "blade": 33.5,
         "bladeRaw": [
-          33.5
+          33.5,
+          483
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -29279,7 +30014,7 @@
       }
     },
     {
-      "id": "bey-266",
+      "id": "bey-269",
       "code": "BXC-02",
       "variantCode": "BXC-02",
       "variantNo": "01",
@@ -29357,13 +30092,15 @@
       "stats": {
         "blade": 32.5,
         "bladeRaw": [
-          32.5
+          32.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -29376,7 +30113,7 @@
       }
     },
     {
-      "id": "bey-267",
+      "id": "bey-270",
       "code": "BX-24",
       "variantCode": "BX-24-01",
       "variantNo": "01",
@@ -29458,13 +30195,15 @@
       "stats": {
         "blade": 31.5,
         "bladeRaw": [
-          31.5
+          31.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7.5,
         "ratchetRaw": [
-          7.5
+          7.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -29475,7 +30214,7 @@
       }
     },
     {
-      "id": "bey-268",
+      "id": "bey-271",
       "code": "BX-24",
       "variantCode": "BX-24-02",
       "variantNo": "02",
@@ -29557,13 +30296,15 @@
       "stats": {
         "blade": 31.5,
         "bladeRaw": [
-          31.5
+          31.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -29576,7 +30317,7 @@
       }
     },
     {
-      "id": "bey-269",
+      "id": "bey-272",
       "code": "BX-24",
       "variantCode": "BX-24-03",
       "variantNo": "03",
@@ -29656,13 +30397,15 @@
       "stats": {
         "blade": 33,
         "bladeRaw": [
-          33
+          33,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -29673,7 +30416,7 @@
       }
     },
     {
-      "id": "bey-270",
+      "id": "bey-273",
       "code": "BX-24",
       "variantCode": "BX-24-04",
       "variantNo": "04",
@@ -29755,13 +30498,15 @@
       "stats": {
         "blade": 34.5,
         "bladeRaw": [
-          34.5
+          34.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -29774,7 +30519,7 @@
       }
     },
     {
-      "id": "bey-271",
+      "id": "bey-274",
       "code": "BX-24",
       "variantCode": "BX-24-05",
       "variantNo": "05",
@@ -29854,13 +30599,15 @@
       "stats": {
         "blade": 31.5,
         "bladeRaw": [
-          31.5
+          31.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -29871,7 +30618,7 @@
       }
     },
     {
-      "id": "bey-272",
+      "id": "bey-275",
       "code": "BX-24",
       "variantCode": "BX-24-06",
       "variantNo": "06",
@@ -29951,13 +30698,15 @@
       "stats": {
         "blade": 32,
         "bladeRaw": [
-          32
+          32,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -29968,7 +30717,7 @@
       }
     },
     {
-      "id": "bey-273",
+      "id": "bey-276",
       "code": "BX-23",
       "variantCode": "BX-23",
       "variantNo": "01",
@@ -30046,13 +30795,15 @@
       "stats": {
         "blade": 38.5,
         "bladeRaw": [
-          38.5
+          38.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          390
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -30063,7 +30814,7 @@
       }
     },
     {
-      "id": "bey-274",
+      "id": "bey-277",
       "code": "BXC-01",
       "variantCode": "BXC-01",
       "variantNo": "01",
@@ -30139,7 +30890,8 @@
       "stats": {
         "blade": 33.5,
         "bladeRaw": [
-          33.5
+          33.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
@@ -30151,7 +30903,7 @@
       }
     },
     {
-      "id": "bey-275",
+      "id": "bey-278",
       "code": "BXH-04",
       "variantCode": "BXH-04-01",
       "variantNo": "01",
@@ -30233,13 +30985,15 @@
       "stats": {
         "blade": 35,
         "bladeRaw": [
-          35
+          35,
+          489
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -30252,7 +31006,7 @@
       }
     },
     {
-      "id": "bey-276",
+      "id": "bey-279",
       "code": "BXH-04",
       "variantCode": "BXH-04-02",
       "variantNo": "02",
@@ -30334,13 +31088,15 @@
       "stats": {
         "blade": 35,
         "bladeRaw": [
-          35
+          35,
+          489
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -30353,7 +31109,7 @@
       }
     },
     {
-      "id": "bey-277",
+      "id": "bey-280",
       "code": "BXH-04",
       "variantCode": "BXH-04-03",
       "variantNo": "03",
@@ -30435,13 +31191,15 @@
       "stats": {
         "blade": 35,
         "bladeRaw": [
-          35
+          35,
+          489
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -30454,7 +31212,7 @@
       }
     },
     {
-      "id": "bey-278",
+      "id": "bey-281",
       "code": "BX-22",
       "variantCode": "BX-22",
       "variantNo": "01",
@@ -30532,13 +31290,15 @@
       "stats": {
         "blade": 35,
         "bladeRaw": [
-          35
+          35,
+          489
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -30551,7 +31311,7 @@
       }
     },
     {
-      "id": "bey-279",
+      "id": "bey-282",
       "code": "BX-21",
       "variantCode": "BX-21-01",
       "variantNo": "01",
@@ -30631,13 +31391,15 @@
       "stats": {
         "blade": 33.5,
         "bladeRaw": [
-          33.5
+          33.5,
+          487
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -30648,7 +31410,7 @@
       }
     },
     {
-      "id": "bey-280",
+      "id": "bey-283",
       "code": "BX-21",
       "variantCode": "BX-21-02",
       "variantNo": "02",
@@ -30728,13 +31490,15 @@
       "stats": {
         "blade": 33,
         "bladeRaw": [
-          33
+          33,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -30745,7 +31509,7 @@
       }
     },
     {
-      "id": "bey-281",
+      "id": "bey-284",
       "code": "BX-21",
       "variantCode": "BX-21-03",
       "variantNo": "03",
@@ -30827,13 +31591,15 @@
       "stats": {
         "blade": 32,
         "bladeRaw": [
-          32
+          32,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -30846,7 +31612,7 @@
       }
     },
     {
-      "id": "bey-282",
+      "id": "bey-285",
       "code": "BX-20",
       "variantCode": "BX-20-01",
       "variantNo": "01",
@@ -30928,13 +31694,15 @@
       "stats": {
         "blade": 35,
         "bladeRaw": [
-          35
+          35,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -30947,7 +31715,7 @@
       }
     },
     {
-      "id": "bey-283",
+      "id": "bey-286",
       "code": "BX-20",
       "variantCode": "BX-20-02",
       "variantNo": "02",
@@ -31029,13 +31797,15 @@
       "stats": {
         "blade": 34.5,
         "bladeRaw": [
-          34.5
+          34.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -31048,7 +31818,7 @@
       }
     },
     {
-      "id": "bey-284",
+      "id": "bey-287",
       "code": "BX-20",
       "variantCode": "BX-20-03",
       "variantNo": "03",
@@ -31130,13 +31900,15 @@
       "stats": {
         "blade": 32.5,
         "bladeRaw": [
-          32.5
+          32.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7.5,
         "ratchetRaw": [
-          7.5
+          7.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -31149,7 +31921,7 @@
       }
     },
     {
-      "id": "bey-285",
+      "id": "bey-288",
       "code": "BX-19",
       "variantCode": "BX-19",
       "variantNo": "01",
@@ -31227,13 +31999,15 @@
       "stats": {
         "blade": 33,
         "bladeRaw": [
-          33
+          33,
+          450
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -31246,7 +32020,7 @@
       }
     },
     {
-      "id": "bey-286",
+      "id": "bey-289",
       "code": "BX-17",
       "variantCode": "BX-17-01",
       "variantNo": "01",
@@ -31328,13 +32102,15 @@
       "stats": {
         "blade": 35,
         "bladeRaw": [
-          35
+          35,
+          489
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -31347,7 +32123,7 @@
       }
     },
     {
-      "id": "bey-287",
+      "id": "bey-290",
       "code": "BX-17",
       "variantCode": "BX-17-02",
       "variantNo": "02",
@@ -31429,13 +32205,15 @@
       "stats": {
         "blade": 32,
         "bladeRaw": [
-          32
+          32,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -31448,7 +32226,7 @@
       }
     },
     {
-      "id": "bey-288",
+      "id": "bey-291",
       "code": "BX-16",
       "variantCode": "BX-16-01",
       "variantNo": "01",
@@ -31532,13 +32310,15 @@
       "stats": {
         "blade": 34.5,
         "bladeRaw": [
-          34.5
+          34.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7.5,
         "ratchetRaw": [
-          7.5
+          7.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -31551,7 +32331,7 @@
       }
     },
     {
-      "id": "bey-289",
+      "id": "bey-292",
       "code": "BX-16",
       "variantCode": "BX-16-02",
       "variantNo": "02",
@@ -31633,13 +32413,15 @@
       "stats": {
         "blade": 34.5,
         "bladeRaw": [
-          34.5
+          34.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -31652,7 +32434,7 @@
       }
     },
     {
-      "id": "bey-290",
+      "id": "bey-293",
       "code": "BX-16",
       "variantCode": "BX-16-03",
       "variantNo": "03",
@@ -31732,13 +32514,15 @@
       "stats": {
         "blade": 34.5,
         "bladeRaw": [
-          34.5
+          34.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -31749,7 +32533,7 @@
       }
     },
     {
-      "id": "bey-291",
+      "id": "bey-294",
       "code": "BX-15",
       "variantCode": "BX-15",
       "variantNo": "01",
@@ -31827,13 +32611,15 @@
       "stats": {
         "blade": 31.5,
         "bladeRaw": [
-          31.5
+          31.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -31846,7 +32632,7 @@
       }
     },
     {
-      "id": "bey-292",
+      "id": "bey-295",
       "code": "BXG-03",
       "variantCode": "BXG-03",
       "variantNo": "01",
@@ -31924,13 +32710,15 @@
       "stats": {
         "blade": 32.5,
         "bladeRaw": [
-          32.5
+          32.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -31943,7 +32731,7 @@
       }
     },
     {
-      "id": "bey-293",
+      "id": "bey-296",
       "code": "BXH-01",
       "variantCode": "BXH-01",
       "variantNo": "01",
@@ -32022,13 +32810,15 @@
       "stats": {
         "blade": 37.5,
         "bladeRaw": [
-          37.5
+          37.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -32041,7 +32831,7 @@
       }
     },
     {
-      "id": "bey-294",
+      "id": "bey-297",
       "code": "BX-14",
       "variantCode": "BX-14-01",
       "variantNo": "01",
@@ -32123,13 +32913,15 @@
       "stats": {
         "blade": 34.5,
         "bladeRaw": [
-          34.5
+          34.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -32140,7 +32932,7 @@
       }
     },
     {
-      "id": "bey-295",
+      "id": "bey-298",
       "code": "BX-14",
       "variantCode": "BX-14-02",
       "variantNo": "02",
@@ -32222,13 +33014,15 @@
       "stats": {
         "blade": 34.5,
         "bladeRaw": [
-          34.5
+          34.5,
+          490
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -32241,7 +33035,7 @@
       }
     },
     {
-      "id": "bey-296",
+      "id": "bey-299",
       "code": "BX-14",
       "variantCode": "BX-14-03",
       "variantNo": "03",
@@ -32323,13 +33117,15 @@
       "stats": {
         "blade": 35,
         "bladeRaw": [
-          35
+          35,
+          489
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -32342,7 +33138,7 @@
       }
     },
     {
-      "id": "bey-297",
+      "id": "bey-300",
       "code": "BX-14",
       "variantCode": "BX-14-04",
       "variantNo": "04",
@@ -32422,13 +33218,15 @@
       "stats": {
         "blade": 32.5,
         "bladeRaw": [
-          32.5
+          32.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -32439,7 +33237,7 @@
       }
     },
     {
-      "id": "bey-298",
+      "id": "bey-301",
       "code": "BX-14",
       "variantCode": "BX-14-05",
       "variantNo": "05",
@@ -32519,13 +33317,15 @@
       "stats": {
         "blade": 32.5,
         "bladeRaw": [
-          32.5
+          32.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -32536,7 +33336,7 @@
       }
     },
     {
-      "id": "bey-299",
+      "id": "bey-302",
       "code": "BX-14",
       "variantCode": "BX-14-06",
       "variantNo": "06",
@@ -32618,13 +33418,15 @@
       "stats": {
         "blade": 32,
         "bladeRaw": [
-          32
+          32,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -32637,7 +33439,7 @@
       }
     },
     {
-      "id": "bey-300",
+      "id": "bey-303",
       "code": "BX-13",
       "variantCode": "BX-13",
       "variantNo": "01",
@@ -32713,13 +33515,15 @@
       "stats": {
         "blade": 33,
         "bladeRaw": [
-          33
+          33,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -32730,7 +33534,7 @@
       }
     },
     {
-      "id": "bey-301",
+      "id": "bey-304",
       "code": "BXH-02",
       "variantCode": "BXH-02",
       "variantNo": "01",
@@ -32808,13 +33612,15 @@
       "stats": {
         "blade": 32.5,
         "bladeRaw": [
-          32.5
+          32.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -32827,7 +33633,7 @@
       }
     },
     {
-      "id": "bey-302",
+      "id": "bey-305",
       "code": "BXG-01",
       "variantCode": "BXG-01",
       "variantNo": "01",
@@ -32906,13 +33712,15 @@
       "stats": {
         "blade": 28,
         "bladeRaw": [
-          28
+          28,
+          481
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -32925,7 +33733,7 @@
       }
     },
     {
-      "id": "bey-303",
+      "id": "bey-306",
       "code": "BX-08",
       "variantCode": "BX-08-01",
       "variantNo": "01",
@@ -33007,13 +33815,15 @@
       "stats": {
         "blade": 32.5,
         "bladeRaw": [
-          32.5
+          32.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -33026,7 +33836,7 @@
       }
     },
     {
-      "id": "bey-304",
+      "id": "bey-307",
       "code": "BX-08",
       "variantCode": "BX-08-02",
       "variantNo": "02",
@@ -33108,13 +33918,15 @@
       "stats": {
         "blade": 32,
         "bladeRaw": [
-          32
+          32,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -33127,7 +33939,7 @@
       }
     },
     {
-      "id": "bey-305",
+      "id": "bey-308",
       "code": "BX-08",
       "variantCode": "BX-08-03",
       "variantNo": "03",
@@ -33209,13 +34021,15 @@
       "stats": {
         "blade": 32.5,
         "bladeRaw": [
-          32.5
+          32.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -33228,7 +34042,7 @@
       }
     },
     {
-      "id": "bey-306",
+      "id": "bey-309",
       "code": "BX-07",
       "variantCode": "BX-07",
       "variantNo": "01",
@@ -33306,13 +34120,15 @@
       "stats": {
         "blade": 35,
         "bladeRaw": [
-          35
+          35,
+          489
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -33325,7 +34141,7 @@
       }
     },
     {
-      "id": "bey-307",
+      "id": "bey-310",
       "code": "BX-06",
       "variantCode": "BX-06",
       "variantNo": "01",
@@ -33403,13 +34219,15 @@
       "stats": {
         "blade": 32.5,
         "bladeRaw": [
-          32.5
+          32.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -33422,7 +34240,7 @@
       }
     },
     {
-      "id": "bey-308",
+      "id": "bey-311",
       "code": "BX-05",
       "variantCode": "BX-05",
       "variantNo": "01",
@@ -33500,13 +34318,15 @@
       "stats": {
         "blade": 32,
         "bladeRaw": [
-          32
+          32,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -33519,7 +34339,7 @@
       }
     },
     {
-      "id": "bey-309",
+      "id": "bey-312",
       "code": "BX-04",
       "variantCode": "BX-04",
       "variantNo": "01",
@@ -33597,13 +34417,15 @@
       "stats": {
         "blade": 32.5,
         "bladeRaw": [
-          32.5
+          32.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -33616,7 +34438,7 @@
       }
     },
     {
-      "id": "bey-310",
+      "id": "bey-313",
       "code": "BX-03",
       "variantCode": "BX-03",
       "variantNo": "01",
@@ -33694,13 +34516,15 @@
       "stats": {
         "blade": 32,
         "bladeRaw": [
-          32
+          32,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 7,
         "ratchetRaw": [
-          7
+          7,
+          400
         ],
         "bit": 2,
         "bitRaw": [
@@ -33713,7 +34537,7 @@
       }
     },
     {
-      "id": "bey-311",
+      "id": "bey-314",
       "code": "BX-02",
       "variantCode": "BX-02",
       "variantNo": "01",
@@ -33791,13 +34615,15 @@
       "stats": {
         "blade": 32.5,
         "bladeRaw": [
-          32.5
+          32.5,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -33810,7 +34636,7 @@
       }
     },
     {
-      "id": "bey-312",
+      "id": "bey-315",
       "code": "BX-01",
       "variantCode": "BX-01",
       "variantNo": "01",
@@ -33888,13 +34714,15 @@
       "stats": {
         "blade": 35,
         "bladeRaw": [
-          35
+          35,
+          489
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
         "ratchet": 6.5,
         "ratchetRaw": [
-          6.5
+          6.5,
+          400
         ],
         "bit": 2.5,
         "bitRaw": [
@@ -33966,7 +34794,8 @@
         ],
         "stat": 42.5,
         "rawStat": [
-          42.5
+          42.5,
+          498
         ],
         "desc": "利用可切替Blade高度的機關，能分別使用強撞擊攻擊刃及化解刃，特化於向各種高度對手的對應力。",
         "image": "https://go-shoot.github.io/x/img/blade/HlNt.png"
@@ -33985,7 +34814,8 @@
         ],
         "stat": 37.5,
         "rawStat": [
-          37.5
+          37.5,
+          490
         ],
         "desc": "金屬連接至中央能提高剛性；框架構造的圓形十二枚刃把衝擊高效率分散，持續抵耐。",
         "image": "https://go-shoot.github.io/x/img/blade/HvRn.png"
@@ -34005,7 +34835,8 @@
         ],
         "stat": 43.5,
         "rawStat": [
-          43.5
+          43.5,
+          514
         ],
         "desc": "內藏彈簧的可動刃攻擊時回彈，以反發力特化於強烈的撞擊性能。",
         "image": "https://go-shoot.github.io/x/img/blade/GlVl.png"
@@ -34024,7 +34855,8 @@
         ],
         "stat": 41.5,
         "rawStat": [
-          41.5
+          41.5,
+          503
         ],
         "desc": "金屬連接至中央能提高剛性；重量級的六枚刃作強烈連打攻擊。",
         "image": "https://go-shoot.github.io/x/img/blade/DrSt.png"
@@ -34062,7 +34894,8 @@
         ],
         "stat": 60.5,
         "rawStat": [
-          60.5
+          60.5,
+          520
         ],
         "desc": "對戰中分身成內藏平坦軸端以跑動來攻擊對手的「子彈」、及以防禦性能優秀的圓形來抵耐對手攻擊的「本體」。（勝負以本體判定）",
         "image": "https://go-shoot.github.io/x/img/blade/BlGr.png"
@@ -34080,7 +34913,8 @@
         ],
         "stat": 36.5,
         "rawStat": [
-          36.5
+          36.5,
+          492
         ],
         "desc": "在兩處大幅度凸出的六枚刃特化於以連打及強擊把對手撞飛。",
         "image": "https://go-shoot.github.io/x/img/blade/OrCl.png"
@@ -34098,7 +34932,8 @@
         ],
         "stat": 37.5,
         "rawStat": [
-          37.5
+          37.5,
+          512
         ],
         "desc": "依迴轉速度變形：初段時彈出Counter刃作反擊、後段時以近圓形狀防守到尾。",
         "image": "https://go-shoot.github.io/x/img/blade/MmCr.png"
@@ -34118,7 +34953,8 @@
         ],
         "stat": 39,
         "rawStat": [
-          39
+          39,
+          499
         ],
         "desc": "搭載大型橡膠的三枚刃不斷作出強烈一擊。",
         "image": "https://go-shoot.github.io/x/img/blade/MtDg.png"
@@ -34138,7 +34974,8 @@
         ],
         "stat": 37.5,
         "rawStat": [
-          37.5
+          37.5,
+          520
         ],
         "desc": "產生驚異持久力的圓盤形狀六十枚刃，特化於長時間持續迴轉。",
         "image": "https://go-shoot.github.io/x/img/blade/ClMr.png"
@@ -34156,7 +34993,8 @@
         ],
         "stat": 35.5,
         "rawStat": [
-          35.5
+          35.5,
+          490
         ],
         "desc": "一併擁有角度不同的大型刃及小型刃，在水平時發揮防禦、傾斜時發揮攻擊性能。",
         "image": "https://go-shoot.github.io/x/img/blade/SmCl.png"
@@ -34174,7 +35012,8 @@
         ],
         "stat": 37.5,
         "rawStat": [
-          37.5
+          37.5,
+          511
         ],
         "desc": "備有多數打擊部位的大型兩枚刃，特化於從低位置的強烈Upper攻擊。",
         "image": "https://go-shoot.github.io/x/img/blade/ShSc.png"
@@ -34192,7 +35031,8 @@
         ],
         "stat": 36.5,
         "rawStat": [
-          36.5
+          36.5,
+          490
         ],
         "desc": "擁有大型Launcher hook的内重心構造，受到攻擊也難以被撞飛。",
         "image": "https://go-shoot.github.io/x/img/blade/TrPr.png"
@@ -34210,7 +35050,8 @@
         ],
         "stat": 39.5,
         "rawStat": [
-          39.5
+          39.5,
+          500
         ],
         "desc": "X Dash時從高化解性防禦性能的圓形六枚刃變形至高攻擊性能的三枚刃。（只能以六枚刃發射）",
         "image": "https://go-shoot.github.io/x/img/blade/ScSp.png"
@@ -34229,7 +35070,8 @@
         ],
         "stat": 32.5,
         "rawStat": [
-          32.5
+          32.5,
+          500
         ],
         "desc": "高剛性圓形的兩枚刃既有離心力持久亦有卸走性防禦。",
         "image": "https://go-shoot.github.io/x/img/blade/ShDr.png"
@@ -34247,7 +35089,8 @@
         ],
         "stat": 34,
         "rawStat": [
-          34
+          34,
+          484
         ],
         "desc": "一併擁有能抵擋對手攻擊的連打形狀側面、及於傾側時撞擊對手的向上打擊面。",
         "image": "https://go-shoot.github.io/x/img/blade/GlRc.png"
@@ -34265,7 +35108,8 @@
         ],
         "stat": 26.5,
         "rawStat": [
-          26.5
+          26.5,
+          453
         ],
         "desc": "小徑零枚刃受對手攻擊時減輕持久損失。",
         "image": "https://go-shoot.github.io/x/img/blade/GhCr.png"
@@ -34284,7 +35128,8 @@
         ],
         "stat": 38.5,
         "rawStat": [
-          38.5
+          38.5,
+          509
         ],
         "desc": "在厚四枚刃配備的橡膠帶來的摩擦力及反發力，特化於把對手撞飛。",
         "image": "https://go-shoot.github.io/x/img/blade/ImDr.png"
@@ -34302,7 +35147,8 @@
         ],
         "stat": 36.5,
         "rawStat": [
-          36.5
+          36.5,
+          477
         ],
         "desc": "圓形十二枚刃中内藏的三顆金屬球能上下移動，緩和衝擊。",
         "image": "https://go-shoot.github.io/x/img/blade/KnMl.png"
@@ -34320,7 +35166,8 @@
         ],
         "stat": 36.5,
         "rawStat": [
-          36.5
+          36.5,
+          490
         ],
         "desc": "小型金屬刃能開關，依擊中對手的方式而改變攻擊力。",
         "image": "https://go-shoot.github.io/x/img/blade/SmSb.png"
@@ -34339,7 +35186,8 @@
         ],
         "stat": 35,
         "rawStat": [
-          35
+          35,
+          490
         ],
         "desc": "上下擁有不同的性能：上面擅於少持久損失的攻擊、下面擅於反擊。",
         "image": "https://go-shoot.github.io/x/img/blade/CrGr.png"
@@ -34358,7 +35206,8 @@
         ],
         "stat": 37,
         "rawStat": [
-          37
+          37,
+          492
         ],
         "desc": "下部的Free Ring能迴轉，卸走對手攻擊以維持迴轉力。",
         "image": "https://go-shoot.github.io/x/img/blade/SlWl.png"
@@ -34376,7 +35225,8 @@
         ],
         "stat": 38,
         "rawStat": [
-          38
+          38,
+          498
         ],
         "desc": "大徑幅且具離心力的Smash五枚刃，如籠罩對手地連打。",
         "image": "https://go-shoot.github.io/x/img/blade/WhWv.png"
@@ -34395,7 +35245,8 @@
         ],
         "stat": 38.5,
         "rawStat": [
-          38.5
+          38.5,
+          510
         ],
         "desc": "大型三枚刃産生高打擊力。",
         "image": "https://go-shoot.github.io/x/img/blade/ArPg.png"
@@ -34413,7 +35264,8 @@
         ],
         "stat": 35,
         "rawStat": [
-          35
+          35,
+          490
         ],
         "desc": "垂直高聳形狀的厚七枚刃，防禦從任何方向而來的攻擊。",
         "image": "https://go-shoot.github.io/x/img/blade/LnCr.png"
@@ -34431,7 +35283,8 @@
         ],
         "stat": 34.5,
         "rawStat": [
-          34.5
+          34.5,
+          489
         ],
         "desc": "凸出的逆台形六枚刃由上壓向對手並削弱持久力。",
         "image": "https://go-shoot.github.io/x/img/blade/PhRd.png"
@@ -34450,7 +35303,8 @@
         ],
         "stat": 32.5,
         "rawStat": [
-          32.5
+          32.5,
+          480
         ],
         "desc": "設於外周並向下傾斜的八枚防禦刃，抵禦從低位置而來的攻擊。",
         "image": "https://go-shoot.github.io/x/img/blade/BlSh.png"
@@ -34469,7 +35323,8 @@
         ],
         "stat": 37.5,
         "rawStat": [
-          37.5
+          37.5,
+          500
         ],
         "desc": "尖端厚的四枚Upper刃擁有高撞擊性能。",
         "image": "https://go-shoot.github.io/x/img/blade/CbDg.png"
@@ -34488,7 +35343,8 @@
         ],
         "stat": 34.5,
         "rawStat": [
-          34.5
+          34.5,
+          489
         ],
         "desc": "一併持有Upper刃、Damper刃及Smash刃三種性能。",
         "image": "https://go-shoot.github.io/x/img/blade/WsTg.png"
@@ -34506,7 +35362,8 @@
         ],
         "stat": 28,
         "rawStat": [
-          28
+          28,
+          485
         ],
         "desc": "圓滑三枚刃形狀特化於把對手攻擊卸走。",
         "image": "https://go-shoot.github.io/x/img/blade/ShSh.png"
@@ -34524,7 +35381,8 @@
         ],
         "stat": 37,
         "rawStat": [
-          37
+          37,
+          490
         ],
         "desc": "上下方向都呈鋸齒狀又突出的厚八枚刃，擅於給予不規則的打擊。",
         "image": "https://go-shoot.github.io/x/img/blade/TyBt.png"
@@ -34542,7 +35400,8 @@
         ],
         "stat": 35.5,
         "rawStat": [
-          35.5
+          35.5,
+          500
         ],
         "desc": "外重心又大徑幅的五枚刃形狀，特化於産生離心力。",
         "image": "https://go-shoot.github.io/x/img/blade/WzRd.png"
@@ -34560,7 +35419,8 @@
         ],
         "stat": 33.5,
         "rawStat": [
-          33.5
+          33.5,
+          480
         ],
         "desc": "有厚度的Smash刃特化於把對手砸向對戰盤。",
         "image": "https://go-shoot.github.io/x/img/blade/HlHm.png"
@@ -34578,7 +35438,8 @@
         ],
         "stat": 36.5,
         "rawStat": [
-          36.5
+          36.5,
+          490
         ],
         "desc": "突出的大型攻擊刃，特法於一擊撞飛對手。",
         "image": "https://go-shoot.github.io/x/img/blade/DrBs.png"
@@ -34596,7 +35457,8 @@
         ],
         "stat": 32.5,
         "rawStat": [
-          32.5
+          32.5,
+          483
         ],
         "desc": "以圓形配置的連打九枚刃把從各個方向而來的攻擊都分散及撞回。",
         "image": "https://go-shoot.github.io/x/img/blade/SpCw.png"
@@ -34614,7 +35476,8 @@
         ],
         "stat": 33.5,
         "rawStat": [
-          33.5
+          33.5,
+          483
         ],
         "desc": "左右的刃形狀有巨大差異，一併持有攻擊及防禦構造。",
         "image": "https://go-shoot.github.io/x/img/blade/UnSt.png"
@@ -34632,7 +35495,8 @@
         ],
         "stat": 31.5,
         "rawStat": [
-          31.5
+          31.5,
+          480
         ],
         "desc": "流線形狀四枚刃減低空氣抵抗，擅於持續迴轉。",
         "image": "https://go-shoot.github.io/x/img/blade/WyGl.png"
@@ -34650,7 +35514,8 @@
         ],
         "stat": 38.5,
         "rawStat": [
-          38.5
+          38.5,
+          490
         ],
         "desc": "厚重三枚刃強烈撞向對手。",
         "image": "https://go-shoot.github.io/x/img/blade/PhWn.png"
@@ -34668,7 +35533,8 @@
         ],
         "stat": 33.5,
         "rawStat": [
-          33.5
+          33.5,
+          490
         ],
         "desc": "三枚輕量Upper刃産生高速攻擊。",
         "image": "https://go-shoot.github.io/x/img/blade/PhFt.png"
@@ -34686,7 +35552,8 @@
         ],
         "stat": 35,
         "rawStat": [
-          35
+          35,
+          480
         ],
         "desc": "六枚攻擊刃擅於連打對手。",
         "image": "https://go-shoot.github.io/x/img/blade/DrDg.png"
@@ -34704,7 +35571,8 @@
         ],
         "stat": 35,
         "rawStat": [
-          35
+          35,
+          489
         ],
         "desc": "三攻Upper刃擅於把對手向斜上方撞飛。",
         "image": "https://go-shoot.github.io/x/img/blade/DrSw.png"
@@ -34719,7 +35587,8 @@
         "attr": [],
         "stat": 37.5,
         "rawStat": [
-          37.5
+          37.5,
+          489
         ],
         "desc": "",
         "image": "https://go-shoot.github.io/x/img/blade/DrSw2.png"
@@ -34737,7 +35606,8 @@
         ],
         "stat": 33.5,
         "rawStat": [
-          33.5
+          33.5,
+          487
         ],
         "desc": "性能依高度變化：有化解性下段刃及撞擊性上段刃的二層構造設計。",
         "image": "https://go-shoot.github.io/x/img/blade/HlCh.png"
@@ -34755,7 +35625,8 @@
         ],
         "stat": 32.5,
         "rawStat": [
-          32.5
+          32.5,
+          480
         ],
         "desc": "四枚Smash刃擅於令對手姿勢崩倒。",
         "image": "https://go-shoot.github.io/x/img/blade/HlSc.png"
@@ -34773,7 +35644,8 @@
         ],
         "stat": 32,
         "rawStat": [
-          32
+          32,
+          480
         ],
         "desc": "兩枚大型圓形刃為産生強離心力的外重心設計。",
         "image": "https://go-shoot.github.io/x/img/blade/WzAr.png"
@@ -34806,7 +35678,8 @@
         ],
         "stat": 32.5,
         "rawStat": [
-          32.5
+          32.5,
+          480
         ],
         "desc": "採用容易以六枚防禦刃吸收衝擊的阻尼器構造。",
         "image": "https://go-shoot.github.io/x/img/blade/KnSh.png"
@@ -34839,7 +35712,8 @@
         ],
         "stat": 33,
         "rawStat": [
-          33
+          33,
+          480
         ],
         "desc": "刃的位置在高處的設計擅於壓制對手的攻擊。",
         "image": "https://go-shoot.github.io/x/img/blade/KnLn.png"
@@ -34857,7 +35731,8 @@
         ],
         "stat": 33,
         "rawStat": [
-          33
+          33,
+          450
         ],
         "desc": "金屬凝縮在内側的内重心構造，令姿勢受到強衝擊也難以崩倒。",
         "image": "https://go-shoot.github.io/x/img/blade/RhHr.png"
@@ -34875,7 +35750,8 @@
         ],
         "stat": 34.5,
         "rawStat": [
-          34.5
+          34.5,
+          490
         ],
         "desc": "急角度的Upper刃潛入對手身内，能從低位置向上撞。",
         "image": "https://go-shoot.github.io/x/img/blade/ShEd.png"
@@ -34893,7 +35769,8 @@
         ],
         "stat": 31.5,
         "rawStat": [
-          31.5
+          31.5,
+          490
         ],
         "desc": "一併持有攻擊刃及防禦刃，可用不同發射方法分別使用不同性能。",
         "image": "https://go-shoot.github.io/x/img/blade/LnCl.png"
@@ -34911,7 +35788,8 @@
         ],
         "stat": 34.5,
         "rawStat": [
-          34.5
+          34.5,
+          490
         ],
         "desc": "向下尖鋭的六枚刃擅於從上方削去對手的持久力。",
         "image": "https://go-shoot.github.io/x/img/blade/VpTl.png"
@@ -34930,7 +35808,8 @@
         ],
         "stat": 37.5,
         "rawStat": [
-          37.5
+          37.5,
+          480
         ],
         "desc": "四枚大型龍型刃撞飛對手。",
         "image": "https://go-shoot.github.io/x/img/blade/CbDr.png"
@@ -34948,7 +35827,8 @@
         ],
         "stat": 31,
         "rawStat": [
-          31
+          31,
+          450
         ],
         "desc": "小徑及高剛性内重心構造，容易抵禦對手衝擊。",
         "image": "https://go-shoot.github.io/x/img/blade/ShKn.png"
@@ -34966,7 +35846,8 @@
         ],
         "stat": 31.5,
         "rawStat": [
-          31.5
+          31.5,
+          490
         ],
         "desc": "持有兩種不同性能的刃，可用發射方法分別使用攻擊及防禦。",
         "image": "https://go-shoot.github.io/x/img/blade/SmSt.png"
@@ -34984,7 +35865,8 @@
         ],
         "stat": 34.5,
         "rawStat": [
-          34.5
+          34.5,
+          489
         ],
         "desc": "向下方的鋸齒狀六枚刃，擅於消耗對手迴轉力。",
         "image": "https://go-shoot.github.io/x/img/blade/PtSw.png"
@@ -35002,7 +35884,8 @@
         ],
         "stat": 32.5,
         "rawStat": [
-          32.5
+          32.5,
+          480
         ],
         "desc": "Smash形狀四枚刃容易令對手傾側。",
         "image": "https://go-shoot.github.io/x/img/blade/MmTs.png"
@@ -35020,7 +35903,8 @@
         ],
         "stat": 30.5,
         "rawStat": [
-          30.5
+          30.5,
+          450
         ],
         "desc": "凝縮成小徑的内重心構造，受到衝擊姿勢也難以崩倒。",
         "image": "https://go-shoot.github.io/x/img/blade/BrSc.png"
@@ -35038,7 +35922,8 @@
         ],
         "stat": 33.5,
         "rawStat": [
-          33.5
+          33.5,
+          490
         ],
         "desc": "擅於從低位置Upper攻擊。",
         "image": "https://go-shoot.github.io/x/img/blade/CrCr.png"
@@ -35056,7 +35941,8 @@
         ],
         "stat": 36,
         "rawStat": [
-          36
+          36,
+          490
         ],
         "desc": "具重量的三枚刃擅於強力地撞走對手。",
         "image": "https://go-shoot.github.io/x/img/blade/TyRr.png"
@@ -35092,7 +35978,8 @@
         ],
         "stat": 31.5,
         "rawStat": [
-          31.5
+          31.5,
+          480
         ],
         "desc": "向下的八枚刃擅於抵禦從低位置而來的攻擊。",
         "image": "https://go-shoot.github.io/x/img/blade/GtTc.png"
@@ -35110,7 +35997,8 @@
         ],
         "stat": 30,
         "rawStat": [
-          30
+          30,
+          500
         ],
         "desc": "滑順圓形兩枚刃卸開對手攻擊，提高持久力。",
         "image": "https://go-shoot.github.io/x/img/blade/ShGl.png"
@@ -35128,7 +36016,8 @@
         ],
         "stat": 35,
         "rawStat": [
-          35
+          35,
+          490
         ],
         "desc": "向下收窄的階梯形狀兩枚刃把對手攻擊由上向下壓制，擅於分散衝擊。",
         "image": "https://go-shoot.github.io/x/img/blade/WyHv.png"
@@ -35342,7 +36231,8 @@
         ],
         "stat": 28.5,
         "rawStat": [
-          28.5
+          28.5,
+          489
         ],
         "desc": "擁有圓形翼的兩枚刃兼備攻擊及防禦。（2000年發售的陀螺之X代復刻版）",
         "image": "https://go-shoot.github.io/x/img/blade/DRS.png"
@@ -35361,7 +36251,8 @@
         ],
         "stat": 28,
         "rawStat": [
-          28
+          28,
+          481
         ],
         "desc": "兩枚水平刃産生高攻擊力及持久力，是重視平衡的設計。（2000年發售的陀螺之X代復刻版）",
         "image": "https://go-shoot.github.io/x/img/blade/DZS.png"
@@ -35380,7 +36271,8 @@
         ],
         "stat": 25.5,
         "rawStat": [
-          25.5
+          25.5,
+          490
         ],
         "desc": "左迴轉特化的四枚刃強力地撞走對手。（2000年發售的陀螺之X代復刻版）",
         "image": "https://go-shoot.github.io/x/img/blade/DGS.png"
@@ -35399,7 +36291,8 @@
         ],
         "stat": 28.5,
         "rawStat": [
-          28.5
+          28.5,
+          500
         ],
         "desc": "外周的凹凸擅於反擊防禦。（2001年發售的陀螺之X代復刻版）",
         "image": "https://go-shoot.github.io/x/img/blade/DCS.png"
@@ -35418,7 +36311,8 @@
         ],
         "stat": 31.5,
         "rawStat": [
-          31.5
+          31.5,
+          481
         ],
         "desc": "Upper形狀三枚刃把對手撞走及給予傷害。（2009年發售的陀螺之X代復刻版）",
         "image": "https://go-shoot.github.io/x/img/blade/SPg.png"
@@ -35437,7 +36331,8 @@
         ],
         "stat": 29.5,
         "rawStat": [
-          29.5
+          29.5,
+          480
         ],
         "desc": "台形形狀六枚刃化解對手攻擊同時給予反擊。（2009年發售的陀螺之X代復刻版）",
         "image": "https://go-shoot.github.io/x/img/blade/RLn.png"
@@ -35456,7 +36351,8 @@
         ],
         "stat": 33.5,
         "rawStat": [
-          33.5
+          33.5,
+          488
         ],
         "desc": "在三處配置向左的Upper刃，重視Upper攻擊。（2009年發售的陀螺之X代復刻版）",
         "image": "https://go-shoot.github.io/x/img/blade/LLd_u.png"
@@ -35475,7 +36371,8 @@
         ],
         "stat": 33.5,
         "rawStat": [
-          33.5
+          33.5,
+          488
         ],
         "desc": "在三處配置向左的連打刃，重視連打攻擊。（2009年發售的陀螺之X代復刻版）",
         "image": "https://go-shoot.github.io/x/img/blade/LLd_r.png"
@@ -35494,7 +36391,8 @@
         ],
         "stat": 31,
         "rawStat": [
-          31
+          31,
+          488
         ],
         "desc": "由強攻擊的上段兩枚刃與化解性防禦的下段兩枚刃組合而成，一併持有攻防兩方面的性能。（2016年發售的陀螺之X代復刻版）",
         "image": "https://go-shoot.github.io/x/img/blade/S2.png"
@@ -35513,7 +36411,8 @@
         ],
         "stat": 33.5,
         "rawStat": [
-          33.5
+          33.5,
+          490
         ],
         "desc": "三把大劍的強烈上段攻擊旨在Burst。（2016年發售的陀螺之X代復刻版）",
         "image": "https://go-shoot.github.io/x/img/blade/V2.png"
@@ -35532,7 +36431,8 @@
         ],
         "stat": 30.5,
         "rawStat": [
-          30.5
+          30.5,
+          492
         ],
         "desc": "劍形大型一枚刃，擅於強烈地撞飛對手。（2016年發售的陀螺之X代復刻版）",
         "image": "https://go-shoot.github.io/x/img/blade/X2.png"
@@ -36072,7 +36972,8 @@
         ],
         "stat": 31,
         "rawStat": [
-          31
+          31,
+          500
         ],
         "desc": "高連打性能的具厚度十五枚刃令反擊性能優秀。",
         "image": "https://go-shoot.github.io/x/img/blade/CX/main/Fr.png"
@@ -36090,7 +36991,8 @@
         ],
         "stat": 33.5,
         "rawStat": [
-          33.5
+          33.5,
+          500
         ],
         "desc": "在側面擁有多面銳角形狀的重量級八枚刃把對手迴轉力削弱。",
         "image": "https://go-shoot.github.io/x/img/blade/CX/main/Mg.png"
@@ -36109,7 +37011,8 @@
         ],
         "stat": 31.5,
         "rawStat": [
-          31.5
+          31.5,
+          493
         ],
         "desc": "重量集中外周的圓滑形狀連打刃，既有高持久性能以及攻擊性能。",
         "image": "https://go-shoot.github.io/x/img/blade/CX/main/Hn.png"
@@ -36128,7 +37031,8 @@
         ],
         "stat": 32.5,
         "rawStat": [
-          32.5
+          32.5,
+          497
         ],
         "desc": "反轉可切換模式：Upper模式擅於以五枚刃撞飛對手的攻擊、Smash模式擅於以十枚刃砸下對手攻擊的防禦。",
         "image": "https://go-shoot.github.io/x/img/blade/CX/main/Ec.png"
@@ -36147,7 +37051,8 @@
         ],
         "stat": 29,
         "rawStat": [
-          29
+          29,
+          510
         ],
         "desc": "滑順圓形減少空氣抵抗，持久性能優秀。",
         "image": "https://go-shoot.github.io/x/img/blade/CX/main/Fl.png"
@@ -36166,7 +37071,8 @@
         ],
         "stat": 32.5,
         "rawStat": [
-          32.5
+          32.5,
+          500
         ],
         "desc": "流線形的厚重三枚刃擅於撞飛對手。",
         "image": "https://go-shoot.github.io/x/img/blade/CX/main/Bl.png"
@@ -36185,7 +37091,8 @@
         ],
         "stat": 31.5,
         "rawStat": [
-          31.5
+          31.5,
+          520
         ],
         "desc": "兼備Smash形狀大型三枚刃與空力構造。",
         "image": "https://go-shoot.github.io/x/img/blade/CX/main/Vl.png"
@@ -36203,7 +37110,8 @@
         ],
         "stat": 30.5,
         "rawStat": [
-          30.5
+          30.5,
+          500
         ],
         "desc": "向下的鋸齒尖刺形四枚刃削弱對手持久。",
         "image": "https://go-shoot.github.io/x/img/blade/CX/main/Fn.png"
@@ -36221,7 +37129,8 @@
         ],
         "stat": 30.5,
         "rawStat": [
-          30.5
+          30.5,
+          510
         ],
         "desc": "一級級變大的九枚刃能連打同時強攻擊。",
         "image": "https://go-shoot.github.io/x/img/blade/CX/main/Bs.png"
@@ -36239,7 +37148,8 @@
         ],
         "stat": 29,
         "rawStat": [
-          29
+          29,
+          510
         ],
         "desc": "有起伏的Smash形四枚刃以連打令對手姿勢崩倒。",
         "image": "https://go-shoot.github.io/x/img/blade/CX/main/Rp.png"
@@ -36258,7 +37168,8 @@
         ],
         "stat": 30.5,
         "rawStat": [
-          30.5
+          30.5,
+          511
         ],
         "desc": "波浪形狀的連打六枚刃抵擋並撞回攻擊。",
         "image": "https://go-shoot.github.io/x/img/blade/CX/main/Dr.png"
@@ -36276,7 +37187,8 @@
         ],
         "stat": 29.5,
         "rawStat": [
-          29.5
+          29.5,
+          511
         ],
         "desc": "把金屬重量配置在外側的圓弧狀兩枚刃産生強離心力。",
         "image": "https://go-shoot.github.io/x/img/blade/CX/main/Ar.png"
@@ -36294,7 +37206,8 @@
         ],
         "stat": 31.5,
         "rawStat": [
-          31.5
+          31.5,
+          530
         ],
         "desc": "三枚大形Upper刃加上了能産生Down force的空力構造。",
         "image": "https://go-shoot.github.io/x/img/blade/CX/main/Br.png"
@@ -36312,7 +37225,8 @@
         ],
         "stat": 29.5,
         "rawStat": [
-          29.5
+          29.5,
+          510
         ],
         "desc": "兩枚大型圓弧狀的刃産生強離心力。",
         "image": "https://go-shoot.github.io/x/img/blade/CX/main/Wr.png"
@@ -36330,7 +37244,8 @@
         ],
         "stat": 29,
         "rawStat": [
-          29
+          29,
+          511
         ],
         "desc": "四枚刃的Smash形狀令對手姿勢崩倒同時連打；平衡形狀的設計。",
         "image": "https://go-shoot.github.io/x/img/blade/CX/main/Ft.png"
@@ -36348,7 +37263,8 @@
         ],
         "stat": 29,
         "rawStat": [
-          29
+          29,
+          510
         ],
         "desc": "帶有圓潤度的三枚刃特化於卸開性能。",
         "image": "https://go-shoot.github.io/x/img/blade/CX/main/An.png"
@@ -36365,7 +37281,8 @@
         "attr": [],
         "stat": 6.5,
         "rawStat": [
-          6.5
+          6.5,
+          410
         ],
         "desc": "採用容易抵受由水平方向而來之攻擊的零枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/0-60.png"
@@ -36380,7 +37297,8 @@
         "attr": [],
         "stat": 7,
         "rawStat": [
-          7
+          7,
+          410
         ],
         "desc": "採用容易抵受由水平方向而來之攻擊的零枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/0-70.png"
@@ -36395,7 +37313,8 @@
         "attr": [],
         "stat": 7.5,
         "rawStat": [
-          7.5
+          7.5,
+          410
         ],
         "desc": "採用容易抵受由水平方向而來之攻擊的零枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/0-80.png"
@@ -36410,7 +37329,8 @@
         "attr": [],
         "stat": 5.5,
         "rawStat": [
-          5.5
+          5.5,
+          432
         ],
         "desc": "採用特化於攻擊性能的一枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/1-50.png"
@@ -36425,7 +37345,8 @@
         "attr": [],
         "stat": 6,
         "rawStat": [
-          6
+          6,
+          432
         ],
         "desc": "採用特化於攻擊性能的一枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/1-60.png"
@@ -36440,7 +37361,8 @@
         "attr": [],
         "stat": 6,
         "rawStat": [
-          6
+          6,
+          432
         ],
         "desc": "採用特化於攻擊性能的一枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/1-70.png"
@@ -36455,7 +37377,8 @@
         "attr": [],
         "stat": 6.5,
         "rawStat": [
-          6.5
+          6.5,
+          432
         ],
         "desc": "採用特化於攻擊性能的一枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/1-80.png"
@@ -36470,7 +37393,8 @@
         "attr": [],
         "stat": 6.5,
         "rawStat": [
-          6.5
+          6.5,
+          410
         ],
         "desc": "採用左迴轉時容易撞走對手、右迴轉時容易化解攻擊之形狀的兩枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/2-60.png"
@@ -36485,7 +37409,8 @@
         "attr": [],
         "stat": 6.5,
         "rawStat": [
-          6.5
+          6.5,
+          410
         ],
         "desc": "採用左迴轉時容易撞走對手、右迴轉時容易化解攻擊之形狀的兩枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/2-70.png"
@@ -36500,7 +37425,8 @@
         "attr": [],
         "stat": 7,
         "rawStat": [
-          7
+          7,
+          410
         ],
         "desc": "採用左迴轉時容易撞走對手、右迴轉時容易化解攻擊之形狀的兩枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/2-80.png"
@@ -36515,7 +37441,8 @@
         "attr": [],
         "stat": 6.5,
         "rawStat": [
-          6.5
+          6.5,
+          400
         ],
         "desc": "採用高撞擊性能的三枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/3-60.png"
@@ -36530,7 +37457,8 @@
         "attr": [],
         "stat": 6.5,
         "rawStat": [
-          6.5
+          6.5,
+          400
         ],
         "desc": "採用高撞擊性能的三枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/3-70.png"
@@ -36545,7 +37473,8 @@
         "attr": [],
         "stat": 7,
         "rawStat": [
-          7
+          7,
+          400
         ],
         "desc": "採用高撞擊性能的三枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/3-80.png"
@@ -36562,7 +37491,8 @@
         ],
         "stat": 4.5,
         "rawStat": [
-          4.5
+          4.5,
+          390
         ],
         "desc": "採用把攻擊化解的三枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/3-85.png"
@@ -36577,7 +37507,8 @@
         "attr": [],
         "stat": 6,
         "rawStat": [
-          6
+          6,
+          400
         ],
         "desc": "採用容易化解攻擊的四枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/4-50.png"
@@ -36594,7 +37525,8 @@
         ],
         "stat": 4.5,
         "rawStat": [
-          4.5
+          4.5,
+          400
         ],
         "desc": "採用重心平衡良好的四枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/4-55.png"
@@ -36609,7 +37541,8 @@
         "attr": [],
         "stat": 6.5,
         "rawStat": [
-          6.5
+          6.5,
+          400
         ],
         "desc": "採用容易化解攻擊的四枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/4-60.png"
@@ -36624,7 +37557,8 @@
         "attr": [],
         "stat": 6.5,
         "rawStat": [
-          6.5
+          6.5,
+          400
         ],
         "desc": "採用容易化解攻擊的四枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/4-70.png"
@@ -36639,7 +37573,8 @@
         "attr": [],
         "stat": 7,
         "rawStat": [
-          7
+          7,
+          400
         ],
         "desc": "採用容易化解攻擊的四枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/4-80.png"
@@ -36654,7 +37589,8 @@
         "attr": [],
         "stat": 6.5,
         "rawStat": [
-          6.5
+          6.5,
+          400
         ],
         "desc": "採用厚及離心力優秀的五枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/5-50.png"
@@ -36669,7 +37605,8 @@
         "attr": [],
         "stat": 6.5,
         "rawStat": [
-          6.5
+          6.5,
+          400
         ],
         "desc": "採用厚及離心力優秀的五枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/5-60.png"
@@ -36684,7 +37621,8 @@
         "attr": [],
         "stat": 6.5,
         "rawStat": [
-          6.5
+          6.5,
+          400
         ],
         "desc": "採用厚及離心力優秀的五枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/5-70.png"
@@ -36699,7 +37637,8 @@
         "attr": [],
         "stat": 7.5,
         "rawStat": [
-          7.5
+          7.5,
+          400
         ],
         "desc": "採用厚及離心力優秀的五枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/5-80.png"
@@ -36714,7 +37653,8 @@
         "attr": [],
         "stat": 6.5,
         "rawStat": [
-          6.5
+          6.5,
+          400
         ],
         "desc": "採用由兩種交互配置的刃以提高撞擊性能的六枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/6-60.png"
@@ -36729,7 +37669,8 @@
         "attr": [],
         "stat": 6.5,
         "rawStat": [
-          6.5
+          6.5,
+          400
         ],
         "desc": "採用由兩種交互配置的刃以提高撞擊性能的六枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/6-70.png"
@@ -36744,7 +37685,8 @@
         "attr": [],
         "stat": 7,
         "rawStat": [
-          7
+          7,
+          400
         ],
         "desc": "採用由兩種交互配置的刃以提高撞擊性能的六枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/6-80.png"
@@ -36761,7 +37703,8 @@
         ],
         "stat": 5.5,
         "rawStat": [
-          5.5
+          5.5,
+          414
         ],
         "desc": "採用厚及防禦性能優秀的七枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/7-55.png"
@@ -36776,7 +37719,8 @@
         "attr": [],
         "stat": 7,
         "rawStat": [
-          7
+          7,
+          414
         ],
         "desc": "採用厚及防禦性能優秀的垂直七枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/7-60.png"
@@ -36791,7 +37735,8 @@
         "attr": [],
         "stat": 7.5,
         "rawStat": [
-          7.5
+          7.5,
+          414
         ],
         "desc": "採用厚及防禦性能優秀的垂直七枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/7-70.png"
@@ -36806,7 +37751,8 @@
         "attr": [],
         "stat": 7.5,
         "rawStat": [
-          7.5
+          7.5,
+          414
         ],
         "desc": "採用厚及防禦性能優秀的垂直七枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/7-80.png"
@@ -36821,7 +37767,8 @@
         "attr": [],
         "stat": 7.5,
         "rawStat": [
-          7.5
+          7.5,
+          429
         ],
         "desc": "使用大徑及擅於強化離心力的八枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/8-70.png"
@@ -36836,7 +37783,8 @@
         "attr": [],
         "stat": 8.5,
         "rawStat": [
-          8.5
+          8.5,
+          429
         ],
         "desc": "使用大徑及擅於強化離心力的八枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/8-80.png"
@@ -36851,7 +37799,8 @@
         "attr": [],
         "stat": 6.5,
         "rawStat": [
-          6.5
+          6.5,
+          390
         ],
         "desc": "使用連打優秀的九枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/9-60.png"
@@ -36868,7 +37817,8 @@
         ],
         "stat": 4.5,
         "rawStat": [
-          4.5
+          4.5,
+          390
         ],
         "desc": "使用連打優秀的九枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/9-65.png"
@@ -36883,7 +37833,8 @@
         "attr": [],
         "stat": 6.5,
         "rawStat": [
-          6.5
+          6.5,
+          390
         ],
         "desc": "使用連打優秀的九枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/9-70.png"
@@ -36898,7 +37849,8 @@
         "attr": [],
         "stat": 7,
         "rawStat": [
-          7
+          7,
+          390
         ],
         "desc": "使用連打優秀的九枚刃。",
         "image": "https://go-shoot.github.io/x/img/ratchet/9-80.png"
@@ -36916,7 +37868,7 @@
         "stat": 10.5,
         "rawStat": [
           10.5,
-          5,
+          404,
           85
         ],
         "desc": "金屬零件令重量增加。",
