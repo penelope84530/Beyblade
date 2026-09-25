@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T02:43:48.835Z",
+  "generatedAt": "2026-09-25T02:42:08.440Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 315,
@@ -1676,7 +1676,9 @@
       "isCx": true,
       "isCxExpansion": true,
       "videoId": "0XqslWS1EDs",
-      "meta": {},
+      "meta": {
+        "get": 8
+      },
       "names": {
         "eng": "Cc.Tr.T.Q 5-50 GN",
         "chi": "Cc.Tr.T.Q 5-50 GN",
@@ -1822,7 +1824,7 @@
       "cxUnknownTokens": [],
       "isCx": true,
       "isCxExpansion": true,
-      "videoId": null,
+      "videoId": "[object Object]",
       "meta": {},
       "names": {
         "eng": "Cc.Tr.T.Q 5-50 GN",
@@ -1969,7 +1971,7 @@
       "cxUnknownTokens": [],
       "isCx": true,
       "isCxExpansion": true,
-      "videoId": null,
+      "videoId": "[object Object]",
       "meta": {},
       "names": {
         "eng": "Cc.Tr.T.Q 5-50 GN",
@@ -8560,10 +8562,10 @@
       "normalizedCode": "CX14",
       "line": "CX",
       "productType": "S",
-      "comboRaw": "Kn.Fr.G.V 8-70 GN",
+      "comboRaw": "Kn.Fr.G.V 8-70 UN",
       "bladeCode": "Kn.Fr.G.V",
       "ratchetCode": "8-70",
-      "bitCode": "GN",
+      "bitCode": "UN",
       "cxChipCode": "Kn",
       "cxMainCode": "Fr",
       "cxSuffixCode": "G",
@@ -8622,25 +8624,25 @@
       "videoId": "Elq5yngup_c",
       "meta": {},
       "names": {
-        "eng": "Kn.Fr.G.V 8-70 GN",
-        "chi": "炎光 閃焰 8-70 GN",
+        "eng": "Kn.Fr.G.V 8-70 UN",
+        "chi": "炎光 閃焰 8-70 UN",
         "jap": "フレア"
       },
-      "formalName": "Kn.Fr.G.V 8-70 GN",
-      "formalAlias": "炎光 閃焰 8-70 GN",
+      "formalName": "Kn.Fr.G.V 8-70 UN",
+      "formalAlias": "炎光 閃焰 8-70 UN",
       "searchTokens": [
         "CX-14",
-        "Kn.Fr.G.V 8-70 GN",
+        "Kn.Fr.G.V 8-70 UN",
         "Kn.Fr.G.V",
-        "Kn.Fr.G.V 8-70 GN",
+        "Kn.Fr.G.V 8-70 UN",
         "フレア",
-        "炎光 閃焰 8-70 GN"
+        "炎光 閃焰 8-70 UN"
       ],
       "images": {
         "blade": "https://go-shoot.github.io/x/img/blade/Kn.Fr.G.V.png",
         "bladeMain": "https://go-shoot.github.io/x/img/blade/CX/main/Fr.png",
         "ratchet": "https://go-shoot.github.io/x/img/ratchet/8-70.png",
-        "bit": "https://go-shoot.github.io/x/img/bit/GN.png",
+        "bit": "https://go-shoot.github.io/x/img/bit/UN.png",
         "cx": [
           {
             "category": "chip",
@@ -8694,9 +8696,9 @@
         "bit": 2,
         "bitRaw": [
           2,
-          120
+          102
         ],
-        "bitMobility": 120
+        "bitMobility": 102
       }
     },
     {
@@ -10707,99 +10709,6 @@
       "normalizedCode": "BXH21",
       "line": "BX",
       "productType": "Lm H",
-      "comboRaw": "/ / D",
-      "bladeCode": "/",
-      "ratchetCode": "/",
-      "bitCode": "D",
-      "cxChipCode": "",
-      "cxMainCode": "",
-      "cxSuffixCode": "",
-      "cxComponents": {
-        "chip": "",
-        "main": "",
-        "assist": "",
-        "over": "",
-        "metal": "",
-        "hasbro": ""
-      },
-      "cxComponentsAll": {
-        "chip": [],
-        "main": [],
-        "assist": [],
-        "over": [],
-        "metal": [],
-        "hasbro": []
-      },
-      "cxDisplayComponents": [],
-      "cxUnknownTokens": [
-        "/"
-      ],
-      "isCx": false,
-      "isCxExpansion": false,
-      "videoId": null,
-      "meta": {},
-      "names": {
-        "eng": "/ / Dot",
-        "chi": "/ / D",
-        "jap": ""
-      },
-      "formalName": "/ / Dot",
-      "formalAlias": "/ / D",
-      "searchTokens": [
-        "BXH-21",
-        "/ / D",
-        "/",
-        "/ / Dot",
-        "/ / D",
-        "BXH-21-02",
-        "BXH2102",
-        "BXH21-02",
-        "BXH21 02"
-      ],
-      "images": {
-        "blade": "https://go-shoot.github.io/x/img/blade/%2F.png",
-        "bladeMain": null,
-        "ratchet": "https://go-shoot.github.io/x/img/ratchet/%2F.png",
-        "bit": "https://go-shoot.github.io/x/img/bit/D.png",
-        "cx": []
-      },
-      "isArMain": false,
-      "attributes": {
-        "blade": [],
-        "bladeMain": [],
-        "ratchet": [],
-        "bit": [
-          "def"
-        ]
-      },
-      "stats": {
-        "blade": null,
-        "bladeRaw": [],
-        "bladeMain": null,
-        "bladeMainRaw": [],
-        "ratchet": null,
-        "ratchetRaw": [],
-        "bit": 2,
-        "bitRaw": [
-          2,
-          12,
-          30,
-          123
-        ],
-        "bitMobility": 12
-      }
-    },
-    {
-      "id": "bey-89",
-      "code": "BXH-21",
-      "variantCode": "BXH-21-03",
-      "variantNo": "03",
-      "hasVariants": true,
-      "displayCode": "BXH-21-03",
-      "normalizedVariantCode": "BXH2103",
-      "normalizedCode": "BXH21",
-      "line": "BX",
-      "productType": "Lm H",
       "comboRaw": "/ / O",
       "bladeCode": "/",
       "ratchetCode": "/",
@@ -10844,10 +10753,10 @@
         "/",
         "/ / Orb",
         "/ / O",
-        "BXH-21-03",
-        "BXH2103",
-        "BXH21-03",
-        "BXH21 03"
+        "BXH-21-02",
+        "BXH2102",
+        "BXH21-02",
+        "BXH21 02"
       ],
       "images": {
         "blade": "https://go-shoot.github.io/x/img/blade/%2F.png",
@@ -10863,6 +10772,99 @@
         "ratchet": [],
         "bit": [
           "sta"
+        ]
+      },
+      "stats": {
+        "blade": null,
+        "bladeRaw": [],
+        "bladeMain": null,
+        "bladeMainRaw": [],
+        "ratchet": null,
+        "ratchetRaw": [],
+        "bit": 2,
+        "bitRaw": [
+          2,
+          12,
+          30,
+          123
+        ],
+        "bitMobility": 12
+      }
+    },
+    {
+      "id": "bey-89",
+      "code": "BXH-21",
+      "variantCode": "BXH-21-03",
+      "variantNo": "03",
+      "hasVariants": true,
+      "displayCode": "BXH-21-03",
+      "normalizedVariantCode": "BXH2103",
+      "normalizedCode": "BXH21",
+      "line": "BX",
+      "productType": "Lm H",
+      "comboRaw": "/ / D",
+      "bladeCode": "/",
+      "ratchetCode": "/",
+      "bitCode": "D",
+      "cxChipCode": "",
+      "cxMainCode": "",
+      "cxSuffixCode": "",
+      "cxComponents": {
+        "chip": "",
+        "main": "",
+        "assist": "",
+        "over": "",
+        "metal": "",
+        "hasbro": ""
+      },
+      "cxComponentsAll": {
+        "chip": [],
+        "main": [],
+        "assist": [],
+        "over": [],
+        "metal": [],
+        "hasbro": []
+      },
+      "cxDisplayComponents": [],
+      "cxUnknownTokens": [
+        "/"
+      ],
+      "isCx": false,
+      "isCxExpansion": false,
+      "videoId": null,
+      "meta": {},
+      "names": {
+        "eng": "/ / Dot",
+        "chi": "/ / D",
+        "jap": ""
+      },
+      "formalName": "/ / Dot",
+      "formalAlias": "/ / D",
+      "searchTokens": [
+        "BXH-21",
+        "/ / D",
+        "/",
+        "/ / Dot",
+        "/ / D",
+        "BXH-21-03",
+        "BXH2103",
+        "BXH21-03",
+        "BXH21 03"
+      ],
+      "images": {
+        "blade": "https://go-shoot.github.io/x/img/blade/%2F.png",
+        "bladeMain": null,
+        "ratchet": "https://go-shoot.github.io/x/img/ratchet/%2F.png",
+        "bit": "https://go-shoot.github.io/x/img/bit/D.png",
+        "cx": []
+      },
+      "isArMain": false,
+      "attributes": {
+        "blade": [],
+        "bladeMain": [],
+        "ratchet": [],
+        "bit": [
+          "def"
         ]
       },
       "stats": {

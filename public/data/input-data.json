@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T02:43:51.553Z",
+  "generatedAt": "2026-09-25T02:42:10.954Z",
   "sources": {
     "forum1117": {
       "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1117",
@@ -80,6 +80,11 @@
           "snA": 1071,
           "title": "【公告】本板板主申請人一覽",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1071"
+        },
+        {
+          "snA": 1382,
+          "title": "【問題】請問陀螺上蓋極值去哪裡查呢? 請問大家重量極值哪裡可以查得到呢? 我看資料庫也都只有官方重量 一般的極值都是從YT影片 或是有人販賣得知原來有這麼重 有什麼表格或是資料庫 可以知道這顆陀螺是頂重或是寶",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1382"
         },
         {
           "snA": 1380,
@@ -170,11 +175,6 @@
           "snA": 1364,
           "title": "【其他】抱怨文台灣和國外戰鬥陀螺商品現況問題。 抱怨文台灣和國外戰鬥陀螺商品現況問題，（第一點代理商為什麽不進貨和店商不賣）（第二點為什麽要黃牛人和網購賣很貴）（第三點剛看FB影片中都有看到代理商出貨給國外地區",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1364"
-        },
-        {
-          "snA": 1360,
-          "title": "【問題】新手求比賽配置建議 比賽到後面幾乎都是神杖 鯊魚 天馬 這幾顆我都沒有 想問要出哪三顆上位的機會比較大? 另外對上H.FB神杖 哪一顆有贏的機會? 附上目前比賽有常用的幾顆陀螺 綠飛龍 160 360 J R 女武神",
-          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1360"
         }
       ],
       "featuredPosts": [
@@ -2523,16 +2523,16 @@
       "variantNo": "01",
       "line": "CX",
       "names": {
-        "eng": "Kn.Fr.G.V 8-70 GN",
-        "chi": "炎光 閃焰 8-70 GN",
+        "eng": "Kn.Fr.G.V 8-70 UN",
+        "chi": "炎光 閃焰 8-70 UN",
         "jap": "フレア"
       },
-      "formalName": "Kn.Fr.G.V 8-70 GN",
-      "formalAlias": "炎光 閃焰 8-70 GN",
+      "formalName": "Kn.Fr.G.V 8-70 UN",
+      "formalAlias": "炎光 閃焰 8-70 UN",
       "parts": {
         "blade": "Kn.Fr.G.V",
         "ratchet": "8-70",
-        "bit": "GN"
+        "bit": "UN"
       },
       "tier": "T2",
       "aliases": [
@@ -2541,12 +2541,12 @@
         "CX1401",
         "CX14 01",
         "CX14-01",
-        "炎光 閃焰 8-70 GN",
-        "Kn.Fr.G.V 8-70 GN",
+        "炎光 閃焰 8-70 UN",
+        "Kn.Fr.G.V 8-70 UN",
         "フレア",
         "Kn.Fr.G.V",
         "8-70",
-        "GN"
+        "UN"
       ]
     },
     {
@@ -3191,38 +3191,6 @@
       "variantNo": "02",
       "line": "BX",
       "names": {
-        "eng": "/ / Dot",
-        "chi": "/ / D",
-        "jap": ""
-      },
-      "formalName": "/ / Dot",
-      "formalAlias": "/ / D",
-      "parts": {
-        "blade": "/",
-        "ratchet": "/",
-        "bit": "D"
-      },
-      "tier": "NA",
-      "aliases": [
-        "BXH-21",
-        "BXH-21-02",
-        "BXH21",
-        "BXH2102",
-        "BXH21 02",
-        "BXH21-02",
-        "/ / D",
-        "/ / Dot",
-        "/",
-        "D"
-      ]
-    },
-    {
-      "id": "bey-89",
-      "code": "BXH-21",
-      "displayCode": "BXH-21-03",
-      "variantNo": "03",
-      "line": "BX",
-      "names": {
         "eng": "/ / Orb",
         "chi": "/ / O",
         "jap": ""
@@ -3237,15 +3205,47 @@
       "tier": "NA",
       "aliases": [
         "BXH-21",
+        "BXH-21-02",
+        "BXH21",
+        "BXH2102",
+        "BXH21 02",
+        "BXH21-02",
+        "/ / O",
+        "/ / Orb",
+        "/",
+        "O"
+      ]
+    },
+    {
+      "id": "bey-89",
+      "code": "BXH-21",
+      "displayCode": "BXH-21-03",
+      "variantNo": "03",
+      "line": "BX",
+      "names": {
+        "eng": "/ / Dot",
+        "chi": "/ / D",
+        "jap": ""
+      },
+      "formalName": "/ / Dot",
+      "formalAlias": "/ / D",
+      "parts": {
+        "blade": "/",
+        "ratchet": "/",
+        "bit": "D"
+      },
+      "tier": "NA",
+      "aliases": [
+        "BXH-21",
         "BXH-21-03",
         "BXH21",
         "BXH2103",
         "BXH21 03",
         "BXH21-03",
-        "/ / O",
-        "/ / Orb",
+        "/ / D",
+        "/ / Dot",
         "/",
-        "O"
+        "D"
       ]
     },
     {
