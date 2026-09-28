@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T02:47:28.061Z",
+  "generatedAt": "2026-09-28T02:53:24.543Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 315,
@@ -1060,6 +1060,112 @@
       "normalizedVariantCode": "BX5301",
       "normalizedCode": "BX53",
       "line": "BX",
+      "productType": "SS H",
+      "comboRaw": "ArPg 3-70 A",
+      "bladeCode": "ArPg",
+      "ratchetCode": "3-70",
+      "bitCode": "A",
+      "cxChipCode": "",
+      "cxMainCode": "",
+      "cxSuffixCode": "",
+      "cxComponents": {
+        "chip": "",
+        "main": "",
+        "assist": "",
+        "over": "",
+        "metal": "",
+        "hasbro": ""
+      },
+      "cxComponentsAll": {
+        "chip": [],
+        "main": [],
+        "assist": [],
+        "over": [],
+        "metal": [],
+        "hasbro": []
+      },
+      "cxDisplayComponents": [],
+      "cxUnknownTokens": [
+        "ArPg"
+      ],
+      "isCx": false,
+      "isCxExpansion": false,
+      "videoId": "iqAR6f6sihQ",
+      "meta": {
+        "coat": "DodgerBlue"
+      },
+      "names": {
+        "eng": "Aero\\Pegasus 3-70 Accel",
+        "chi": "翔空\\天馬 空力\\天馬 3-70 A",
+        "jap": "エアロペガサス"
+      },
+      "formalName": "Aero\\Pegasus 3-70 Accel",
+      "formalAlias": "翔空\\天馬 空力\\天馬 3-70 A",
+      "searchTokens": [
+        "BX-53",
+        "ArPg 3-70 A",
+        "ArPg",
+        "Aero\\Pegasus 3-70 Accel",
+        "エアロペガサス",
+        "翔空\\天馬 空力\\天馬 3-70 A",
+        "BX-53-01",
+        "BX5301",
+        "BX53-01",
+        "BX53 01"
+      ],
+      "images": {
+        "blade": "https://go-shoot.github.io/x/img/blade/ArPg.png",
+        "bladeMain": null,
+        "ratchet": "https://go-shoot.github.io/x/img/ratchet/3-70.png",
+        "bit": "https://go-shoot.github.io/x/img/bit/A.png",
+        "cx": []
+      },
+      "isArMain": false,
+      "attributes": {
+        "blade": [
+          "att",
+          "right",
+          "mfb"
+        ],
+        "bladeMain": [],
+        "ratchet": [],
+        "bit": [
+          "att"
+        ]
+      },
+      "stats": {
+        "blade": 38.5,
+        "bladeRaw": [
+          38.5,
+          510
+        ],
+        "bladeMain": null,
+        "bladeMainRaw": [],
+        "ratchet": 6.5,
+        "ratchetRaw": [
+          6.5,
+          400
+        ],
+        "bit": 2.5,
+        "bitRaw": [
+          2.5,
+          16,
+          80,
+          122
+        ],
+        "bitMobility": 16
+      }
+    },
+    {
+      "id": "bey-5",
+      "code": "BX-53",
+      "variantCode": "BX-53-02",
+      "variantNo": "02",
+      "hasVariants": true,
+      "displayCode": "BX-53-02",
+      "normalizedVariantCode": "BX5302",
+      "normalizedCode": "BX53",
+      "line": "BX",
       "productType": "SS",
       "comboRaw": "WzAr2 4-80 B",
       "bladeCode": "WzAr2",
@@ -1105,10 +1211,10 @@
         "WzAr2",
         "WzAr2 4-80 Ball",
         "WzAr2 4-80 B",
-        "BX-53-01",
-        "BX5301",
-        "BX53-01",
-        "BX53 01"
+        "BX-53-02",
+        "BX5302",
+        "BX53-02",
+        "BX53 02"
       ],
       "images": {
         "blade": "https://go-shoot.github.io/x/img/blade/WzAr2.png",
@@ -1149,13 +1255,13 @@
       }
     },
     {
-      "id": "bey-5",
+      "id": "bey-6",
       "code": "BX-53",
-      "variantCode": "BX-53-02",
-      "variantNo": "02",
+      "variantCode": "BX-53-03",
+      "variantNo": "03",
       "hasVariants": true,
-      "displayCode": "BX-53-02",
-      "normalizedVariantCode": "BX5302",
+      "displayCode": "BX-53-03",
+      "normalizedVariantCode": "BX5303",
       "normalizedCode": "BX53",
       "line": "BX",
       "productType": "SS",
@@ -1203,10 +1309,10 @@
         "KnSh2",
         "KnSh2 3-80 Needle",
         "KnSh2 3-80 N",
-        "BX-53-02",
-        "BX5302",
-        "BX53-02",
-        "BX53 02"
+        "BX-53-03",
+        "BX5303",
+        "BX53-03",
+        "BX53 03"
       ],
       "images": {
         "blade": "https://go-shoot.github.io/x/img/blade/KnSh2.png",
@@ -1244,110 +1350,6 @@
           123
         ],
         "bitMobility": 12
-      }
-    },
-    {
-      "id": "bey-6",
-      "code": "BX-53",
-      "variantCode": "BX-53-03",
-      "variantNo": "03",
-      "hasVariants": true,
-      "displayCode": "BX-53-03",
-      "normalizedVariantCode": "BX5303",
-      "normalizedCode": "BX53",
-      "line": "BX",
-      "productType": "SS H",
-      "comboRaw": "ArPg 3-70 A",
-      "bladeCode": "ArPg",
-      "ratchetCode": "3-70",
-      "bitCode": "A",
-      "cxChipCode": "",
-      "cxMainCode": "",
-      "cxSuffixCode": "",
-      "cxComponents": {
-        "chip": "",
-        "main": "",
-        "assist": "",
-        "over": "",
-        "metal": "",
-        "hasbro": ""
-      },
-      "cxComponentsAll": {
-        "chip": [],
-        "main": [],
-        "assist": [],
-        "over": [],
-        "metal": [],
-        "hasbro": []
-      },
-      "cxDisplayComponents": [],
-      "cxUnknownTokens": [
-        "ArPg"
-      ],
-      "isCx": false,
-      "isCxExpansion": false,
-      "videoId": "[object Object]",
-      "meta": {},
-      "names": {
-        "eng": "Aero\\Pegasus 3-70 Accel",
-        "chi": "翔空\\天馬 空力\\天馬 3-70 A",
-        "jap": "エアロペガサス"
-      },
-      "formalName": "Aero\\Pegasus 3-70 Accel",
-      "formalAlias": "翔空\\天馬 空力\\天馬 3-70 A",
-      "searchTokens": [
-        "BX-53",
-        "ArPg 3-70 A",
-        "ArPg",
-        "Aero\\Pegasus 3-70 Accel",
-        "エアロペガサス",
-        "翔空\\天馬 空力\\天馬 3-70 A",
-        "BX-53-03",
-        "BX5303",
-        "BX53-03",
-        "BX53 03"
-      ],
-      "images": {
-        "blade": "https://go-shoot.github.io/x/img/blade/ArPg.png",
-        "bladeMain": null,
-        "ratchet": "https://go-shoot.github.io/x/img/ratchet/3-70.png",
-        "bit": "https://go-shoot.github.io/x/img/bit/A.png",
-        "cx": []
-      },
-      "isArMain": false,
-      "attributes": {
-        "blade": [
-          "att",
-          "right",
-          "mfb"
-        ],
-        "bladeMain": [],
-        "ratchet": [],
-        "bit": [
-          "att"
-        ]
-      },
-      "stats": {
-        "blade": 38.5,
-        "bladeRaw": [
-          38.5,
-          510
-        ],
-        "bladeMain": null,
-        "bladeMainRaw": [],
-        "ratchet": 6.5,
-        "ratchetRaw": [
-          6.5,
-          400
-        ],
-        "bit": 2.5,
-        "bitRaw": [
-          2.5,
-          16,
-          80,
-          122
-        ],
-        "bitMobility": 16
       }
     },
     {
@@ -1429,9 +1431,9 @@
         "bit": []
       },
       "stats": {
-        "blade": null,
+        "blade": 43,
         "bladeRaw": [
-          null
+          43
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
@@ -2484,8 +2486,8 @@
       "normalizedCode": "BXG70",
       "line": "BX",
       "productType": "S H",
-      "comboRaw": "Tg./.F./ / /",
-      "bladeCode": "Tg./.F./",
+      "comboRaw": "Tg./.F.T / /",
+      "bladeCode": "Tg./.F.T",
       "ratchetCode": "/",
       "bitCode": "/",
       "cxChipCode": "Tg",
@@ -2505,7 +2507,8 @@
         ],
         "main": [],
         "assist": [
-          "F"
+          "F",
+          "T"
         ],
         "over": [],
         "metal": [],
@@ -2520,13 +2523,18 @@
         },
         {
           "category": "assist",
-          "label": "輔助戰刃",
+          "label": "輔助戰刃 1",
           "code": "F",
           "image": "https://go-shoot.github.io/x/img/blade/CX/assist/F.png"
+        },
+        {
+          "category": "assist",
+          "label": "輔助戰刃 2",
+          "code": "T",
+          "image": "https://go-shoot.github.io/x/img/blade/CX/assist/T.png"
         }
       ],
       "cxUnknownTokens": [
-        "/",
         "/"
       ],
       "isCx": true,
@@ -2534,25 +2542,25 @@
       "videoId": null,
       "meta": {},
       "names": {
-        "eng": "Tg./.F./ / /",
-        "chi": "Tg./.F./ / /",
+        "eng": "Tg./.F.T / /",
+        "chi": "Tg./.F.T / /",
         "jap": ""
       },
-      "formalName": "Tg./.F./ / /",
-      "formalAlias": "Tg./.F./ / /",
+      "formalName": "Tg./.F.T / /",
+      "formalAlias": "Tg./.F.T / /",
       "searchTokens": [
         "BXG-70",
-        "Tg./.F./ / /",
-        "Tg./.F./",
-        "Tg./.F./ / /",
-        "Tg./.F./ / /",
+        "Tg./.F.T / /",
+        "Tg./.F.T",
+        "Tg./.F.T / /",
+        "Tg./.F.T / /",
         "BXG-70-02",
         "BXG7002",
         "BXG70-02",
         "BXG70 02"
       ],
       "images": {
-        "blade": "https://go-shoot.github.io/x/img/blade/Tg.%2F.F.%2F.png",
+        "blade": "https://go-shoot.github.io/x/img/blade/Tg.%2F.F.T.png",
         "bladeMain": "https://go-shoot.github.io/x/img/blade/CX/main/%2F.png",
         "ratchet": "https://go-shoot.github.io/x/img/ratchet/%2F.png",
         "bit": "https://go-shoot.github.io/x/img/bit/%2F.png",
@@ -2565,9 +2573,15 @@
           },
           {
             "category": "assist",
-            "label": "輔助戰刃",
+            "label": "輔助戰刃 1",
             "code": "F",
             "image": "https://go-shoot.github.io/x/img/blade/CX/assist/F.png"
+          },
+          {
+            "category": "assist",
+            "label": "輔助戰刃 2",
+            "code": "T",
+            "image": "https://go-shoot.github.io/x/img/blade/CX/assist/T.png"
           }
         ]
       },
@@ -34754,9 +34768,9 @@
           "mfb",
           "bbb"
         ],
-        "stat": null,
+        "stat": 43,
         "rawStat": [
-          null
+          43
         ],
         "desc": "金屬連接至中央能提高剛性；有擅長由低位置攻擊的偏重心兩枚刃剷起對手並強烈地撞飛的重量級左迴轉Blade。",
         "image": "https://go-shoot.github.io/x/img/blade/LsDg.png"

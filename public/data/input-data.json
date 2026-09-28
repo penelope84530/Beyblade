@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T02:47:30.671Z",
+  "generatedAt": "2026-09-28T02:53:26.805Z",
   "sources": {
     "forum1117": {
       "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1117",
@@ -401,6 +401,40 @@
       "variantNo": "01",
       "line": "BX",
       "names": {
+        "eng": "Aero\\Pegasus 3-70 Accel",
+        "chi": "翔空\\天馬 空力\\天馬 3-70 A",
+        "jap": "エアロペガサス"
+      },
+      "formalName": "Aero\\Pegasus 3-70 Accel",
+      "formalAlias": "翔空\\天馬 空力\\天馬 3-70 A",
+      "parts": {
+        "blade": "ArPg",
+        "ratchet": "3-70",
+        "bit": "A"
+      },
+      "tier": "NA",
+      "aliases": [
+        "BX-53",
+        "BX-53-01",
+        "BX53",
+        "BX5301",
+        "BX53 01",
+        "BX53-01",
+        "翔空\\天馬 空力\\天馬 3-70 A",
+        "Aero\\Pegasus 3-70 Accel",
+        "エアロペガサス",
+        "ArPg",
+        "3-70",
+        "A"
+      ]
+    },
+    {
+      "id": "bey-5",
+      "code": "BX-53",
+      "displayCode": "BX-53-02",
+      "variantNo": "02",
+      "line": "BX",
+      "names": {
         "eng": "WzAr2 4-80 Ball",
         "chi": "WzAr2 4-80 B",
         "jap": ""
@@ -415,11 +449,11 @@
       "tier": "NA",
       "aliases": [
         "BX-53",
-        "BX-53-01",
+        "BX-53-02",
         "BX53",
-        "BX5301",
-        "BX53 01",
-        "BX53-01",
+        "BX5302",
+        "BX53 02",
+        "BX53-02",
         "WzAr2 4-80 B",
         "WzAr2 4-80 Ball",
         "WzAr2",
@@ -428,10 +462,10 @@
       ]
     },
     {
-      "id": "bey-5",
+      "id": "bey-6",
       "code": "BX-53",
-      "displayCode": "BX-53-02",
-      "variantNo": "02",
+      "displayCode": "BX-53-03",
+      "variantNo": "03",
       "line": "BX",
       "names": {
         "eng": "KnSh2 3-80 Needle",
@@ -448,50 +482,16 @@
       "tier": "NA",
       "aliases": [
         "BX-53",
-        "BX-53-02",
-        "BX53",
-        "BX5302",
-        "BX53 02",
-        "BX53-02",
-        "KnSh2 3-80 N",
-        "KnSh2 3-80 Needle",
-        "KnSh2",
-        "3-80",
-        "N"
-      ]
-    },
-    {
-      "id": "bey-6",
-      "code": "BX-53",
-      "displayCode": "BX-53-03",
-      "variantNo": "03",
-      "line": "BX",
-      "names": {
-        "eng": "Aero\\Pegasus 3-70 Accel",
-        "chi": "翔空\\天馬 空力\\天馬 3-70 A",
-        "jap": "エアロペガサス"
-      },
-      "formalName": "Aero\\Pegasus 3-70 Accel",
-      "formalAlias": "翔空\\天馬 空力\\天馬 3-70 A",
-      "parts": {
-        "blade": "ArPg",
-        "ratchet": "3-70",
-        "bit": "A"
-      },
-      "tier": "NA",
-      "aliases": [
-        "BX-53",
         "BX-53-03",
         "BX53",
         "BX5303",
         "BX53 03",
         "BX53-03",
-        "翔空\\天馬 空力\\天馬 3-70 A",
-        "Aero\\Pegasus 3-70 Accel",
-        "エアロペガサス",
-        "ArPg",
-        "3-70",
-        "A"
+        "KnSh2 3-80 N",
+        "KnSh2 3-80 Needle",
+        "KnSh2",
+        "3-80",
+        "N"
       ]
     },
     {
@@ -791,14 +791,14 @@
       "variantNo": "02",
       "line": "BX",
       "names": {
-        "eng": "Tg./.F./ / /",
-        "chi": "Tg./.F./ / /",
+        "eng": "Tg./.F.T / /",
+        "chi": "Tg./.F.T / /",
         "jap": ""
       },
-      "formalName": "Tg./.F./ / /",
-      "formalAlias": "Tg./.F./ / /",
+      "formalName": "Tg./.F.T / /",
+      "formalAlias": "Tg./.F.T / /",
       "parts": {
-        "blade": "Tg./.F./",
+        "blade": "Tg./.F.T",
         "ratchet": "/",
         "bit": "/"
       },
@@ -810,8 +810,8 @@
         "BXG7002",
         "BXG70 02",
         "BXG70-02",
-        "Tg./.F./ / /",
-        "Tg./.F./",
+        "Tg./.F.T / /",
+        "Tg./.F.T",
         "/"
       ]
     },
