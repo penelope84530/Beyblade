@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T02:49:42.220Z",
+  "generatedAt": "2026-10-01T02:55:00.671Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 315,
@@ -15147,7 +15147,8 @@
       "stats": {
         "blade": 29.5,
         "bladeRaw": [
-          29.5
+          29.5,
+          478
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
@@ -35976,7 +35977,8 @@
         ],
         "stat": 29.5,
         "rawStat": [
-          29.5
+          29.5,
+          478
         ],
         "desc": "",
         "image": "https://go-shoot.github.io/x/img/blade/TrSp.png"
@@ -36092,7 +36094,8 @@
         ],
         "stat": 27.5,
         "rawStat": [
-          27.5
+          27.5,
+          480
         ],
         "desc": "(9-65S tent.)",
         "image": "https://go-shoot.github.io/x/img/blade/CrCl.png"
@@ -36112,7 +36115,8 @@
         ],
         "stat": 33,
         "rawStat": [
-          33
+          33,
+          484
         ],
         "desc": "(9-65GB tent.)",
         "image": "https://go-shoot.github.io/x/img/blade/HrSh.png"
@@ -36131,7 +36135,8 @@
         ],
         "stat": 36.5,
         "rawStat": [
-          36.5
+          36.5,
+          498
         ],
         "desc": "(3-85GP tent.)",
         "image": "https://go-shoot.github.io/x/img/blade/BtGs.png"
@@ -36151,7 +36156,8 @@
         ],
         "stat": 32.5,
         "rawStat": [
-          32.5
+          32.5,
+          450
         ],
         "desc": "(GB tent.)",
         "image": "https://go-shoot.github.io/x/img/blade/AgRm.png"
@@ -36171,7 +36177,8 @@
         ],
         "stat": 37.5,
         "rawStat": [
-          37.5
+          37.5,
+          490
         ],
         "desc": "(LF tent.)",
         "image": "https://go-shoot.github.io/x/img/blade/ShSr.png"
@@ -36190,7 +36197,8 @@
         ],
         "stat": 32.5,
         "rawStat": [
-          32.5
+          32.5,
+          480
         ],
         "desc": "(4-55O tent.)",
         "image": "https://go-shoot.github.io/x/img/blade/VkHc.png"
@@ -36209,7 +36217,8 @@
         ],
         "stat": 27.5,
         "rawStat": [
-          27.5
+          27.5,
+          484
         ],
         "desc": "(9-60GB tent.)",
         "image": "https://go-shoot.github.io/x/img/blade/MdSt.png"
@@ -36228,7 +36237,8 @@
         ],
         "stat": 31.5,
         "rawStat": [
-          31.5
+          31.5,
+          480
         ],
         "desc": "(3-60GB tent.)",
         "image": "https://go-shoot.github.io/x/img/blade/KnYl.png"
