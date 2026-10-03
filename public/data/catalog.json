@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T02:46:59.086Z",
+  "generatedAt": "2026-10-03T02:52:39.472Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 315,
@@ -1235,7 +1235,8 @@
       "stats": {
         "blade": 36,
         "bladeRaw": [
-          36
+          36,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
@@ -1333,7 +1334,8 @@
       "stats": {
         "blade": null,
         "bladeRaw": [
-          null
+          null,
+          480
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
@@ -1396,18 +1398,18 @@
       "meta": {},
       "names": {
         "eng": "Luster\\Dragoon 6-60 LC",
-        "chi": "LsDg 6-60 LC",
+        "chi": "輝耀\\青龍 6-60 LC",
         "jap": "ラスタードラグーン"
       },
       "formalName": "Luster\\Dragoon 6-60 LC",
-      "formalAlias": "LsDg 6-60 LC",
+      "formalAlias": "輝耀\\青龍 6-60 LC",
       "searchTokens": [
         "BX-52",
         "LsDg 6-60 LC",
         "LsDg",
         "Luster\\Dragoon 6-60 LC",
         "ラスタードラグーン",
-        "LsDg 6-60 LC"
+        "輝耀\\青龍 6-60 LC"
       ],
       "images": {
         "blade": "https://go-shoot.github.io/x/img/blade/LsDg.png",
@@ -34759,7 +34761,7 @@
         "names": {
           "jap": "ラスタードラグーン",
           "eng": "Luster\\Dragoon",
-          "chi": ""
+          "chi": "輝耀\\青龍"
         },
         "attr": [
           "att",
@@ -35649,6 +35651,22 @@
         "image": "https://go-shoot.github.io/x/img/blade/HlSc.png"
       },
       {
+        "code": "HlSc2",
+        "names": {
+          "jap": "",
+          "eng": "",
+          "chi": ""
+        },
+        "attr": [],
+        "stat": null,
+        "rawStat": [
+          null,
+          480
+        ],
+        "desc": "",
+        "image": "https://go-shoot.github.io/x/img/blade/HlSc2.png"
+      },
+      {
         "code": "WzAr",
         "names": {
           "jap": "ウィザードアロー",
@@ -35677,7 +35695,8 @@
         "attr": [],
         "stat": 36,
         "rawStat": [
-          36
+          36,
+          480
         ],
         "desc": "",
         "image": "https://go-shoot.github.io/x/img/blade/WzAr2.png"
@@ -35711,7 +35730,8 @@
         "attr": [],
         "stat": null,
         "rawStat": [
-          null
+          null,
+          480
         ],
         "desc": "",
         "image": "https://go-shoot.github.io/x/img/blade/KnSh2.png"
@@ -36041,10 +36061,10 @@
         "image": "https://go-shoot.github.io/x/img/blade/WyHv.png"
       },
       {
-        "code": "JgSz",
+        "code": "JgCl",
         "names": {
-          "jap": "",
-          "eng": "JaguarSeize",
+          "jap": "ジャガークラッチ",
+          "eng": "JaguarClutch",
           "chi": ""
         },
         "attr": [
@@ -36055,10 +36075,11 @@
         ],
         "stat": 39.5,
         "rawStat": [
-          39.5
+          39.5,
+          500
         ],
         "desc": "(HN tent.)",
-        "image": "https://go-shoot.github.io/x/img/blade/JgSz.png"
+        "image": "https://go-shoot.github.io/x/img/blade/JgCl.png"
       },
       {
         "code": "CyEy",
@@ -36075,7 +36096,8 @@
         ],
         "stat": 34.5,
         "rawStat": [
-          34.5
+          34.5,
+          490
         ],
         "desc": "(7-55FB tent.)",
         "image": "https://go-shoot.github.io/x/img/blade/CyEy.png"

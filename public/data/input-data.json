@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T02:47:01.252Z",
+  "generatedAt": "2026-10-03T02:52:41.652Z",
   "sources": {
     "forum1117": {
       "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1117",
@@ -82,6 +82,11 @@
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1071"
         },
         {
+          "snA": 1380,
+          "title": "【問題】你們拿到紅空力天馬了嗎？ 6／17第一波開放 我就在官方下訂單了 到現在都沒出貨 有人有收到貨嗎？",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1380"
+        },
+        {
           "snA": 1385,
           "title": "【問題】请问bx48-02的e轴是有下修了吗 据说水蓝e现在又变细细的了",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1385"
@@ -100,11 +105,6 @@
           "snA": 1382,
           "title": "【問題】請問陀螺上蓋極值去哪裡查呢? 請問大家重量極值哪裡可以查得到呢? 我看資料庫也都只有官方重量 一般的極值都是從YT影片 或是有人販賣得知原來有這麼重 有什麼表格或是資料庫 可以知道這顆陀螺是頂重或是寶",
           "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1382"
-        },
-        {
-          "snA": 1380,
-          "title": "【問題】你們拿到紅空力天馬了嗎？ 6／17第一波開放 我就在官方下訂單了 到現在都沒出貨 有人有收到貨嗎？",
-          "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1380"
         },
         {
           "snA": 1381,
@@ -502,11 +502,11 @@
       "line": "BX",
       "names": {
         "eng": "Luster\\Dragoon 6-60 LC",
-        "chi": "LsDg 6-60 LC",
+        "chi": "輝耀\\青龍 6-60 LC",
         "jap": "ラスタードラグーン"
       },
       "formalName": "Luster\\Dragoon 6-60 LC",
-      "formalAlias": "LsDg 6-60 LC",
+      "formalAlias": "輝耀\\青龍 6-60 LC",
       "parts": {
         "blade": "LsDg",
         "ratchet": "6-60",
@@ -519,7 +519,7 @@
         "BX5201",
         "BX52 01",
         "BX52-01",
-        "LsDg 6-60 LC",
+        "輝耀\\青龍 6-60 LC",
         "Luster\\Dragoon 6-60 LC",
         "ラスタードラグーン",
         "LsDg",
