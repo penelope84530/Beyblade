@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T02:57:17.733Z",
+  "generatedAt": "2026-10-06T02:49:10.605Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 316,
@@ -36776,9 +36776,9 @@
           "BX",
           "marvel"
         ],
-        "stat": null,
+        "stat": 34,
         "rawStat": [
-          null
+          34
         ],
         "desc": "9-65A",
         "image": "https://go-shoot.github.io/x/img/blade/Mist.png"
@@ -36796,9 +36796,9 @@
           "BX",
           "marvel"
         ],
-        "stat": null,
+        "stat": 32.5,
         "rawStat": [
-          null
+          32.5
         ],
         "desc": "0-80LO",
         "image": "https://go-shoot.github.io/x/img/blade/Doct.png"
