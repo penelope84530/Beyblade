@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T02:51:56.624Z",
+  "generatedAt": "2026-10-09T02:54:07.681Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 316,
@@ -826,13 +826,13 @@
     },
     {
       "id": "bey-2",
-      "code": "BXC-?2",
-      "variantCode": "BXC-?2",
+      "code": "BXC-21",
+      "variantCode": "BXC-21",
       "variantNo": "01",
       "hasVariants": false,
-      "displayCode": "BXC-?2",
-      "normalizedVariantCode": "BXC2",
-      "normalizedCode": "BXC2",
+      "displayCode": "BXC-21",
+      "normalizedVariantCode": "BXC21",
+      "normalizedCode": "BXC21",
       "line": "BX",
       "productType": "Lm H",
       "comboRaw": "Kd.Hn.K 4-70 TK",
@@ -897,7 +897,7 @@
       "formalName": "Kd.Hn.K 4-70 TK",
       "formalAlias": "狩獵 4-70 TK",
       "searchTokens": [
-        "BXC-?2",
+        "BXC-21",
         "Kd.Hn.K 4-70 TK",
         "Kd.Hn.K",
         "Kd.Hn.K 4-70 TK",
@@ -964,13 +964,13 @@
     },
     {
       "id": "bey-3",
-      "code": "BXG-?1",
-      "variantCode": "BXG-?1-01",
+      "code": "BXG-71",
+      "variantCode": "BXG-71-01",
       "variantNo": "01",
       "hasVariants": true,
-      "displayCode": "BXG-?1-01",
-      "normalizedVariantCode": "BXG101",
-      "normalizedCode": "BXG1",
+      "displayCode": "BXG-71-01",
+      "normalizedVariantCode": "BXG7101",
+      "normalizedCode": "BXG71",
       "line": "BX",
       "productType": "Lm H",
       "comboRaw": "BsBr = DB",
@@ -1012,16 +1012,16 @@
       "formalName": "BisonBurrow DB",
       "formalAlias": "BsBr DB",
       "searchTokens": [
-        "BXG-?1",
+        "BXG-71",
         "BsBr = DB",
         "BsBr",
         "BisonBurrow DB",
         "バイソンバロー",
         "BsBr DB",
-        "BXG-?1-01",
-        "BXG101",
-        "BXG1-01",
-        "BXG1 01"
+        "BXG-71-01",
+        "BXG7101",
+        "BXG71-01",
+        "BXG71 01"
       ],
       "images": {
         "blade": "https://go-shoot.github.io/x/img/blade/BsBr.png",
@@ -1044,7 +1044,8 @@
       "stats": {
         "blade": 41,
         "bladeRaw": [
-          41
+          41,
+          500
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
@@ -1057,13 +1058,13 @@
     },
     {
       "id": "bey-4",
-      "code": "BXG-?1",
-      "variantCode": "BXG-?1-02",
+      "code": "BXG-71",
+      "variantCode": "BXG-71-02",
       "variantNo": "02",
       "hasVariants": true,
-      "displayCode": "BXG-?1-02",
-      "normalizedVariantCode": "BXG102",
-      "normalizedCode": "BXG1",
+      "displayCode": "BXG-71-02",
+      "normalizedVariantCode": "BXG7102",
+      "normalizedCode": "BXG71",
       "line": "BX",
       "productType": "Lm H",
       "comboRaw": "BsBr = DB",
@@ -1105,16 +1106,16 @@
       "formalName": "BisonBurrow DB",
       "formalAlias": "BsBr DB",
       "searchTokens": [
-        "BXG-?1",
+        "BXG-71",
         "BsBr = DB",
         "BsBr",
         "BisonBurrow DB",
         "バイソンバロー",
         "BsBr DB",
-        "BXG-?1-02",
-        "BXG102",
-        "BXG1-02",
-        "BXG1 02"
+        "BXG-71-02",
+        "BXG7102",
+        "BXG71-02",
+        "BXG71 02"
       ],
       "images": {
         "blade": "https://go-shoot.github.io/x/img/blade/BsBr.png",
@@ -1137,7 +1138,8 @@
       "stats": {
         "blade": 41,
         "bladeRaw": [
-          41
+          41,
+          500
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
@@ -1533,7 +1535,8 @@
       "stats": {
         "blade": 43,
         "bladeRaw": [
-          43
+          43,
+          496
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
@@ -34871,9 +34874,10 @@
         ],
         "stat": 43,
         "rawStat": [
-          43
+          43,
+          496
         ],
-        "desc": "金屬連接至中央能提高剛性；有擅長由低位置攻擊的偏重心兩枚刃剷起對手並強烈地撞飛的重量級左迴轉Blade。",
+        "desc": "金屬連接至中央能提高剛性；配備擅長由低位置攻擊的偏重心兩枚刃以剷起對手並強烈地撞飛的重量級左迴轉Blade。",
         "image": "https://go-shoot.github.io/x/img/blade/LsDg.png"
       },
       {
@@ -34992,7 +34996,8 @@
         ],
         "stat": 41,
         "rawStat": [
-          41
+          41,
+          500
         ],
         "desc": "",
         "image": "https://go-shoot.github.io/x/img/blade/BsBr.png"
