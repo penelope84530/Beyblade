@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T02:55:33.495Z",
+  "generatedAt": "2026-10-12T03:03:12.215Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 322,
@@ -2049,9 +2049,9 @@
         ]
       },
       "stats": {
-        "blade": null,
+        "blade": 36.5,
         "bladeRaw": [
-          null,
+          36.5,
           480
         ],
         "bladeMain": null,
@@ -2162,14 +2162,12 @@
           6.5,
           400
         ],
-        "bit": null,
+        "bit": 2,
         "bitRaw": [
-          null,
-          null,
-          null,
+          2,
           113
         ],
-        "bitMobility": null
+        "bitMobility": 113
       }
     },
     {
@@ -36445,9 +36443,9 @@
           "chi": ""
         },
         "attr": [],
-        "stat": null,
+        "stat": 36.5,
         "rawStat": [
-          null,
+          36.5,
           480
         ],
         "desc": "",
@@ -38823,16 +38821,14 @@
           "chi": ""
         },
         "attr": [],
-        "stat": null,
+        "stat": 2,
         "rawStat": [
-          null,
-          null,
-          null,
+          2,
           113
         ],
         "desc": "",
         "group": "",
-        "mobility": null,
+        "mobility": 113,
         "image": "https://go-shoot.github.io/x/img/bit/LC.png"
       },
       {
