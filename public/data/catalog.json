@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T02:42:48.791Z",
+  "generatedAt": "2026-10-15T02:44:02.294Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 322,
@@ -35509,7 +35509,7 @@
         "rawStat": [
           40
         ],
-        "desc": "",
+        "desc": "金屬連接至中央能提高剛性；一併持有上段大型Upper刃的攻擊性能與下段Counter刃的防禦性能。",
         "image": "https://go-shoot.github.io/x/img/blade/SgSp.png"
       },
       {
@@ -39334,7 +39334,7 @@
           null,
           null
         ],
-        "desc": "",
+        "desc": "提高X Dash性能與防禦性能。",
         "group": "",
         "mobility": null,
         "image": "https://go-shoot.github.io/x/img/bit/LP.png"
@@ -39546,7 +39546,7 @@
         "attr": [],
         "stat": null,
         "rawStat": [],
-        "desc": "",
+        "desc": "兼備有重量的攻擊及堅韌的持久力。",
         "group": "",
         "mobility": null,
         "image": "https://go-shoot.github.io/x/img/bit/MT.png"
