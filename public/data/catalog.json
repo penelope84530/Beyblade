@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T02:52:19.035Z",
+  "generatedAt": "2026-10-23T02:45:51.917Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 323,
@@ -1387,18 +1387,18 @@
       "meta": {},
       "names": {
         "eng": "Sieg\\Superion 0-70 LP",
-        "chi": "SgSp 0-70 LP",
+        "chi": "凱旋\\超神 0-70 LP",
         "jap": "ジークスペリオン"
       },
       "formalName": "Sieg\\Superion 0-70 LP",
-      "formalAlias": "SgSp 0-70 LP",
+      "formalAlias": "凱旋\\超神 0-70 LP",
       "searchTokens": [
         "BX-54",
         "SgSp 0-70 LP",
         "SgSp",
         "Sieg\\Superion 0-70 LP",
         "ジークスペリオン",
-        "SgSp 0-70 LP"
+        "凱旋\\超神 0-70 LP"
       ],
       "images": {
         "blade": "https://go-shoot.github.io/x/img/blade/SgSp.png",
@@ -35638,7 +35638,7 @@
         "names": {
           "jap": "ジークスペリオン",
           "eng": "Sieg\\Superion",
-          "chi": ""
+          "chi": "凱旋\\超神"
         },
         "attr": [
           "bal",
@@ -35752,7 +35752,7 @@
           41,
           500
         ],
-        "desc": "",
+        "desc": "外側三處搭載滾輪，特化於卸開對手攻擊。",
         "image": "https://go-shoot.github.io/x/img/blade/BsBr.png"
       },
       {
