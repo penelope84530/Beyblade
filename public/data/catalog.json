@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T02:34:23.567Z",
+  "generatedAt": "2026-11-04T02:34:38.360Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 323,
@@ -862,12 +862,15 @@
         "bladeRaw": [],
         "bladeMain": null,
         "bladeMainRaw": [],
-        "ratchet": null,
+        "ratchet": 10.5,
         "ratchetRaw": [
+          10.5
+        ],
+        "bit": 3.5,
+        "bitRaw": [
+          3.5,
           null
         ],
-        "bit": null,
-        "bitRaw": [],
         "bitMobility": null
       }
     },
@@ -38769,9 +38772,9 @@
         "attr": [
           "simple"
         ],
-        "stat": null,
+        "stat": 10.5,
         "rawStat": [
-          null
+          10.5
         ],
         "desc": "金屬零件令重量增加。",
         "image": "https://go-shoot.github.io/x/img/ratchet/M-65.png"
@@ -39685,8 +39688,11 @@
           "chi": ""
         },
         "attr": [],
-        "stat": null,
-        "rawStat": [],
+        "stat": 3.5,
+        "rawStat": [
+          3.5,
+          null
+        ],
         "desc": "兼備有重量的攻擊及堅韌的持久力。",
         "group": "",
         "mobility": null,
