@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T02:34:31.191Z",
+  "generatedAt": "2026-11-06T02:34:37.531Z",
   "sources": {
     "forum1117": {
       "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1117",
@@ -324,16 +324,16 @@
       "variantNo": "02",
       "line": "CX",
       "names": {
-        "eng": "WizardRod 8-80 Kick",
-        "chi": "巫師幻杖 魔導神杖 8-80 K",
+        "eng": "WizardRod 8-80 HN",
+        "chi": "巫師幻杖 魔導神杖 8-80 HN",
         "jap": "ウィザードロッド"
       },
-      "formalName": "WizardRod 8-80 Kick",
-      "formalAlias": "巫師幻杖 魔導神杖 8-80 K",
+      "formalName": "WizardRod 8-80 HN",
+      "formalAlias": "巫師幻杖 魔導神杖 8-80 HN",
       "parts": {
         "blade": "WzRd",
         "ratchet": "8-80",
-        "bit": "K"
+        "bit": "HN"
       },
       "tier": "NA",
       "aliases": [
@@ -343,12 +343,12 @@
         "CX2002",
         "CX20 02",
         "CX20-02",
-        "巫師幻杖 魔導神杖 8-80 K",
-        "WizardRod 8-80 Kick",
+        "巫師幻杖 魔導神杖 8-80 HN",
+        "WizardRod 8-80 HN",
         "ウィザードロッド",
         "WzRd",
         "8-80",
-        "K"
+        "HN"
       ]
     },
     {
@@ -392,16 +392,16 @@
       "variantNo": "04",
       "line": "CX",
       "names": {
-        "eng": "HlSc2 / HN",
-        "chi": "HlSc2 / HN",
+        "eng": "HlSc2 / Kick",
+        "chi": "HlSc2 / K",
         "jap": ""
       },
-      "formalName": "HlSc2 / HN",
-      "formalAlias": "HlSc2 / HN",
+      "formalName": "HlSc2 / Kick",
+      "formalAlias": "HlSc2 / K",
       "parts": {
         "blade": "HlSc2",
         "ratchet": "/",
-        "bit": "HN"
+        "bit": "K"
       },
       "tier": "NA",
       "aliases": [
@@ -411,10 +411,11 @@
         "CX2004",
         "CX20 04",
         "CX20-04",
-        "HlSc2 / HN",
+        "HlSc2 / K",
+        "HlSc2 / Kick",
         "HlSc2",
         "/",
-        "HN"
+        "K"
       ]
     },
     {

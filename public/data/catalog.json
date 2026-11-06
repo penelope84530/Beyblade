@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T02:34:28.774Z",
+  "generatedAt": "2026-11-06T02:34:35.185Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 323,
@@ -864,7 +864,8 @@
         "bladeMainRaw": [],
         "ratchet": 10.5,
         "ratchetRaw": [
-          10.5
+          10.5,
+          420
         ],
         "bit": 3.5,
         "bitRaw": [
@@ -885,10 +886,10 @@
       "normalizedCode": "CX20",
       "line": "CX",
       "productType": "St H",
-      "comboRaw": "WzRd 8-80 K",
+      "comboRaw": "WzRd 8-80 HN",
       "bladeCode": "WzRd",
       "ratchetCode": "8-80",
-      "bitCode": "K",
+      "bitCode": "HN",
       "cxChipCode": "",
       "cxMainCode": "",
       "cxSuffixCode": "",
@@ -917,19 +918,19 @@
       "videoId": "[object Object]",
       "meta": {},
       "names": {
-        "eng": "WizardRod 8-80 Kick",
-        "chi": "巫師幻杖 魔導神杖 8-80 K",
+        "eng": "WizardRod 8-80 HN",
+        "chi": "巫師幻杖 魔導神杖 8-80 HN",
         "jap": "ウィザードロッド"
       },
-      "formalName": "WizardRod 8-80 Kick",
-      "formalAlias": "巫師幻杖 魔導神杖 8-80 K",
+      "formalName": "WizardRod 8-80 HN",
+      "formalAlias": "巫師幻杖 魔導神杖 8-80 HN",
       "searchTokens": [
         "CX-20",
-        "WzRd 8-80 K",
+        "WzRd 8-80 HN",
         "WzRd",
-        "WizardRod 8-80 Kick",
+        "WizardRod 8-80 HN",
         "ウィザードロッド",
-        "巫師幻杖 魔導神杖 8-80 K",
+        "巫師幻杖 魔導神杖 8-80 HN",
         "CX-20-02",
         "CX2002",
         "CX20-02",
@@ -939,7 +940,7 @@
         "blade": "https://go-shoot.github.io/x/img/blade/WzRd.png",
         "bladeMain": null,
         "ratchet": "https://go-shoot.github.io/x/img/ratchet/8-80.png",
-        "bit": "https://go-shoot.github.io/x/img/bit/K.png",
+        "bit": "https://go-shoot.github.io/x/img/bit/HN.png",
         "cx": []
       },
       "isArMain": false,
@@ -950,9 +951,7 @@
         ],
         "bladeMain": [],
         "ratchet": [],
-        "bit": [
-          "bal"
-        ]
+        "bit": []
       },
       "stats": {
         "blade": 35.5,
@@ -970,11 +969,9 @@
         "bit": 2.5,
         "bitRaw": [
           2.5,
-          12,
-          80,
-          125
+          133
         ],
-        "bitMobility": 12
+        "bitMobility": 133
       }
     },
     {
@@ -1087,10 +1084,10 @@
       "normalizedCode": "CX20",
       "line": "CX",
       "productType": "St",
-      "comboRaw": "HlSc2 / HN",
+      "comboRaw": "HlSc2 / K",
       "bladeCode": "HlSc2",
       "ratchetCode": "/",
-      "bitCode": "HN",
+      "bitCode": "K",
       "cxChipCode": "",
       "cxMainCode": "",
       "cxSuffixCode": "",
@@ -1119,18 +1116,18 @@
       "videoId": null,
       "meta": {},
       "names": {
-        "eng": "HlSc2 / HN",
-        "chi": "HlSc2 / HN",
+        "eng": "HlSc2 / Kick",
+        "chi": "HlSc2 / K",
         "jap": ""
       },
-      "formalName": "HlSc2 / HN",
-      "formalAlias": "HlSc2 / HN",
+      "formalName": "HlSc2 / Kick",
+      "formalAlias": "HlSc2 / K",
       "searchTokens": [
         "CX-20",
-        "HlSc2 / HN",
+        "HlSc2 / K",
         "HlSc2",
-        "HlSc2 / HN",
-        "HlSc2 / HN",
+        "HlSc2 / Kick",
+        "HlSc2 / K",
         "CX-20-04",
         "CX2004",
         "CX20-04",
@@ -1140,7 +1137,7 @@
         "blade": "https://go-shoot.github.io/x/img/blade/HlSc2.png",
         "bladeMain": null,
         "ratchet": "https://go-shoot.github.io/x/img/ratchet/%2F.png",
-        "bit": "https://go-shoot.github.io/x/img/bit/HN.png",
+        "bit": "https://go-shoot.github.io/x/img/bit/K.png",
         "cx": []
       },
       "isArMain": false,
@@ -1148,7 +1145,9 @@
         "blade": [],
         "bladeMain": [],
         "ratchet": [],
-        "bit": []
+        "bit": [
+          "bal"
+        ]
       },
       "stats": {
         "blade": null,
@@ -1163,9 +1162,11 @@
         "bit": 2.5,
         "bitRaw": [
           2.5,
-          133
+          12,
+          80,
+          125
         ],
-        "bitMobility": 133
+        "bitMobility": 12
       }
     },
     {
@@ -1425,7 +1426,8 @@
       "stats": {
         "blade": 40,
         "bladeRaw": [
-          40
+          40,
+          494
         ],
         "bladeMain": null,
         "bladeMainRaw": [],
@@ -35651,7 +35653,8 @@
         ],
         "stat": 40,
         "rawStat": [
-          40
+          40,
+          494
         ],
         "desc": "金屬連接至中央能提高剛性；一併持有上段大型Upper刃的攻擊性能與下段Counter刃的防禦性能。",
         "image": "https://go-shoot.github.io/x/img/blade/SgSp.png"
@@ -38774,7 +38777,8 @@
         ],
         "stat": 10.5,
         "rawStat": [
-          10.5
+          10.5,
+          420
         ],
         "desc": "金屬零件令重量增加。",
         "image": "https://go-shoot.github.io/x/img/ratchet/M-65.png"
