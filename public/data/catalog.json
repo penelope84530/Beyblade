@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T02:34:11.291Z",
+  "generatedAt": "2026-11-08T02:34:14.868Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 323,
@@ -1736,8 +1736,8 @@
       "normalizedCode": "BXG71",
       "line": "BX",
       "productType": "Lm H",
-      "comboRaw": "BsBr = DB",
-      "bladeCode": "BsBr",
+      "comboRaw": "BsVl = DB",
+      "bladeCode": "BsVl",
       "ratchetCode": "DB",
       "bitCode": "",
       "cxChipCode": "",
@@ -1761,33 +1761,33 @@
       },
       "cxDisplayComponents": [],
       "cxUnknownTokens": [
-        "BsBr"
+        "BsVl"
       ],
       "isCx": false,
       "isCxExpansion": false,
       "videoId": null,
       "meta": {},
       "names": {
-        "eng": "BisonBurrow DB",
-        "chi": "BsBr DB",
+        "eng": "BisonValor DB",
+        "chi": "野牛勇猛 野牛豪勇 DB",
         "jap": "バイソンバロー"
       },
-      "formalName": "BisonBurrow DB",
-      "formalAlias": "BsBr DB",
+      "formalName": "BisonValor DB",
+      "formalAlias": "野牛勇猛 野牛豪勇 DB",
       "searchTokens": [
         "BXG-71",
-        "BsBr = DB",
-        "BsBr",
-        "BisonBurrow DB",
+        "BsVl = DB",
+        "BsVl",
+        "BisonValor DB",
         "バイソンバロー",
-        "BsBr DB",
+        "野牛勇猛 野牛豪勇 DB",
         "BXG-71-01",
         "BXG7101",
         "BXG71-01",
         "BXG71 01"
       ],
       "images": {
-        "blade": "https://go-shoot.github.io/x/img/blade/BsBr.png",
+        "blade": "https://go-shoot.github.io/x/img/blade/BsVl.png",
         "bladeMain": null,
         "ratchet": "https://go-shoot.github.io/x/img/ratchet/DB.png",
         "bit": null,
@@ -1830,8 +1830,8 @@
       "normalizedCode": "BXG71",
       "line": "BX",
       "productType": "Lm H",
-      "comboRaw": "BsBr = DB",
-      "bladeCode": "BsBr",
+      "comboRaw": "BsVl = DB",
+      "bladeCode": "BsVl",
       "ratchetCode": "DB",
       "bitCode": "",
       "cxChipCode": "",
@@ -1855,33 +1855,33 @@
       },
       "cxDisplayComponents": [],
       "cxUnknownTokens": [
-        "BsBr"
+        "BsVl"
       ],
       "isCx": false,
       "isCxExpansion": false,
       "videoId": "[object Object]",
       "meta": {},
       "names": {
-        "eng": "BisonBurrow DB",
-        "chi": "BsBr DB",
+        "eng": "BisonValor DB",
+        "chi": "野牛勇猛 野牛豪勇 DB",
         "jap": "バイソンバロー"
       },
-      "formalName": "BisonBurrow DB",
-      "formalAlias": "BsBr DB",
+      "formalName": "BisonValor DB",
+      "formalAlias": "野牛勇猛 野牛豪勇 DB",
       "searchTokens": [
         "BXG-71",
-        "BsBr = DB",
-        "BsBr",
-        "BisonBurrow DB",
+        "BsVl = DB",
+        "BsVl",
+        "BisonValor DB",
         "バイソンバロー",
-        "BsBr DB",
+        "野牛勇猛 野牛豪勇 DB",
         "BXG-71-02",
         "BXG7102",
         "BXG71-02",
         "BXG71 02"
       ],
       "images": {
-        "blade": "https://go-shoot.github.io/x/img/blade/BsBr.png",
+        "blade": "https://go-shoot.github.io/x/img/blade/BsVl.png",
         "bladeMain": null,
         "ratchet": "https://go-shoot.github.io/x/img/ratchet/DB.png",
         "bit": null,
@@ -35742,11 +35742,11 @@
         "image": "https://go-shoot.github.io/x/img/blade/DrSt.png"
       },
       {
-        "code": "BsBr",
+        "code": "BsVl",
         "names": {
           "jap": "バイソンバロー",
-          "eng": "BisonBurrow",
-          "chi": ""
+          "eng": "BisonValor",
+          "chi": "野牛勇猛 野牛豪勇"
         },
         "attr": [
           "sta",
@@ -35759,7 +35759,7 @@
           500
         ],
         "desc": "外側三處搭載滾輪，特化於卸開對手攻擊。",
-        "image": "https://go-shoot.github.io/x/img/blade/BsBr.png"
+        "image": "https://go-shoot.github.io/x/img/blade/BsVl.png"
       },
       {
         "code": "BlGr",
