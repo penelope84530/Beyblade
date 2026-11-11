@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T02:33:51.843Z",
+  "generatedAt": "2026-11-11T02:34:38.013Z",
   "sources": {
     "forum1117": {
       "url": "https://forum.gamer.com.tw/C.php?bsn=2696&snA=1117",
@@ -488,11 +488,11 @@
       "line": "BX",
       "names": {
         "eng": "Sieg\\Superion 0-70 LP",
-        "chi": "凱旋\\超神 0-70 LP",
+        "chi": "凱旋\\超神 凱旋\\極神 0-70 LP",
         "jap": "ジークスペリオン"
       },
       "formalName": "Sieg\\Superion 0-70 LP",
-      "formalAlias": "凱旋\\超神 0-70 LP",
+      "formalAlias": "凱旋\\超神 凱旋\\極神 0-70 LP",
       "parts": {
         "blade": "SgSp",
         "ratchet": "0-70",
@@ -505,7 +505,7 @@
         "BX5401",
         "BX54 01",
         "BX54-01",
-        "凱旋\\超神 0-70 LP",
+        "凱旋\\超神 凱旋\\極神 0-70 LP",
         "Sieg\\Superion 0-70 LP",
         "ジークスペリオン",
         "SgSp",

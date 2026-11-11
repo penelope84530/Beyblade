@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T02:33:49.733Z",
+  "generatedAt": "2026-11-11T02:34:35.234Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 323,
@@ -1150,9 +1150,9 @@
         ]
       },
       "stats": {
-        "blade": null,
+        "blade": 36,
         "bladeRaw": [
-          null,
+          36,
           480
         ],
         "bladeMain": null,
@@ -1391,18 +1391,18 @@
       "meta": {},
       "names": {
         "eng": "Sieg\\Superion 0-70 LP",
-        "chi": "凱旋\\超神 0-70 LP",
+        "chi": "凱旋\\超神 凱旋\\極神 0-70 LP",
         "jap": "ジークスペリオン"
       },
       "formalName": "Sieg\\Superion 0-70 LP",
-      "formalAlias": "凱旋\\超神 0-70 LP",
+      "formalAlias": "凱旋\\超神 凱旋\\極神 0-70 LP",
       "searchTokens": [
         "BX-54",
         "SgSp 0-70 LP",
         "SgSp",
         "Sieg\\Superion 0-70 LP",
         "ジークスペリオン",
-        "凱旋\\超神 0-70 LP"
+        "凱旋\\超神 凱旋\\極神 0-70 LP"
       ],
       "images": {
         "blade": "https://go-shoot.github.io/x/img/blade/SgSp.png",
@@ -1765,7 +1765,7 @@
       ],
       "isCx": false,
       "isCxExpansion": false,
-      "videoId": null,
+      "videoId": "[object Object]",
       "meta": {},
       "names": {
         "eng": "BisonValor DB",
@@ -35643,7 +35643,7 @@
         "names": {
           "jap": "ジークスペリオン",
           "eng": "Sieg\\Superion",
-          "chi": "凱旋\\超神"
+          "chi": "凱旋\\超神 凱旋\\極神"
         },
         "attr": [
           "bal",
@@ -36520,9 +36520,9 @@
           "chi": ""
         },
         "attr": [],
-        "stat": null,
+        "stat": 36,
         "rawStat": [
-          null,
+          36,
           480
         ],
         "desc": "",
