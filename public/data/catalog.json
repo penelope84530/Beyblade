@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T02:34:23.150Z",
+  "generatedAt": "2026-11-21T02:34:04.920Z",
   "source": "https://go-shoot.github.io/x/products/?blade.CX.main=Ar",
   "summary": {
     "total": 334,
@@ -2599,7 +2599,7 @@
       ],
       "isCx": false,
       "isCxExpansion": false,
-      "videoId": null,
+      "videoId": "PA1FIf_2CIE",
       "meta": {},
       "names": {
         "eng": "Sieg\\Superion 0-70 LP",
@@ -2648,14 +2648,12 @@
           7,
           410
         ],
-        "bit": null,
+        "bit": 2,
         "bitRaw": [
-          null,
-          null,
-          null,
-          null
+          2,
+          114
         ],
-        "bitMobility": null
+        "bitMobility": 114
       }
     },
     {
@@ -2977,7 +2975,7 @@
       ],
       "isCx": false,
       "isCxExpansion": false,
-      "videoId": "[object Object]",
+      "videoId": null,
       "meta": {},
       "names": {
         "eng": "BisonValor DB",
@@ -40724,16 +40722,14 @@
           "chi": ""
         },
         "attr": [],
-        "stat": null,
+        "stat": 2,
         "rawStat": [
-          null,
-          null,
-          null,
-          null
+          2,
+          114
         ],
         "desc": "提高X Dash性能與防禦性能。",
         "group": "",
-        "mobility": null,
+        "mobility": 114,
         "image": "https://go-shoot.github.io/x/img/bit/LP.png"
       },
       {
